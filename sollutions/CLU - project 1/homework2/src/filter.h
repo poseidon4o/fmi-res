@@ -14,6 +14,10 @@ class Filter {
 public:
     Filter(const char *, Filter &);
     Filter(const char *, istream &);
+
+    Filter(const Filter &);
+    Filter operator=(const Filter &);
+
     ~Filter();
 
     void set_word(const char *);
@@ -25,6 +29,7 @@ public:
     void next_line(char *&);
 
 private:
+    void copy(const Filter &);
     void next_filter_line(char *&);
     void next_stream_line(char *&);
 };

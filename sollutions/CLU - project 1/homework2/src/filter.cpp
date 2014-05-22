@@ -17,6 +17,29 @@ Filter::Filter(const char * word, istream & src)
     set_source(src);
 }
 
+Filter::Filter(const Filter & other)
+    :word(NULL), s_source(NULL), f_source(NULL)
+{
+    copy(other);
+}
+
+Filter Filter::operator=(const Filter & other) {
+    if(this == &other) {
+        return *this;
+    }
+    copy(other);
+    return *this;
+}
+
+void Filter::copy(const Filter & other) {
+    set_word(other.word);
+    if(other.source_type == FILTER) {
+        set_source(*other.f_source);
+    } else {
+        set_source(*other.s_source);
+    }
+}
+
 Filter::~Filter() {
     delete[] word;
 }
