@@ -1,21 +1,17 @@
 #include "filter.h"
+#include "filter_chain.h"
 #include <fstream>
 
 using namespace std;
 
 int main() {
-    ifstream inp("test.txt", ios::in);
-    Filter filter("random", inp);
-    char * line;
+    ifstream file("test.txt");
 
-    do {
-        filter.next_line(line);
-        if(line) {
-            cout << line << endl;
-        }
-        delete[] line;
-    } while(line);
+    FilterChain chain(file, cout);
+    chain.add_filter("eight");
+    chain.add_filter("nine");
+    chain.add_filter("seven");
 
-    inp.close();
+    chain.filter();
     return 0;
 }
