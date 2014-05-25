@@ -148,7 +148,10 @@ void Filter::unserialize_from(ifstream & save) {
         set_word(NULL);
         return;
     }
-
+    save.read(buff, len);
+    buff[len] = '\0';
+    set_word(buff);
+    delete[] buff;
 }
 
 void Filter::serialize_to(ofstream & save) {

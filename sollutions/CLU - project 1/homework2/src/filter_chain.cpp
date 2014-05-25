@@ -82,7 +82,7 @@ void FilterChain::serialize(const char * file_name) {
 }
 
 void FilterChain::serialize_to(ofstream & save) {
-    save.write((char*)&size, sizeof(&size));
+    save.write((char*)&size, sizeof(size));
     for(size_t c = 0; c < size; ++c) {
         filters[c]->serialize_to(save);
     }
@@ -103,8 +103,8 @@ void FilterChain::unserialize_from(ifstream & save) {
     for(size_t c = 0; c < size; ++c) {
         filters[c] = new(nothrow) Filter();
         if(!filters[c]) {
-            --c;
-            --size;
+            free();
+            return;
         }
         filters[c]->unserialize_from(save);
     }
@@ -125,10 +125,12 @@ void FilterChain::free() {
         delete filters[c];
     }
     delete[] filters;
+    size = capacity = 0;
 }
 
 void FilterChain::grow() {
     Filter ** grown = new Filter*[capacity *= 2];
+    memset(grown, 0, sizeof(Filter*) * capacity);
     memcpy(grown, filters, size * sizeof(Filter*));
     delete[] filters;
     filters = grown;
