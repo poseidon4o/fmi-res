@@ -1,45 +1,105 @@
 #include "filter.h"
 #include "filter_chain.h"
 #include <fstream>
+#include <cstring>
 
 using namespace std;
 
-int main() {
-    const char * file_name = "numbers.txt";
+bool prompt_user(const char *);
+char * read_line(const char *);
 
-    ifstream file(file_name);
-    if(!file) {
-        cerr << "Failed to open file!";
-        return -1;
+int main(int argc, char * argv[]) {
+    istream * input = NULL;
+    ostream * output = NULL;
+
+    ifstream input_file;
+    ofstream output_file;
+    if(argc == 2 || argc == 3) {
+        input_file.open(argv[1], ios::in);
+        if(!input_file.is_open()) {
+            cerr << "Can't open input file [" << argv[1] << "]\nError: " << strerror(errno);
+            return -1;
+        }
+        input = &input_file;
+
+        if(argc == 3) {
+            output_file.open(argv[2]);
+            if(!output_file.is_open()) {
+                cerr << "Can't open output file [" << argv[2] << "]\nError: " << strerror(errno);
+                return -1;
+            }
+            output = &output_file;
+        } else {
+            output = &cout;
+        }
+    } else {
+        input = &cin;
     }
 
-    FilterChain chain(file, cout);
+    FilterChain chain(*input, *output);
 
-    Filter seven("seven");
+    if(prompt_user("Add filters? Y/N: ")) {
+        do {
+            char * line = read_line("Enter filter word: ");
+            chain.add_filter(line);
+            delete[] line;
+        } while(prompt_user("Add more filters? Y/N: "));
+    }
 
-    ofstream serialized_file("seven.dat", ios::binary);
-    seven.serialize(serialized_file);
-    serialized_file.flush();
-    serialized_file.close();
+    if(prompt_user("Serialize created chain? Y/N: ")) {
+        char * name = read_line("Enter output name: ");
+        chain.serialize(name ? name : "filter-chain.dat");
+        delete[] name;
+    }
 
-    ifstream unserialize_file("seven.dat", ios::binary);
-    Filter seven_new(Filter::unserialize(unserialize_file));
-    unserialize_file.close();
+    if(prompt_user("Load chain from file? Y/N: ")) {
+        char * name = read_line("Enter file name: ");
+        chain = FilterChain::unserialize(name ? name : "filter-chain.dat", *input, *output);
+        delete[] name;
+    }
 
-    chain.add_filter(seven_new);
     chain.filter();
 
-    chain.serialize("chain.dat");
-    file.close();
-
-    cout << "\n--------------------------\n";
-
-    ifstream new_file(file_name);
-    if(!new_file) {
-        cerr << "Can't reopen file";
-        return -1;
-    }
-    FilterChain fc(FilterChain::unserialize("chain.dat", new_file, cout));
-    fc.filter();
     return 0;
+}
+
+
+bool prompt_user(const char * prompt) {
+    cout << prompt;
+    char buff[64];
+    cin >> buff;
+    return !strcmp(buff, "Y") || !strcmp(buff, "y");
+}
+
+char * read_line(const char * message) {
+    cin.sync();
+    cin.clear();
+    cout << message;
+
+    int length = 64;
+    char * line = new(nothrow) char[length];
+    if(!line) {
+        return line;
+    }
+    memset(line, 0, length);
+
+    int chunk = length;
+    char buff[chunk];
+    do {
+        cin.clear();
+        cin.getline(buff, chunk);
+        if(strlen(line) + strlen(buff) > length) {
+            char * repl = new(nothrow) char[length *= 2];
+            if(!repl) {
+                delete[] line;
+                return NULL;
+            }
+            strcpy(repl, line);
+            delete[] line;
+            line = repl;
+        }
+        strcat(line, buff);
+    } while(cin.gcount() == chunk - 1);
+
+    return line;
 }

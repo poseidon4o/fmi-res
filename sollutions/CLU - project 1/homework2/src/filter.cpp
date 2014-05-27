@@ -126,6 +126,8 @@ void Filter::next_stream_line(char *& line) {
             }
 
             strcpy(tmp, line);
+            delete[] line;
+            line = tmp;
         }
         strcat(line, buff);
     } while(s_source->gcount() == CHUNK-1);
