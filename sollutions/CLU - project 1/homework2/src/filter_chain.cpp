@@ -104,3 +104,35 @@ void FilterChain::grow() {
 bool FilterChain::has_space() {
     return size < capacity;
 }
+
+
+FilterChain FilterChain::unserialize(const char * file_name, istream & input, ostream & output) {
+    FilterChain chain(input, output);
+
+    ifstream file(file_name, ios::binary);
+    if(!file) {
+        return chain;
+    }
+
+    int size = 0;
+    file.read((char*)&size, sizeof(size));
+
+    for(int c = 0; c < size; ++c) {
+        chain.add_filter(Filter::unserialize(file));
+    }
+    file.close();
+
+    return chain;
+}
+void FilterChain::serialize(const char * file_name) {
+    ofstream file(file_name, ios::binary);
+    if(!file) {
+        return;
+    }
+
+    file.write((char*)&size, sizeof(size));
+    for(int c = 0; c < size; ++c) {
+        filters[c]->serialize(file);
+    }
+    file.close();
+}

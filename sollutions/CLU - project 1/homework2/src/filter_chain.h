@@ -16,6 +16,9 @@ public:
 
     ~FilterChain();
 
+    static FilterChain unserialize(const char *, istream &, ostream &);
+    void serialize(const char *);
+
     void add_filter(const Filter &);
     void pop_filter();
     void remove_filter_word(const char *);

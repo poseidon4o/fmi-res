@@ -27,8 +27,19 @@ int main() {
     unserialize_file.close();
 
     chain.add_filter(seven_new);
-
     chain.filter();
 
+    chain.serialize("chain.dat");
+    file.close();
+
+    cout << "\n--------------------------\n";
+
+    ifstream new_file(file_name);
+    if(!new_file) {
+        cerr << "Can't reopen file";
+        return -1;
+    }
+    FilterChain fc(FilterChain::unserialize("chain.dat", new_file, cout));
+    fc.filter();
     return 0;
 }
