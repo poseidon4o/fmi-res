@@ -15,30 +15,20 @@ int main() {
 
     FilterChain chain(file, cout);
 
-    chain.add_filter("eight"); // implicit
-    chain.add_filter("three");
-    chain.add_filter(Filter("seven")); // explicit
+    Filter seven("seven");
+
+    ofstream serialized_file("seven.dat", ios::binary);
+    seven.serialize(serialized_file);
+    serialized_file.flush();
+    serialized_file.close();
+
+    ifstream unserialize_file("seven.dat", ios::binary);
+    Filter seven_new(Filter::unserialize(unserialize_file));
+    unserialize_file.close();
+
+    chain.add_filter(seven_new);
 
     chain.filter();
-
-    chain.serialize("chain.dat");
-
-
-    file.close();
-    file.clear();
-    file.open(file_name);
-    if(!file) {
-        cerr << "Failed to reopen file";
-        return -1;
-    }
-
-    cout << "\n-----------------------------------------\n";
-
-    FilterChain loaded(file, cout);
-
-    loaded.unserialize("chain.dat");
-    loaded.filter();
-
 
     return 0;
 }

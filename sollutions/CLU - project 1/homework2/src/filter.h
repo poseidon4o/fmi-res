@@ -21,6 +21,9 @@ public:
 
     ~Filter();
 
+    static Filter unserialize(ifstream &);
+    void serialize(ofstream &);
+
     void set_word(const char *);
     const char * get_word() const;
 
@@ -28,10 +31,6 @@ public:
     void set_source(istream &);
 
     void next_line(char *&);
-
-    void unserialize_from(ifstream &);
-    void serialize_to(ofstream &);
-
 private:
     void copy(const Filter &);
     void next_filter_line(char *&);

@@ -139,23 +139,25 @@ void Filter::next_stream_line(char *& line) {
     }
 }
 
-void Filter::unserialize_from(ifstream & save) {
-    int len;
-    save.read((char*)&len, sizeof(len));
-    char * buff = new(nothrow) char[len+1];
-    if(!buff) {
-        save.seekg(len, ios::cur);
-        set_word(NULL);
-        return;
-    }
-    save.read(buff, len);
-    buff[len] = '\0';
-    set_word(buff);
-    delete[] buff;
+void Filter::serialize(ofstream & file) {
+    int word_len = strlen(word);
+    file.write((char*)&word_len, sizeof(word_len));
+    file.write(word, word_len);
 }
 
-void Filter::serialize_to(ofstream & save) {
-    int len = strlen(word);
-    save.write((char*)&len, sizeof(len));
-    save.write(word, len);
+Filter Filter::unserialize(ifstream & file) {
+    int word_len = 0;
+    file.read((char*)&word_len, sizeof(word_len));
+    if(!word_len) {
+        return Filter();
+    }
+
+    char * buff = new char[word_len+1];
+    memset(buff, 0, word_len+1);
+
+    file.read(buff, word_len);
+    Filter deserialized(buff);
+
+    delete[] buff;
+    return deserialized;
 }

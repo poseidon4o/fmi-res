@@ -21,13 +21,6 @@ public:
     void remove_filter_word(const char *);
 
     void filter();
-
-    void serialize(const char *);
-    void unserialize(const char *);
-
-    void serialize_to(ofstream &);
-    void unserialize_from(ifstream &);
-
 private:
     void reconnect();
 

@@ -75,41 +75,6 @@ void FilterChain::filter() {
     }
 }
 
-void FilterChain::serialize(const char * file_name) {
-    ofstream save(file_name, ios::binary | ios::trunc);
-    serialize_to(save);
-    save.close();
-}
-
-void FilterChain::serialize_to(ofstream & save) {
-    save.write((char*)&size, sizeof(size));
-    for(size_t c = 0; c < size; ++c) {
-        filters[c]->serialize_to(save);
-    }
-}
-
-void FilterChain::unserialize(const char * file_name) {
-    ifstream save(file_name, ios::binary);
-    unserialize_from(save);
-    save.close();
-}
-
-void FilterChain::unserialize_from(ifstream & save) {
-    free();
-    save.read((char*)&size, sizeof(size));
-    capacity = size/2 + 1;
-    grow();
-
-    for(size_t c = 0; c < size; ++c) {
-        filters[c] = new(nothrow) Filter();
-        if(!filters[c]) {
-            free();
-            return;
-        }
-        filters[c]->unserialize_from(save);
-    }
-}
-
 void FilterChain::copy(const FilterChain & other) {
     size = other.size;
     capacity = other.capacity;
