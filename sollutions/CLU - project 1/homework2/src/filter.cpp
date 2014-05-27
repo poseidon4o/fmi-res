@@ -29,7 +29,7 @@ Filter::Filter(const Filter & other)
     copy(other);
 }
 
-Filter Filter::operator=(const Filter & other) {
+Filter & Filter::operator=(const Filter & other) {
     if(this == &other) {
         return *this;
     }
@@ -61,6 +61,8 @@ const char * Filter::get_word() const {
 void Filter::set_word(const char * word) {
     delete[] this->word;
     this->word = NULL;
+
+    // if NULL is passed - clear current word
     if(word) {
         this->word = new(nothrow) char[strlen(word)+1];
         if(!this->word) {
@@ -90,17 +92,20 @@ void Filter::next_line(char *& line) {
     } else if(source_type == STREAM) {
         next_stream_line(line);
     } else {
+        // in case Filter is not initialized properly just return NULL
         line = NULL;
     }
 }
 
 void Filter::next_filter_line(char *& line) {
+    // get next line from source Filter until it passes current Filter check
     do {
         f_source->next_line(line);
     } while(line && !strstr(line, word));
 }
 
 void Filter::next_stream_line(char *& line) {
+    // if EOF -> go back up the chain
     if(s_source->eof()) {
         line = NULL;
         return;
@@ -114,10 +119,12 @@ void Filter::next_stream_line(char *& line) {
     line[0] = '\0';
 
     char buff[CHUNK];
+    // will read data in chunks with size CHUNK untill read size is less than CHUNK
     do {
         s_source->clear();
         s_source->getline(buff, CHUNK);
         if(strlen(line) + s_source->gcount() > line_len) {
+            // reallocate if needed
             char * tmp = new(nothrow) char[line_len *= 2];
             if(!tmp) {
                 delete[] line;
@@ -129,12 +136,14 @@ void Filter::next_stream_line(char *& line) {
             delete[] line;
             line = tmp;
         }
-        strcat(line, buff);
+        strcat(line, buff); // concat chunk and continue
     } while(s_source->gcount() == CHUNK-1);
 
     if(word && strstr(line, word)) {
+        // line passes current filter - return
         return;
     } else {
+        // line doesnt pass current filter - clear and call again
         delete[] line;
         line = NULL;
         next_stream_line(line);
@@ -142,19 +151,27 @@ void Filter::next_stream_line(char *& line) {
 }
 
 void Filter::serialize(ofstream & file) {
+    // write int word len and word without '\0' char
     int word_len = strlen(word);
     file.write((char*)&word_len, sizeof(word_len));
     file.write(word, word_len);
 }
 
-Filter Filter::unserialize(ifstream & file) {
+Filter Filter::deserialize(ifstream & file) {
     int word_len = 0;
+
+    // read word length
     file.read((char*)&word_len, sizeof(word_len));
     if(!word_len) {
+        // if word is of 0 length return
         return Filter();
     }
 
-    char * buff = new char[word_len+1];
+    char * buff = new(nothrow) char[word_len+1];
+    if(!buff) {
+        file.seekg(-sizeof(word_len), ios::cur); // attempt to fix stream so next filter can attempt reading this
+        return Filter();
+    }
     memset(buff, 0, word_len+1);
 
     file.read(buff, word_len);

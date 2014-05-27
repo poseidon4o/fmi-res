@@ -13,7 +13,7 @@ FilterChain::FilterChain(const FilterChain & other)
     copy(other);
 }
 
-FilterChain FilterChain::operator=(const FilterChain & other) {
+FilterChain & FilterChain::operator=(const FilterChain & other) {
     if(this == &other) {
         return *this;
     }
@@ -27,14 +27,17 @@ FilterChain::~FilterChain() {
 }
 
 void FilterChain::add_filter(const Filter & filter) {
+    // if full - grow
     if(!has_space()) {
         grow();
     }
+    // attempt to make local copy - else revert
     filters[size++] = new(nothrow) Filter(filter);
     if(!filters[size-1]) {
         --size;
     }
 }
+
 void FilterChain::pop_filter() {
     if(size) {
         delete filters[size--];
@@ -42,6 +45,8 @@ void FilterChain::pop_filter() {
 }
 
 void FilterChain::remove_filter_word(const char * word) {
+    // find each matching filter and swap with last, then delete last
+    // this is ok because the order of the filters doesn't affect the output
     for(size_t c = 0; c < size; ++c) {
         if(!strcmp(word, filters[c]->get_word())) {
             swap(filters[c], filters[--size]);
@@ -51,6 +56,8 @@ void FilterChain::remove_filter_word(const char * word) {
 }
 
 void FilterChain::reconnect() {
+    // this will connect first filter to input source
+    // and every other to the one before it
     if(size) {
         filters[0]->set_source(*input);
         for(size_t c = size-1; c > 0; --c) {
@@ -60,9 +67,14 @@ void FilterChain::reconnect() {
 }
 
 void FilterChain::filter() {
+    // always reconnect before actual filtering
+    // this allows not to keep track when adding/remove filters
     reconnect();
+
     if(size) {
         char * line = NULL;
+
+        // reference to last filter - the one we pull lines from
         Filter & last = *filters[size-1];
         do {
             delete[] line;
@@ -70,7 +82,8 @@ void FilterChain::filter() {
             if(line) {
                 (*output) << line << endl;
             }
-        } while(line);
+        } while(line); // keep getting lines untill there are lines
+
         delete[] line;
     }
 }
@@ -95,7 +108,11 @@ void FilterChain::free() {
 
 void FilterChain::grow() {
     Filter ** grown = new Filter*[capacity *= 2];
+
+    // zero newly allocated memory just in case
     memset(grown, 0, sizeof(Filter*) * capacity);
+
+    // copy current pointers to new memory
     memcpy(grown, filters, size * sizeof(Filter*));
     delete[] filters;
     filters = grown;
@@ -105,8 +122,7 @@ bool FilterChain::has_space() {
     return size < capacity;
 }
 
-
-FilterChain FilterChain::unserialize(const char * file_name, istream & input, ostream & output) {
+FilterChain FilterChain::deserialize(const char * file_name, istream & input, ostream & output) {
     FilterChain chain(input, output);
 
     ifstream file(file_name, ios::binary);
@@ -114,22 +130,26 @@ FilterChain FilterChain::unserialize(const char * file_name, istream & input, os
         return chain;
     }
 
+    // read filter count and the deserialize each one adding it
+
     int size = 0;
     file.read((char*)&size, sizeof(size));
 
     for(int c = 0; c < size; ++c) {
-        chain.add_filter(Filter::unserialize(file));
+        chain.add_filter(Filter::deserialize(file));
     }
     file.close();
 
     return chain;
 }
+
 void FilterChain::serialize(const char * file_name) {
     ofstream file(file_name, ios::binary);
     if(!file) {
         return;
     }
 
+    // write filter count and the serialize each of them
     file.write((char*)&size, sizeof(size));
     for(int c = 0; c < size; ++c) {
         filters[c]->serialize(file);
