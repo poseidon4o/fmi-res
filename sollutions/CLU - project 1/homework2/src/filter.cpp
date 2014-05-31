@@ -111,7 +111,7 @@ void Filter::next_stream_line(char *& line) {
         return;
     }
 
-    size_t line_len = CHUNK;
+    int line_len = CHUNK;
     line = new(nothrow) char[line_len];
     if(!line) {
         return;

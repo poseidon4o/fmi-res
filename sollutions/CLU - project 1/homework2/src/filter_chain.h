@@ -17,7 +17,7 @@
 
 class FilterChain {
     Filter ** filters;
-    size_t size, capacity;
+    int size, capacity;
 
     istream * input;
     ostream * output;

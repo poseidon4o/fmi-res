@@ -24,7 +24,7 @@ int main(int argc, char * argv[]) {
             cerr << "Can't open input file [" << argv[1] << "]\nError: " << strerror(errno);
             return -1;
         }
-        input = &input_file; // assing file to input ptr
+        input = &input_file; // assign file to input ptr
 
         // 3 arguments - open output file
         if(argc == 3) {
@@ -38,7 +38,8 @@ int main(int argc, char * argv[]) {
             output = &cout; // default to cout
         }
     } else {
-        input = &cin; // default to cout
+        input = &cin; // default to cin
+        output = &cout; // default to cout
     }
 
     FilterChain chain(*input, *output);

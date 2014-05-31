@@ -47,7 +47,7 @@ void FilterChain::pop_filter() {
 void FilterChain::remove_filter_word(const char * word) {
     // find each matching filter and swap with last, then delete last
     // this is ok because the order of the filters doesn't affect the output
-    for(size_t c = 0; c < size; ++c) {
+    for(int c = 0; c < size; ++c) {
         if(!strcmp(word, filters[c]->get_word())) {
             swap(filters[c], filters[--size]);
             delete filters[size+1];
@@ -60,7 +60,7 @@ void FilterChain::reconnect() {
     // and every other to the one before it
     if(size) {
         filters[0]->set_source(*input);
-        for(size_t c = size-1; c > 0; --c) {
+        for(int c = size-1; c > 0; --c) {
             filters[c]->set_source(*filters[c-1]);
         }
     }
@@ -93,13 +93,13 @@ void FilterChain::copy(const FilterChain & other) {
     capacity = other.capacity;
     filters = new Filter*[size];
 
-    for(size_t c = 0; c < size; ++c) {
+    for(int c = 0; c < size; ++c) {
         filters[c] = new Filter(*other.filters[c]);
     }
 }
 
 void FilterChain::free() {
-    for(size_t c = 0; c < size; ++c) {
+    for(int c = 0; c < size; ++c) {
         delete filters[c];
     }
     delete[] filters;
