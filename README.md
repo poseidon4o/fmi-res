@@ -70,10 +70,16 @@
 *Изберете и направете поне единия от следните интерфейси* - ако направите и двата ще имате бонус.
 
 * Направете изпълним файл за всеки от филтрите който работи така че да поддържа pipe-ване
-    sort-filter input-file.txt | line-filter "The D programming language" | encode-filter | zero-escape-filter > output-file.txt
+
+```Shell
+sort-filter input-file.txt | line-filter "The D programming language" | encode-filter | zero-escape-filter > output-file.txt
+```
 
 * Напревете един общ изпълним файл който да поддържа следния интерфейс
-    CLU input-file.txt output-file.txt --sort --line-filter="The D programming language" --encode --zero-escape
+
+```Shell
+CLU input-file.txt output-file.txt --sort --line-filter="The D programming language" --encode --zero-escape
+```
 
 Забележка: двата примера за двата интерфейса би трябвало да имат еднакъв изход
 
