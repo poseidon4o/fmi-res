@@ -38,7 +38,7 @@
 
 * Връщане на ход
   - Вход: `back`
-  - Изход `back` или `fail`
+  - Изход `back` или `fail` ако е първият ход
 
 * Визуализация 
   - Вход: `display` 
@@ -74,6 +74,8 @@ B 3 empty
 A 8 black rook
 B 8 black knight
 ...
+back
+fail
 move А 2 A 4
 move A 2 A 4
 move A 7 A 1
