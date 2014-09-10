@@ -6,3 +6,8 @@
  * Python 2.7
  * Pygame for python 2.7
  * Project adhering the IO interface from here: [Chess](https://github.com/poseidon4o/oop-assignment/blob/master/supplementary.md)
+
+## Usage
+```bash
+python main.py <path_to_executable>
+```
