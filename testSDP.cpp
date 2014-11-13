@@ -88,12 +88,12 @@ void test_manyClientsInOneTick()
 	}
 	if (state.numberOfClientsAtCashDecsk[0] != 3)
 	{
-		cout << "we expected 5 clients on cash desk [0] but found :" << state.numberOfClientsAtCashDecsk[0] << endl;
+		cout << "we expected 3 clients on cash desk [0] but found :" << state.numberOfClientsAtCashDecsk[0] << endl;
 		return;
 	}
 	if (state.numberOfClientsAtCashDecsk[1] != 3)
 	{
-		cout << "we expected 5 clients on cash desk [1] but found :" << state.numberOfClientsAtCashDecsk[1] << endl;
+		cout << "we expected 3 clients on cash desk [1] but found :" << state.numberOfClientsAtCashDecsk[1] << endl;
 		return;
 	}
 	if (state.numberOfClientsAtExpressCashDeck != 3)
