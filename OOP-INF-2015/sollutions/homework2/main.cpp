@@ -1,4 +1,5 @@
 #include "Jar.h"
+#include <cassert>
 
 int main() {
     Jar j;
@@ -10,5 +11,24 @@ int main() {
         }
         j.addCookie(cookie);
     }
+
+    int size = j.binarySize();
+
+    char * data = new char[size];
+    char * serialize = data;
+    j.serialize(serialize);
+
+    // serialize ptr moved exactly size bytes as expected
+    assert(data + size == serialize);
+
+    char * deserialize = data;
+    Jar j2 = deserializeJar(deserialize);
+
+    // deserialize ptr moved exactly size bytes as expected
+    assert(deserialize == data + size);
+
+    // both jars have the same size
+    assert(j.getSize() == j2.getSize());
+
     return 0;
 }

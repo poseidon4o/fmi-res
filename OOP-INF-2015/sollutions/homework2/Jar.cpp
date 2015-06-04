@@ -53,11 +53,53 @@ Cookie::~Cookie() {
     this->free();
 }
 
-Jar::Jar() : size(0), capacity(1) {
+int Cookie::binarySize() {
+    int binarySize = sizeof(this->stringCount); // stringCount
+
+    for (int c = 0; c < this->stringCount; ++c) {
+        binarySize += strlen(this->strings[c]) + 1;
+    }
+
+    return binarySize;
+}
+
+void Cookie::serialize(char *& data) {
+    memcpy(data, &this->stringCount, sizeof(this->stringCount));
+    data += sizeof(this->stringCount);
+
+    for (int c = 0; c < this->stringCount; ++c) {
+        // get space for the terminating null
+        int size = strlen(this->strings[c]) + 1;
+
+        // write the string
+        memcpy(data, this->strings[c], size);
+        // advance with the length
+        data += size;
+    }
+}
+
+Cookie deserializeCookie(char *& data) {
+    Cookie cookie;
+
+    int stringCount;
+    memcpy((char*)&stringCount, data, sizeof(stringCount));
+    data += sizeof(stringCount);
+
+    for (int c = 0; c < stringCount; ++c) {
+        // we have serialized strings with terminating nulls, so we can directly read
+        cookie.addString(data);
+        // advance with the len of the string +1 for the null
+        data += strlen(data) + 1;
+    }
+
+    return cookie;
+}
+
+Jar::Jar() : cookies(NULL), size(0), capacity(1) {
     this->cookies = new (std::nothrow) Cookie[this->capacity];
 }
 
-Jar::Jar(const Jar & other) : size(0), capacity(0) {
+Jar::Jar(const Jar & other) : cookies(NULL), size(0), capacity(0) {
     this->copy(other);
 }
 
@@ -92,6 +134,7 @@ bool Jar::addCookie(const Cookie & cookie) {
 
 void Jar::free() {
     delete[] this->cookies;
+    this->cookies = NULL;
     this->size = this->capacity = 0;
 }
 
@@ -139,4 +182,49 @@ bool Jar::resize() {
     delete[] this->cookies;
     this->cookies = newCookies;
     return true;
+}
+
+int Jar::getSize() const {
+    return size;
+}
+
+int Jar::binarySize() {
+    int binarySize = sizeof(this->size);
+
+    for (int c = 0; c < this->size; ++c) {
+        binarySize += this->cookies[c].binarySize();
+    }
+
+    return binarySize;
+}
+
+void Jar::serialize(char *& data) {
+    memcpy(data, &this->size, sizeof(this->size));
+    data += sizeof(this->size);
+
+    for (int c = 0; c < this->size; ++c) {
+        this->cookies[c].serialize(data);
+    }
+}
+
+Jar deserializeJar(char *& data) {
+    Jar jar;
+    jar.free();
+
+    memcpy((char*)&jar.size, data, sizeof(jar.size));
+    data += sizeof(jar.size);
+
+    jar.capacity = jar.size;
+    jar.cookies = new (std::nothrow) Cookie[jar.capacity];
+
+    if (!jar.cookies) {
+        jar.size = jar.capacity = 0;
+        return jar;
+    }
+
+    for (int c = 0; c < jar.size; ++c) {
+        jar.cookies[c] = deserializeCookie(data);
+    }
+
+    return jar;
 }

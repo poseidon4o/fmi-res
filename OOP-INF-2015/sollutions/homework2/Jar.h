@@ -12,6 +12,10 @@ public:
     Cookie & operator=(const Cookie & other);
     ~Cookie();
 
+    int binarySize();
+    void serialize(char *& data);
+    friend Cookie deserializeCookie(char *& data);
+
 private:
     void copy(const Cookie & other);
     void free();
@@ -30,6 +34,12 @@ public:
 
     bool eatCookie();
     bool addCookie(const Cookie & cookie);
+
+    int getSize() const;
+
+    int binarySize();
+    void serialize(char *& data);
+    friend Jar deserializeJar(char *& data);
 
 private:
     void free();
