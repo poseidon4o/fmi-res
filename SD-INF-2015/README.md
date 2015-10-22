@@ -15,3 +15,5 @@
 ```3(AB2(B))``` -> ```ABBBABBBABBB```
 
 ```12(ZQ)``` -> ```ZQZQZQZQZQZQZQZQZQZQZQZQ```
+
+```2(2(A)3(B))``` -> ```AABBBAABBB```
