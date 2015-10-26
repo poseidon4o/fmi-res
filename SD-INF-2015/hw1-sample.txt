@@ -27,4 +27,4 @@ W -> 11149
 X -> 25795
 Y -> 15285
 Z -> 23012
-Decompressed lenght: 7025060
+Decompressed lenght: 702506
