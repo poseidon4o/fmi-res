@@ -1,0 +1,906 @@
+cc
+Green Pincher Beetles
+cc
+Blue Tolarian Drake
+cc
+White Fated Retribution
+cc
+Black Cruel Revival
+cc
+White Avenger en-Dal
+cc
+White Jeskai Barricade
+cc
+White Atinlay Igpay
+cc
+Red Gore Swine
+cc
+White Morningtide
+cc
+Black Dash Hopes
+cc
+White Man of Measure
+cc
+Red Conflagrate
+cc
+White Ink-Treader Nephilim
+cc
+Black Stronghold Discipline
+cc
+Red Reckless Wurm
+cc
+Blue Silkwing Scout
+cc
+White Kitsune Blademaster
+cc
+White Ivory Giant
+cc
+White Honorable Scout
+cc
+White Sunbond
+cc
+Blue Whirlpool Drake
+cc
+Green Spontaneous Generation
+cc
+Black Strength of Lunacy
+cc
+Black Mind Maggots
+cc
+Black Arrogant Bloodlord
+cc
+Black Drudge Skeletons
+cc
+Red Foundry Street Denizen
+cc
+White Stalwart Aven
+cc
+White Defender of the Order
+cc
+Red Seething Song
+cc
+Black Corrupted Harvester
+cc
+Black Thrashing Wumpus
+cc
+Green Pale Bears
+cc
+Green Woolly Loxodon
+cc
+White Horde of Notions
+cc
+Green Seek the Horizon
+cc
+Green Krosan Wayfarer
+cc
+White Harmonic Sliver
+cc
+Black Scrib Nibblers
+cc
+Black Pavel Maliki
+cc
+Red Crazed Goblin
+cc
+Blue Urban Evolution
+cc
+Green Sprouting Phytohydra
+cc
+Red Furyborn Hellkite
+cc
+White Cardpecker
+cc
+Blue Erosion
+cc
+Green Spontaneous Generation
+cc
+Blue Clam-I-Am
+cc
+White Augury Adept
+cc
+White Master Apothecary
+cc
+Blue Whirler Rogue
+cc
+Green Blizzard
+cc
+Green Awakening
+cc
+Red Excruciator
+cc
+Blue Quicksilver Wall
+cc
+Black Killing Wave
+cc
+Green Fangren Hunter
+cc
+Blue Spell Pierce
+cc
+Red Rollick of Abandon
+cc
+Green Spring Cleaning
+cc
+Green Arachnus Spinner
+cc
+White Necrotic Sliver
+cc
+Blue Covenant of Minds
+cc
+Blue Hoverguard Observer
+cc
+Green Virulent Sliver
+cc
+White Gavony Ironwright
+cc
+Red Fire Elemental
+cc
+Black Haunting Misery
+cc
+White Somnomancer
+cc
+Green Winter Blast
+cc
+Red Raging Minotaur
+cc
+Green Travel Preparations
+cc
+Red Uncontrollable Anger
+cc
+Red Tectonic Rift
+cc
+Green Timbermare
+cc
+Black Knight of Infamy
+cc
+Green Lhurgoyf
+cc
+Green Hidden Herd
+cc
+Blue Reconstruction
+cc
+White Benalish Emissary
+cc
+Blue Dream Thrush
+cc
+Blue Cloud of Faeries
+cc
+White Skyhunter Patrol
+cc
+White War Oracle
+cc
+Red Scorching Spear
+cc
+Red Wall of Fire
+cc
+Blue Merfolk Spy
+cc
+White Detention Sphere
+cc
+Red Street Spasm
+cc
+Blue Glimpse the Unthinkable
+cc
+Green Yavimaya Scion
+cc
+Red Pardic Miner
+cc
+Green Cached Defenses
+cc
+Green Leaf Arrow
+cc
+White Spectral Gateguards
+cc
+Green Elvish Aberration
+cc
+Green Spirespine
+cc
+Blue Dispel
+cc
+White Lithomancer's Focus
+cc
+White Ironfist Crusher
+cc
+Black Night's Whisper
+cc
+Black Ascendant Evincar
+cc
+Black Enter the Dungeon
+cc
+White Plow Through Reito
+cc
+Black Grisly Transformation
+cc
+White Cromat
+cc
+Black Llanowar Dead
+cc
+Green Might of the Masses
+cc
+Black Spiteful Blow
+cc
+Red Dragonstorm
+cc
+Black Booster Tutor
+cc
+Green Gatecreeper Vine
+cc
+Blue Siren of the Silent Song
+cc
+Green Ulvenwald Primordials
+cc
+Green Pulse of the Tangle
+cc
+Green Silverpelt Werewolf
+cc
+White Soldier of the Pantheon
+cc
+White Sterling Grove
+cc
+Red Possessed Barbarian
+cc
+Green Giant Turtle
+cc
+White Benalish Veteran
+cc
+Red Wildfire Emissary
+cc
+Red Hellkite Hatchling
+cc
+White Dust of Moments
+cc
+Blue Nin, the Pain Artist
+cc
+Black Macabre Waltz
+cc
+Black Laquatus's Champion
+cc
+Black Bone Harvest
+cc
+White Devout Lightcaster
+cc
+Black Snake Cult Initiation
+cc
+Black The Wretched
+cc
+Black Hatred
+cc
+White Hallow
+cc
+Blue Veiled Crocodile
+cc
+Blue Breaking
+cc
+Blue Distant Melody
+cc
+White Hero of Goma Fada
+cc
+Black Garruk, Apex Predator
+cc
+Red Devouring Rage
+cc
+White Vengeful Dreams
+cc
+Red Blaze
+cc
+Black Rabid Bloodsucker
+cc
+Black Vampire Envoy
+cc
+White Luminesce
+cc
+White Knighthood
+cc
+Blue Slow Motion
+cc
+Blue Pulsating Illusion
+cc
+White Martyrdom
+cc
+Green Muscle Burst
+cc
+Black Howling Fury
+cc
+Red Viashino Sandscout
+cc
+White Vigilant Sentry
+cc
+Black Gluttonous Zombie
+cc
+Red Horde of Boggarts
+cc
+Green Verdant Eidolon
+cc
+Red Taurean Mauler
+cc
+Blue Wings of Velis Vel
+cc
+Red Skirk Outrider
+cc
+Green Hunt the Hunter
+cc
+Blue Rimewind Taskmage
+cc
+Black Spectral Sliver
+cc
+White Luminate Primordial
+cc
+Blue Martyr of Frost
+cc
+White Kithkin Shielddare
+cc
+Black Morkrut Banshee
+cc
+Blue Realmwright
+cc
+Green Runeclaw Bear
+cc
+Black Haakon, Stromgald Scourge
+cc
+Blue Customs Depot
+cc
+Green Flowering Lumberknot
+cc
+Black Tavern Swindler
+cc
+White Mercenary Informer
+cc
+Black Carrion Wall
+cc
+Black Ghostly Flame
+cc
+Blue Grozoth
+cc
+Green Fangren Pathcutter
+cc
+White Kiyomaro, First to Stand
+cc
+White Cradle of Vitality
+cc
+Blue Steal Enchantment
+cc
+Black Kalitas, Traitor of Ghet
+cc
+Green Terra Stomper
+cc
+Green Undergrowth Scavenger
+cc
+Red Mana Seism
+cc
+Blue Vex
+cc
+Blue Opportunity
+cc
+White Hymn of Rebirth
+cc
+Green Bellowing Tanglewurm
+cc
+White Man of Measure
+cc
+Red Sowing Salt
+cc
+Blue Wistful Thinking
+cc
+White Spark Trooper
+cc
+White Roon of the Hidden Realm
+cc
+White Elvish Hexhunter
+cc
+Blue Fathom Mage
+cc
+Green Penumbra Bobcat
+cc
+Blue Sea Serpent
+cc
+Green Quick Sliver
+cc
+White Kithkin Rabble
+cc
+White Iona's Judgment
+cc
+White Sky Spirit
+cp
+Player #112
+cp
+Player #42
+cp
+Player #161
+cp
+Player #123
+cd
+Player #161
+Muscle Burst
+Cloud of Faeries
+Roon of the Hidden Realm
+Pulse of the Tangle
+Vampire Envoy
+Nin, the Pain Artist
+Raging Minotaur
+Arachnus Spinner
+Undergrowth Scavenger
+Wistful Thinking
+The Wretched
+Opportunity
+Breaking
+Jeskai Barricade
+Haakon, Stromgald Scourge
+Hallow
+Wistful Thinking
+Pale Bears
+Benalish Emissary
+Winter Blast
+Erosion
+Tavern Swindler
+Spell Pierce
+Macabre Waltz
+Woolly Loxodon
+Plow Through Reito
+Hoverguard Observer
+Hallow
+Kalitas, Traitor of Ghet
+Enter the Dungeon
+Detention Sphere
+Cromat
+Devout Lightcaster
+Silkwing Scout
+Rollick of Abandon
+Sterling Grove
+Somnomancer
+Haakon, Stromgald Scourge
+Cloud of Faeries
+Kithkin Rabble
+Cardpecker
+Excruciator
+Carrion Wall
+Spectral Gateguards
+Dragonstorm
+Spark Trooper
+Pardic Miner
+Winter Blast
+Hellkite Hatchling
+Augury Adept
+Taurean Mauler
+Mana Seism
+Gavony Ironwright
+Spell Pierce
+Giant Turtle
+Spirespine
+Verdant Eidolon
+Hellkite Hatchling
+Knighthood
+Silverpelt Werewolf
+cd
+Player #112
+Merfolk Spy
+Tolarian Drake
+Augury Adept
+Ghostly Flame
+Hoverguard Observer
+Wistful Thinking
+Siren of the Silent Song
+Hoverguard Observer
+Winter Blast
+Roon of the Hidden Realm
+Scorching Spear
+Scorching Spear
+Ulvenwald Primordials
+Devout Lightcaster
+Silkwing Scout
+Verdant Eidolon
+Might of the Masses
+Garruk, Apex Predator
+Distant Melody
+Morkrut Banshee
+Hellkite Hatchling
+Ivory Giant
+Laquatus's Champion
+Erosion
+Benalish Emissary
+Cached Defenses
+Reckless Wurm
+Kithkin Shielddare
+Yavimaya Scion
+Pulse of the Tangle
+Hidden Herd
+Luminate Primordial
+Skyhunter Patrol
+Covenant of Minds
+Rimewind Taskmage
+Whirlpool Drake
+Might of the Masses
+Quicksilver Wall
+Spirespine
+Gore Swine
+Covenant of Minds
+Taurean Mauler
+Devouring Rage
+Krosan Wayfarer
+Kalitas, Traitor of Ghet
+Honorable Scout
+Elvish Aberration
+Hero of Goma Fada
+Corrupted Harvester
+Winter Blast
+Master Apothecary
+Seek the Horizon
+Blizzard
+Honorable Scout
+Lithomancer's Focus
+Stalwart Aven
+Fangren Pathcutter
+Night's Whisper
+Seek the Horizon
+Erosion
+cd
+Player #42
+Horde of Boggarts
+Ivory Giant
+Howling Fury
+Sowing Salt
+Pale Bears
+Wistful Thinking
+Flowering Lumberknot
+Siren of the Silent Song
+Verdant Eidolon
+Spirespine
+Ascendant Evincar
+Grisly Transformation
+Hero of Goma Fada
+Virulent Sliver
+Pavel Maliki
+Sprouting Phytohydra
+Honorable Scout
+Raging Minotaur
+Benalish Veteran
+Iona's Judgment
+Night's Whisper
+Drudge Skeletons
+Blizzard
+Muscle Burst
+Benalish Emissary
+Fated Retribution
+Ulvenwald Primordials
+Slow Motion
+Gavony Ironwright
+Spectral Sliver
+Knighthood
+Reconstruction
+Penumbra Bobcat
+Spectral Gateguards
+Spontaneous Generation
+Krosan Wayfarer
+Horde of Boggarts
+Rabid Bloodsucker
+Crazed Goblin
+Dispel
+Hoverguard Observer
+Horde of Boggarts
+Iona's Judgment
+Fangren Hunter
+Horde of Notions
+Elvish Hexhunter
+Muscle Burst
+Kitsune Blademaster
+Realmwright
+Augury Adept
+Cloud of Faeries
+Drudge Skeletons
+Penumbra Bobcat
+Winter Blast
+Spell Pierce
+Iona's Judgment
+Mercenary Informer
+Martyrdom
+Devouring Rage
+Giant Turtle
+cd
+Player #112
+Spring Cleaning
+Hoverguard Observer
+Spirespine
+Man of Measure
+Drudge Skeletons
+Morningtide
+Skyhunter Patrol
+Sowing Salt
+Fangren Pathcutter
+Slow Motion
+Clam-I-Am
+Slow Motion
+Cardpecker
+Travel Preparations
+Krosan Wayfarer
+Seething Song
+Hero of Goma Fada
+Furyborn Hellkite
+Customs Depot
+Clam-I-Am
+Bone Harvest
+Jeskai Barricade
+Fated Retribution
+Dream Thrush
+Customs Depot
+Hero of Goma Fada
+Winter Blast
+Scorching Spear
+Urban Evolution
+Hymn of Rebirth
+Somnomancer
+Hunt the Hunter
+Stalwart Aven
+Kitsune Blademaster
+Quicksilver Wall
+Elvish Hexhunter
+Tectonic Rift
+Flowering Lumberknot
+Pincher Beetles
+Opportunity
+Elvish Hexhunter
+Virulent Sliver
+Urban Evolution
+Benalish Veteran
+Ulvenwald Primordials
+Leaf Arrow
+Tectonic Rift
+Pulse of the Tangle
+Quicksilver Wall
+Night's Whisper
+Atinlay Igpay
+Macabre Waltz
+Quicksilver Wall
+Defender of the Order
+Hidden Herd
+Ascendant Evincar
+Blizzard
+Snake Cult Initiation
+Ink-Treader Nephilim
+Haakon, Stromgald Scourge
+cd
+Player #161
+Whirlpool Drake
+Sunbond
+Wings of Velis Vel
+Strength of Lunacy
+Haunting Misery
+Blaze
+Street Spasm
+Hero of Goma Fada
+Scorching Spear
+Llanowar Dead
+Quick Sliver
+Laquatus's Champion
+Customs Depot
+Spark Trooper
+Wall of Fire
+Cloud of Faeries
+Vampire Envoy
+Martyr of Frost
+Haakon, Stromgald Scourge
+Sterling Grove
+Uncontrollable Anger
+Fathom Mage
+Augury Adept
+Fangren Pathcutter
+Tolarian Drake
+Hellkite Hatchling
+Opportunity
+Thrashing Wumpus
+Tolarian Drake
+Stalwart Aven
+Reckless Wurm
+Pardic Miner
+Hymn of Rebirth
+Elvish Aberration
+Spark Trooper
+Elvish Aberration
+Hymn of Rebirth
+Hallow
+Luminesce
+Mind Maggots
+Kitsune Blademaster
+Garruk, Apex Predator
+Spectral Sliver
+Vengeful Dreams
+Haakon, Stromgald Scourge
+Undergrowth Scavenger
+Strength of Lunacy
+Cradle of Vitality
+Skyhunter Patrol
+Kithkin Rabble
+Stalwart Aven
+Steal Enchantment
+Erosion
+Ink-Treader Nephilim
+Kalitas, Traitor of Ghet
+Man of Measure
+Grozoth
+Silverpelt Werewolf
+Horde of Boggarts
+Tolarian Drake
+cd
+Player #112
+Taurean Mauler
+The Wretched
+Mana Seism
+Foundry Street Denizen
+Tectonic Rift
+Horde of Notions
+Muscle Burst
+Cached Defenses
+Penumbra Bobcat
+Avenger en-Dal
+Martyr of Frost
+Scorching Spear
+Iona's Judgment
+Wistful Thinking
+Martyr of Frost
+Mana Seism
+Spectral Gateguards
+Virulent Sliver
+Pavel Maliki
+Blaze
+Luminate Primordial
+Clam-I-Am
+Spiteful Blow
+Cardpecker
+Mana Seism
+Wall of Fire
+Honorable Scout
+Street Spasm
+Urban Evolution
+Sowing Salt
+Iona's Judgment
+Wings of Velis Vel
+Avenger en-Dal
+Luminesce
+Luminesce
+Pale Bears
+Hero of Goma Fada
+Spark Trooper
+Woolly Loxodon
+Clam-I-Am
+Horde of Notions
+Sprouting Phytohydra
+Enter the Dungeon
+Detention Sphere
+Travel Preparations
+Spark Trooper
+Hatred
+Furyborn Hellkite
+Honorable Scout
+Whirlpool Drake
+Giant Turtle
+Elvish Hexhunter
+Silkwing Scout
+Devouring Rage
+Rabid Bloodsucker
+Enter the Dungeon
+Seek the Horizon
+Quicksilver Wall
+Urban Evolution
+Spirespine
+cd
+Player #123
+Drudge Skeletons
+Muscle Burst
+Corrupted Harvester
+Taurean Mauler
+Skirk Outrider
+Uncontrollable Anger
+Spirespine
+Haakon, Stromgald Scourge
+Necrotic Sliver
+Cruel Revival
+Augury Adept
+Penumbra Bobcat
+Bellowing Tanglewurm
+Erosion
+Ulvenwald Primordials
+Wings of Velis Vel
+Stalwart Aven
+Haunting Misery
+Timbermare
+Sky Spirit
+Quicksilver Wall
+Hymn of Rebirth
+Travel Preparations
+Glimpse the Unthinkable
+Elvish Aberration
+The Wretched
+Gavony Ironwright
+Realmwright
+Garruk, Apex Predator
+War Oracle
+Kitsune Blademaster
+Silkwing Scout
+Vigilant Sentry
+Sprouting Phytohydra
+Grozoth
+Morningtide
+Rollick of Abandon
+Harmonic Sliver
+Kalitas, Traitor of Ghet
+Spectral Gateguards
+Spirespine
+Excruciator
+Avenger en-Dal
+Strength of Lunacy
+Cached Defenses
+Booster Tutor
+Somnomancer
+Soldier of the Pantheon
+Runeclaw Bear
+Thrashing Wumpus
+Foundry Street Denizen
+Fangren Hunter
+Arrogant Bloodlord
+Spring Cleaning
+Customs Depot
+Taurean Mauler
+Reconstruction
+Pulsating Illusion
+Muscle Burst
+Drudge Skeletons
+cd
+Player #42
+Dream Thrush
+Somnomancer
+Runeclaw Bear
+Excruciator
+Hoverguard Observer
+Rimewind Taskmage
+Gavony Ironwright
+Vex
+Mercenary Informer
+Hymn of Rebirth
+Stalwart Aven
+Ghostly Flame
+Merfolk Spy
+Jeskai Barricade
+Carrion Wall
+Spirespine
+Terra Stomper
+Lhurgoyf
+Horde of Boggarts
+Iona's Judgment
+Carrion Wall
+Spring Cleaning
+Mind Maggots
+Kitsune Blademaster
+Hoverguard Observer
+Whirlpool Drake
+Booster Tutor
+Martyrdom
+Kalitas, Traitor of Ghet
+Fathom Mage
+Customs Depot
+Plow Through Reito
+Stalwart Aven
+Dragonstorm
+Roon of the Hidden Realm
+Raging Minotaur
+Virulent Sliver
+Drudge Skeletons
+Woolly Loxodon
+Necrotic Sliver
+Street Spasm
+Covenant of Minds
+Defender of the Order
+Plow Through Reito
+Arachnus Spinner
+Street Spasm
+Rabid Bloodsucker
+Spring Cleaning
+Uncontrollable Anger
+Luminate Primordial
+Leaf Arrow
+Corrupted Harvester
+Ghostly Flame
+Winter Blast
+Macabre Waltz
+Krosan Wayfarer
+Grozoth
+Rabid Bloodsucker
+Street Spasm
+Kitsune Blademaster
+report
+quit

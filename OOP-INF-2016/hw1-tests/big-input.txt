@@ -1,0 +1,6522 @@
+cc
+Black Brink of Madness
+cc
+Black Hythonia the Cruel
+cc
+Black Cursed Monstrosity
+cc
+Red Mardu Heart-Piercer
+cc
+Blue Acquire
+cc
+Red Shivan Raptor
+cc
+Red Assquatch
+cc
+Black Shadowcloak Vampire
+cc
+White Teferi's Honor Guard
+cc
+Red Aggression
+cc
+Red Incendiary
+cc
+Black Tar Pit Warrior
+cc
+Green Waiting in the Weeds
+cc
+Blue Disciple of the Ring
+cc
+Blue Call to Heel
+cc
+Blue Svyelunite Priest
+cc
+Blue Arcanis the Omnipotent
+cc
+Black Nighthaze
+cc
+Green Spectral Bears
+cc
+Red Robber Fly
+cc
+Red Iizuka the Ruthless
+cc
+Red Rage Thrower
+cc
+Blue Venerated Teacher
+cc
+Black Gutwrencher Oni
+cc
+White Sunspire Griffin
+cc
+White Mistral Charger
+cc
+Green Farhaven Elf
+cc
+Black Nezumi Bone-Reader
+cc
+Green Lurking Predators
+cc
+Red Boggart Shenanigans
+cc
+White Vectis Dominator
+cc
+White Dromoka's Command
+cc
+Black Whip of Erebos
+cc
+White Phyrexian Unlife
+cc
+Black Return of the Nightstalkers
+cc
+Blue Moniker Mage
+cc
+Blue Plagiarize
+cc
+Black Farewell to Arms
+cc
+Green Elderscale Wurm
+cc
+White Lightwalker
+cc
+Blue Argivian Restoration
+cc
+Black Noxious Vapors
+cc
+Black Undercity Shade
+cc
+Green Desecration Plague
+cc
+Green Viridian Emissary
+cc
+Red Bloodstoke Howler
+cc
+Black Paralyze
+cc
+Green Howlpack of Estwald
+cc
+Black Phyrexian Obliterator
+cc
+White Soul Snare
+cc
+Blue Mistform Shrieker
+cc
+Green Spider Spawning
+cc
+Blue False Demise
+cc
+Black Doomgape
+cc
+Blue Distant Melody
+cc
+White Skillful Lunge
+cc
+Black Thornbow Archer
+cc
+Green Centaur Glade
+cc
+Green Thrive
+cc
+Red Two-Headed Giant of Foriys
+cc
+Black Grim Feast
+cc
+Black Sibsig Host
+cc
+Black Doomwake Giant
+cc
+Black Death's Duet
+cc
+White Spectral Guardian
+cc
+White Meddling Mage
+cc
+Black Darigaaz, the Igniter
+cc
+White Stone Haven Outfitter
+cc
+Red Mons's Goblin Raiders
+cc
+Black Pillar Tombs of Aku
+cc
+Blue Red Cliffs Armada
+cc
+Black Duh
+cc
+Blue Frozen Solid
+cc
+White Godsire
+cc
+Red Crookshank Kobolds
+cc
+Green Beastcaller Savant
+cc
+White Obzedat's Aid
+cc
+Black Krumar Bond-Kin
+cc
+Black Crowd of Cinders
+cc
+White Alaborn Cavalier
+cc
+Blue Mistfire Weaver
+cc
+White Grizzled Leotau
+cc
+White Stillmoon Cavalier
+cc
+Black Agent of Erebos
+cc
+Blue Gudul Lurker
+cc
+Black Revive the Fallen
+cc
+Blue Mystic Decree
+cc
+Black Filthy Cur
+cc
+White Planar Cleansing
+cc
+Green Gorilla Pack
+cc
+Black Mind Warp
+cc
+Green Commune with the Gods
+cc
+Black Restless Dead
+cc
+Blue Wilderness Hypnotist
+cc
+Red Firefist Striker
+cc
+Green Soul's Majesty
+cc
+Blue Sift
+cc
+Black Erebos's Emissary
+cc
+Blue Nin, the Pain Artist
+cc
+Black Phyrexian Slayer
+cc
+White Setessan Griffin
+cc
+Black Noxious Field
+cc
+Green Increasing Savagery
+cc
+White Standard Bearer
+cc
+Green Land Leeches
+cc
+White Vanguard of Brimaz
+cc
+Green Tooth and Nail
+cc
+Blue Artful Dodge
+cc
+Black Final Strike
+cc
+Blue Great Whale
+cc
+White Degavolver
+cc
+Red Summit Prowler
+cc
+Blue Marchesa's Smuggler
+cc
+Blue Master of Predicaments
+cc
+Green Vital Surge
+cc
+Red Hurloon Wrangler
+cc
+Blue Downpour
+cc
+White Avacyn, Guardian Angel
+cc
+White Iroas's Champion
+cc
+Blue Quicksilver Elemental
+cc
+Black Infinite Obliteration
+cc
+Green Infested Roothold
+cc
+Blue Echo Mage
+cc
+Blue Soratami Seer
+cc
+White Elite Javelineer
+cc
+Red Hoarding Dragon
+cc
+Red Axegrinder Giant
+cc
+Red Lava Burst
+cc
+Green Wreath of Geists
+cc
+Black Doomsday
+cc
+Black Rag Man
+cc
+White Dazzling Ramparts
+cc
+Black Dauthi Warlord
+cc
+Blue Scion of Oona
+cc
+Green Pendelhaven Elder
+cc
+Green Skyshroud Ridgeback
+cc
+Green Groundbreaker
+cc
+Black Nameless Race
+cc
+Red Detonate
+cc
+Black Circling Vultures
+cc
+Blue Rising Waters
+cc
+White Recumbent Bliss
+cc
+White Spiritual Guardian
+cc
+White Zealous Persecution
+cc
+Blue Homarid
+cc
+Blue Aura Flux
+cc
+Black Plague Rats
+cc
+Red Furor of the Bitten
+cc
+Red Gang of Devils
+cc
+Blue Mulldrifter
+cc
+Black Geyserfield Stalker
+cc
+Green Krosan Groundshaker
+cc
+Red Flowstone Slide
+cc
+Green Shelkin Brownie
+cc
+White Arbiter of Knollridge
+cc
+Red Whip Sergeant
+cc
+Blue Cloud Spirit
+cc
+Green Display of Dominance
+cc
+Blue Teferi's Veil
+cc
+Green Mighty Emergence
+cc
+Blue Oboro Envoy
+cc
+White Aysen Highway
+cc
+Blue Serendib Sorcerer
+cc
+Green Tracker
+cc
+Green Pygmy Razorback
+cc
+White Auspicious Ancestor
+cc
+Blue Hada Spy Patrol
+cc
+Red Fledgling Dragon
+cc
+White Voice of Truth
+cc
+White Wrath of God
+cc
+Black Dauthi Horror
+cc
+White Shu Cavalry
+cc
+White Rhystic Shield
+cc
+White Retether
+cc
+Red Witch Hunt
+cc
+Blue Annul
+cc
+White Kinsbaile Borderguard
+cc
+Blue Hydroform
+cc
+Black Scavenged Weaponry
+cc
+Blue Chief Engineer
+cc
+Blue Pongify
+cc
+Black Final Punishment
+cc
+Blue Vow of Flight
+cc
+Black Exsanguinate
+cc
+Blue Bubbling Beebles
+cc
+Blue Jwari Shapeshifter
+cc
+Black Infernal Spawn of Evil
+cc
+Green Mutant's Prey
+cc
+White Energy Storm
+cc
+Green Forest Bear
+cc
+Blue Tolarian Drake
+cc
+Black Fevered Convulsions
+cc
+Green Verdant Succession
+cc
+Blue Hindering Touch
+cc
+Red Hateflayer
+cc
+Green Dreampod Druid
+cc
+White Gift of Orzhova
+cc
+Green Nissa's Judgment
+cc
+Blue Ramirez DePietro
+cc
+Red Sarkhan, the Dragonspeaker
+cc
+Black Shambling Attendants
+cc
+White Honor of the Pure
+cc
+Green Panther Warriors
+cc
+Blue View from Above
+cc
+White Talon Sliver
+cc
+Red Aggravate
+cc
+Black Skeletal Snake
+cc
+Black Essence Drain
+cc
+Blue Ancient Carp
+cc
+Red Sprinting Warbrute
+cc
+White Mtenda Herder
+cc
+Red Kavu Monarch
+cc
+White Frantic Salvage
+cc
+Blue Marchesa's Smuggler
+cc
+White Volunteer Reserves
+cc
+Blue Linessa, Zephyr Mage
+cc
+Red Paroxysm
+cc
+White Nightwind Glider
+cc
+White Circle of Protection: Green
+cc
+Black Demigod of Revenge
+cc
+Green Viridian Zealot
+cc
+White Burrenton Forge-Tender
+cc
+Green Fastbond
+cc
+Blue Backslide
+cc
+Green Allosaurus Rider
+cc
+Green Bower Passage
+cc
+Red Dwarven Thaumaturgist
+cc
+Blue Spell Rupture
+cc
+Black Belbe's Percher
+cc
+Red Jalum Grifter
+cc
+White Spirit Mirror
+cc
+Red Lavacore Elemental
+cc
+White Sidar Jabari
+cc
+Blue Coma Veil
+cc
+Red Volcanic Wind
+cc
+Blue Balduvian Conjurer
+cc
+Black Pillar Tombs of Aku
+cc
+Black Phyrexian Scuta
+cc
+White Progenitus
+cc
+Black Cremate
+cc
+Black Embalmed Brawler
+cc
+Green Hornet Cobra
+cc
+White Restless Apparition
+cc
+Blue Steal Artifact
+cc
+Red Thunderblade Charge
+cc
+Green Noble Quarry
+cc
+Red Ceaseless Searblades
+cc
+Green Nourishing Shoal
+cc
+Green Strength from the Fallen
+cc
+Red Eternal Warrior
+cc
+Black Spineless Thug
+cc
+Green Talara's Battalion
+cc
+White Ancestral Tribute
+cc
+Green Briar Shield
+cc
+White Pearlspear Courier
+cc
+White Isamaru, Hound of Konda
+cc
+Blue Trinket Mage
+cc
+Green Rebirth
+cc
+Green Haze Frog
+cc
+Blue Second Chance
+cc
+Blue Jaded Response
+cc
+White Punish Ignorance
+cc
+Black Nightmare
+cc
+White Aerie Mystics
+cc
+Blue Arcanis the Omnipotent
+cc
+Red Gathan Raiders
+cc
+White Akroan Hoplite
+cc
+White Vanquish the Foul
+cc
+Blue Suffocation
+cc
+Blue Blinding Spray
+cc
+Red Jaws of Stone
+cc
+Red Rock Basilisk
+cc
+White Warclamp Mastiff
+cc
+Black Imp's Mischief
+cc
+Black Unbreathing Horde
+cc
+Red Goblin Sky Raider
+cc
+White Abeyance
+cc
+Blue Mystic Meditation
+cc
+Blue Vectis Agents
+cc
+White Archangel
+cc
+Black Lord of Extinction
+cc
+Green Waiting in the Weeds
+cc
+White Deathbringer Liege
+cc
+Black Lingering Death
+cc
+Blue Haunter of Nightveil
+cc
+Red Gruul War Chant
+cc
+White Terashi's Cry
+cc
+White Cromat
+cc
+Blue Advice from the Fae
+cc
+Green Den Protector
+cc
+Blue Hands of Binding
+cc
+Black Slaughter Pact
+cc
+White Disenchant
+cc
+Green Wild Leotau
+cc
+Green Fiddlehead Kami
+cc
+Black Treacherous Pit-Dweller
+cc
+White Crusade
+cc
+Green Thunderfoot Baloth
+cc
+Blue Mistbind Clique
+cc
+White Angelic Page
+cc
+Blue Tidal Flats
+cc
+Black Sengir Bats
+cc
+Green Leatherback Baloth
+cc
+Black Baleful Eidolon
+cc
+White Blade of the Sixth Pride
+cc
+Black Phyrexian Arena
+cc
+Blue Tunnel Vision
+cc
+White Aura of Silence
+cc
+White Genju of the Realm
+cc
+Green Gurzigost
+cc
+Red Shimatsu the Bloodcloaked
+cc
+White Mystic Familiar
+cc
+Blue Deepwater Hypnotist
+cc
+Red Viashino Cutthroat
+cc
+Black Chosen of Markov
+cc
+Blue Isleback Spawn
+cc
+Red Pyrohemia
+cc
+Blue Looming Hoverguard
+cc
+White Welkin Guide
+cc
+Blue Gitaxian Probe
+cc
+Black Darkpact
+cc
+White Ashen Rider
+cc
+Blue Baleful Stare
+cc
+Blue Brine Hag
+cc
+Blue Hisoka's Defiance
+cc
+Black Crypt Rats
+cc
+Green Regeneration
+cc
+Green Primal Growth
+cc
+White Circle of Protection: Artifacts
+cc
+White Mardu Hordechief
+cc
+Red Mogg Bombers
+cc
+Green Sylvan Safekeeper
+cc
+Black Muck Drubb
+cc
+White Bant Sojourners
+cc
+Black Rot Farm Skeleton
+cc
+Blue Seascape Aerialist
+cc
+White Decree of Justice
+cc
+Red Two-Headed Sliver
+cc
+Black Dragon Shadow
+cc
+Red Furnace Dragon
+cc
+White Hikari, Twilight Guardian
+cc
+White Kytheon's Tactics
+cc
+Black Banewasp Affliction
+cc
+Green Ordeal of Nylea
+cc
+Red Burn Trail
+cc
+Red Mogg War Marshal
+cc
+Black Nightscape Apprentice
+cc
+Blue Wayward Soul
+cc
+Black Kami of Empty Graves
+cc
+White Touch of the Eternal
+cc
+White Hushwing Gryff
+cc
+White Kinsbaile Balloonist
+cc
+White Balancing Act
+cc
+Red Tor Giant
+cc
+Red Torrent of Fire
+cc
+Black Balduvian Dead
+cc
+Black Corpse Hauler
+cc
+White War Behemoth
+cc
+Black Toxin Sliver
+cc
+Red Soulblast
+cc
+Blue Telepathy
+cc
+Blue Sagu Mauler
+cc
+Red Fissure Vent
+cc
+Green Spring of Eternal Peace
+cc
+Blue Three Wishes
+cc
+Blue Gilder Bairn
+cc
+Blue Curse of Echoes
+cc
+Red Pandemonium
+cc
+Red Orcish Captain
+cc
+Red Slavering Nulls
+cc
+White Questing Phelddagrif
+cc
+Green Gorilla Berserkers
+cc
+Blue Unsummon
+cc
+White Glittering Wish
+cc
+Blue Govern the Guildless
+cc
+Green Bayou Dragonfly
+cc
+White Charging Troll
+cc
+Green Nettletooth Djinn
+cc
+Black Infectious Horror
+cc
+White Kabira Vindicator
+cc
+Red Rally the Horde
+cc
+Red Purphoros, God of the Forge
+cc
+Black Nether Shadow
+cc
+Green Tel-Jilad Archers
+cc
+Green Oran-Rief Hydra
+cc
+Red Balduvian Warlord
+cc
+Black Midnight Ritual
+cc
+Black Handcuffs
+cc
+Green Soilshaper
+cc
+White Arrow Volley Trap
+cc
+Green Living Totem
+cc
+Red Cinder Wall
+cc
+Green Garruk, Primal Hunter
+cc
+Green Gorilla Warrior
+cc
+White Herald of War
+cc
+Red Fledgling Dragon
+cc
+Black Slaughter Games
+cc
+Green Patagia Viper
+cc
+White Militia's Pride
+cc
+Green Korozda Monitor
+cc
+Blue Tunnel Vision
+cc
+Green Maro
+cc
+White Daring Leap
+cc
+Black Phyrexian Bloodstock
+cc
+Black Organ Harvest
+cc
+Red Firemantle Mage
+cc
+Blue Tidal Visionary
+cc
+White Lavinia of the Tenth
+cc
+White Clergy of the Holy Nimbus
+cc
+White Circle of Protection: Blue
+cc
+Blue Glimpse the Future
+cc
+Green Culling Mark
+cc
+Blue Part the Veil
+cc
+Blue Flaccify
+cc
+Red Obsidian Giant
+cc
+White Mardu Charm
+cc
+Red Sarkhan, the Dragonspeaker
+cc
+White Steward of Valeron
+cc
+White Pteron Ghost
+cc
+Blue Roil Elemental
+cc
+Blue Curse of Echoes
+cc
+Black Scion of Darkness
+cc
+White Captured Sunlight
+cc
+Green Bond Beetle
+cc
+White Snow Hound
+cc
+White Reconnaissance
+cc
+White Sensor Splicer
+cc
+Red Glacial Ray
+cc
+Black Cinderhaze Wretch
+cc
+Black Jovial Evil
+cc
+Green Meng Huo's Horde
+cc
+Blue Relearn
+cc
+Red Viashino Spearhunter
+cc
+Black Greed
+cc
+Green Blastoderm
+cc
+Red Ancient Hellkite
+cc
+White Fight to the Death
+cc
+Green Glissa's Courier
+cc
+Red Mardu Runemark
+cc
+White Takeno's Cavalry
+cc
+White Gift of Granite
+cc
+Blue Nulltread Gargantuan
+cc
+Green Spectral Force
+cc
+Blue Elusive Spellfist
+cc
+Blue Prescient Chimera
+cc
+Black Urborg Skeleton
+cc
+Red Bloodfire Kavu
+cc
+White Sphinx's Revelation
+cc
+Green Verduran Emissary
+cc
+Black Necroplasm
+cc
+White Black Ward
+cc
+White Firehoof Cavalry
+cc
+White Orzhov Guildmage
+cc
+Red Akki Avalanchers
+cc
+Red Spitting Hydra
+cc
+Green Glade Watcher
+cc
+Black Zombie Boa
+cc
+Red Hanweir Watchkeep
+cc
+Green Tel-Jilad Fallen
+cc
+Blue Auramancer's Guise
+cc
+Blue Vigilant Drake
+cc
+White Martyrs' Tomb
+cc
+White Deicide
+cc
+Black Skull Fracture
+cc
+Black Body Snatcher
+cc
+Red Crimson Roc
+cc
+Green Norwood Riders
+cc
+Red Shrapnel Blast
+cc
+White Dragonstalker
+cc
+Black Korlash, Heir to Blackblade
+cc
+White Blinding Angel
+cc
+Red Wildfire
+cc
+Red Wild Cantor
+cc
+Black Fell Shepherd
+cc
+Green Khalni Heart Expedition
+cc
+Black Kaervek's Hex
+cc
+Red Circle of Flame
+cc
+White Kjeldoran Gargoyle
+cc
+Green Dryad's Favor
+cc
+Blue Pedantic Learning
+cc
+Black Repentant Vampire
+cc
+Blue Shimmering Efreet
+cc
+Red Steam Vines
+cc
+Green Pincher Beetles
+cc
+Red Lightning Hounds
+cc
+White Circle of Protection: Shadow
+cc
+Green Stonefare Crocodile
+cc
+Green Shoe Tree
+cc
+Blue Esperzoa
+cc
+White Prismatic Boon
+cc
+White Indestructibility
+cc
+Green Terastodon
+cc
+Green Elvish Fury
+cc
+Blue Reveka, Wizard Savant
+cc
+Green Venom
+cc
+Black Noxious Field
+cc
+Green Stream of Life
+cc
+Blue Mistform Shrieker
+cc
+Green Squirrel Mob
+cc
+Black Rix Maadi Guildmage
+cc
+Blue Musician
+cc
+Blue Silvergill Douser
+cc
+Blue Primoc Escapee
+cc
+Red Savage Beating
+cc
+Red Ignite Memories
+cc
+Red Demolish
+cc
+Blue Snap
+cc
+White Angel's Herald
+cc
+Blue Extravagant Spirit
+cc
+Blue Mindleech Mass
+cc
+Green Taste of Paradise
+cc
+Blue Phantom Whelp
+cc
+Red Furnace Celebration
+cc
+Red Daretti, Scrap Savant
+cc
+White Absolver Thrull
+cc
+Black Nightcreep
+cc
+Blue Vedalken Dismisser
+cc
+Blue Aven Surveyor
+cc
+Green Moment's Peace
+cc
+White Knights of Thorn
+cc
+Black Rabid Rats
+cc
+Red Goblin Freerunner
+cc
+Red Guttersnipe
+cc
+White Nacatl Hunt-Pride
+cc
+White Pristine Angel
+cc
+Green Foxfire Oak
+cc
+Blue Power Artifact
+cc
+Black Killing Glare
+cc
+Red Goblin Gardener
+cc
+Green Wild Defiance
+cc
+White Opal Acrolith
+cc
+Green Experiment One
+cc
+Black Instigator
+cc
+Black Morsel Theft
+cc
+Red Domri Rade
+cc
+White Repentance
+cc
+Red Cinder Cloud
+cc
+Green Swell of Growth
+cc
+Blue Kiora's Follower
+cc
+Red Atarka, World Render
+cc
+White Kami of False Hope
+cc
+White Mausoleum Guard
+cc
+White Hussar Patrol
+cc
+Blue Nebuchadnezzar
+cc
+Blue Cerulean Sphinx
+cc
+Blue Favorable Winds
+cc
+Blue Delay
+cc
+Red Harness by Force
+cc
+White Spirit Weaver
+cc
+Red Desperate Ravings
+cc
+Green Carapace
+cc
+Black Sarcomancy
+cc
+Blue Devouring Deep
+cc
+Black Plague Beetle
+cc
+White Emancipation Angel
+cc
+Black Umbra Stalker
+cc
+Green Rhox Maulers
+cc
+Blue Cheatyface
+cc
+White Guardian Zendikon
+cc
+Green Caller of the Hunt
+cc
+Black Okiba-Gang Shinobi
+cc
+Green Den Protector
+cc
+Blue Diregraf Captain
+cc
+Black Grim Tutor
+cc
+White Petra Sphinx
+cc
+White Rhox War Monk
+cc
+White Fleecemane Lion
+cc
+Red Spined Sliver
+cc
+Blue Paragon of Gathering Mists
+cc
+White Stern Judge
+cc
+Blue Firemind's Foresight
+cc
+Green Entangling Vines
+cc
+Red Hostile Realm
+cc
+Red Ingot Chewer
+cc
+Blue Hakim, Loreweaver
+cc
+Black Dreg Mangler
+cc
+Red Akki Raider
+cc
+White Noble Steeds
+cc
+White Seeds of Strength
+cc
+Green Hidden Predators
+cc
+Green Pale Bears
+cc
+Red Marhault Elsdragon
+cc
+Blue Disruptive Student
+cc
+Black Shriekmaw
+cc
+White Arenson's Aura
+cc
+Blue Zameck Guildmage
+cc
+White Paragon of the Amesha
+cc
+Red Impact Tremors
+cc
+Black Plague Stinger
+cc
+Black Withering Hex
+cc
+White Angel of Mercy
+cc
+Red Akki Lavarunner
+cc
+Blue Graceful Adept
+cc
+Black Shattered Crypt
+cc
+Black Gristle Grinner
+cc
+Blue Dream Fighter
+cc
+Blue Consuming Vortex
+cc
+White Helionaut
+cc
+Green Boon Satyr
+cc
+White Hidden Dragonslayer
+cc
+White Lifelink
+cc
+White Leap of Faith
+cc
+Green Jaddi Lifestrider
+cc
+Blue Cephalid Illusionist
+cc
+White Skyhunter Patrol
+cc
+Blue Slow Motion
+cc
+Red Portent of Betrayal
+cc
+White Scapegoat
+cc
+Blue Crackling Triton
+cc
+Green Beast Attack
+cc
+Red Raid Bombardment
+cc
+White Plumeveil
+cc
+Green Rhox Maulers
+cc
+Red Greater Gargadon
+cc
+Red Aggravated Assault
+cc
+Red Brimstone Dragon
+cc
+White Near-Death Experience
+cc
+Red Stone Spirit
+cc
+Red Weapon Surge
+cc
+Green Argothian Enchantress
+cc
+Black Midnight Covenant
+cc
+White Voracious Hatchling
+cc
+White Gustrider Exuberant
+cc
+White Retaliator Griffin
+cc
+Black Rag Dealer
+cc
+Blue Walking Dream
+cc
+Red Sawtooth Ogre
+cc
+Green An-Havva Inn
+cc
+Blue Master Biomancer
+cc
+White Nova Cleric
+cc
+White Children of Korlis
+cc
+White Moonlight Geist
+cc
+Blue Slith Strider
+cc
+Green Llanowar Behemoth
+cc
+Black Master of Cruelties
+cc
+Red Scoria Wurm
+cc
+White Mayael's Aria
+cc
+Black Silumgar Butcher
+cc
+White Ghost-Lit Redeemer
+cc
+Black Necra Disciple
+cc
+Blue Nameless One
+cc
+Red Thunderscape Apprentice
+cc
+White Remember the Fallen
+cc
+Green Charging Badger
+cc
+White First Response
+cc
+Green Keeper of the Beasts
+cc
+Red Rift Elemental
+cc
+Green Tangle Mantis
+cc
+White Akrasan Squire
+cc
+Red Altac Bloodseeker
+cc
+White Quarry Colossus
+cc
+Blue Delver of Secrets
+cc
+White Moonhold
+cc
+Blue Harbinger of the Tides
+cc
+Red Flowstone Wall
+cc
+White Pure Intentions
+cc
+Blue Disdainful Stroke
+cc
+Blue Mana Breach
+cc
+Blue Order of Succession
+cc
+Blue Hydrolash
+cc
+White Caregiver
+cc
+Green Phytoburst
+cc
+Blue Flight
+cc
+White Sterling Grove
+cc
+Green Ondu Giant
+cc
+Black Maralen of the Mornsong
+cc
+Blue Umara Raptor
+cc
+Black Shambling Attendants
+cc
+Black Death Cultist
+cc
+Black Carrier Thrall
+cc
+Black Vampiric Feast
+cc
+Blue Drowner Initiate
+cc
+Black Dead Drop
+cc
+White Black Ward
+cc
+Blue Arctic Aven
+cc
+Black Nantuko Shade
+cc
+White Voice of Resurgence
+cc
+Blue Ghostly Touch
+cc
+Red Viashino Shanktail
+cc
+White Wall of Swords
+cc
+White Bronzebeak Moa
+cc
+Green Trail of Mystery
+cc
+Black Soul Stair Expedition
+cc
+Black Shattered Dreams
+cc
+Blue Riptide Entrancer
+cc
+Blue Faerie Mechanist
+cc
+Green Tel-Jilad Defiance
+cc
+Black Grisly Salvage
+cc
+Red Goblin Wardriver
+cc
+Green Heavy Fog
+cc
+Black Darkpact
+cc
+Blue Coral Barrier
+cc
+Red Furnace Celebration
+cc
+Blue Stymied Hopes
+cc
+Blue Soratami Mindsweeper
+cc
+Blue Wizard Mentor
+cc
+Blue Fungal Shambler
+cc
+White Mercenary Informer
+cc
+Blue Tidespout Tyrant
+cc
+White Cavalry Pegasus
+cc
+Green Fertilid
+cc
+White Tempest of Light
+cc
+White Chosen by Heliod
+cc
+Black Rotting Mastodon
+cc
+Red Goblin Marshal
+cc
+Red Magma Burst
+cc
+Black Pharika's Chosen
+cc
+Blue Giant Shark
+cc
+Green Panglacial Wurm
+cc
+White Dust to Dust
+cc
+Red Retromancer
+cc
+Black Virtue's Ruin
+cc
+Red Valakut Predator
+cc
+Black Cavern Lampad
+cc
+Red Bloodfire Dwarf
+cc
+Green Moonmist
+cc
+White Wingbeat Warrior
+cc
+Blue Eye of Nowhere
+cc
+Green Rysorian Badger
+cc
+White Naya Hushblade
+cc
+White Kor Castigator
+cc
+White Metallurgeon
+cc
+White Chief of the Scale
+cc
+White Keeper of the Light
+cc
+Green Dromoka's Gift
+cc
+Black Punishment
+cc
+Black Priest of the Blood Rite
+cc
+White Wall of Glare
+cc
+Black Shinen of Fear's Chill
+cc
+Blue Dismiss into Dream
+cc
+Red Tundra Kavu
+cc
+Blue Grasp of Phantoms
+cc
+Black Rampart Crawler
+cc
+Red Barbarian Bully
+cc
+Blue Thought Courier
+cc
+Green Shamanic Revelation
+cc
+Black Necra Sanctuary
+cc
+Green Locust Swarm
+cc
+Green Singing Tree
+cc
+White Split-Tail Miko
+cc
+Blue Reach Through Mists
+cc
+Green Druid's Familiar
+cc
+Green Charging Badger
+cc
+Red Scorching Lava
+cc
+Blue Niblis of the Breath
+cc
+White Benevolent Bodyguard
+cc
+Red Slaughter Cry
+cc
+Red Enrage
+cc
+Green Genesis Hydra
+cc
+Black Plague Wind
+cc
+Blue Mischievous Quanar
+cc
+Green Forbidden Lore
+cc
+Black Mind Slash
+cc
+White Enlightened Ascetic
+cc
+Red Signal the Clans
+cc
+Black Memoricide
+cc
+Blue Embargo
+cc
+White Makindi Patrol
+cc
+Red Molten Influence
+cc
+Black Cabal Archon
+cc
+White Changeling Hero
+cc
+Blue Miscalculation
+cc
+White War Oracle
+cc
+Red Leyline of Punishment
+cc
+Blue Paradox Haze
+cc
+Red Burst Lightning
+cc
+Blue Archaeomancer
+cc
+Green Floral Spuzzem
+cc
+Blue Enclave Elite
+cc
+Green Sylvan Might
+cc
+White Kjeldoran Pride
+cc
+Green Fangren Pathcutter
+cc
+White Wheel of Sun and Moon
+cc
+Red Fork
+cc
+White Disempower
+cc
+Blue Plaxcaster Frogling
+cc
+Green Savage Thallid
+cc
+Red Ruthless Invasion
+cc
+Blue Vodalian Illusionist
+cc
+Black Imperial Seal
+cc
+Black Dauthi Marauder
+cc
+White Righteous Blow
+cc
+White Moonwing Moth
+cc
+Green Krosan Reclamation
+cc
+Black Hollow Specter
+cc
+White Fervent Charge
+cc
+Green Ezuri's Brigade
+cc
+White Knight of the Holy Nimbus
+cc
+Black Contamination
+cc
+Green Wall of Blossoms
+cc
+Red Thromok the Insatiable
+cc
+Blue Ancestral Recall
+cc
+White Circle of Protection: Green
+cc
+White Ancestral Tribute
+cc
+Blue Blighted Agent
+cc
+Black Scavenging Scarab
+cc
+Black Vampire Warlord
+cc
+Blue Terraformer
+cc
+Black Urborg Justice
+cc
+Blue Confiscate
+cc
+White Azorius Arrester
+cc
+White Entangler
+cc
+Black Malakir Bloodwitch
+cc
+White Fusion Elemental
+cc
+Blue Island Fish Jasconius
+cc
+Black Void Maw
+cc
+Blue Turtleshell Changeling
+cc
+White Sigiled Paladin
+cc
+Green Nessian Wilds Ravager
+cc
+Green Reki, the History of Kamigawa
+cc
+White Helionaut
+cc
+Green Harabaz Druid
+cc
+Black Grim Contest
+cc
+White Vitu-Ghazi Guildmage
+cc
+Red Goblin Scouts
+cc
+Black Creakwood Ghoul
+cc
+Blue Rhystic Study
+cc
+Green Amphibious Kavu
+cc
+Green Plated Slagwurm
+cc
+Red Scarred Puma
+cc
+Blue Mizzium Meddler
+cc
+Red Viashino Sandscout
+cc
+Blue Fathom Seer
+cc
+White Belfry Spirit
+cc
+Blue Niv-Mizzet, the Firemind
+cc
+Red Aliban's Tower
+cc
+White Court Homunculus
+cc
+Green Life
+cc
+White Dramatic Rescue
+cc
+White Sigil Captain
+cc
+White Aven Brigadier
+cc
+Red Glitterfang
+cc
+Green Setessan Starbreaker
+cc
+Red Ricochet
+cc
+Blue Lurking Informant
+cc
+Red Dwarven Scorcher
+cc
+Blue Swirl the Mists
+cc
+Green Willow Priestess
+cc
+Blue Shipbreaker Kraken
+cc
+Blue Noggle Bridgebreaker
+cc
+Blue Gulf Squid
+cc
+White Guardian Angel
+cc
+Black Sign in Blood
+cc
+Blue Winter's Chill
+cc
+Blue Jokulmorder
+cc
+Red Orcish Squatters
+cc
+Green Bringer of the Green Dawn
+cc
+Black Vampire Lacerator
+cc
+Blue Riptide Chimera
+cc
+Blue Disruptive Pitmage
+cc
+Blue Unified Will
+cc
+White Shu Grain Caravan
+cc
+Blue Legerdemain
+cc
+Green Elvish Scrapper
+cc
+White Equal Treatment
+cc
+Green Leaf-Crowned Elder
+cc
+Green Verduran Emissary
+cc
+Blue Alluring Siren
+cc
+Black Reach of Shadows
+cc
+Black Crypt Incursion
+cc
+Black Night
+cc
+Black Scent of Nightshade
+cc
+Green Agent of Horizons
+cc
+Blue Dream Salvage
+cc
+Red Viashino Spearhunter
+cc
+Blue Rishadan Cutpurse
+cc
+Green Crabapple Cohort
+cc
+Blue Diluvian Primordial
+cc
+Green Essence of the Wild
+cc
+White Celestial Ancient
+cc
+Green River Bear
+cc
+Blue Halcyon Glaze
+cc
+Blue Talas Air Ship
+cc
+Blue Phantasmal Image
+cc
+Black Baleful Eidolon
+cc
+White Drogskol Captain
+cc
+Black Young Wei Recruits
+cc
+Green Changeling Titan
+cc
+Black Screeching Buzzard
+cc
+Blue Glint-Eye Nephilim
+cc
+Black Hooded Horror
+cc
+Green Gus
+cc
+Black Nihilith
+cc
+Blue Pact of Negation
+cc
+Red Metallic Mastery
+cc
+White Plow Through Reito
+cc
+Black Sultai Emissary
+cc
+White Windborne Charge
+cc
+Black Betrayal of Flesh
+cc
+Red Outmaneuver
+cc
+Red Chandra's Phoenix
+cc
+Green Rot Shambler
+cc
+Green Rib Cage Spider
+cc
+Black Wound Reflection
+cc
+Blue Statute of Denial
+cc
+Blue Zephyr Sprite
+cc
+White Anafenza, the Foremost
+cc
+Blue Headless Skaab
+cc
+White Godhead of Awe
+cc
+Black Murderous Redcap
+cc
+Black Syphon Flesh
+cc
+White Celestial Convergence
+cc
+Green Fyndhorn Pollen
+cc
+Blue Simic Charm
+cc
+Blue Turnabout
+cc
+White Alabaster Dragon
+cc
+Black Parasitic Implant
+cc
+White Guan Yu, Sainted Warrior
+cc
+Blue Wu Longbowman
+cc
+Red Conquering Manticore
+cc
+Black Vendetta
+cc
+Green Gaea's Avenger
+cc
+White Scion of Vitu-Ghazi
+cc
+Green Rootgrapple
+cc
+Red Tectonic Instability
+cc
+White Griffin Rider
+cc
+Blue Arcanum Wings
+cc
+Black Death
+cc
+Black Seal of Doom
+cc
+Green Salvage
+cc
+Red Goblin Hero
+cc
+Black Shrivel
+cc
+Black Mogis, God of Slaughter
+cc
+Red Tahngarth, Talruum Hero
+cc
+Blue Coral Reef
+cc
+Blue Split Decision
+cc
+Black Feast on the Fallen
+cc
+Black Returned Centaur
+cc
+White Animal Boneyard
+cc
+Blue Rites of Refusal
+cc
+Red Falling Star
+cc
+Red Scalding Salamander
+cc
+Green Pendelhaven Elder
+cc
+White Thundersong Trumpeter
+cc
+Black Evernight Shade
+cc
+White Hanna's Custody
+cc
+Blue Screeching Sliver
+cc
+White Kitesail Scout
+cc
+White Highspire Mantis
+cc
+Black Ad Nauseam
+cc
+White Haunted Angel
+cc
+Green Assault Formation
+cc
+Red Petradon
+cc
+White Holy Day
+cc
+Blue Scion of Oona
+cc
+White Leyline of Sanctity
+cc
+White Umbra Mystic
+cc
+Green Cytospawn Shambler
+cc
+White Orim's Chant
+cc
+White Get a Life
+cc
+Red Battle Sliver
+cc
+White Armored Warhorse
+cc
+Green Savage Surge
+cc
+White Seraph
+cc
+Blue Quicksilver Wall
+cc
+White Expedition Envoy
+cc
+Blue Sage-Eye Avengers
+cc
+Red Volcanic Offering
+cc
+Red Burning Earth
+cc
+White Kor Line-Slinger
+cc
+Green Ghor-Clan Savage
+cc
+Red Thunderscape Master
+cc
+Red Prickleboar
+cc
+Green Jaddi Offshoot
+cc
+White Moment of Heroism
+cc
+Blue Wall of Air
+cc
+Red Pyroconvergence
+cc
+Blue Harmattan Efreet
+cc
+Red Flailing Ogre
+cc
+White Rhys the Redeemed
+cc
+White Dawning Purist
+cc
+Red Lightning Serpent
+cc
+Blue Glimpse the Unthinkable
+cc
+White Soltari Crusader
+cc
+Red Fomori Nomad
+cc
+Blue Treasure Mage
+cc
+White Blaze of Glory
+cc
+Green Increasing Savagery
+cc
+Green Greenside Watcher
+cc
+Red Daretti, Scrap Savant
+cc
+Green Shaman of Forgotten Ways
+cc
+Black Shinen of Fear's Chill
+cc
+Green Avacyn's Pilgrim
+cc
+Blue Teferi's Curse
+cc
+Green Cardboard Carapace
+cc
+Green Dungrove Elder
+cc
+Red Incendiary Command
+cc
+White Akron Legionnaire
+cc
+White Shinewend
+cc
+Black Mind Slash
+cc
+Green Folk of An-Havva
+cc
+Green Dwell on the Past
+cc
+Red Daretti, Scrap Savant
+cc
+Blue Soul Manipulation
+cc
+White Rampant Elephant
+cc
+White Fountain Watch
+cc
+Green Leeching Bite
+cc
+Black Xathrid Gorgon
+cc
+Black Mind Shatter
+cc
+White Thistledown Duo
+cc
+Green Carnassid
+cc
+Blue Lorescale Coatl
+cc
+Blue Scion of Glaciers
+cc
+White Ephara's Radiance
+cc
+Black Bloodchief Ascension
+cc
+Black Vampiric Rites
+cc
+White Wane
+cc
+Red Blockbuster
+cc
+Blue War-Wing Siren
+cc
+Red Chaos Warp
+cc
+Black Dark Heart of the Wood
+cc
+Red Erdwal Ripper
+cc
+Red Devastating Summons
+cc
+Red Glyph of Destruction
+cc
+White Surge of Righteousness
+cc
+Blue Ribbon Snake
+cc
+Blue Swirl the Mists
+cc
+Red Ion Storm
+cc
+Black Woebringer Demon
+cc
+Green Wild Hunger
+cc
+Green Alpha Status
+cc
+Green Cylian Sunsinger
+cc
+Red Jackal Pup
+cc
+Blue Galerider Sliver
+cc
+Blue Maelstrom Djinn
+cc
+Red Stromkirk Noble
+cc
+White Southern Paladin
+cc
+Green Whisperer of the Wilds
+cc
+Blue Seer's Vision
+cc
+Blue Ugin's Insight
+cc
+Green Animist's Awakening
+cc
+Green Whisperwood Elemental
+cc
+Blue Armored Cancrix
+cc
+Blue Magical Hacker
+cc
+Green Broodhunter Wurm
+cc
+Black Ashes to Ashes
+cc
+Black Undying Beast
+cc
+Green Locust Swarm
+cc
+White Serra Inquisitors
+cc
+Black Catacomb Slug
+cc
+Red Crucible of Fire
+cc
+Blue Extinguish
+cc
+Black Keeper of the Dead
+cc
+Green Sakura-Tribe Scout
+cc
+White Tempered Steel
+cc
+Green Fat Ass
+cc
+Green Hua Tuo, Honored Physician
+cc
+White Zhao Zilong, Tiger General
+cc
+Black Spinning Darkness
+cc
+Blue Ringskipper
+cc
+Red Keldon Mantle
+cc
+White Rune-Tail, Kitsune Ascendant
+cc
+Black Cadaverous Bloom
+cc
+Blue Merfolk Traders
+cc
+White Puresteel Paladin
+cc
+Red Goblin Piker
+cc
+Black Breathstealer
+cc
+Black Midnight Banshee
+cc
+Black Coffin Puppets
+cc
+Blue Disruptive Pitmage
+cc
+White Augur il-Vec
+cc
+White Glaciers
+cc
+White Pride of the Clouds
+cc
+Red Primal Visitation
+cc
+Green Bifurcate
+cc
+Red Red Sun's Zenith
+cc
+Green Quick Sliver
+cc
+Blue Hisoka, Minamo Sensei
+cc
+Red Hivis of the Scale
+cc
+Black Dunerider Outlaw
+cc
+Black Gate to Phyrexia
+cc
+Black Earthlink
+cc
+White Fire and Brimstone
+cc
+Red Blitz Hellion
+cc
+Black Chilling Apparition
+cc
+Black Necromancer's Assistant
+cc
+Black Liturgy of Blood
+cc
+Black Revenant
+cc
+White Safewright Quest
+cc
+Black Salvage Titan
+cc
+Black Dakmor Ghoul
+cc
+White Narrow Escape
+cc
+Blue Baleful Strix
+cc
+Green Storm Seeker
+cc
+White Luminous Angel
+cc
+White Jelenn Sphinx
+cc
+Black Rouse
+cc
+Black Sengir Nosferatu
+cc
+White Crude Rampart
+cc
+Black Whispering Specter
+cc
+White Tonic Peddler
+cc
+Red Furnace Celebration
+cc
+Green Tanglesap
+cc
+Blue Counterintelligence
+cc
+White Glaciers
+cc
+Black Frankenstein's Monster
+cc
+Green Highland Game
+cc
+Black Corpseweft
+cc
+Green Hitchclaw Recluse
+cc
+Blue Stormchaser Chimera
+cc
+Green False Mourning
+cc
+Black Keeper of Tresserhorn
+cc
+Red Impulsive Maneuvers
+cc
+Red Chandra's Spitfire
+cc
+Black Prowess of the Fair
+cc
+White Herald of Anafenza
+cc
+Red Mountain Bandit
+cc
+Green Life and Limb
+cc
+Blue Rush of Knowledge
+cc
+White Watcher Sliver
+cc
+Blue Faerie Swarm
+cc
+White Crimson Acolyte
+cc
+Black Moonglove Changeling
+cc
+Red Detritivore
+cc
+Blue Wu Spy
+cc
+Green Whiteout
+cc
+Green Flash Foliage
+cc
+Blue Havengul Runebinder
+cc
+Black Oubliette
+cc
+Blue Mimeofacture
+cc
+Red Atarka, World Render
+cc
+White Ageless Sentinels
+cc
+Green Pinion Feast
+cc
+Black Dark Impostor
+cc
+Black Nether Void
+cc
+White Beast Walkers
+cc
+Red Desperate Ravings
+cc
+Blue The Unspeakable
+cc
+Black Rotting Giant
+cc
+Red Barbed Field
+cc
+Red Burning-Tree Bloodscale
+cc
+Black Crypt Ghast
+cc
+Red Rummaging Goblin
+cc
+Green Overrun
+cc
+Red Sowing Salt
+cc
+White Evershrike
+cc
+Black Order of Yawgmoth
+cc
+Black Rampart Crawler
+cc
+White Steadfast Guard
+cc
+White Temple Acolyte
+cc
+White Brago, King Eternal
+cc
+White Pariah
+cc
+Blue Power Sink
+cc
+Black Dark Offering
+cc
+White Sighted-Caste Sorcerer
+cc
+Green Restock
+cc
+Black Gluttonous Zombie
+cc
+White Hope and Glory
+cc
+White Blinding Mage
+cc
+Red Dragon Tyrant
+cc
+Green Broken Fall
+cc
+Red Fire Tempest
+cc
+White Reviving Vapors
+cc
+Blue Stubborn Denial
+cc
+Blue Airborne Aid
+cc
+Blue Spell Pierce
+cc
+Green Primordial Hydra
+cc
+Blue Archive Trap
+cc
+Black Traitor's Clutch
+cc
+Green Gloomwidow
+cc
+White Collective Blessing
+cc
+White Sphinx's Revelation
+cc
+Red Twin Bolt
+cc
+Black Choking Sands
+cc
+Black Helldozer
+cc
+Black Clot Sliver
+cc
+Red Barbed Field
+cc
+Green Whisperer of the Wilds
+cc
+Blue Deep Water
+cc
+Red Blistering Dieflyn
+cc
+Blue Dominate
+cc
+Blue Inertia Bubble
+cc
+White Voice of Law
+cc
+Blue Wormfang Behemoth
+cc
+White Resurrection
+cc
+Green Atarka Beastbreaker
+cc
+Black Unliving Psychopath
+cc
+Red Scoria Cat
+cc
+White Mass Calcify
+cc
+Black Cursed Ronin
+cc
+White Guan Yu, Sainted Warrior
+cc
+Blue Checks and Balances
+cc
+Blue Lost in a Labyrinth
+cc
+Red Lizard Warrior
+cc
+Black Decaying Soil
+cc
+Black Mazirek, Kraul Death Priest
+cc
+Blue Merfolk Assassin
+cc
+Blue View from Above
+cc
+White Avatar of Hope
+cc
+White Angel of Jubilation
+cc
+Black Pit Keeper
+cc
+Red Goblin Berserker
+cc
+Blue Sphinx's Tutelage
+cc
+Blue Lantern Spirit
+cc
+Green Elvish Herder
+cc
+White Cage of Hands
+cc
+Blue Merchant Scroll
+cc
+Red Bludgeon Brawl
+cc
+Black Marshmist Titan
+cc
+Red Flames of the Firebrand
+cc
+White Sharuum the Hegemon
+cc
+Green Aggressive Urge
+cc
+Green Slashing Tiger
+cc
+Red Laccolith Whelp
+cc
+White Skyhunter Patrol
+cc
+White Deploy to the Front
+cc
+Black Minotaur Abomination
+cc
+Black Dauthi Marauder
+cc
+Black Deadly Wanderings
+cc
+Red Flamespeaker's Will
+cc
+Red Magus of the Arena
+cc
+White Invincible Hymn
+cc
+Black Whip of Erebos
+cc
+White Auriok Transfixer
+cc
+White Righteous Blow
+cc
+Blue Cytoshape
+cc
+Red Fervor
+cc
+Blue Logic Knot
+cc
+Green Heal the Scars
+cc
+White Circle of Protection: White
+cc
+White Cloudchaser Eagle
+cc
+Green Sustenance
+cc
+White Lionheart Maverick
+cc
+Black Dark Supplicant
+cc
+White Lightbringer
+cc
+Black Painful Truths
+cc
+Red Explosive Revelation
+cc
+Red Shinen of Fury's Fire
+cc
+Blue Dementia Sliver
+cc
+Black Phyrexian Monitor
+cc
+Green Wolfir Avenger
+cc
+Green Zodiac Ox
+cc
+White Oaken Brawler
+cc
+Blue Civilized Scholar
+cc
+Green Mosstodon
+cc
+Red Sizzle
+cc
+Red Trained Orgg
+cc
+Black Decompose
+cc
+Black Quag Vampires
+cc
+White Loxodon Gatekeeper
+cc
+White Gerrard's Wisdom
+cc
+Blue Spined Thopter
+cc
+Blue Embodiment of Spring
+cc
+Blue Dungeon Geists
+cc
+Red Eron the Relentless
+cc
+Blue Ceta Sanctuary
+cc
+Black Nyx Weaver
+cc
+Blue Twincast
+cc
+Red Viashino Grappler
+cc
+Green Krosan Restorer
+cc
+Green Vorapede
+cc
+White Steel of the Godhead
+cc
+Black Squandered Resources
+cc
+Blue Arcanis the Omnipotent
+cc
+Blue Damia, Sage of Stone
+cc
+White Nyx-Fleece Ram
+cc
+Red Whims of the Fates
+cc
+Red Wheel of Fate
+cc
+White Empyrial Armor
+cc
+Blue Flash of Insight
+cc
+Red Goblin Brawler
+cc
+Red Sowing Salt
+cc
+Red Wrecking Ogre
+cc
+White Bloodied Ghost
+cc
+Blue Daze
+cc
+White Leering Gargoyle
+cc
+Green Green Sun's Zenith
+cc
+Blue Stormscape Familiar
+cc
+Green Animal Magnetism
+cc
+Green Herdchaser Dragon
+cc
+Black Akuta, Born of Ash
+cc
+Blue Mind Spring
+cc
+Green Tornado
+cc
+Blue Word of Undoing
+cc
+Green Instill Energy
+cc
+Blue Convolute
+cc
+Red Cunning Sparkmage
+cc
+White Aven Battle Priest
+cc
+Black Baleful Eidolon
+cc
+Red Bloodmark Mentor
+cc
+White Terashi's Cry
+cc
+Black Lord of the Pit
+cc
+Black Crippling Fatigue
+cc
+Green Trumpeting Armodon
+cc
+Green Roughshod Mentor
+cc
+White Ramosian Sergeant
+cc
+White Suppression Bonds
+cc
+Blue Steam Augury
+cc
+White Clergy en-Vec
+cc
+Blue Coralhelm Commander
+cc
+Red Kobold Drill Sergeant
+cc
+Blue Counterlash
+cc
+Red Shivan Wurm
+cc
+Black Demonic Hordes
+cc
+Red Forked Bolt
+cc
+White Shield of Duty and Reason
+cc
+Red Blistering Barrier
+cc
+Black Festering March
+cc
+Blue Quiet Contemplation
+cc
+Red Goblin Bangchuckers
+cc
+Red Ash Zealot
+cc
+Green Boon Satyr
+cc
+White Debt to the Deathless
+cc
+Red Sudden Impact
+cc
+Green Thrill of the Hunt
+cc
+Red Giant Trap Door Spider
+cc
+Blue Thought Reflection
+cc
+White Reclamation
+cc
+White Loxodon Wayfarer
+cc
+White Knight of Dawn
+cc
+Blue Capture of Jingzhou
+cc
+Black Skulking Ghost
+cc
+Red Bust
+cc
+Black Skirsdag Flayer
+cc
+Black Stronghold Assassin
+cc
+Blue Choking Tethers
+cc
+Red Reckless Embermage
+cc
+White Inquisitor Exarch
+cc
+Green Street Savvy
+cc
+Blue Owl Familiar
+cc
+Red Convulsing Licid
+cc
+White Warrior en-Kor
+cc
+White Argivian Archaeologist
+cc
+Red Flowstone Mauler
+cc
+White Alabaster Leech
+cc
+Red Fling
+cc
+Red Sigiled Skink
+cc
+Red Scab-Clan Berserker
+cc
+Blue Mist of Stagnation
+cc
+Blue Reach Through Mists
+cc
+Green Lys Alana Bowmaster
+cc
+Green Zodiac Monkey
+cc
+Black Famished Ghoul
+cc
+Black Magus of the Abyss
+cc
+Red Flowstone Channeler
+cc
+Blue Homarid Spawning Bed
+cc
+Black Sorceress Queen
+cc
+Blue Talrand, Sky Summoner
+cc
+Green Serpent Skin
+cc
+Green Tajuru Archer
+cc
+White Cavalry Master
+cc
+Green Kavu Predator
+cc
+Green Elder Pine of Jukai
+cc
+Blue Determined
+cc
+Red Avatar of Slaughter
+cc
+Blue Phantasmal Forces
+cc
+Green Game-Trail Changeling
+cc
+White Treva, the Renewer
+cc
+White Harrier Griffin
+cc
+Green Rib Cage Spider
+cc
+White Cardpecker
+cc
+Red Rage Extractor
+cc
+Blue Serpent of the Endless Sea
+cc
+Blue Riverwheel Aerialists
+cc
+Black Poison Arrow
+cc
+White Supply
+cc
+Black Muck Rats
+cc
+Red Krark-Clan Shaman
+cc
+Black Agonizing Memories
+cc
+White Great Wall
+cc
+Blue Mist of Stagnation
+cc
+Green Centaur Chieftain
+cc
+Black Skittering Monstrosity
+cc
+Red Akki Avalanchers
+cc
+Red Akki Rockspeaker
+cc
+Black Sengir Bats
+cc
+White Daily Regimen
+cc
+Green Zendikar Resurgent
+cc
+Red Barrel Down Sokenzan
+cc
+Black Brink of Madness
+cc
+Green Ivy Seer
+cc
+Black Endemic Plague
+cc
+Green Geist Trappers
+cc
+Blue Cephalid Constable
+cc
+Black Innocent Blood
+cc
+Red Balduvian Hydra
+cc
+Blue Archaeomancer
+cc
+Green Baru, Fist of Krosa
+cc
+White Martial Law
+cc
+Red Tok-Tok, Volcano Born
+cc
+White Vectis Dominator
+cc
+Green Wolfir Avenger
+cc
+White Sanctuary Cat
+cc
+White Aven Mimeomancer
+cc
+Red Terra Ravager
+cc
+Blue Stern Mentor
+cc
+Black Null Caller
+cc
+Red Flash of Defiance
+cc
+Green Regenerate
+cc
+White Serra Bestiary
+cc
+Blue Jinx
+cc
+White Safehold Sentry
+cc
+Red Lightning Mauler
+cc
+Green Raised by Wolves
+cc
+Red Goblin Patrol
+cc
+Blue Soramaro, First to Dream
+cc
+Green Vorinclex, Voice of Hunger
+cc
+Black Sick and Tired
+cc
+Blue Siren's Call
+cc
+Green Taoist Hermit
+cc
+Blue Fledgling Osprey
+cc
+Blue Ether Well
+cc
+White Kjeldoran Skyknight
+cc
+White Efreet Weaponmaster
+cc
+White Nomad Mythmaker
+cc
+White Fall of the Gavel
+cc
+Blue Seahunter
+cc
+Black Hit
+cc
+Green Viridian Scout
+cc
+White Bargain
+cc
+White Leyline of the Meek
+cc
+Green Wren's Run Vanquisher
+cc
+Blue Cloud Manta
+cc
+Green Greenhilt Trainee
+cc
+Blue Abomination of Gudul
+cc
+Blue Haunter of Nightveil
+cc
+White Flowstone Charger
+cc
+Green Cyclone
+cc
+White Shield of Duty and Reason
+cc
+White Mangara's Blessing
+cc
+Blue Dimir Infiltrator
+cc
+Green Greener Pastures
+cc
+Red Shivan Wumpus
+cc
+Green Vorapede
+cc
+Blue Metathran Zombie
+cc
+Blue Zur's Weirding
+cc
+Blue Glimpse the Unthinkable
+cc
+Black Rakshasa's Secret
+cc
+Blue Amphin Pathmage
+cc
+Red Surge of Strength
+cc
+Green Wirewood Symbiote
+cc
+White Angelic Blessing
+cc
+Blue Anthroplasm
+cc
+White Flowstone Charger
+cc
+Black Season of the Witch
+cc
+Red Red-Hot Hottie
+cc
+Blue Favor of the Overbeing
+cc
+Black Bellowing Saddlebrute
+cc
+Red Fire Tempest
+cc
+Black Martyr of Bones
+cc
+White Siege Rhino
+cc
+White Convalescent Care
+cc
+Black Death Pit Offering
+cc
+Red Fit of Rage
+cc
+Blue Tomoya the Revealer
+cc
+White Ancestor's Prophet
+cc
+Black Illness in the Ranks
+cc
+White Arctic Foxes
+cc
+Black Skirsdag High Priest
+cc
+Black Ruinous Path
+cc
+Green Mosstodon
+cc
+Green Venomous Dragonfly
+cc
+Black Sorceress Queen
+cc
+Green Selvala's Charge
+cc
+Black Liliana of the Dark Realms
+cc
+Red Magma Sliver
+cc
+White Marked by Honor
+cc
+Blue Braingeyser
+cc
+Red Incendiary
+cc
+Red Pursuit of Flight
+cc
+Green People of the Woods
+cc
+White Sacred Ground
+cc
+White Ramosian Sergeant
+cc
+Red Shivan Phoenix
+cc
+Green Freyalise's Charm
+cc
+White Harm's Way
+cc
+Green Venomous Dragonfly
+cc
+Red Thunder Brute
+cc
+White Bloodied Ghost
+cc
+Red Embermage Goblin
+cc
+White Kjeldoran Gargoyle
+cc
+Red Gorehorn Minotaurs
+cc
+Black Liturgy of Blood
+cc
+White Centaur Safeguard
+cc
+Blue Ezuri, Claw of Progress
+cc
+White Martyr's Cause
+cc
+Red War Elemental
+cc
+Red Banners Raised
+cc
+Green Frontier Mastodon
+cc
+Red Ghitu War Cry
+cc
+Green Flock of Rabid Sheep
+cc
+Black Cabal Inquisitor
+cc
+Green Heir of the Wilds
+cc
+Green Ambush Commander
+cc
+Red Treasonous Ogre
+cc
+White Trained Pronghorn
+cc
+Black Mindstab
+cc
+White Pollen Remedy
+cc
+Black Darkblast
+cc
+Black Cairn Wanderer
+cc
+Black Feebleness
+cc
+Blue Spiketail Hatchling
+cc
+Black Hex
+cc
+Red Unstable Hulk
+cc
+Red Sandstone Warrior
+cc
+White Somnomancer
+cc
+White Wings of Hope
+cc
+Black Warren Weirding
+cc
+Red Shatterskull Recruit
+cc
+Black Onyx Goblet
+cc
+Green Become Immense
+cc
+White Stormfront Pegasus
+cc
+Black Kuon's Essence
+cc
+Green Krosan Vorine
+cc
+Black Plague Wind
+cc
+Black Sultai Emissary
+cc
+Red Mob Mentality
+cc
+Red Ashen Monstrosity
+cc
+Red Last Chance
+cc
+White Zhalfirin Commander
+cc
+Blue Gitaxian Probe
+cc
+Red Torchling
+cc
+Black Western Paladin
+cc
+White Kor Outfitter
+cc
+Red Stone Rain
+cc
+Blue Lumengrid Warden
+cc
+Black Perish
+cc
+White Ranger of Eos
+cc
+Green Ichneumon Druid
+cc
+Blue Hisoka, Minamo Sensei
+cc
+Red Plunder
+cc
+White Archery Training
+cc
+Blue Dralnu's Pet
+cc
+Blue Sultai Charm
+cc
+Green Groundbreaker
+cc
+Blue Ribbons of the Reikai
+cc
+Black Syphon Flesh
+cc
+White Banisher Priest
+cc
+Green Shinen of Life's Roar
+cc
+Blue Withering Gaze
+cc
+Black Vampiric Touch
+cc
+White Sunseed Nurturer
+cc
+White Cleanfall
+cc
+White Spear of Heliod
+cc
+White Fiery Justice
+cc
+Red Bloodcrazed Goblin
+cc
+White Leonin Armorguard
+cc
+Blue Weatherseed Faeries
+cc
+White Offering to Asha
+cc
+Black Terror
+cc
+White Skyknight Legionnaire
+cc
+Red Jeering Instigator
+cc
+Blue Backfire
+cc
+Black Warped Devotion
+cc
+Blue Keranos, God of Storms
+cc
+Blue Trapmaker's Snare
+cc
+Blue Sage's Dousing
+cc
+Red Pyrostatic Pillar
+cc
+Green Descendant of Masumaro
+cc
+White Temporary Truce
+cc
+White Ondu Greathorn
+cc
+White Aurification
+cc
+Blue Oppressive Will
+cc
+Red Mons's Goblin Raiders
+cc
+Red Towering Thunderfist
+cc
+Black Curse of Oblivion
+cc
+White Angel of Retribution
+cc
+White Atalya, Samite Master
+cc
+Blue Magnetic Flux
+cc
+White Ponyback Brigade
+cc
+Red Viashino Cutthroat
+cc
+Red Fiery Gambit
+cc
+White Martial Law
+cc
+Black Deepwood Ghoul
+cc
+White Fervent Charge
+cc
+Red Sabretooth Tiger
+cc
+White Chronosavant
+cc
+Green Primal Cocoon
+cc
+Blue Index
+cc
+Green Forcemage Advocate
+cc
+Black Cabal Surgeon
+cc
+Red Dwarven Catapult
+cc
+Green Karplusan Strider
+cc
+Black Tribute to Hunger
+cc
+Blue Homarid Spawning Bed
+cc
+Red Hellkite Tyrant
+cc
+White Stony Silence
+cc
+Green Karoo Meerkat
+cc
+Black Spawn of Rix Maadi
+cc
+Blue Illusionary Wall
+cc
+Black Emberstrike Duo
+cc
+White Messenger Falcons
+cc
+Green Land Grant
+cc
+White Scourglass
+cc
+White Azorius Herald
+cc
+Blue Dralnu, Lich Lord
+cc
+Green Rain of Thorns
+cc
+Red Inferno
+cc
+Green Font of Fertility
+cc
+Green Oran-Rief Hydra
+cc
+Red Boiling Earth
+cc
+Green Scaled Wurm
+cc
+Red Fury of the Horde
+cc
+Green Might of the Masses
+cc
+Green Bassara Tower Archer
+cc
+White Spiritual Guardian
+cc
+Green Savage Punch
+cc
+Black Kokusho, the Evening Star
+cc
+Red Goblin Glider
+cc
+Black Hasran Ogress
+cc
+Blue Psychic Trance
+cc
+Green Garruk, Primal Hunter
+cc
+Blue Balloon Peddler
+cc
+Green Seedtime
+cc
+White Assemble the Legion
+cc
+Red Shard Volley
+cc
+White Knight of the Hokey Pokey
+cc
+Red Undying Rage
+cc
+Black Din of the Fireherd
+cc
+Black Grotesque Hybrid
+cc
+Green Mythic Proportions
+cc
+Red Clash of Realities
+cc
+Red Heckling Fiends
+cc
+Blue Halcyon Glaze
+cc
+White Akron Legionnaire
+cc
+Green Oath of the Ancient Wood
+cc
+Blue Voidwalk
+cc
+Red Spiraling Embers
+cc
+Blue Undertow
+cc
+Black Malevolent Awakening
+cc
+Red Skarrgan Skybreaker
+cc
+Blue Cunning Strike
+cc
+White Woeleecher
+cc
+Green Beastbreaker of Bala Ged
+cc
+Blue Veiling Oddity
+cc
+Green Marker Beetles
+cc
+Red Ghitu Slinger
+cc
+Blue Trusted Advisor
+cc
+Black Disciple of Bolas
+cc
+Green Vital Splicer
+cc
+Blue Merseine
+cc
+Red Defender of Chaos
+cc
+Red Regathan Firecat
+cc
+Black Shambling Ghoul
+cc
+Green Elvish Scrapper
+cc
+Blue Urborg Drake
+cc
+Blue Living Lore
+cc
+Green Might of the Masses
+cc
+White Energy Arc
+cc
+Green Bloated Toad
+cc
+Green Turn to Dust
+cc
+Blue Novijen Sages
+cc
+Green Vorapede
+cc
+Black Dragon Shadow
+cc
+Black Grim Roustabout
+cc
+White Spectral Guardian
+cc
+White Blessed Reversal
+cc
+Blue Manta Ray
+cc
+Red Pact of the Titan
+cc
+Red Close Quarters
+cc
+Red What
+cc
+Green Mine, Mine, Mine!
+cc
+White Icatian Scout
+cc
+White Horned Cheetah
+cc
+Blue Overwhelming Denial
+cc
+Green Aluren
+cc
+Blue Defensive Stance
+cc
+Green Revealing Wind
+cc
+Green Llanowar Cavalry
+cc
+Red Akroan Sergeant
+cc
+Red Thorncaster Sliver
+cc
+Blue Calcite Snapper
+cc
+White Wordmail
+cc
+White Degavolver
+cc
+White Nobilis of War
+cc
+Red Viashino Racketeer
+cc
+Red Orcish Librarian
+cc
+Green Natural Selection
+cc
+White Seraph of Dawn
+cc
+Red Brute Force
+cc
+Black Sisters of Stone Death
+cc
+Black Midnight Recovery
+cc
+Green Nantuko Vigilante
+cc
+Blue Outwit
+cc
+White Vizkopa Confessor
+cc
+Green Mantle of Webs
+cc
+Green Tarpan
+cc
+Blue Windrider Eel
+cc
+Black Macabre Waltz
+cc
+White Trial
+cc
+Black Stone Catapult
+cc
+Black Frenzy Sliver
+cc
+White Lost Leonin
+cc
+White Force Bubble
+cc
+Red Frostwielder
+cc
+Blue Arcane Melee
+cc
+Red Burn the Impure
+cc
+White Avenging Angel
+cc
+Red Paragon of Fierce Defiance
+cc
+White Safeguard
+cc
+Red Swirling Sandstorm
+cc
+Black Shadowborn Apostle
+cc
+Red Flowstone Slide
+cc
+White Circle of Protection: Artifacts
+cc
+Green Unstoppable Ash
+cc
+White Rhox Bodyguard
+cc
+Green Dense Foliage
+cc
+Blue Wind Zendikon
+cc
+White Suture Priest
+cc
+Red Stoneshaker Shaman
+cc
+White Purify
+cc
+Green Rampaging Baloths
+cc
+White Manacles of Decay
+cc
+Blue Tolarian Serpent
+cc
+Blue Shaper Parasite
+cc
+Black Pit Scorpion
+cc
+Blue Skeleton Ship
+cc
+Green Grave Sifter
+cc
+Blue Ethereal Usher
+cc
+Black Afflict
+cc
+Green Strength in Numbers
+cc
+Green Heroes' Bane
+cc
+Black Dread Slaver
+cc
+Green Mirri, Cat Warrior
+cc
+Blue Fledgling Osprey
+cc
+Red Mardu Runemark
+cc
+Black Haakon, Stromgald Scourge
+cc
+Blue Omnibian
+cc
+Blue Unifying Theory
+cc
+Red Kavu Recluse
+cc
+Red Warrior's Oath
+cc
+Green Storm Seeker
+cc
+Green Flowering Lumberknot
+cc
+White Martyrs' Tomb
+cc
+Black Royal Assassin
+cc
+Green Double Play
+cc
+Blue Doorkeeper
+cc
+Black Nighthaze
+cc
+Black Servant of Volrath
+cc
+Black Nyxborn Eidolon
+cc
+White Reliquary Monk
+cc
+White Suleiman's Legacy
+cc
+Black Psychotic Episode
+cc
+Red The Lady of the Mountain
+cc
+Black Last Kiss
+cc
+Red Akki Lavarunner
+cc
+White Leyline of Sanctity
+cc
+Blue Hammerhead Shark
+cc
+Green Natural Affinity
+cc
+Green Kithkin Daggerdare
+cc
+Green Martyr of Spores
+cc
+White Titanic Ultimatum
+cc
+Red Robber Fly
+cc
+Black Dark Petition
+cc
+Black Sootwalkers
+cc
+Blue Sivitri Scarzam
+cc
+Red Dwarven Armorer
+cc
+White Aven Farseer
+cc
+White Catastrophe
+cc
+Blue Runeboggle
+cc
+Green Pulse of the Tangle
+cc
+White Auramancer
+cc
+Green Grounded
+cc
+Blue Fallowsage
+cc
+Blue Psychic Membrane
+cc
+Blue Sunder
+cc
+Green Burr Grafter
+cc
+Blue Mnemonic Wall
+cc
+Green Thelon's Curse
+cc
+Red Yellow Scarves Cavalry
+cc
+Green Brontotherium
+cc
+White Defiant Vanguard
+cc
+Red Exuberant Firestoker
+cc
+White Knight Exemplar
+cc
+Red Kolaghan Stormsinger
+cc
+Blue Cerulean Wyvern
+cc
+Green Ley Line
+cc
+White Derevi, Empyrial Tactician
+cc
+Blue Compulsive Research
+cc
+Green Glowering Rogon
+cc
+Black Simulacrum
+cc
+Black Gaze of the Gorgon
+cc
+Red Fire Tempest
+cc
+Black Howl from Beyond
+cc
+Green Tribal Forcemage
+cc
+Black Basal Sliver
+cc
+Green Sylvan Offering
+cc
+Black Murderous Cut
+cc
+Red Tyrant of Valakut
+cc
+Blue Flash of Insight
+cc
+White Brago, King Eternal
+cc
+Red Ancient Hellkite
+cc
+Black Shoreline Salvager
+cc
+Green Serene Heart
+cc
+Black Forbidden Ritual
+cc
+Blue Benthic Behemoth
+cc
+Black Bog Rats
+cc
+Red Flamespeaker Adept
+cc
+Blue Tidebinder Mage
+cc
+Black Self-Inflicted Wound
+cc
+Red Flowstone Salamander
+cc
+Green Calming Verse
+cc
+Green Scout the Borders
+cc
+Blue Tricks of the Trade
+cc
+Red Stalking Vengeance
+cc
+Green Magnigoth Treefolk
+cc
+Black Disciple of the Vault
+cc
+Blue Merfolk Sovereign
+cc
+Black Demonic Taskmaster
+cc
+Red Rock Hydra
+cc
+Red Sokenzan Spellblade
+cc
+Black Erg Raiders
+cc
+Blue Welkin Tern
+cc
+Blue Red Cliffs Armada
+cc
+Red Vent Sentinel
+cc
+White Citadel Siege
+cc
+Blue Kederekt Creeper
+cc
+Red Thunder of Hooves
+cc
+Red Balthor the Stout
+cc
+Black Ghostflame Sliver
+cc
+Green Mul Daya Channelers
+cc
+Black Skulltap
+cc
+Blue Sea Eagle
+cc
+Blue Repulse
+cc
+White Midvast Protector
+cc
+Red Wall of Torches
+cc
+Green Hunt Down
+cc
+Red Crag Saurian
+cc
+Black Blanket of Night
+cc
+Black Consumptive Goo
+cc
+White Storm Spirit
+cc
+Red Mogg Toady
+cc
+White Triad of Fates
+cc
+Black Necrogen Scudder
+cc
+Red Foundry Street Denizen
+cc
+White Marble Titan
+cc
+Black Decompose
+cc
+Blue Sultai Soothsayer
+cc
+Black Corpse Connoisseur
+cc
+White Death Ward
+cc
+Red Genju of the Spires
+cc
+Blue Master the Way
+cc
+Green Mine, Mine, Mine!
+cc
+Red Lavaball Trap
+cc
+Red Evaporate
+cc
+Black Village Cannibals
+cc
+Blue Amphin Pathmage
+cc
+Green Nest Invader
+cc
+Black Nezumi Shadow-Watcher
+cc
+Blue Eye Spy
+cc
+White Calciderm
+cc
+White Feeling of Dread
+cc
+Black Dawn of the Dead
+cc
+Black Binding Agony
+cc
+White Leeches
+cc
+White Immolating Glare
+cc
+Black Underworld Dreams
+cc
+Green Quest for the Gemblades
+cc
+Black Gutless Ghoul
+cc
+Blue Talrand's Invocation
+cc
+Blue False Summoning
+cc
+Blue Downpour
+cc
+Green Unstoppable Ash
+cc
+Blue Tideforce Elemental
+cc
+Red Firefly
+cc
+Blue Psychic Strike
+cc
+Red Fallen Ferromancer
+cc
+Green Ravenous Leucrocota
+cc
+White Bant Sojourners
+cc
+White Double Dip
+cc
+Red Spitting Earth
+cc
+Green Festerhide Boar
+cc
+White Trace of Abundance
+cc
+White Glimmerpoint Stag
+cc
+Green Revenge of the Hunted
+cc
+Black Warped Devotion
+cc
+Blue Torrent Elemental
+cc
+Black Oath of Ghouls
+cc
+Red Mad Dog
+cc
+Blue Azami, Lady of Scrolls
+cc
+Green Loam Larva
+cc
+Red Orcish Paratroopers
+cc
+Black Lotleth Troll
+cc
+White The Cheese Stands Alone
+cc
+Black Shambling Swarm
+cc
+Green Cavern Thoctar
+cc
+Green Snake of the Golden Grove
+cc
+Black Kezzerdrix
+cc
+Black Lifebane Zombie
+cc
+Blue Sorry
+cc
+White Priests of Norn
+cc
+Green Predatory Focus
+cc
+Blue Laquatus's Disdain
+cc
+White Hundred-Talon Strike
+cc
+Green Howling Gale
+cc
+Blue Dizzy Spell
+cc
+Black Pit Scorpion
+cc
+Black Dark Prophecy
+cc
+Red Sensation Gorger
+cc
+Black Deathspore Thallid
+cc
+Blue Spell Syphon
+cc
+White Oriss, Samite Guardian
+cc
+Black Maelstrom Pulse
+cc
+Red Tempt with Vengeance
+cc
+Green Rattleclaw Mystic
+cc
+Red Vithian Stinger
+cc
+Red Spikeshot Elder
+cc
+Blue Hermetic Study
+cc
+Green Deepwood Elder
+cc
+Black Bog Glider
+cc
+Blue Mystical Tutor
+cc
+Red Belligerent Whiptail
+cc
+White Sphinx's Revelation
+cc
+Red Goatnapper
+cc
+Black Murderous Betrayal
+cc
+White Ghost-Lit Redeemer
+cc
+White Kiss of the Amesha
+cc
+White Iroas, God of Victory
+cc
+Green Rude Awakening
+cc
+Red Yellow Scarves General
+cc
+White Keen-Eyed Archers
+cc
+Green Carven Caryatid
+cc
+Black Deathgazer
+cc
+Red Armorer Guildmage
+cc
+Green Elvish Branchbender
+cc
+Blue Cloud Pirates
+cc
+White Tithe Drinker
+cc
+Black Thief of Blood
+cc
+Blue Kiora, Master of the Depths
+cc
+Red Charmbreaker Devils
+cc
+Green Juniper Order Druid
+cc
+Black Entering
+cc
+White Ardent Recruit
+cc
+Blue Distant Memories
+cc
+Red Homura, Human Ascendant
+cc
+Green Rabid Elephant
+cc
+Black Perish the Thought
+cc
+Green Forked-Branch Garami
+cc
+Black Dawn of the Dead
+cc
+Black Squelching Leeches
+cc
+Blue Triton Fortune Hunter
+cc
+Red Scorching Missile
+cc
+Green Crossbow Ambush
+cc
+White Unruly Mob
+cc
+Blue Stratus Walk
+cc
+Red Basalt Gargoyle
+cc
+Blue Nephalia Seakite
+cc
+Blue Palinchron
+cc
+Black Dauthi Jackal
+cc
+Green Vine Dryad
+cc
+Blue Jhessian Thief
+cc
+Blue Turtleshell Changeling
+cc
+Green Fangren Marauder
+cc
+Blue Delusions of Mediocrity
+cc
+Blue Nyxborn Triton
+cc
+Green Prismatic Omen
+cc
+Blue Somnophore
+cc
+Black Ancient Craving
+cc
+White Archangel's Light
+cc
+Blue Think Tank
+cc
+Green Broodhunter Wurm
+cc
+Black Darkpact
+cc
+White Angel of Despair
+cc
+White Blue Ward
+cc
+Black Deathcurse Ogre
+cc
+Red Blades of Velis Vel
+cc
+White Thunder Spirit
+cc
+Blue Surgespanner
+cc
+Blue Chronatog
+cc
+Red Shocker
+cc
+Red Hurly-Burly
+cc
+Black Lord of the Undead
+cc
+Green Roar of Challenge
+cc
+Red Zo-Zu the Punisher
+cc
+Red Kruin Outlaw
+cc
+White Opal Titan
+cc
+Red Flowstone Giant
+cc
+Black Tyrannize
+cc
+Blue Countermand
+cc
+Black Desolation
+cc
+Red Miner's Bane
+cc
+White Malach of the Dawn
+cc
+Red Implode
+cc
+Black Bladewing's Thrall
+cc
+Black Andradite Leech
+cc
+White Knights of Thorn
+cc
+Red Orgg
+cc
+Blue Vesuvan Doppelganger
+cc
+Blue Thassa's Devourer
+cc
+Red Sparkmage's Gambit
+cc
+White Basandra, Battle Seraph
+cc
+Green Reki, the History of Kamigawa
+cc
+White Moonlit Wake
+cc
+Black Corrupted Zendikon
+cc
+Black Baleful Force
+cc
+Green Overwhelm
+cc
+Black Boon of Erebos
+cc
+Black Molting Harpy
+cc
+Black Deathmark
+cc
+Blue Cruel Fate
+cc
+Green Sachi, Daughter of Seshiro
+cc
+White Marisi's Twinclaws
+cc
+Black Death Wish
+cc
+Green Hunting Pack
+cc
+Black Mind Extraction
+cc
+Blue Copy Artifact
+cc
+Green Humbler of Mortals
+cc
+Red Pit Fight
+cc
+Blue Escape Routes
+cc
+Red Orcish Squatters
+cp
+Player #38
+cp
+Player #176
+cp
+Player #123
+cp
+Player #113
+cp
+Player #62
+cp
+Player #69
+cp
+Player #16
+cp
+Player #26
+cp
+Player #88
+cp
+Player #32
+cp
+Player #107
+cp
+Player #25
+cp
+Player #82
+cp
+Player #100
+cp
+Player #84
+cp
+Player #102
+cp
+Player #192
+cp
+Player #167
+cp
+Player #171
+cp
+Player #103
+cd
+Player #84
+Warrior's Oath
+Serra Inquisitors
+Furnace Celebration
+Skulltap
+Skull Fracture
+Metathran Zombie
+Barbarian Bully
+Reach of Shadows
+Spined Sliver
+Primal Growth
+Macabre Waltz
+Young Wei Recruits
+Game-Trail Changeling
+Moonlight Geist
+Empyrial Armor
+Split Decision
+Feeling of Dread
+Obsidian Giant
+Auspicious Ancestor
+Fell Shepherd
+Scourglass
+Tidebinder Mage
+Armored Warhorse
+Frostwielder
+Fevered Convulsions
+Devouring Deep
+Jinx
+Laccolith Whelp
+Hushwing Gryff
+Quest for the Gemblades
+Cerulean Wyvern
+Sensation Gorger
+Oath of Ghouls
+Charging Troll
+Kor Castigator
+Nomad Mythmaker
+Underworld Dreams
+Wild Cantor
+Soul Stair Expedition
+Demolish
+Scout the Borders
+Bust
+Akroan Hoplite
+Hunting Pack
+Tribute to Hunger
+Moniker Mage
+Sootwalkers
+Magus of the Arena
+Dawning Purist
+Alabaster Leech
+Vampiric Feast
+Coral Barrier
+Fangren Marauder
+Glade Watcher
+Word of Undoing
+Ondu Greathorn
+Master of Cruelties
+Glowering Rogon
+Zo-Zu the Punisher
+Predatory Focus
+cd
+Player #100
+Balloon Peddler
+Balduvian Conjurer
+Esperzoa
+Emancipation Angel
+Shinen of Fury's Fire
+Gustrider Exuberant
+Sunspire Griffin
+Kobold Drill Sergeant
+Wall of Air
+Duh
+Lightbringer
+Skeleton Ship
+Kabira Vindicator
+Shinen of Fury's Fire
+Sigiled Skink
+Bargain
+Calciderm
+Ancient Hellkite
+Cavalry Master
+Vigilant Drake
+Carapace
+Dungeon Geists
+Wheel of Fate
+Fertilid
+Furnace Celebration
+Sylvan Might
+Highspire Mantis
+Ashes to Ashes
+Shinen of Fury's Fire
+Kezzerdrix
+Karoo Meerkat
+False Demise
+Sokenzan Spellblade
+Cloud Pirates
+Rakshasa's Secret
+Herald of Anafenza
+Pale Bears
+Miner's Bane
+Dromoka's Gift
+Flowstone Salamander
+Corpse Connoisseur
+Hidden Predators
+Rabid Elephant
+Leonin Armorguard
+Agent of Erebos
+Slaughter Games
+Lionheart Maverick
+Immolating Glare
+Animist's Awakening
+Rhystic Study
+Corpse Hauler
+Aerie Mystics
+Sandstone Warrior
+Cadaverous Bloom
+Island Fish Jasconius
+Firefly
+Squelching Leeches
+Alabaster Leech
+Tel-Jilad Defiance
+Wild Hunger
+cd
+Player #171
+Plow Through Reito
+Slaughter Cry
+Flowstone Charger
+Fling
+Shimmering Efreet
+Ancient Craving
+Artful Dodge
+Sharuum the Hegemon
+Aggressive Urge
+Advice from the Fae
+Shambling Ghoul
+Hammerhead Shark
+Hellkite Tyrant
+Psychotic Episode
+Immolating Glare
+Pride of the Clouds
+Prismatic Omen
+Clash of Realities
+Aurification
+Ceaseless Searblades
+Sunspire Griffin
+Bloodchief Ascension
+Surge of Strength
+Assquatch
+Militia's Pride
+Mayael's Aria
+Beast Attack
+Dreampod Druid
+Iizuka the Ruthless
+Circle of Flame
+Loxodon Gatekeeper
+Goblin Scouts
+Zhalfirin Commander
+Double Dip
+Atalya, Samite Master
+Ageless Sentinels
+Downpour
+Frozen Solid
+Kinsbaile Balloonist
+Flamespeaker Adept
+Angel of Retribution
+Groundbreaker
+Basal Sliver
+Vanguard of Brimaz
+Darkpact
+Norwood Riders
+Hurly-Burly
+Auspicious Ancestor
+Whiteout
+Vital Splicer
+Phyrexian Slayer
+Siege Rhino
+Tangle Mantis
+Agent of Horizons
+Citadel Siege
+Trapmaker's Snare
+Prickleboar
+Frenzy Sliver
+Wordmail
+Infernal Spawn of Evil
+cd
+Player #25
+Oaken Brawler
+Lantern Spirit
+Hanna's Custody
+Hitchclaw Recluse
+Carven Caryatid
+Diluvian Primordial
+Sensation Gorger
+Distant Memories
+Shatterskull Recruit
+Night
+Curse of Oblivion
+Moonglove Changeling
+Tyrannize
+Teferi's Veil
+Fit of Rage
+Ugin's Insight
+Torrent of Fire
+Flowstone Mauler
+Magnetic Flux
+Contamination
+Rage Thrower
+Sibsig Host
+Fathom Seer
+Orcish Squatters
+Sandstone Warrior
+Noble Steeds
+Kezzerdrix
+Martyr of Spores
+Liturgy of Blood
+Feast on the Fallen
+Shipbreaker Kraken
+Purify
+Zameck Guildmage
+Erg Raiders
+Weatherseed Faeries
+Archangel
+Death's Duet
+Dragonstalker
+Icatian Scout
+Wall of Torches
+Alluring Siren
+Devastating Summons
+Nourishing Shoal
+Trace of Abundance
+Hada Spy Patrol
+Phyrexian Arena
+Druid's Familiar
+Paroxysm
+Hydroform
+Unruly Mob
+Decaying Soil
+Flowstone Giant
+Reach of Shadows
+Looming Hoverguard
+Nihilith
+Isamaru, Hound of Konda
+Jovial Evil
+Reki, the History of Kamigawa
+Angelic Page
+Swirling Sandstorm
+cd
+Player #176
+Overwhelming Denial
+Noble Steeds
+Undying Rage
+Index
+Scavenging Scarab
+The Cheese Stands Alone
+Gitaxian Probe
+Thought Reflection
+Mind Extraction
+Instigator
+Kolaghan Stormsinger
+Glowering Rogon
+Snap
+Verdant Succession
+Gift of Granite
+Red-Hot Hottie
+Plague Beetle
+Last Kiss
+First Response
+Cairn Wanderer
+Collective Blessing
+Rootgrapple
+Repentant Vampire
+Hateflayer
+Cromat
+Stream of Life
+Crypt Ghast
+Mindleech Mass
+Mnemonic Wall
+Homura, Human Ascendant
+Salvage
+Ashes to Ashes
+Rally the Horde
+Calciderm
+Giant Shark
+Opal Titan
+Voracious Hatchling
+Shelkin Brownie
+Incendiary
+Daze
+Withering Hex
+Frantic Salvage
+Tel-Jilad Fallen
+Ghost-Lit Redeemer
+Killing Glare
+Thromok the Insatiable
+Hunt Down
+Sunspire Griffin
+Haze Frog
+Advice from the Fae
+Viashino Spearhunter
+Rain of Thorns
+Shattered Crypt
+Argivian Archaeologist
+Shinen of Life's Roar
+Keldon Mantle
+Descendant of Masumaro
+Angel of Despair
+Highspire Mantis
+Sootwalkers
+cd
+Player #167
+Hooded Horror
+Spectral Bears
+Benthic Behemoth
+Mistbind Clique
+Bronzebeak Moa
+Ghost-Lit Redeemer
+Tok-Tok, Volcano Born
+Orzhov Guildmage
+Thunderblade Charge
+Rabid Elephant
+Spined Sliver
+Azami, Lady of Scrolls
+Caller of the Hunt
+Veiling Oddity
+Shamanic Revelation
+Torchling
+Cephalid Illusionist
+Sylvan Might
+Rhystic Study
+Sage's Dousing
+Faerie Mechanist
+Roughshod Mentor
+Fury of the Horde
+Midnight Banshee
+Steel of the Godhead
+Zo-Zu the Punisher
+Death Ward
+Lingering Death
+Merchant Scroll
+Dralnu, Lich Lord
+Balduvian Hydra
+What
+Lavaball Trap
+Mischievous Quanar
+Simulacrum
+Enrage
+Agent of Horizons
+Plagiarize
+Warped Devotion
+Favor of the Overbeing
+Kaervek's Hex
+Cloud Manta
+Animist's Awakening
+Mogg Toady
+Stymied Hopes
+Thief of Blood
+Humbler of Mortals
+Painful Truths
+Airborne Aid
+Ancient Craving
+Surgespanner
+Seeds of Strength
+Supply
+Blades of Velis Vel
+Scab-Clan Berserker
+Ramosian Sergeant
+Disciple of the Ring
+Rabid Elephant
+Faerie Swarm
+Rattleclaw Mystic
+cd
+Player #26
+Moonglove Changeling
+Spitting Hydra
+Cloud Manta
+Voidwalk
+Siege Rhino
+Damia, Sage of Stone
+Morsel Theft
+Mtenda Herder
+Dragon Shadow
+Mighty Emergence
+Teferi's Honor Guard
+Zameck Guildmage
+Circle of Protection: White
+Rot Farm Skeleton
+Riverwheel Aerialists
+Magma Burst
+Mirri, Cat Warrior
+Dark Impostor
+Returned Centaur
+Akroan Hoplite
+Ancestor's Prophet
+Bassara Tower Archer
+Turn to Dust
+Waiting in the Weeds
+Tidal Visionary
+Desperate Ravings
+Invincible Hymn
+Consuming Vortex
+Flowering Lumberknot
+Seahunter
+Avenging Angel
+Viashino Sandscout
+Serene Heart
+Helionaut
+Rift Elemental
+Red Cliffs Armada
+Blistering Barrier
+Consumptive Goo
+Tundra Kavu
+Miscalculation
+Braingeyser
+Wilderness Hypnotist
+Spell Syphon
+Cabal Archon
+Nezumi Bone-Reader
+Tidespout Tyrant
+Jeering Instigator
+Seascape Aerialist
+Swirl the Mists
+Deepwood Elder
+Darkpact
+Whisperer of the Wilds
+Aerie Mystics
+Knight of the Hokey Pokey
+Skirsdag High Priest
+Graceful Adept
+Sorceress Queen
+Galerider Sliver
+Auriok Transfixer
+Treacherous Pit-Dweller
+cd
+Player #192
+Walking Dream
+Dementia Sliver
+Sphinx's Revelation
+Spectral Guardian
+Helionaut
+Loxodon Wayfarer
+Luminous Angel
+Fertilid
+Sage's Dousing
+Benevolent Bodyguard
+Serra Bestiary
+Horned Cheetah
+Weapon Surge
+Tolarian Drake
+Howl from Beyond
+Energy Arc
+Brimstone Dragon
+Delver of Secrets
+Lord of the Undead
+Elvish Herder
+Spinning Darkness
+Clergy of the Holy Nimbus
+Lingering Death
+Rock Basilisk
+Recumbent Bliss
+Wrath of God
+Caregiver
+Mind Slash
+Lord of the Undead
+Cremate
+Soulblast
+Nomad Mythmaker
+Cardboard Carapace
+Skyhunter Patrol
+Mosstodon
+Pride of the Clouds
+Unified Will
+Rotting Mastodon
+Sacred Ground
+Pact of Negation
+Tempest of Light
+Leeching Bite
+Steam Vines
+Power Sink
+Fissure Vent
+Leeching Bite
+Spring of Eternal Peace
+Energy Storm
+Jwari Shapeshifter
+Nacatl Hunt-Pride
+Folk of An-Havva
+Bloodfire Dwarf
+Leeching Bite
+Get a Life
+Allosaurus Rider
+Withering Hex
+Rampart Crawler
+Dauthi Jackal
+Copy Artifact
+Veiling Oddity
+cd
+Player #100
+Aggravate
+Painful Truths
+Moment of Heroism
+Last Chance
+Unsummon
+Painful Truths
+Dwarven Catapult
+Ruinous Path
+Purphoros, God of the Forge
+Hikari, Twilight Guardian
+Gudul Lurker
+Sunspire Griffin
+Wild Cantor
+Natural Affinity
+Meng Huo's Horde
+Akuta, Born of Ash
+Mana Breach
+Safewright Quest
+Fastbond
+Prismatic Omen
+Turtleshell Changeling
+Burn Trail
+Axegrinder Giant
+Calcite Snapper
+Bog Rats
+Toxin Sliver
+Paradox Haze
+Circle of Protection: Green
+Govern the Guildless
+Auspicious Ancestor
+Siege Rhino
+Entangler
+Krark-Clan Shaman
+Agonizing Memories
+Sparkmage's Gambit
+Basandra, Battle Seraph
+Blistering Barrier
+Karoo Meerkat
+Treasonous Ogre
+Shelkin Brownie
+Nacatl Hunt-Pride
+Commune with the Gods
+Restock
+Pyrostatic Pillar
+Beast Attack
+Somnophore
+Hope and Glory
+Soratami Seer
+Dawning Purist
+Debt to the Deathless
+Counterintelligence
+Kabira Vindicator
+Naya Hushblade
+Lorescale Coatl
+Hussar Patrol
+Pendelhaven Elder
+Treasure Mage
+Ether Well
+Surgespanner
+Rebirth
+cd
+Player #26
+Sootwalkers
+Calming Verse
+Kobold Drill Sergeant
+Howling Gale
+Serpent of the Endless Sea
+Soulblast
+Hollow Specter
+Torchling
+War Oracle
+Repulse
+Cephalid Illusionist
+Isamaru, Hound of Konda
+Emancipation Angel
+Dreampod Druid
+Shivan Wurm
+Angel of Mercy
+Deicide
+Sighted-Caste Sorcerer
+Convalescent Care
+Wu Spy
+Urborg Skeleton
+Banisher Priest
+Marchesa's Smuggler
+Hornet Cobra
+Trail of Mystery
+Earthlink
+Krumar Bond-Kin
+Chosen of Markov
+Firefly
+Self-Inflicted Wound
+Embodiment of Spring
+Stony Silence
+Belfry Spirit
+Lord of the Pit
+Emancipation Angel
+Temporary Truce
+Trace of Abundance
+Armored Warhorse
+Impact Tremors
+Pincher Beetles
+Crimson Roc
+Gloomwidow
+Obsidian Giant
+Viashino Spearhunter
+Cavern Lampad
+Looming Hoverguard
+Bubbling Beebles
+Domri Rade
+Howl from Beyond
+Blitz Hellion
+Venomous Dragonfly
+Mizzium Meddler
+Skulking Ghost
+Scavenged Weaponry
+Shinen of Fear's Chill
+Shivan Raptor
+Plague Rats
+Vorinclex, Voice of Hunger
+Blistering Barrier
+Sunder
+cd
+Player #100
+Safewright Quest
+Deathgazer
+Setessan Starbreaker
+Unbreathing Horde
+Restless Dead
+Fervor
+Captured Sunlight
+Wall of Air
+Catacomb Slug
+Harabaz Druid
+Blinding Angel
+Body Snatcher
+Wu Spy
+Wall of Glare
+Wilderness Hypnotist
+Godhead of Awe
+Vanguard of Brimaz
+Hunt Down
+Ancient Craving
+Plague Beetle
+Fungal Shambler
+Spear of Heliod
+Restless Dead
+Scalding Salamander
+Elderscale Wurm
+Spiritual Guardian
+Voidwalk
+Statute of Denial
+Balduvian Conjurer
+Avatar of Hope
+Nomad Mythmaker
+Heroes' Bane
+Ash Zealot
+Greener Pastures
+Forest Bear
+Vanquish the Foul
+Sandstone Warrior
+Catastrophe
+Dark Supplicant
+Absolver Thrull
+Dead Drop
+Cloud Spirit
+Mutant's Prey
+Lizard Warrior
+Blinding Angel
+Greenhilt Trainee
+Savage Beating
+Leeches
+Chronosavant
+Wane
+Roil Elemental
+Cytospawn Shambler
+Binding Agony
+Steel of the Godhead
+Akroan Sergeant
+Nighthaze
+Demolish
+Rage Extractor
+Charging Troll
+Circling Vultures
+cd
+Player #32
+Celestial Ancient
+Hundred-Talon Strike
+Entangling Vines
+Wild Leotau
+Akuta, Born of Ash
+Govern the Guildless
+Spear of Heliod
+Vital Surge
+Novijen Sages
+Pyrohemia
+Whisperer of the Wilds
+Wane
+Balduvian Hydra
+Marshmist Titan
+Xathrid Gorgon
+Martial Law
+Karplusan Strider
+Agent of Erebos
+Amphibious Kavu
+Trained Pronghorn
+Wildfire
+Jackal Pup
+Reckless Embermage
+Dark Offering
+Planar Cleansing
+Scent of Nightshade
+Tempest of Light
+Pit Fight
+Corrupted Zendikon
+Word of Undoing
+Baleful Strix
+Banewasp Affliction
+Distant Melody
+Flames of the Firebrand
+Puresteel Paladin
+Hivis of the Scale
+Land Grant
+Taste of Paradise
+Pollen Remedy
+Determined
+Marked by Honor
+Ghostly Touch
+Stormfront Pegasus
+Deploy to the Front
+Marisi's Twinclaws
+Broodhunter Wurm
+Innocent Blood
+Flamespeaker Adept
+Feebleness
+Harness by Force
+Signal the Clans
+Miscalculation
+Zodiac Ox
+Vectis Agents
+Telepathy
+Jalum Grifter
+Viashino Racketeer
+Kaervek's Hex
+Frontier Mastodon
+Crookshank Kobolds
+cd
+Player #176
+Parasitic Implant
+Boon Satyr
+Entering
+Fat Ass
+Belfry Spirit
+Krosan Restorer
+Ghostly Touch
+Hooded Horror
+Seraph
+Tempest of Light
+Thistledown Duo
+Steam Vines
+Knight of the Hokey Pokey
+Sarkhan, the Dragonspeaker
+Lifebane Zombie
+Baleful Force
+Dawning Purist
+Archangel
+Banewasp Affliction
+Fangren Marauder
+Double Dip
+Crimson Acolyte
+Boggart Shenanigans
+Detritivore
+Firefly
+Glittering Wish
+Robber Fly
+Bludgeon Brawl
+Iroas's Champion
+Mystical Tutor
+Circle of Protection: Shadow
+Conquering Manticore
+Llanowar Cavalry
+Setessan Starbreaker
+Dizzy Spell
+Swirling Sandstorm
+Herald of War
+People of the Woods
+Stymied Hopes
+Obzedat's Aid
+Vithian Stinger
+Rhystic Shield
+Cheatyface
+Miner's Bane
+Mind Shatter
+Noxious Field
+Life
+Gathan Raiders
+Rabid Rats
+Squirrel Mob
+Griffin Rider
+Krosan Restorer
+Mistbind Clique
+Plague Stinger
+Dromoka's Gift
+Slow Motion
+Erg Raiders
+Cerulean Wyvern
+Squirrel Mob
+Locust Swarm
+cd
+Player #103
+Pure Intentions
+Karplusan Strider
+Glade Watcher
+Dead Drop
+Marked by Honor
+Dark Prophecy
+Incendiary
+Harrier Griffin
+Disciple of Bolas
+Order of Succession
+Ageless Sentinels
+Betrayal of Flesh
+Runeboggle
+Circle of Protection: Green
+Slashing Tiger
+Festering March
+Pyrohemia
+Self-Inflicted Wound
+Khalni Heart Expedition
+Aluren
+Mons's Goblin Raiders
+Desolation
+Furnace Dragon
+Rampart Crawler
+Krosan Reclamation
+Blitz Hellion
+Basal Sliver
+Runeboggle
+Advice from the Fae
+False Demise
+Vampire Lacerator
+Turtleshell Changeling
+First Response
+Riptide Entrancer
+Watcher Sliver
+Index
+Wayward Soul
+Coffin Puppets
+Pendelhaven Elder
+Aura Flux
+Lotleth Troll
+Kjeldoran Pride
+Relearn
+Sharuum the Hegemon
+Last Kiss
+Cinder Wall
+Balduvian Warlord
+Western Paladin
+Paralyze
+Scoria Cat
+Efreet Weaponmaster
+Firefist Striker
+Stymied Hopes
+Nightscape Apprentice
+Thelon's Curse
+Lorescale Coatl
+Plague Wind
+Plague Rats
+Isleback Spawn
+Angel of Jubilation
+cd
+Player #123
+Glyph of Destruction
+Dawning Purist
+Grasp of Phantoms
+Leatherback Baloth
+Esperzoa
+Scoria Wurm
+Index
+Savage Punch
+Wu Spy
+Iroas's Champion
+Darkblast
+Pinion Feast
+Ancient Carp
+Soratami Seer
+Lorescale Coatl
+Torchling
+Grim Tutor
+Siege Rhino
+Keranos, God of Storms
+Two-Headed Giant of Foriys
+Snow Hound
+Pyroconvergence
+Witch Hunt
+Priests of Norn
+Gutless Ghoul
+Thelon's Curse
+Roar of Challenge
+Scapegoat
+Dreg Mangler
+Void Maw
+Glint-Eye Nephilim
+Bloodied Ghost
+Thought Reflection
+Commune with the Gods
+Amphibious Kavu
+Retether
+Natural Selection
+Cytoshape
+Blinding Angel
+Bifurcate
+Festering March
+Planar Cleansing
+Frontier Mastodon
+Loxodon Wayfarer
+Archive Trap
+Endemic Plague
+Western Paladin
+Singing Tree
+Shield of Duty and Reason
+Void Maw
+Baru, Fist of Krosa
+Traitor's Clutch
+Thunder Spirit
+Goblin Marshal
+Turtleshell Changeling
+Barbarian Bully
+Chosen by Heliod
+Ramirez DePietro
+Supply
+Lost in a Labyrinth
+cd
+Player #107
+Spell Rupture
+Spitting Earth
+Plagiarize
+Gloomwidow
+Dominate
+Offering to Asha
+Panther Warriors
+Ephara's Radiance
+Gloomwidow
+Goblin Hero
+Belbe's Percher
+Consumptive Goo
+Spider Spawning
+Hindering Touch
+Season of the Witch
+Vithian Stinger
+Stalking Vengeance
+Stern Mentor
+Helionaut
+Pariah
+Dawn of the Dead
+Vent Sentinel
+Flowstone Charger
+Dakmor Ghoul
+Leyline of the Meek
+Tidal Flats
+Ash Zealot
+Shu Cavalry
+Degavolver
+Amphibious Kavu
+Tooth and Nail
+Daring Leap
+Welkin Tern
+Robber Fly
+Glimmerpoint Stag
+Decree of Justice
+Lurking Informant
+Stern Judge
+Skillful Lunge
+Cephalid Illusionist
+Gorehorn Minotaurs
+Phyrexian Arena
+Miscalculation
+Merfolk Traders
+Punish Ignorance
+Hex
+Maralen of the Mornsong
+Cheatyface
+Turtleshell Changeling
+Tarpan
+Leonin Armorguard
+Kor Line-Slinger
+Ezuri, Claw of Progress
+Plague Wind
+Lingering Death
+Elvish Branchbender
+Entering
+Sterling Grove
+Merfolk Sovereign
+Earthlink
+cd
+Player #192
+Trusted Advisor
+Phytoburst
+Zur's Weirding
+Voice of Truth
+Dralnu's Pet
+Belbe's Percher
+Pact of the Titan
+Silvergill Douser
+Goblin Wardriver
+Pincher Beetles
+Mogg Bombers
+Nebuchadnezzar
+Tolarian Serpent
+Enlightened Ascetic
+Dark Prophecy
+Become Immense
+Shelkin Brownie
+Icatian Scout
+Morsel Theft
+Headless Skaab
+Phyrexian Obliterator
+Hoarding Dragon
+Defensive Stance
+Flash of Defiance
+Reveka, Wizard Savant
+War Oracle
+Disenchant
+Game-Trail Changeling
+Echo Mage
+Howl from Beyond
+Krumar Bond-Kin
+Ponyback Brigade
+Dauthi Marauder
+Tar Pit Warrior
+Shelkin Brownie
+Skeletal Snake
+Tomoya the Revealer
+Energy Storm
+Living Totem
+Kaervek's Hex
+Spider Spawning
+Dazzling Ramparts
+Mountain Bandit
+Nameless One
+Vizkopa Confessor
+Sanctuary Cat
+Maralen of the Mornsong
+Meng Huo's Horde
+Rhox Bodyguard
+Gloomwidow
+Cytoshape
+Sunseed Nurturer
+Vectis Dominator
+Turnabout
+Imp's Mischief
+Clash of Realities
+Dunerider Outlaw
+Woebringer Demon
+Nihilith
+Sterling Grove
+cd
+Player #171
+Sultai Charm
+Malevolent Awakening
+Distant Melody
+Punish Ignorance
+Merfolk Assassin
+Shaman of Forgotten Ways
+Wall of Air
+Rebirth
+Crimson Acolyte
+Mulldrifter
+Rag Dealer
+Split-Tail Miko
+Deadly Wanderings
+Natural Affinity
+Dawning Purist
+Kami of Empty Graves
+Whisperer of the Wilds
+Thunderscape Master
+Rift Elemental
+Nantuko Vigilante
+Goblin Marshal
+Dauthi Marauder
+Metathran Zombie
+Blessed Reversal
+Steward of Valeron
+Collective Blessing
+Chandra's Phoenix
+Regeneration
+Shivan Wurm
+Grasp of Phantoms
+Decaying Soil
+Sustenance
+Skillful Lunge
+Sultai Emissary
+Heal the Scars
+Weatherseed Faeries
+Trapmaker's Snare
+Shivan Wurm
+Moonhold
+Orcish Squatters
+Outmaneuver
+Viridian Emissary
+Glitterfang
+Sterling Grove
+Boggart Shenanigans
+Stream of Life
+Drogskol Captain
+Haunter of Nightveil
+Cytoshape
+Krark-Clan Shaman
+Desolation
+Viridian Zealot
+Atarka, World Render
+Welkin Tern
+Sokenzan Spellblade
+Delver of Secrets
+Faerie Mechanist
+Sprinting Warbrute
+Turnabout
+Skeletal Snake
+cd
+Player #25
+Rift Elemental
+Cloud Spirit
+What
+Gutwrencher Oni
+Chronosavant
+Baleful Force
+Ribbons of the Reikai
+Vendetta
+Swirling Sandstorm
+Disempower
+Sootwalkers
+Argothian Enchantress
+Primal Cocoon
+Stone Spirit
+Scorching Lava
+Squirrel Mob
+Instill Energy
+Treasure Mage
+Murderous Cut
+Fire and Brimstone
+Instill Energy
+Restless Dead
+Goblin Marshal
+Aggressive Urge
+Killing Glare
+Coral Reef
+Soul Snare
+Greed
+Moment's Peace
+Laquatus's Disdain
+Agent of Horizons
+Aven Farseer
+Serene Heart
+Kuon's Essence
+Grim Contest
+Kinsbaile Balloonist
+Homura, Human Ascendant
+Midvast Protector
+Pale Bears
+Annul
+Mischievous Quanar
+Furnace Celebration
+Thrill of the Hunt
+Jelenn Sphinx
+Midvast Protector
+Scab-Clan Berserker
+Ichneumon Druid
+Fledgling Dragon
+Brine Hag
+Collective Blessing
+Cloudchaser Eagle
+Grizzled Leotau
+Final Punishment
+Shu Grain Caravan
+Orcish Captain
+Miscalculation
+Shivan Raptor
+Scourglass
+Goblin Glider
+Mindstab
+cd
+Player #62
+Honor of the Pure
+Gristle Grinner
+Homarid
+Progenitus
+Great Wall
+Energy Arc
+Holy Day
+Dragon Shadow
+Magnetic Flux
+Spitting Earth
+Twincast
+Dwarven Thaumaturgist
+Tribute to Hunger
+Rakshasa's Secret
+Sigiled Paladin
+Ether Well
+Beastbreaker of Bala Ged
+Nezumi Bone-Reader
+Goblin Bangchuckers
+Trumpeting Armodon
+Downpour
+Phantasmal Image
+Metathran Zombie
+Tricks of the Trade
+Void Maw
+Filthy Cur
+Auriok Transfixer
+Gutwrencher Oni
+Necrogen Scudder
+Flock of Rabid Sheep
+Mutant's Prey
+Sorry
+Morsel Theft
+Swell of Growth
+Rhox Maulers
+Pure Intentions
+Wild Hunger
+Aggressive Urge
+Indestructibility
+Cavern Thoctar
+Screeching Sliver
+Two-Headed Sliver
+Mimeofacture
+Govern the Guildless
+Squelching Leeches
+Spiraling Embers
+Vendetta
+Impact Tremors
+Meddling Mage
+Domri Rade
+Viashino Spearhunter
+Rotting Giant
+Rishadan Cutpurse
+Dawning Purist
+Setessan Starbreaker
+Angel's Herald
+Phyrexian Unlife
+Rune-Tail, Kitsune Ascendant
+Wolfir Avenger
+Mardu Hordechief
+cd
+Player #192
+Vital Splicer
+Flash of Defiance
+Scoria Cat
+Panglacial Wurm
+Molting Harpy
+Zephyr Sprite
+Flowstone Giant
+Glimpse the Future
+Servant of Volrath
+Auriok Transfixer
+Coffin Puppets
+Wordmail
+Deep Water
+Tracker
+Grizzled Leotau
+Citadel Siege
+Skirsdag Flayer
+Beast Walkers
+Thunderfoot Baloth
+Goblin Sky Raider
+Dauthi Marauder
+Noxious Vapors
+Checks and Balances
+Spell Rupture
+Stormfront Pegasus
+Godhead of Awe
+Sarkhan, the Dragonspeaker
+Den Protector
+Stormfront Pegasus
+Annul
+Life and Limb
+Auspicious Ancestor
+Indestructibility
+Nightscape Apprentice
+Dazzling Ramparts
+Corrupted Zendikon
+Rhystic Shield
+Lord of the Pit
+Laccolith Whelp
+Decree of Justice
+Vendetta
+Thistledown Duo
+Lightwalker
+Rix Maadi Guildmage
+First Response
+Ringskipper
+Thorncaster Sliver
+Singing Tree
+Kami of Empty Graves
+Voracious Hatchling
+Thunder Brute
+Sagu Mauler
+Ancient Carp
+Lifelink
+Cyclone
+Bower Passage
+Glitterfang
+Lightning Hounds
+Mogg Bombers
+Belligerent Whiptail
+cd
+Player #192
+Sowing Salt
+Forbidden Lore
+Kjeldoran Gargoyle
+Surge of Righteousness
+Miscalculation
+Goblin Sky Raider
+Primal Cocoon
+Corpseweft
+Slaughter Cry
+Viridian Zealot
+Fork
+Moniker Mage
+Phantasmal Image
+Howling Gale
+Akki Avalanchers
+Kami of False Hope
+Dauthi Warlord
+Debt to the Deathless
+Relearn
+Bloated Toad
+Falling Star
+Imp's Mischief
+Carnassid
+Kavu Recluse
+Shinewend
+Kavu Monarch
+Repulse
+Kinsbaile Balloonist
+Planar Cleansing
+Urborg Drake
+Fastbond
+Lightwalker
+Krosan Reclamation
+Evaporate
+Sick and Tired
+Distant Melody
+Woeleecher
+Phyrexian Unlife
+Burning Earth
+Shrivel
+Fangren Marauder
+Serpent of the Endless Sea
+Leyline of Punishment
+Embermage Goblin
+Nightscape Apprentice
+Dauthi Horror
+Warren Weirding
+Thunderblade Charge
+Hands of Binding
+Genju of the Realm
+Genju of the Spires
+Mistbind Clique
+Haakon, Stromgald Scourge
+Pinion Feast
+Western Paladin
+Harness by Force
+Stoneshaker Shaman
+Calming Verse
+Warrior's Oath
+Sage's Dousing
+cd
+Player #107
+Dramatic Rescue
+Wreath of Geists
+Aven Battle Priest
+Spiketail Hatchling
+Goblin Gardener
+Moment of Heroism
+Agent of Erebos
+Thelon's Curse
+Greed
+Thunderscape Apprentice
+Circle of Protection: Green
+Street Savvy
+Shu Cavalry
+Armored Warhorse
+Scion of Darkness
+Dwarven Armorer
+Calciderm
+Rock Basilisk
+False Summoning
+Unsummon
+Makindi Patrol
+Shield of Duty and Reason
+Murderous Betrayal
+Circling Vultures
+Wildfire
+Essence of the Wild
+Aliban's Tower
+Gristle Grinner
+Vampiric Rites
+Order of Yawgmoth
+Unstable Hulk
+Calciderm
+Taoist Hermit
+Dauthi Warlord
+Atalya, Samite Master
+Greener Pastures
+Essence of the Wild
+Scaled Wurm
+Phyrexian Arena
+Pristine Angel
+Moonglove Changeling
+Mogis, God of Slaughter
+Inertia Bubble
+Mons's Goblin Raiders
+Midnight Banshee
+Disruptive Pitmage
+Flowstone Mauler
+Brink of Madness
+Ancestor's Prophet
+Hoarding Dragon
+Corpse Hauler
+Feeling of Dread
+Duh
+Trained Orgg
+Soul's Majesty
+Sparkmage's Gambit
+Angel of Jubilation
+Goblin Piker
+Sizzle
+Midvast Protector
+cd
+Player #25
+Season of the Witch
+Unbreathing Horde
+Rattleclaw Mystic
+Plow Through Reito
+Psychotic Episode
+Sachi, Daughter of Seshiro
+Kytheon's Tactics
+Spell Syphon
+Tyrannize
+Bubbling Beebles
+Grim Contest
+Soramaro, First to Dream
+Kor Line-Slinger
+Murderous Betrayal
+Sylvan Safekeeper
+Akuta, Born of Ash
+Nether Shadow
+Might of the Masses
+Spitting Earth
+Scapegoat
+Gaea's Avenger
+Beast Walkers
+Cloudchaser Eagle
+Retromancer
+Slow Motion
+Lifelink
+Nyxborn Triton
+Second Chance
+Damia, Sage of Stone
+Goblin Sky Raider
+Telepathy
+Spined Sliver
+Goblin Sky Raider
+Return of the Nightstalkers
+Sorceress Queen
+Sign in Blood
+Bloated Toad
+Orcish Librarian
+Glacial Ray
+Impulsive Maneuvers
+Axegrinder Giant
+Gruul War Chant
+Deepwood Ghoul
+Roil Elemental
+Wild Leotau
+Perish the Thought
+Gloomwidow
+Moonlit Wake
+Font of Fertility
+Pyrohemia
+Suleiman's Legacy
+Keeper of the Dead
+Knights of Thorn
+Windrider Eel
+Surgespanner
+Last Kiss
+Crusade
+Dramatic Rescue
+Collective Blessing
+Blessed Reversal
+cd
+Player #16
+Balancing Act
+Aura Flux
+Lavacore Elemental
+Betrayal of Flesh
+Braingeyser
+Hunting Pack
+Treva, the Renewer
+Animal Magnetism
+Culling Mark
+Haakon, Stromgald Scourge
+Magus of the Arena
+Thunderfoot Baloth
+Crude Rampart
+Gurzigost
+Aura Flux
+Circle of Protection: Shadow
+Lava Burst
+Steam Augury
+Mountain Bandit
+Mazirek, Kraul Death Priest
+Frozen Solid
+Plaxcaster Frogling
+Keeper of Tresserhorn
+Miner's Bane
+Trinket Mage
+Iroas's Champion
+Liliana of the Dark Realms
+Roil Elemental
+Greener Pastures
+Keen-Eyed Archers
+Spell Rupture
+Faerie Swarm
+Coffin Puppets
+Delver of Secrets
+Viashino Cutthroat
+Commune with the Gods
+Salvage
+Skyknight Legionnaire
+Kruin Outlaw
+Goblin Patrol
+Vectis Dominator
+Glimpse the Future
+Enrage
+Leonin Armorguard
+Spiritual Guardian
+Spirit Mirror
+Dark Offering
+Atarka, World Render
+Riptide Entrancer
+Innocent Blood
+Marked by Honor
+Shaman of Forgotten Ways
+Flowstone Salamander
+Entangler
+Korlash, Heir to Blackblade
+Tel-Jilad Defiance
+Blue Ward
+Nihilith
+Palinchron
+Turtleshell Changeling
+cd
+Player #62
+Magical Hacker
+Handcuffs
+Kuon's Essence
+Overrun
+Balancing Act
+Shinen of Fear's Chill
+Isamaru, Hound of Konda
+Heavy Fog
+Firemantle Mage
+Augur il-Vec
+Archive Trap
+Iizuka the Ruthless
+Allosaurus Rider
+Nihilith
+Safewright Quest
+Tomoya the Revealer
+Reki, the History of Kamigawa
+Soratami Seer
+Returned Centaur
+Rotting Mastodon
+Weapon Surge
+Orcish Paratroopers
+Choking Sands
+Shamanic Revelation
+Tundra Kavu
+Nyxborn Eidolon
+Windrider Eel
+Return of the Nightstalkers
+Locust Swarm
+Terashi's Cry
+Zhalfirin Commander
+Vine Dryad
+Dark Supplicant
+Cremate
+Goblin Scouts
+Rot Farm Skeleton
+Fallen Ferromancer
+Storm Spirit
+Pit Fight
+Death Cultist
+Defiant Vanguard
+Walking Dream
+Beast Attack
+Kolaghan Stormsinger
+Opal Acrolith
+Umbra Stalker
+Vitu-Ghazi Guildmage
+Groundbreaker
+Demolish
+Vorinclex, Voice of Hunger
+Reckless Embermage
+Rot Farm Skeleton
+Ghitu War Cry
+Fight to the Death
+Shambling Attendants
+Petra Sphinx
+Deepwood Ghoul
+Alluring Siren
+Cyclone
+Dauthi Jackal
+cd
+Player #171
+Hythonia the Cruel
+Farewell to Arms
+Cadaverous Bloom
+Deploy to the Front
+Hanna's Custody
+Steam Augury
+Fell Shepherd
+Haunted Angel
+Checks and Balances
+Hydroform
+Flash of Insight
+Deathbringer Liege
+Returned Centaur
+Death
+Farhaven Elf
+Instigator
+Siren's Call
+Pit Keeper
+Mantle of Webs
+Changeling Hero
+Pact of Negation
+Talon Sliver
+Armorer Guildmage
+Viashino Spearhunter
+Lifelink
+Withering Hex
+Instigator
+Boon Satyr
+Avatar of Slaughter
+Tajuru Archer
+Wall of Swords
+Lightning Mauler
+Basalt Gargoyle
+Mine, Mine, Mine!
+Dark Petition
+Genju of the Realm
+Display of Dominance
+Kor Line-Slinger
+Enlightened Ascetic
+Pale Bears
+Animal Boneyard
+Rally the Horde
+Imperial Seal
+Tidespout Tyrant
+Embermage Goblin
+Coral Reef
+Ondu Giant
+Broodhunter Wurm
+Woebringer Demon
+Blinding Spray
+Fathom Seer
+Laccolith Whelp
+Arenson's Aura
+Kjeldoran Gargoyle
+Hakim, Loreweaver
+Chaos Warp
+Devastating Summons
+Quicksilver Elemental
+Consumptive Goo
+Wall of Swords
+cd
+Player #167
+Karoo Meerkat
+Scalding Salamander
+Brute Force
+Indestructibility
+Index
+Rock Basilisk
+Sorry
+Burning-Tree Bloodscale
+Burrenton Forge-Tender
+Forked Bolt
+Tyrant of Valakut
+Kami of Empty Graves
+Loam Larva
+Slith Strider
+Derevi, Empyrial Tactician
+Overrun
+Phytoburst
+Emancipation Angel
+Become Immense
+Ardent Recruit
+Pristine Angel
+Skirsdag High Priest
+Bloodied Ghost
+Assault Formation
+Wall of Swords
+Fit of Rage
+Lightwalker
+Bladewing's Thrall
+Nephalia Seakite
+Kor Castigator
+Glittering Wish
+Dread Slaver
+Dragon Shadow
+Vendetta
+Pyrohemia
+Looming Hoverguard
+Final Punishment
+Omnibian
+Pale Bears
+Corpse Hauler
+Ancient Hellkite
+Loxodon Gatekeeper
+Disdainful Stroke
+Horned Cheetah
+Verdant Succession
+Memoricide
+Magical Hacker
+Servant of Volrath
+Glaciers
+Xathrid Gorgon
+Jinx
+Slow Motion
+Arctic Foxes
+Orim's Chant
+Gilder Bairn
+Kobold Drill Sergeant
+Twincast
+Dauthi Horror
+Temporary Truce
+Tracker
+cd
+Player #102
+Niblis of the Breath
+Treasure Mage
+Siren's Call
+Priest of the Blood Rite
+Unbreathing Horde
+Darigaaz, the Igniter
+Thought Courier
+Bargain
+Shattered Dreams
+Crimson Acolyte
+Belligerent Whiptail
+Withering Hex
+Herald of War
+Thunder of Hooves
+Nyxborn Triton
+Assquatch
+Confiscate
+Ivy Seer
+Fledgling Dragon
+Sign in Blood
+Oubliette
+Pongify
+View from Above
+Abeyance
+Rage Extractor
+Emberstrike Duo
+Pristine Angel
+Village Cannibals
+Soratami Mindsweeper
+Grizzled Leotau
+Primoc Escapee
+Krumar Bond-Kin
+Noxious Field
+Nihilith
+Flowstone Wall
+Shoe Tree
+Sunspire Griffin
+Life and Limb
+Whip Sergeant
+Fight to the Death
+Energy Storm
+Roar of Challenge
+Deploy to the Front
+Spectral Force
+Deadly Wanderings
+Daring Leap
+Fat Ass
+Flowstone Charger
+Bond Beetle
+Backslide
+Zhao Zilong, Tiger General
+Slashing Tiger
+Mutant's Prey
+Tempest of Light
+Thromok the Insatiable
+Skyknight Legionnaire
+Jaddi Lifestrider
+Mantle of Webs
+Atarka, World Render
+Chandra's Phoenix
+cd
+Player #100
+Kytheon's Tactics
+Heckling Fiends
+Culling Mark
+Unruly Mob
+Korlash, Heir to Blackblade
+Phyrexian Monitor
+Benevolent Bodyguard
+Rude Awakening
+Unbreathing Horde
+Grim Feast
+Wrath of God
+Debt to the Deathless
+Rhystic Shield
+Mirri, Cat Warrior
+Darkpact
+Argivian Archaeologist
+Merchant Scroll
+Kytheon's Tactics
+Creakwood Ghoul
+Galerider Sliver
+Moonglove Changeling
+Disempower
+Kor Outfitter
+Linessa, Zephyr Mage
+Lumengrid Warden
+Slaughter Cry
+Tithe Drinker
+Tahngarth, Talruum Hero
+Bloodied Ghost
+Spectral Guardian
+Scoria Wurm
+Crypt Ghast
+Lightning Serpent
+Messenger Falcons
+Guan Yu, Sainted Warrior
+Goblin Hero
+Laquatus's Disdain
+Vizkopa Confessor
+Thunderfoot Baloth
+Meddling Mage
+Slaughter Games
+Ribbon Snake
+Shimmering Efreet
+Thistledown Duo
+Onyx Goblet
+Dauthi Jackal
+Downpour
+Flailing Ogre
+Perish the Thought
+Countermand
+Dream Salvage
+Sultai Charm
+Disenchant
+Lurking Informant
+Essence of the Wild
+Phyrexian Slayer
+The Unspeakable
+Drogskol Captain
+Silvergill Douser
+Hidden Predators
+cd
+Player #25
+Creakwood Ghoul
+Burn Trail
+Rain of Thorns
+Strength in Numbers
+Cinder Cloud
+Nightcreep
+Sabretooth Tiger
+Hollow Specter
+Leeches
+Sandstone Warrior
+Nightscape Apprentice
+Second Chance
+Nacatl Hunt-Pride
+Capture of Jingzhou
+Animal Boneyard
+Hisoka, Minamo Sensei
+Hanweir Watchkeep
+Seascape Aerialist
+Cyclone
+Three Wishes
+Necra Disciple
+Equal Treatment
+Indestructibility
+Unruly Mob
+Bant Sojourners
+Lord of the Undead
+Revive the Fallen
+False Summoning
+Deathbringer Liege
+Voice of Law
+Thornbow Archer
+Crypt Incursion
+Arbiter of Knollridge
+Flowstone Salamander
+Auriok Transfixer
+Pyroconvergence
+Martyr's Cause
+Three Wishes
+Blistering Dieflyn
+Dwell on the Past
+Keeper of the Dead
+Silumgar Butcher
+Culling Mark
+Boggart Shenanigans
+Rune-Tail, Kitsune Ascendant
+Sustenance
+Snow Hound
+Great Wall
+Advice from the Fae
+Baru, Fist of Krosa
+Retether
+Macabre Waltz
+Plague Stinger
+Earthlink
+Harmattan Efreet
+Burst Lightning
+Festering March
+Roughshod Mentor
+Okiba-Gang Shinobi
+Orim's Chant
+cd
+Player #113
+Teferi's Honor Guard
+Dead Drop
+Spell Pierce
+Midnight Recovery
+Quest for the Gemblades
+Tajuru Archer
+Unsummon
+Deathcurse Ogre
+Ondu Giant
+Martyr of Bones
+Ghost-Lit Redeemer
+Whims of the Fates
+Pteron Ghost
+Fledgling Osprey
+Undercity Shade
+Forest Bear
+Plague Wind
+Floral Spuzzem
+Hunt Down
+Enclave Elite
+Triad of Fates
+Shivan Wumpus
+Bloodstoke Howler
+Pit Fight
+Sultai Emissary
+Tajuru Archer
+Circle of Protection: White
+Dazzling Ramparts
+Ancient Hellkite
+Mine, Mine, Mine!
+Windrider Eel
+Plague Rats
+Thundersong Trumpeter
+Warrior's Oath
+Mystical Tutor
+Entangler
+Terraformer
+Dromoka's Command
+Pyrostatic Pillar
+Progenitus
+Burning-Tree Bloodscale
+Avacyn, Guardian Angel
+Knight of Dawn
+Spirit Weaver
+Reveka, Wizard Savant
+Fiery Gambit
+Wild Cantor
+Summit Prowler
+Runeboggle
+Life and Limb
+Haze Frog
+Skirsdag Flayer
+Gurzigost
+Scorching Lava
+Distant Melody
+Trumpeting Armodon
+Aven Battle Priest
+Logic Knot
+Blades of Velis Vel
+Farewell to Arms
+cd
+Player #192
+Seer's Vision
+Firefist Striker
+Rag Dealer
+Syphon Flesh
+Burrenton Forge-Tender
+Raised by Wolves
+Elvish Fury
+Metallurgeon
+Rock Hydra
+Betrayal of Flesh
+Withering Gaze
+Terraformer
+Sizzle
+Serpent of the Endless Sea
+Jackal Pup
+Undercity Shade
+Highland Game
+Sigiled Paladin
+Grim Feast
+Skirsdag Flayer
+Patagia Viper
+Akki Avalanchers
+Waiting in the Weeds
+Talon Sliver
+Western Paladin
+Scaled Wurm
+Energy Arc
+Dromoka's Command
+Beastbreaker of Bala Ged
+Bloodmark Mentor
+Nomad Mythmaker
+Glacial Ray
+Orcish Librarian
+Spined Thopter
+Moniker Mage
+Tooth and Nail
+Mangara's Blessing
+Civilized Scholar
+Nameless One
+Agent of Horizons
+Dizzy Spell
+Ezuri's Brigade
+Scion of Glaciers
+Bubbling Beebles
+Charging Badger
+Goblin Wardriver
+Glade Watcher
+Jelenn Sphinx
+Conquering Manticore
+Sibsig Host
+Void Maw
+Jelenn Sphinx
+Herdchaser Dragon
+Ashes to Ashes
+Rhystic Study
+Carrier Thrall
+Dauthi Marauder
+Mistform Shrieker
+Pariah
+Zameck Guildmage
+cd
+Player #38
+Tundra Kavu
+Wild Defiance
+Sigiled Skink
+Fledgling Dragon
+Bronzebeak Moa
+Ancient Hellkite
+Bronzebeak Moa
+Bog Glider
+Hushwing Gryff
+Nessian Wilds Ravager
+Deepwood Ghoul
+Hythonia the Cruel
+Burning-Tree Bloodscale
+Bladewing's Thrall
+Festerhide Boar
+Godhead of Awe
+Gitaxian Probe
+Tundra Kavu
+Cloud Spirit
+Bladewing's Thrall
+Bladewing's Thrall
+Firemantle Mage
+Circle of Protection: White
+Singing Tree
+Hex
+Venerated Teacher
+Ingot Chewer
+Crackling Triton
+Diregraf Captain
+Bellowing Saddlebrute
+Amphin Pathmage
+Arctic Aven
+Indestructibility
+Vectis Dominator
+Seedtime
+Kiss of the Amesha
+Atarka Beastbreaker
+Sokenzan Spellblade
+Archery Training
+Avatar of Hope
+Twin Bolt
+Dark Impostor
+Cursed Ronin
+Floral Spuzzem
+Cromat
+Oppressive Will
+Mistbind Clique
+Kaervek's Hex
+Rabid Rats
+Steam Vines
+Mind Shatter
+Aurification
+Rotting Giant
+Animal Magnetism
+Pyrostatic Pillar
+Near-Death Experience
+Ignite Memories
+Rude Awakening
+Illusionary Wall
+Blaze of Glory
+cd
+Player #107
+Viashino Grappler
+Sharuum the Hegemon
+False Mourning
+Slavering Nulls
+Power Artifact
+Shadowcloak Vampire
+Tempt with Vengeance
+Shrapnel Blast
+Thought Reflection
+Seedtime
+Tok-Tok, Volcano Born
+Flailing Ogre
+Ringskipper
+Akki Avalanchers
+Stormchaser Chimera
+Llanowar Cavalry
+Unruly Mob
+Rebirth
+Ardent Recruit
+Mistfire Weaver
+Convalescent Care
+Sparkmage's Gambit
+Murderous Betrayal
+Goblin Gardener
+Crimson Acolyte
+Nether Shadow
+Greater Gargadon
+Aggravate
+Flash Foliage
+Tithe Drinker
+Summit Prowler
+Xathrid Gorgon
+Voidwalk
+Heavy Fog
+Gathan Raiders
+Leeches
+Dwarven Scorcher
+Hoarding Dragon
+Whisperwood Elemental
+Fervent Charge
+Reviving Vapors
+Mystical Tutor
+Elusive Spellfist
+Obsidian Giant
+Heroes' Bane
+Enrage
+Mountain Bandit
+Dementia Sliver
+Inertia Bubble
+Kami of Empty Graves
+Spring of Eternal Peace
+Firefist Striker
+Pyrostatic Pillar
+Forbidden Ritual
+Hythonia the Cruel
+Angel of Mercy
+Soratami Seer
+Vodalian Illusionist
+Season of the Witch
+Shinen of Life's Roar
+cd
+Player #103
+Dream Fighter
+Wall of Air
+Arcanis the Omnipotent
+Punish Ignorance
+Tribal Forcemage
+Mazirek, Kraul Death Priest
+Herald of Anafenza
+Silumgar Butcher
+Llanowar Cavalry
+Loxodon Gatekeeper
+Death's Duet
+Pit Keeper
+Swell of Growth
+Ghor-Clan Savage
+Volcanic Wind
+Kiora, Master of the Depths
+Circle of Protection: Shadow
+Rune-Tail, Kitsune Ascendant
+Tribal Forcemage
+Gus
+Volunteer Reserves
+Merfolk Assassin
+Rage Thrower
+Graceful Adept
+Aura Flux
+Serene Heart
+Tempt with Vengeance
+Messenger Falcons
+Vine Dryad
+Roil Elemental
+Beastcaller Savant
+Flowstone Salamander
+Mul Daya Channelers
+Sphinx's Revelation
+Hindering Touch
+Spineless Thug
+Akki Raider
+Tidespout Tyrant
+Game-Trail Changeling
+Stalking Vengeance
+Goblin Scouts
+Rabid Rats
+Death Cultist
+Burst Lightning
+Stratus Walk
+Vow of Flight
+Dizzy Spell
+Repentance
+Volcanic Offering
+Sigiled Skink
+Snap
+Unifying Theory
+Archangel
+Deicide
+Jaddi Lifestrider
+Merfolk Traders
+Phyrexian Bloodstock
+Corpse Connoisseur
+Miscalculation
+Rummaging Goblin
+cd
+Player #69
+Midnight Ritual
+Homarid
+Incendiary
+Skyhunter Patrol
+Chandra's Spitfire
+Tempest of Light
+Fire and Brimstone
+Voice of Truth
+Voice of Truth
+Nulltread Gargantuan
+Bargain
+Balduvian Dead
+Perish
+Famished Ghoul
+Scion of Glaciers
+Beast Walkers
+Urborg Skeleton
+Tempest of Light
+Bloodchief Ascension
+Oriss, Samite Guardian
+Shelkin Brownie
+Ruinous Path
+Darkblast
+Cephalid Illusionist
+Basandra, Battle Seraph
+Flash Foliage
+Outmaneuver
+Emancipation Angel
+Wild Defiance
+Sacred Ground
+Ingot Chewer
+Spectral Bears
+Counterintelligence
+Embalmed Brawler
+Torrent of Fire
+Turtleshell Changeling
+Damia, Sage of Stone
+Metallurgeon
+Kami of False Hope
+Skillful Lunge
+Skulking Ghost
+Suffocation
+Erg Raiders
+Bargain
+Grounded
+Firehoof Cavalry
+Vorinclex, Voice of Hunger
+Savage Beating
+Simulacrum
+Leeching Bite
+Mob Mentality
+Essence of the Wild
+Steadfast Guard
+Breathstealer
+Laquatus's Disdain
+Vedalken Dismisser
+Wreath of Geists
+Darkpact
+Scion of Glaciers
+Quag Vampires
+cd
+Player #167
+Seraph of Dawn
+Confiscate
+Temporary Truce
+Orim's Chant
+Pact of the Titan
+Logic Knot
+Flowstone Wall
+Urborg Skeleton
+First Response
+Shrapnel Blast
+Centaur Glade
+Jackal Pup
+Ingot Chewer
+Nova Cleric
+Archangel
+Lost Leonin
+Exuberant Firestoker
+Loam Larva
+Metallic Mastery
+Deepwater Hypnotist
+Thought Courier
+Viashino Sandscout
+Carrier Thrall
+Amphin Pathmage
+Two-Headed Giant of Foriys
+Bloodied Ghost
+Kiss of the Amesha
+Akuta, Born of Ash
+Twin Bolt
+Bust
+Mind Spring
+Talrand's Invocation
+Gustrider Exuberant
+Bloodstoke Howler
+Favorable Winds
+Sanctuary Cat
+Gerrard's Wisdom
+Soul Stair Expedition
+Nyxborn Triton
+Index
+Shinen of Life's Roar
+Whisperer of the Wilds
+Rhox War Monk
+Kjeldoran Gargoyle
+Skirsdag Flayer
+Psychic Membrane
+Doorkeeper
+Counterlash
+Deathbringer Liege
+Children of Korlis
+Overrun
+Stalking Vengeance
+Ethereal Usher
+Degavolver
+Vorapede
+Safehold Sentry
+Rib Cage Spider
+Humbler of Mortals
+Fissure Vent
+Spinning Darkness
+cd
+Player #82
+Innocent Blood
+Stalking Vengeance
+Spinning Darkness
+Balloon Peddler
+Ondu Giant
+Faerie Swarm
+Dreg Mangler
+Damia, Sage of Stone
+Forcemage Advocate
+Nightwind Glider
+Bronzebeak Moa
+Wild Cantor
+Expedition Envoy
+Surgespanner
+Pulse of the Tangle
+Pyrostatic Pillar
+Triton Fortune Hunter
+Shatterskull Recruit
+Mighty Emergence
+Ondu Greathorn
+Scourglass
+Suleiman's Legacy
+Hivis of the Scale
+Guardian Zendikon
+Descendant of Masumaro
+Aven Battle Priest
+Brontotherium
+Deathgazer
+Priest of the Blood Rite
+Western Paladin
+Supply
+Viashino Spearhunter
+Lingering Death
+Goblin Marshal
+Halcyon Glaze
+Glade Watcher
+Essence Drain
+Steel of the Godhead
+Hidden Dragonslayer
+Squelching Leeches
+Grim Contest
+Merseine
+Rishadan Cutpurse
+Blue Ward
+Master the Way
+Relearn
+Baleful Strix
+Dromoka's Command
+Incendiary
+Skarrgan Skybreaker
+Ondu Greathorn
+Jaded Response
+Seer's Vision
+Decree of Justice
+Game-Trail Changeling
+Gorilla Berserkers
+Thrill of the Hunt
+Dreg Mangler
+Genesis Hydra
+Willow Priestess
+cd
+Player #25
+Sigiled Paladin
+Trained Orgg
+Cabal Surgeon
+Gorilla Berserkers
+Humbler of Mortals
+Bower Passage
+Hanweir Watchkeep
+Dark Prophecy
+Implode
+Collective Blessing
+Dismiss into Dream
+Wu Longbowman
+Zealous Persecution
+Moniker Mage
+Pursuit of Flight
+Venomous Dragonfly
+Overwhelm
+Lizard Warrior
+Deadly Wanderings
+Creakwood Ghoul
+Keeper of the Beasts
+Blades of Velis Vel
+Firemind's Foresight
+Kiora's Follower
+Meng Huo's Horde
+Cunning Strike
+Red-Hot Hottie
+Balduvian Warlord
+Steadfast Guard
+Disciple of Bolas
+Cytospawn Shambler
+Nantuko Vigilante
+Vanguard of Brimaz
+Essence Drain
+Fleecemane Lion
+Ghitu Slinger
+Howlpack of Estwald
+Second Chance
+Oppressive Will
+Pollen Remedy
+Steward of Valeron
+Obzedat's Aid
+Jackal Pup
+Disciple of the Vault
+Aysen Highway
+Warped Devotion
+Paragon of Fierce Defiance
+Sylvan Might
+Viashino Grappler
+Karoo Meerkat
+Turn to Dust
+Howl from Beyond
+Ghitu War Cry
+Part the Veil
+Hikari, Twilight Guardian
+Countermand
+Highland Game
+Angel's Herald
+Sudden Impact
+Changeling Hero
+report
+quit

@@ -1,0 +1,214 @@
+>Card "Pincher Beetles" created
+>Card "Tolarian Drake" created
+>Card "Fated Retribution" created
+>Card "Cruel Revival" created
+>Card "Avenger en-Dal" created
+>Card "Jeskai Barricade" created
+>Card "Atinlay Igpay" created
+>Card "Gore Swine" created
+>Card "Morningtide" created
+>Card "Dash Hopes" created
+>Card "Man of Measure" created
+>Card "Conflagrate" created
+>Card "Ink-Treader Nephilim" created
+>Card "Stronghold Discipline" created
+>Card "Reckless Wurm" created
+>Card "Silkwing Scout" created
+>Card "Kitsune Blademaster" created
+>Card "Ivory Giant" created
+>Card "Honorable Scout" created
+>Card "Sunbond" created
+>Card "Whirlpool Drake" created
+>Card "Spontaneous Generation" created
+>Card "Strength of Lunacy" created
+>Card "Mind Maggots" created
+>Card "Arrogant Bloodlord" created
+>Card "Drudge Skeletons" created
+>Card "Foundry Street Denizen" created
+>Card "Stalwart Aven" created
+>Card "Defender of the Order" created
+>Card "Seething Song" created
+>Card "Corrupted Harvester" created
+>Card "Thrashing Wumpus" created
+>Card "Pale Bears" created
+>Card "Woolly Loxodon" created
+>Card "Horde of Notions" created
+>Card "Seek the Horizon" created
+>Card "Krosan Wayfarer" created
+>Card "Harmonic Sliver" created
+>Card "Scrib Nibblers" created
+>Card "Pavel Maliki" created
+>Card "Crazed Goblin" created
+>Card "Urban Evolution" created
+>Card "Sprouting Phytohydra" created
+>Card "Furyborn Hellkite" created
+>Card "Cardpecker" created
+>Card "Erosion" created
+>Card "Spontaneous Generation" already exists
+>Card "Clam-I-Am" created
+>Card "Augury Adept" created
+>Card "Master Apothecary" created
+>Card "Whirler Rogue" created
+>Card "Blizzard" created
+>Card "Awakening" created
+>Card "Excruciator" created
+>Card "Quicksilver Wall" created
+>Card "Killing Wave" created
+>Card "Fangren Hunter" created
+>Card "Spell Pierce" created
+>Card "Rollick of Abandon" created
+>Card "Spring Cleaning" created
+>Card "Arachnus Spinner" created
+>Card "Necrotic Sliver" created
+>Card "Covenant of Minds" created
+>Card "Hoverguard Observer" created
+>Card "Virulent Sliver" created
+>Card "Gavony Ironwright" created
+>Card "Fire Elemental" created
+>Card "Haunting Misery" created
+>Card "Somnomancer" created
+>Card "Winter Blast" created
+>Card "Raging Minotaur" created
+>Card "Travel Preparations" created
+>Card "Uncontrollable Anger" created
+>Card "Tectonic Rift" created
+>Card "Timbermare" created
+>Card "Knight of Infamy" created
+>Card "Lhurgoyf" created
+>Card "Hidden Herd" created
+>Card "Reconstruction" created
+>Card "Benalish Emissary" created
+>Card "Dream Thrush" created
+>Card "Cloud of Faeries" created
+>Card "Skyhunter Patrol" created
+>Card "War Oracle" created
+>Card "Scorching Spear" created
+>Card "Wall of Fire" created
+>Card "Merfolk Spy" created
+>Card "Detention Sphere" created
+>Card "Street Spasm" created
+>Card "Glimpse the Unthinkable" created
+>Card "Yavimaya Scion" created
+>Card "Pardic Miner" created
+>Card "Cached Defenses" created
+>Card "Leaf Arrow" created
+>Card "Spectral Gateguards" created
+>Card "Elvish Aberration" created
+>Card "Spirespine" created
+>Card "Dispel" created
+>Card "Lithomancer's Focus" created
+>Card "Ironfist Crusher" created
+>Card "Night's Whisper" created
+>Card "Ascendant Evincar" created
+>Card "Enter the Dungeon" created
+>Card "Plow Through Reito" created
+>Card "Grisly Transformation" created
+>Card "Cromat" created
+>Card "Llanowar Dead" created
+>Card "Might of the Masses" created
+>Card "Spiteful Blow" created
+>Card "Dragonstorm" created
+>Card "Booster Tutor" created
+>Card "Gatecreeper Vine" created
+>Card "Siren of the Silent Song" created
+>Card "Ulvenwald Primordials" created
+>Card "Pulse of the Tangle" created
+>Card "Silverpelt Werewolf" created
+>Card "Soldier of the Pantheon" created
+>Card "Sterling Grove" created
+>Card "Possessed Barbarian" created
+>Card "Giant Turtle" created
+>Card "Benalish Veteran" created
+>Card "Wildfire Emissary" created
+>Card "Hellkite Hatchling" created
+>Card "Dust of Moments" created
+>Card "Nin, the Pain Artist" created
+>Card "Macabre Waltz" created
+>Card "Laquatus's Champion" created
+>Card "Bone Harvest" created
+>Card "Devout Lightcaster" created
+>Card "Snake Cult Initiation" created
+>Card "The Wretched" created
+>Card "Hatred" created
+>Card "Hallow" created
+>Card "Veiled Crocodile" created
+>Card "Breaking" created
+>Card "Distant Melody" created
+>Card "Hero of Goma Fada" created
+>Card "Garruk, Apex Predator" created
+>Card "Devouring Rage" created
+>Card "Vengeful Dreams" created
+>Card "Blaze" created
+>Card "Rabid Bloodsucker" created
+>Card "Vampire Envoy" created
+>Card "Luminesce" created
+>Card "Knighthood" created
+>Card "Slow Motion" created
+>Card "Pulsating Illusion" created
+>Card "Martyrdom" created
+>Card "Muscle Burst" created
+>Card "Howling Fury" created
+>Card "Viashino Sandscout" created
+>Card "Vigilant Sentry" created
+>Card "Gluttonous Zombie" created
+>Card "Horde of Boggarts" created
+>Card "Verdant Eidolon" created
+>Card "Taurean Mauler" created
+>Card "Wings of Velis Vel" created
+>Card "Skirk Outrider" created
+>Card "Hunt the Hunter" created
+>Card "Rimewind Taskmage" created
+>Card "Spectral Sliver" created
+>Card "Luminate Primordial" created
+>Card "Martyr of Frost" created
+>Card "Kithkin Shielddare" created
+>Card "Morkrut Banshee" created
+>Card "Realmwright" created
+>Card "Runeclaw Bear" created
+>Card "Haakon, Stromgald Scourge" created
+>Card "Customs Depot" created
+>Card "Flowering Lumberknot" created
+>Card "Tavern Swindler" created
+>Card "Mercenary Informer" created
+>Card "Carrion Wall" created
+>Card "Ghostly Flame" created
+>Card "Grozoth" created
+>Card "Fangren Pathcutter" created
+>Card "Kiyomaro, First to Stand" created
+>Card "Cradle of Vitality" created
+>Card "Steal Enchantment" created
+>Card "Kalitas, Traitor of Ghet" created
+>Card "Terra Stomper" created
+>Card "Undergrowth Scavenger" created
+>Card "Mana Seism" created
+>Card "Vex" created
+>Card "Opportunity" created
+>Card "Hymn of Rebirth" created
+>Card "Bellowing Tanglewurm" created
+>Card "Man of Measure" already exists
+>Card "Sowing Salt" created
+>Card "Wistful Thinking" created
+>Card "Spark Trooper" created
+>Card "Roon of the Hidden Realm" created
+>Card "Elvish Hexhunter" created
+>Card "Fathom Mage" created
+>Card "Penumbra Bobcat" created
+>Card "Sea Serpent" created
+>Card "Quick Sliver" created
+>Card "Kithkin Rabble" created
+>Card "Iona's Judgment" created
+>Card "Sky Spirit" created
+>Player "Player #112" created
+>Player "Player #42" created
+>Player "Player #161" created
+>Player "Player #123" created
+>Deck created for player "Player #161"
+>Deck created for player "Player #112"
+>Deck created for player "Player #42"
+>Deck created for player "Player #112"
+>Deck created for player "Player #161"
+>Deck created for player "Player #112"
+>Deck created for player "Player #123"
+>Deck created for player "Player #42"
+>report generated
+>command "quit" not recognized - exiting

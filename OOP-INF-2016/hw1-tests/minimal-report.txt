@@ -1,0 +1,6 @@
+Red
+Black
+Blue
+White
+Green
+Most common card: Molten Sentry Color: Red

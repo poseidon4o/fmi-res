@@ -1,0 +1,46 @@
+Red
+	Owner: Player #32 Card: Celestial Ancient Color: White
+	Owner: Player #192 Card: Sowing Salt Color: Red
+	Owner: Player #107 Card: Viashino Grappler Color: Red
+	Owner: Player #25 Card: Sigiled Paladin Color: White
+Black
+	Owner: Player #25 Card: Oaken Brawler Color: White
+	Owner: Player #26 Card: Sootwalkers Color: Black
+	Owner: Player #103 Card: Pure Intentions Color: White
+	Owner: Player #192 Card: Trusted Advisor Color: Blue
+	Owner: Player #107 Card: Dramatic Rescue Color: White
+	Owner: Player #25 Card: Season of the Witch Color: Black
+	Owner: Player #62 Card: Magical Hacker Color: Blue
+	Owner: Player #38 Card: Tundra Kavu Color: Red
+Blue
+	Owner: Player #167 Card: Hooded Horror Color: Black
+	Owner: Player #26 Card: Moonglove Changeling Color: Black
+	Owner: Player #123 Card: Glyph of Destruction Color: Red
+	Owner: Player #171 Card: Sultai Charm Color: Blue
+	Owner: Player #16 Card: Balancing Act Color: White
+	Owner: Player #192 Card: Seer's Vision Color: Blue
+	Owner: Player #103 Card: Dream Fighter Color: Blue
+White
+	Owner: Player #84 Card: Warrior's Oath Color: Red
+	Owner: Player #100 Card: Balloon Peddler Color: Blue
+	Owner: Player #171 Card: Plow Through Reito Color: White
+	Owner: Player #176 Card: Overwhelming Denial Color: Blue
+	Owner: Player #192 Card: Walking Dream Color: Blue
+	Owner: Player #100 Card: Aggravate Color: Red
+	Owner: Player #100 Card: Safewright Quest Color: White
+	Owner: Player #176 Card: Parasitic Implant Color: Black
+	Owner: Player #107 Card: Spell Rupture Color: Blue
+	Owner: Player #25 Card: Rift Elemental Color: Red
+	Owner: Player #62 Card: Honor of the Pure Color: White
+	Owner: Player #192 Card: Vital Splicer Color: Green
+	Owner: Player #171 Card: Hythonia the Cruel Color: Black
+	Owner: Player #167 Card: Karoo Meerkat Color: Green
+	Owner: Player #102 Card: Niblis of the Breath Color: Blue
+	Owner: Player #100 Card: Kytheon's Tactics Color: White
+	Owner: Player #25 Card: Creakwood Ghoul Color: Black
+	Owner: Player #113 Card: Teferi's Honor Guard Color: White
+	Owner: Player #69 Card: Midnight Ritual Color: Black
+	Owner: Player #167 Card: Seraph of Dawn Color: White
+	Owner: Player #82 Card: Innocent Blood Color: Black
+Green
+Most common card: Tempest of Light Color: White

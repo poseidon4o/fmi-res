@@ -1,0 +1,6 @@
+cp
+Player #30
+cp
+Player #30
+report
+quit

@@ -1,0 +1,4 @@
+report
+>report generated
+quit
+>command "quit" not recognized - exiting

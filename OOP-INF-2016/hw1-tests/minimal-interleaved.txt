@@ -1,0 +1,187 @@
+cc
+Red Molten Sentry
+>Card "Molten Sentry" created
+cc
+Blue Fowl Play
+>Card "Fowl Play" created
+cc
+White Kithkin Harbinger
+>Card "Kithkin Harbinger" created
+cc
+White Auriok Windwalker
+>Card "Auriok Windwalker" created
+cc
+Blue Hada Spy Patrol
+>Card "Hada Spy Patrol" created
+cc
+Blue Serra Sphinx
+>Card "Serra Sphinx" created
+cc
+Red Massive Raid
+>Card "Massive Raid" created
+cc
+Blue Raven Familiar
+>Card "Raven Familiar" created
+cc
+Green Dauntless Dourbark
+>Card "Dauntless Dourbark" created
+cc
+Red Twin Bolt
+>Card "Twin Bolt" created
+cc
+White Bathe in Light
+>Card "Bathe in Light" created
+cc
+Blue Grimgrin, Corpse-Born
+>Card "Grimgrin, Corpse-Born" created
+cc
+Green Greenseeker
+>Card "Greenseeker" created
+cc
+Green Revelation
+>Card "Revelation" created
+cc
+Green Mold Shambler
+>Card "Mold Shambler" created
+cc
+Red Deadshot
+>Card "Deadshot" created
+cc
+White Planar Outburst
+>Card "Planar Outburst" created
+cc
+Blue Elder Mastery
+>Card "Elder Mastery" created
+cc
+Green Dramatic Entrance
+>Card "Dramatic Entrance" created
+cc
+Green Cytoplast Root-Kin
+>Card "Cytoplast Root-Kin" created
+cc
+Red Bloodrock Cyclops
+>Card "Bloodrock Cyclops" created
+cc
+Blue Inside Out
+>Card "Inside Out" created
+cc
+Red Steam Blast
+>Card "Steam Blast" created
+cc
+Black Bitterheart Witch
+>Card "Bitterheart Witch" created
+cc
+Black Maalfeld Twins
+>Card "Maalfeld Twins" created
+cc
+Blue Amphin Pathmage
+>Card "Amphin Pathmage" created
+cc
+Blue Dralnu, Lich Lord
+>Card "Dralnu, Lich Lord" created
+cc
+Blue Kingfisher
+>Card "Kingfisher" created
+cc
+Blue Esper Battlemage
+>Card "Esper Battlemage" created
+cc
+White Replenish
+>Card "Replenish" created
+cc
+Blue Living Tsunami
+>Card "Living Tsunami" created
+cc
+Blue Riptide Chimera
+>Card "Riptide Chimera" created
+cc
+Blue Ponder
+>Card "Ponder" created
+cc
+White Truce
+>Card "Truce" created
+cc
+White Tandem Tactics
+>Card "Tandem Tactics" created
+cc
+White Brion Stoutarm
+>Card "Brion Stoutarm" created
+cc
+Black Corpse Harvester
+>Card "Corpse Harvester" created
+cc
+Green Rabid Elephant
+>Card "Rabid Elephant" created
+cc
+Blue Spire Owl
+>Card "Spire Owl" created
+cc
+Blue Vodalian War Machine
+>Card "Vodalian War Machine" created
+cc
+Black Twisted Experiment
+>Card "Twisted Experiment" created
+cc
+Green Soul's Majesty
+>Card "Soul's Majesty" created
+cc
+Red Inferno Trap
+>Card "Inferno Trap" created
+cc
+Red Curse of Marit Lage
+>Card "Curse of Marit Lage" created
+cc
+Black Adun Oakenshield
+>Card "Adun Oakenshield" created
+cc
+Green Krosan Vorine
+>Card "Krosan Vorine" created
+cc
+Black Magus of the Abyss
+>Card "Magus of the Abyss" created
+cc
+Red Pit Fight
+>Card "Pit Fight" created
+cc
+Blue Tome Scour
+>Card "Tome Scour" created
+cc
+Green Fungal Bloom
+>Card "Fungal Bloom" created
+cc
+Black Wight of Precinct Six
+>Card "Wight of Precinct Six" created
+cc
+Blue Mistfolk
+>Card "Mistfolk" created
+cc
+Black Gloomlance
+>Card "Gloomlance" created
+cc
+White Syndic of Tithes
+>Card "Syndic of Tithes" created
+cc
+Black Grisly Transformation
+>Card "Grisly Transformation" created
+cc
+Red Breath of Darigaaz
+>Card "Breath of Darigaaz" created
+cc
+White Peace and Quiet
+>Card "Peace and Quiet" created
+cc
+White Gustrider Exuberant
+>Card "Gustrider Exuberant" created
+cc
+Red Ember Beast
+>Card "Ember Beast" created
+cc
+White Expedition Envoy
+>Card "Expedition Envoy" created
+cp
+Player #66
+>Player "Player #66" created
+report
+>report generated
+quit
+>command "quit" not recognized - exiting

@@ -1,0 +1,8584 @@
+cc
+Black Brink of Madness
+>Card "Brink of Madness" created
+cc
+Black Hythonia the Cruel
+>Card "Hythonia the Cruel" created
+cc
+Black Cursed Monstrosity
+>Card "Cursed Monstrosity" created
+cc
+Red Mardu Heart-Piercer
+>Card "Mardu Heart-Piercer" created
+cc
+Blue Acquire
+>Card "Acquire" created
+cc
+Red Shivan Raptor
+>Card "Shivan Raptor" created
+cc
+Red Assquatch
+>Card "Assquatch" created
+cc
+Black Shadowcloak Vampire
+>Card "Shadowcloak Vampire" created
+cc
+White Teferi's Honor Guard
+>Card "Teferi's Honor Guard" created
+cc
+Red Aggression
+>Card "Aggression" created
+cc
+Red Incendiary
+>Card "Incendiary" created
+cc
+Black Tar Pit Warrior
+>Card "Tar Pit Warrior" created
+cc
+Green Waiting in the Weeds
+>Card "Waiting in the Weeds" created
+cc
+Blue Disciple of the Ring
+>Card "Disciple of the Ring" created
+cc
+Blue Call to Heel
+>Card "Call to Heel" created
+cc
+Blue Svyelunite Priest
+>Card "Svyelunite Priest" created
+cc
+Blue Arcanis the Omnipotent
+>Card "Arcanis the Omnipotent" created
+cc
+Black Nighthaze
+>Card "Nighthaze" created
+cc
+Green Spectral Bears
+>Card "Spectral Bears" created
+cc
+Red Robber Fly
+>Card "Robber Fly" created
+cc
+Red Iizuka the Ruthless
+>Card "Iizuka the Ruthless" created
+cc
+Red Rage Thrower
+>Card "Rage Thrower" created
+cc
+Blue Venerated Teacher
+>Card "Venerated Teacher" created
+cc
+Black Gutwrencher Oni
+>Card "Gutwrencher Oni" created
+cc
+White Sunspire Griffin
+>Card "Sunspire Griffin" created
+cc
+White Mistral Charger
+>Card "Mistral Charger" created
+cc
+Green Farhaven Elf
+>Card "Farhaven Elf" created
+cc
+Black Nezumi Bone-Reader
+>Card "Nezumi Bone-Reader" created
+cc
+Green Lurking Predators
+>Card "Lurking Predators" created
+cc
+Red Boggart Shenanigans
+>Card "Boggart Shenanigans" created
+cc
+White Vectis Dominator
+>Card "Vectis Dominator" created
+cc
+White Dromoka's Command
+>Card "Dromoka's Command" created
+cc
+Black Whip of Erebos
+>Card "Whip of Erebos" created
+cc
+White Phyrexian Unlife
+>Card "Phyrexian Unlife" created
+cc
+Black Return of the Nightstalkers
+>Card "Return of the Nightstalkers" created
+cc
+Blue Moniker Mage
+>Card "Moniker Mage" created
+cc
+Blue Plagiarize
+>Card "Plagiarize" created
+cc
+Black Farewell to Arms
+>Card "Farewell to Arms" created
+cc
+Green Elderscale Wurm
+>Card "Elderscale Wurm" created
+cc
+White Lightwalker
+>Card "Lightwalker" created
+cc
+Blue Argivian Restoration
+>Card "Argivian Restoration" created
+cc
+Black Noxious Vapors
+>Card "Noxious Vapors" created
+cc
+Black Undercity Shade
+>Card "Undercity Shade" created
+cc
+Green Desecration Plague
+>Card "Desecration Plague" created
+cc
+Green Viridian Emissary
+>Card "Viridian Emissary" created
+cc
+Red Bloodstoke Howler
+>Card "Bloodstoke Howler" created
+cc
+Black Paralyze
+>Card "Paralyze" created
+cc
+Green Howlpack of Estwald
+>Card "Howlpack of Estwald" created
+cc
+Black Phyrexian Obliterator
+>Card "Phyrexian Obliterator" created
+cc
+White Soul Snare
+>Card "Soul Snare" created
+cc
+Blue Mistform Shrieker
+>Card "Mistform Shrieker" created
+cc
+Green Spider Spawning
+>Card "Spider Spawning" created
+cc
+Blue False Demise
+>Card "False Demise" created
+cc
+Black Doomgape
+>Card "Doomgape" created
+cc
+Blue Distant Melody
+>Card "Distant Melody" created
+cc
+White Skillful Lunge
+>Card "Skillful Lunge" created
+cc
+Black Thornbow Archer
+>Card "Thornbow Archer" created
+cc
+Green Centaur Glade
+>Card "Centaur Glade" created
+cc
+Green Thrive
+>Card "Thrive" created
+cc
+Red Two-Headed Giant of Foriys
+>Card "Two-Headed Giant of Foriys" created
+cc
+Black Grim Feast
+>Card "Grim Feast" created
+cc
+Black Sibsig Host
+>Card "Sibsig Host" created
+cc
+Black Doomwake Giant
+>Card "Doomwake Giant" created
+cc
+Black Death's Duet
+>Card "Death's Duet" created
+cc
+White Spectral Guardian
+>Card "Spectral Guardian" created
+cc
+White Meddling Mage
+>Card "Meddling Mage" created
+cc
+Black Darigaaz, the Igniter
+>Card "Darigaaz, the Igniter" created
+cc
+White Stone Haven Outfitter
+>Card "Stone Haven Outfitter" created
+cc
+Red Mons's Goblin Raiders
+>Card "Mons's Goblin Raiders" created
+cc
+Black Pillar Tombs of Aku
+>Card "Pillar Tombs of Aku" created
+cc
+Blue Red Cliffs Armada
+>Card "Red Cliffs Armada" created
+cc
+Black Duh
+>Card "Duh" created
+cc
+Blue Frozen Solid
+>Card "Frozen Solid" created
+cc
+White Godsire
+>Card "Godsire" created
+cc
+Red Crookshank Kobolds
+>Card "Crookshank Kobolds" created
+cc
+Green Beastcaller Savant
+>Card "Beastcaller Savant" created
+cc
+White Obzedat's Aid
+>Card "Obzedat's Aid" created
+cc
+Black Krumar Bond-Kin
+>Card "Krumar Bond-Kin" created
+cc
+Black Crowd of Cinders
+>Card "Crowd of Cinders" created
+cc
+White Alaborn Cavalier
+>Card "Alaborn Cavalier" created
+cc
+Blue Mistfire Weaver
+>Card "Mistfire Weaver" created
+cc
+White Grizzled Leotau
+>Card "Grizzled Leotau" created
+cc
+White Stillmoon Cavalier
+>Card "Stillmoon Cavalier" created
+cc
+Black Agent of Erebos
+>Card "Agent of Erebos" created
+cc
+Blue Gudul Lurker
+>Card "Gudul Lurker" created
+cc
+Black Revive the Fallen
+>Card "Revive the Fallen" created
+cc
+Blue Mystic Decree
+>Card "Mystic Decree" created
+cc
+Black Filthy Cur
+>Card "Filthy Cur" created
+cc
+White Planar Cleansing
+>Card "Planar Cleansing" created
+cc
+Green Gorilla Pack
+>Card "Gorilla Pack" created
+cc
+Black Mind Warp
+>Card "Mind Warp" created
+cc
+Green Commune with the Gods
+>Card "Commune with the Gods" created
+cc
+Black Restless Dead
+>Card "Restless Dead" created
+cc
+Blue Wilderness Hypnotist
+>Card "Wilderness Hypnotist" created
+cc
+Red Firefist Striker
+>Card "Firefist Striker" created
+cc
+Green Soul's Majesty
+>Card "Soul's Majesty" created
+cc
+Blue Sift
+>Card "Sift" created
+cc
+Black Erebos's Emissary
+>Card "Erebos's Emissary" created
+cc
+Blue Nin, the Pain Artist
+>Card "Nin, the Pain Artist" created
+cc
+Black Phyrexian Slayer
+>Card "Phyrexian Slayer" created
+cc
+White Setessan Griffin
+>Card "Setessan Griffin" created
+cc
+Black Noxious Field
+>Card "Noxious Field" created
+cc
+Green Increasing Savagery
+>Card "Increasing Savagery" created
+cc
+White Standard Bearer
+>Card "Standard Bearer" created
+cc
+Green Land Leeches
+>Card "Land Leeches" created
+cc
+White Vanguard of Brimaz
+>Card "Vanguard of Brimaz" created
+cc
+Green Tooth and Nail
+>Card "Tooth and Nail" created
+cc
+Blue Artful Dodge
+>Card "Artful Dodge" created
+cc
+Black Final Strike
+>Card "Final Strike" created
+cc
+Blue Great Whale
+>Card "Great Whale" created
+cc
+White Degavolver
+>Card "Degavolver" created
+cc
+Red Summit Prowler
+>Card "Summit Prowler" created
+cc
+Blue Marchesa's Smuggler
+>Card "Marchesa's Smuggler" created
+cc
+Blue Master of Predicaments
+>Card "Master of Predicaments" created
+cc
+Green Vital Surge
+>Card "Vital Surge" created
+cc
+Red Hurloon Wrangler
+>Card "Hurloon Wrangler" created
+cc
+Blue Downpour
+>Card "Downpour" created
+cc
+White Avacyn, Guardian Angel
+>Card "Avacyn, Guardian Angel" created
+cc
+White Iroas's Champion
+>Card "Iroas's Champion" created
+cc
+Blue Quicksilver Elemental
+>Card "Quicksilver Elemental" created
+cc
+Black Infinite Obliteration
+>Card "Infinite Obliteration" created
+cc
+Green Infested Roothold
+>Card "Infested Roothold" created
+cc
+Blue Echo Mage
+>Card "Echo Mage" created
+cc
+Blue Soratami Seer
+>Card "Soratami Seer" created
+cc
+White Elite Javelineer
+>Card "Elite Javelineer" created
+cc
+Red Hoarding Dragon
+>Card "Hoarding Dragon" created
+cc
+Red Axegrinder Giant
+>Card "Axegrinder Giant" created
+cc
+Red Lava Burst
+>Card "Lava Burst" created
+cc
+Green Wreath of Geists
+>Card "Wreath of Geists" created
+cc
+Black Doomsday
+>Card "Doomsday" created
+cc
+Black Rag Man
+>Card "Rag Man" created
+cc
+White Dazzling Ramparts
+>Card "Dazzling Ramparts" created
+cc
+Black Dauthi Warlord
+>Card "Dauthi Warlord" created
+cc
+Blue Scion of Oona
+>Card "Scion of Oona" created
+cc
+Green Pendelhaven Elder
+>Card "Pendelhaven Elder" created
+cc
+Green Skyshroud Ridgeback
+>Card "Skyshroud Ridgeback" created
+cc
+Green Groundbreaker
+>Card "Groundbreaker" created
+cc
+Black Nameless Race
+>Card "Nameless Race" created
+cc
+Red Detonate
+>Card "Detonate" created
+cc
+Black Circling Vultures
+>Card "Circling Vultures" created
+cc
+Blue Rising Waters
+>Card "Rising Waters" created
+cc
+White Recumbent Bliss
+>Card "Recumbent Bliss" created
+cc
+White Spiritual Guardian
+>Card "Spiritual Guardian" created
+cc
+White Zealous Persecution
+>Card "Zealous Persecution" created
+cc
+Blue Homarid
+>Card "Homarid" created
+cc
+Blue Aura Flux
+>Card "Aura Flux" created
+cc
+Black Plague Rats
+>Card "Plague Rats" created
+cc
+Red Furor of the Bitten
+>Card "Furor of the Bitten" created
+cc
+Red Gang of Devils
+>Card "Gang of Devils" created
+cc
+Blue Mulldrifter
+>Card "Mulldrifter" created
+cc
+Black Geyserfield Stalker
+>Card "Geyserfield Stalker" created
+cc
+Green Krosan Groundshaker
+>Card "Krosan Groundshaker" created
+cc
+Red Flowstone Slide
+>Card "Flowstone Slide" created
+cc
+Green Shelkin Brownie
+>Card "Shelkin Brownie" created
+cc
+White Arbiter of Knollridge
+>Card "Arbiter of Knollridge" created
+cc
+Red Whip Sergeant
+>Card "Whip Sergeant" created
+cc
+Blue Cloud Spirit
+>Card "Cloud Spirit" created
+cc
+Green Display of Dominance
+>Card "Display of Dominance" created
+cc
+Blue Teferi's Veil
+>Card "Teferi's Veil" created
+cc
+Green Mighty Emergence
+>Card "Mighty Emergence" created
+cc
+Blue Oboro Envoy
+>Card "Oboro Envoy" created
+cc
+White Aysen Highway
+>Card "Aysen Highway" created
+cc
+Blue Serendib Sorcerer
+>Card "Serendib Sorcerer" created
+cc
+Green Tracker
+>Card "Tracker" created
+cc
+Green Pygmy Razorback
+>Card "Pygmy Razorback" created
+cc
+White Auspicious Ancestor
+>Card "Auspicious Ancestor" created
+cc
+Blue Hada Spy Patrol
+>Card "Hada Spy Patrol" created
+cc
+Red Fledgling Dragon
+>Card "Fledgling Dragon" created
+cc
+White Voice of Truth
+>Card "Voice of Truth" created
+cc
+White Wrath of God
+>Card "Wrath of God" created
+cc
+Black Dauthi Horror
+>Card "Dauthi Horror" created
+cc
+White Shu Cavalry
+>Card "Shu Cavalry" created
+cc
+White Rhystic Shield
+>Card "Rhystic Shield" created
+cc
+White Retether
+>Card "Retether" created
+cc
+Red Witch Hunt
+>Card "Witch Hunt" created
+cc
+Blue Annul
+>Card "Annul" created
+cc
+White Kinsbaile Borderguard
+>Card "Kinsbaile Borderguard" created
+cc
+Blue Hydroform
+>Card "Hydroform" created
+cc
+Black Scavenged Weaponry
+>Card "Scavenged Weaponry" created
+cc
+Blue Chief Engineer
+>Card "Chief Engineer" created
+cc
+Blue Pongify
+>Card "Pongify" created
+cc
+Black Final Punishment
+>Card "Final Punishment" created
+cc
+Blue Vow of Flight
+>Card "Vow of Flight" created
+cc
+Black Exsanguinate
+>Card "Exsanguinate" created
+cc
+Blue Bubbling Beebles
+>Card "Bubbling Beebles" created
+cc
+Blue Jwari Shapeshifter
+>Card "Jwari Shapeshifter" created
+cc
+Black Infernal Spawn of Evil
+>Card "Infernal Spawn of Evil" created
+cc
+Green Mutant's Prey
+>Card "Mutant's Prey" created
+cc
+White Energy Storm
+>Card "Energy Storm" created
+cc
+Green Forest Bear
+>Card "Forest Bear" created
+cc
+Blue Tolarian Drake
+>Card "Tolarian Drake" created
+cc
+Black Fevered Convulsions
+>Card "Fevered Convulsions" created
+cc
+Green Verdant Succession
+>Card "Verdant Succession" created
+cc
+Blue Hindering Touch
+>Card "Hindering Touch" created
+cc
+Red Hateflayer
+>Card "Hateflayer" created
+cc
+Green Dreampod Druid
+>Card "Dreampod Druid" created
+cc
+White Gift of Orzhova
+>Card "Gift of Orzhova" created
+cc
+Green Nissa's Judgment
+>Card "Nissa's Judgment" created
+cc
+Blue Ramirez DePietro
+>Card "Ramirez DePietro" created
+cc
+Red Sarkhan, the Dragonspeaker
+>Card "Sarkhan, the Dragonspeaker" created
+cc
+Black Shambling Attendants
+>Card "Shambling Attendants" created
+cc
+White Honor of the Pure
+>Card "Honor of the Pure" created
+cc
+Green Panther Warriors
+>Card "Panther Warriors" created
+cc
+Blue View from Above
+>Card "View from Above" created
+cc
+White Talon Sliver
+>Card "Talon Sliver" created
+cc
+Red Aggravate
+>Card "Aggravate" created
+cc
+Black Skeletal Snake
+>Card "Skeletal Snake" created
+cc
+Black Essence Drain
+>Card "Essence Drain" created
+cc
+Blue Ancient Carp
+>Card "Ancient Carp" created
+cc
+Red Sprinting Warbrute
+>Card "Sprinting Warbrute" created
+cc
+White Mtenda Herder
+>Card "Mtenda Herder" created
+cc
+Red Kavu Monarch
+>Card "Kavu Monarch" created
+cc
+White Frantic Salvage
+>Card "Frantic Salvage" created
+cc
+Blue Marchesa's Smuggler
+>Card "Marchesa's Smuggler" already exists
+cc
+White Volunteer Reserves
+>Card "Volunteer Reserves" created
+cc
+Blue Linessa, Zephyr Mage
+>Card "Linessa, Zephyr Mage" created
+cc
+Red Paroxysm
+>Card "Paroxysm" created
+cc
+White Nightwind Glider
+>Card "Nightwind Glider" created
+cc
+White Circle of Protection: Green
+>Card "Circle of Protection: Green" created
+cc
+Black Demigod of Revenge
+>Card "Demigod of Revenge" created
+cc
+Green Viridian Zealot
+>Card "Viridian Zealot" created
+cc
+White Burrenton Forge-Tender
+>Card "Burrenton Forge-Tender" created
+cc
+Green Fastbond
+>Card "Fastbond" created
+cc
+Blue Backslide
+>Card "Backslide" created
+cc
+Green Allosaurus Rider
+>Card "Allosaurus Rider" created
+cc
+Green Bower Passage
+>Card "Bower Passage" created
+cc
+Red Dwarven Thaumaturgist
+>Card "Dwarven Thaumaturgist" created
+cc
+Blue Spell Rupture
+>Card "Spell Rupture" created
+cc
+Black Belbe's Percher
+>Card "Belbe's Percher" created
+cc
+Red Jalum Grifter
+>Card "Jalum Grifter" created
+cc
+White Spirit Mirror
+>Card "Spirit Mirror" created
+cc
+Red Lavacore Elemental
+>Card "Lavacore Elemental" created
+cc
+White Sidar Jabari
+>Card "Sidar Jabari" created
+cc
+Blue Coma Veil
+>Card "Coma Veil" created
+cc
+Red Volcanic Wind
+>Card "Volcanic Wind" created
+cc
+Blue Balduvian Conjurer
+>Card "Balduvian Conjurer" created
+cc
+Black Pillar Tombs of Aku
+>Card "Pillar Tombs of Aku" already exists
+cc
+Black Phyrexian Scuta
+>Card "Phyrexian Scuta" created
+cc
+White Progenitus
+>Card "Progenitus" created
+cc
+Black Cremate
+>Card "Cremate" created
+cc
+Black Embalmed Brawler
+>Card "Embalmed Brawler" created
+cc
+Green Hornet Cobra
+>Card "Hornet Cobra" created
+cc
+White Restless Apparition
+>Card "Restless Apparition" created
+cc
+Blue Steal Artifact
+>Card "Steal Artifact" created
+cc
+Red Thunderblade Charge
+>Card "Thunderblade Charge" created
+cc
+Green Noble Quarry
+>Card "Noble Quarry" created
+cc
+Red Ceaseless Searblades
+>Card "Ceaseless Searblades" created
+cc
+Green Nourishing Shoal
+>Card "Nourishing Shoal" created
+cc
+Green Strength from the Fallen
+>Card "Strength from the Fallen" created
+cc
+Red Eternal Warrior
+>Card "Eternal Warrior" created
+cc
+Black Spineless Thug
+>Card "Spineless Thug" created
+cc
+Green Talara's Battalion
+>Card "Talara's Battalion" created
+cc
+White Ancestral Tribute
+>Card "Ancestral Tribute" created
+cc
+Green Briar Shield
+>Card "Briar Shield" created
+cc
+White Pearlspear Courier
+>Card "Pearlspear Courier" created
+cc
+White Isamaru, Hound of Konda
+>Card "Isamaru, Hound of Konda" created
+cc
+Blue Trinket Mage
+>Card "Trinket Mage" created
+cc
+Green Rebirth
+>Card "Rebirth" created
+cc
+Green Haze Frog
+>Card "Haze Frog" created
+cc
+Blue Second Chance
+>Card "Second Chance" created
+cc
+Blue Jaded Response
+>Card "Jaded Response" created
+cc
+White Punish Ignorance
+>Card "Punish Ignorance" created
+cc
+Black Nightmare
+>Card "Nightmare" created
+cc
+White Aerie Mystics
+>Card "Aerie Mystics" created
+cc
+Blue Arcanis the Omnipotent
+>Card "Arcanis the Omnipotent" already exists
+cc
+Red Gathan Raiders
+>Card "Gathan Raiders" created
+cc
+White Akroan Hoplite
+>Card "Akroan Hoplite" created
+cc
+White Vanquish the Foul
+>Card "Vanquish the Foul" created
+cc
+Blue Suffocation
+>Card "Suffocation" created
+cc
+Blue Blinding Spray
+>Card "Blinding Spray" created
+cc
+Red Jaws of Stone
+>Card "Jaws of Stone" created
+cc
+Red Rock Basilisk
+>Card "Rock Basilisk" created
+cc
+White Warclamp Mastiff
+>Card "Warclamp Mastiff" created
+cc
+Black Imp's Mischief
+>Card "Imp's Mischief" created
+cc
+Black Unbreathing Horde
+>Card "Unbreathing Horde" created
+cc
+Red Goblin Sky Raider
+>Card "Goblin Sky Raider" created
+cc
+White Abeyance
+>Card "Abeyance" created
+cc
+Blue Mystic Meditation
+>Card "Mystic Meditation" created
+cc
+Blue Vectis Agents
+>Card "Vectis Agents" created
+cc
+White Archangel
+>Card "Archangel" created
+cc
+Black Lord of Extinction
+>Card "Lord of Extinction" created
+cc
+Green Waiting in the Weeds
+>Card "Waiting in the Weeds" already exists
+cc
+White Deathbringer Liege
+>Card "Deathbringer Liege" created
+cc
+Black Lingering Death
+>Card "Lingering Death" created
+cc
+Blue Haunter of Nightveil
+>Card "Haunter of Nightveil" created
+cc
+Red Gruul War Chant
+>Card "Gruul War Chant" created
+cc
+White Terashi's Cry
+>Card "Terashi's Cry" created
+cc
+White Cromat
+>Card "Cromat" created
+cc
+Blue Advice from the Fae
+>Card "Advice from the Fae" created
+cc
+Green Den Protector
+>Card "Den Protector" created
+cc
+Blue Hands of Binding
+>Card "Hands of Binding" created
+cc
+Black Slaughter Pact
+>Card "Slaughter Pact" created
+cc
+White Disenchant
+>Card "Disenchant" created
+cc
+Green Wild Leotau
+>Card "Wild Leotau" created
+cc
+Green Fiddlehead Kami
+>Card "Fiddlehead Kami" created
+cc
+Black Treacherous Pit-Dweller
+>Card "Treacherous Pit-Dweller" created
+cc
+White Crusade
+>Card "Crusade" created
+cc
+Green Thunderfoot Baloth
+>Card "Thunderfoot Baloth" created
+cc
+Blue Mistbind Clique
+>Card "Mistbind Clique" created
+cc
+White Angelic Page
+>Card "Angelic Page" created
+cc
+Blue Tidal Flats
+>Card "Tidal Flats" created
+cc
+Black Sengir Bats
+>Card "Sengir Bats" created
+cc
+Green Leatherback Baloth
+>Card "Leatherback Baloth" created
+cc
+Black Baleful Eidolon
+>Card "Baleful Eidolon" created
+cc
+White Blade of the Sixth Pride
+>Card "Blade of the Sixth Pride" created
+cc
+Black Phyrexian Arena
+>Card "Phyrexian Arena" created
+cc
+Blue Tunnel Vision
+>Card "Tunnel Vision" created
+cc
+White Aura of Silence
+>Card "Aura of Silence" created
+cc
+White Genju of the Realm
+>Card "Genju of the Realm" created
+cc
+Green Gurzigost
+>Card "Gurzigost" created
+cc
+Red Shimatsu the Bloodcloaked
+>Card "Shimatsu the Bloodcloaked" created
+cc
+White Mystic Familiar
+>Card "Mystic Familiar" created
+cc
+Blue Deepwater Hypnotist
+>Card "Deepwater Hypnotist" created
+cc
+Red Viashino Cutthroat
+>Card "Viashino Cutthroat" created
+cc
+Black Chosen of Markov
+>Card "Chosen of Markov" created
+cc
+Blue Isleback Spawn
+>Card "Isleback Spawn" created
+cc
+Red Pyrohemia
+>Card "Pyrohemia" created
+cc
+Blue Looming Hoverguard
+>Card "Looming Hoverguard" created
+cc
+White Welkin Guide
+>Card "Welkin Guide" created
+cc
+Blue Gitaxian Probe
+>Card "Gitaxian Probe" created
+cc
+Black Darkpact
+>Card "Darkpact" created
+cc
+White Ashen Rider
+>Card "Ashen Rider" created
+cc
+Blue Baleful Stare
+>Card "Baleful Stare" created
+cc
+Blue Brine Hag
+>Card "Brine Hag" created
+cc
+Blue Hisoka's Defiance
+>Card "Hisoka's Defiance" created
+cc
+Black Crypt Rats
+>Card "Crypt Rats" created
+cc
+Green Regeneration
+>Card "Regeneration" created
+cc
+Green Primal Growth
+>Card "Primal Growth" created
+cc
+White Circle of Protection: Artifacts
+>Card "Circle of Protection: Artifacts" created
+cc
+White Mardu Hordechief
+>Card "Mardu Hordechief" created
+cc
+Red Mogg Bombers
+>Card "Mogg Bombers" created
+cc
+Green Sylvan Safekeeper
+>Card "Sylvan Safekeeper" created
+cc
+Black Muck Drubb
+>Card "Muck Drubb" created
+cc
+White Bant Sojourners
+>Card "Bant Sojourners" created
+cc
+Black Rot Farm Skeleton
+>Card "Rot Farm Skeleton" created
+cc
+Blue Seascape Aerialist
+>Card "Seascape Aerialist" created
+cc
+White Decree of Justice
+>Card "Decree of Justice" created
+cc
+Red Two-Headed Sliver
+>Card "Two-Headed Sliver" created
+cc
+Black Dragon Shadow
+>Card "Dragon Shadow" created
+cc
+Red Furnace Dragon
+>Card "Furnace Dragon" created
+cc
+White Hikari, Twilight Guardian
+>Card "Hikari, Twilight Guardian" created
+cc
+White Kytheon's Tactics
+>Card "Kytheon's Tactics" created
+cc
+Black Banewasp Affliction
+>Card "Banewasp Affliction" created
+cc
+Green Ordeal of Nylea
+>Card "Ordeal of Nylea" created
+cc
+Red Burn Trail
+>Card "Burn Trail" created
+cc
+Red Mogg War Marshal
+>Card "Mogg War Marshal" created
+cc
+Black Nightscape Apprentice
+>Card "Nightscape Apprentice" created
+cc
+Blue Wayward Soul
+>Card "Wayward Soul" created
+cc
+Black Kami of Empty Graves
+>Card "Kami of Empty Graves" created
+cc
+White Touch of the Eternal
+>Card "Touch of the Eternal" created
+cc
+White Hushwing Gryff
+>Card "Hushwing Gryff" created
+cc
+White Kinsbaile Balloonist
+>Card "Kinsbaile Balloonist" created
+cc
+White Balancing Act
+>Card "Balancing Act" created
+cc
+Red Tor Giant
+>Card "Tor Giant" created
+cc
+Red Torrent of Fire
+>Card "Torrent of Fire" created
+cc
+Black Balduvian Dead
+>Card "Balduvian Dead" created
+cc
+Black Corpse Hauler
+>Card "Corpse Hauler" created
+cc
+White War Behemoth
+>Card "War Behemoth" created
+cc
+Black Toxin Sliver
+>Card "Toxin Sliver" created
+cc
+Red Soulblast
+>Card "Soulblast" created
+cc
+Blue Telepathy
+>Card "Telepathy" created
+cc
+Blue Sagu Mauler
+>Card "Sagu Mauler" created
+cc
+Red Fissure Vent
+>Card "Fissure Vent" created
+cc
+Green Spring of Eternal Peace
+>Card "Spring of Eternal Peace" created
+cc
+Blue Three Wishes
+>Card "Three Wishes" created
+cc
+Blue Gilder Bairn
+>Card "Gilder Bairn" created
+cc
+Blue Curse of Echoes
+>Card "Curse of Echoes" created
+cc
+Red Pandemonium
+>Card "Pandemonium" created
+cc
+Red Orcish Captain
+>Card "Orcish Captain" created
+cc
+Red Slavering Nulls
+>Card "Slavering Nulls" created
+cc
+White Questing Phelddagrif
+>Card "Questing Phelddagrif" created
+cc
+Green Gorilla Berserkers
+>Card "Gorilla Berserkers" created
+cc
+Blue Unsummon
+>Card "Unsummon" created
+cc
+White Glittering Wish
+>Card "Glittering Wish" created
+cc
+Blue Govern the Guildless
+>Card "Govern the Guildless" created
+cc
+Green Bayou Dragonfly
+>Card "Bayou Dragonfly" created
+cc
+White Charging Troll
+>Card "Charging Troll" created
+cc
+Green Nettletooth Djinn
+>Card "Nettletooth Djinn" created
+cc
+Black Infectious Horror
+>Card "Infectious Horror" created
+cc
+White Kabira Vindicator
+>Card "Kabira Vindicator" created
+cc
+Red Rally the Horde
+>Card "Rally the Horde" created
+cc
+Red Purphoros, God of the Forge
+>Card "Purphoros, God of the Forge" created
+cc
+Black Nether Shadow
+>Card "Nether Shadow" created
+cc
+Green Tel-Jilad Archers
+>Card "Tel-Jilad Archers" created
+cc
+Green Oran-Rief Hydra
+>Card "Oran-Rief Hydra" created
+cc
+Red Balduvian Warlord
+>Card "Balduvian Warlord" created
+cc
+Black Midnight Ritual
+>Card "Midnight Ritual" created
+cc
+Black Handcuffs
+>Card "Handcuffs" created
+cc
+Green Soilshaper
+>Card "Soilshaper" created
+cc
+White Arrow Volley Trap
+>Card "Arrow Volley Trap" created
+cc
+Green Living Totem
+>Card "Living Totem" created
+cc
+Red Cinder Wall
+>Card "Cinder Wall" created
+cc
+Green Garruk, Primal Hunter
+>Card "Garruk, Primal Hunter" created
+cc
+Green Gorilla Warrior
+>Card "Gorilla Warrior" created
+cc
+White Herald of War
+>Card "Herald of War" created
+cc
+Red Fledgling Dragon
+>Card "Fledgling Dragon" already exists
+cc
+Black Slaughter Games
+>Card "Slaughter Games" created
+cc
+Green Patagia Viper
+>Card "Patagia Viper" created
+cc
+White Militia's Pride
+>Card "Militia's Pride" created
+cc
+Green Korozda Monitor
+>Card "Korozda Monitor" created
+cc
+Blue Tunnel Vision
+>Card "Tunnel Vision" already exists
+cc
+Green Maro
+>Card "Maro" created
+cc
+White Daring Leap
+>Card "Daring Leap" created
+cc
+Black Phyrexian Bloodstock
+>Card "Phyrexian Bloodstock" created
+cc
+Black Organ Harvest
+>Card "Organ Harvest" created
+cc
+Red Firemantle Mage
+>Card "Firemantle Mage" created
+cc
+Blue Tidal Visionary
+>Card "Tidal Visionary" created
+cc
+White Lavinia of the Tenth
+>Card "Lavinia of the Tenth" created
+cc
+White Clergy of the Holy Nimbus
+>Card "Clergy of the Holy Nimbus" created
+cc
+White Circle of Protection: Blue
+>Card "Circle of Protection: Blue" created
+cc
+Blue Glimpse the Future
+>Card "Glimpse the Future" created
+cc
+Green Culling Mark
+>Card "Culling Mark" created
+cc
+Blue Part the Veil
+>Card "Part the Veil" created
+cc
+Blue Flaccify
+>Card "Flaccify" created
+cc
+Red Obsidian Giant
+>Card "Obsidian Giant" created
+cc
+White Mardu Charm
+>Card "Mardu Charm" created
+cc
+Red Sarkhan, the Dragonspeaker
+>Card "Sarkhan, the Dragonspeaker" already exists
+cc
+White Steward of Valeron
+>Card "Steward of Valeron" created
+cc
+White Pteron Ghost
+>Card "Pteron Ghost" created
+cc
+Blue Roil Elemental
+>Card "Roil Elemental" created
+cc
+Blue Curse of Echoes
+>Card "Curse of Echoes" already exists
+cc
+Black Scion of Darkness
+>Card "Scion of Darkness" created
+cc
+White Captured Sunlight
+>Card "Captured Sunlight" created
+cc
+Green Bond Beetle
+>Card "Bond Beetle" created
+cc
+White Snow Hound
+>Card "Snow Hound" created
+cc
+White Reconnaissance
+>Card "Reconnaissance" created
+cc
+White Sensor Splicer
+>Card "Sensor Splicer" created
+cc
+Red Glacial Ray
+>Card "Glacial Ray" created
+cc
+Black Cinderhaze Wretch
+>Card "Cinderhaze Wretch" created
+cc
+Black Jovial Evil
+>Card "Jovial Evil" created
+cc
+Green Meng Huo's Horde
+>Card "Meng Huo's Horde" created
+cc
+Blue Relearn
+>Card "Relearn" created
+cc
+Red Viashino Spearhunter
+>Card "Viashino Spearhunter" created
+cc
+Black Greed
+>Card "Greed" created
+cc
+Green Blastoderm
+>Card "Blastoderm" created
+cc
+Red Ancient Hellkite
+>Card "Ancient Hellkite" created
+cc
+White Fight to the Death
+>Card "Fight to the Death" created
+cc
+Green Glissa's Courier
+>Card "Glissa's Courier" created
+cc
+Red Mardu Runemark
+>Card "Mardu Runemark" created
+cc
+White Takeno's Cavalry
+>Card "Takeno's Cavalry" created
+cc
+White Gift of Granite
+>Card "Gift of Granite" created
+cc
+Blue Nulltread Gargantuan
+>Card "Nulltread Gargantuan" created
+cc
+Green Spectral Force
+>Card "Spectral Force" created
+cc
+Blue Elusive Spellfist
+>Card "Elusive Spellfist" created
+cc
+Blue Prescient Chimera
+>Card "Prescient Chimera" created
+cc
+Black Urborg Skeleton
+>Card "Urborg Skeleton" created
+cc
+Red Bloodfire Kavu
+>Card "Bloodfire Kavu" created
+cc
+White Sphinx's Revelation
+>Card "Sphinx's Revelation" created
+cc
+Green Verduran Emissary
+>Card "Verduran Emissary" created
+cc
+Black Necroplasm
+>Card "Necroplasm" created
+cc
+White Black Ward
+>Card "Black Ward" created
+cc
+White Firehoof Cavalry
+>Card "Firehoof Cavalry" created
+cc
+White Orzhov Guildmage
+>Card "Orzhov Guildmage" created
+cc
+Red Akki Avalanchers
+>Card "Akki Avalanchers" created
+cc
+Red Spitting Hydra
+>Card "Spitting Hydra" created
+cc
+Green Glade Watcher
+>Card "Glade Watcher" created
+cc
+Black Zombie Boa
+>Card "Zombie Boa" created
+cc
+Red Hanweir Watchkeep
+>Card "Hanweir Watchkeep" created
+cc
+Green Tel-Jilad Fallen
+>Card "Tel-Jilad Fallen" created
+cc
+Blue Auramancer's Guise
+>Card "Auramancer's Guise" created
+cc
+Blue Vigilant Drake
+>Card "Vigilant Drake" created
+cc
+White Martyrs' Tomb
+>Card "Martyrs' Tomb" created
+cc
+White Deicide
+>Card "Deicide" created
+cc
+Black Skull Fracture
+>Card "Skull Fracture" created
+cc
+Black Body Snatcher
+>Card "Body Snatcher" created
+cc
+Red Crimson Roc
+>Card "Crimson Roc" created
+cc
+Green Norwood Riders
+>Card "Norwood Riders" created
+cc
+Red Shrapnel Blast
+>Card "Shrapnel Blast" created
+cc
+White Dragonstalker
+>Card "Dragonstalker" created
+cc
+Black Korlash, Heir to Blackblade
+>Card "Korlash, Heir to Blackblade" created
+cc
+White Blinding Angel
+>Card "Blinding Angel" created
+cc
+Red Wildfire
+>Card "Wildfire" created
+cc
+Red Wild Cantor
+>Card "Wild Cantor" created
+cc
+Black Fell Shepherd
+>Card "Fell Shepherd" created
+cc
+Green Khalni Heart Expedition
+>Card "Khalni Heart Expedition" created
+cc
+Black Kaervek's Hex
+>Card "Kaervek's Hex" created
+cc
+Red Circle of Flame
+>Card "Circle of Flame" created
+cc
+White Kjeldoran Gargoyle
+>Card "Kjeldoran Gargoyle" created
+cc
+Green Dryad's Favor
+>Card "Dryad's Favor" created
+cc
+Blue Pedantic Learning
+>Card "Pedantic Learning" created
+cc
+Black Repentant Vampire
+>Card "Repentant Vampire" created
+cc
+Blue Shimmering Efreet
+>Card "Shimmering Efreet" created
+cc
+Red Steam Vines
+>Card "Steam Vines" created
+cc
+Green Pincher Beetles
+>Card "Pincher Beetles" created
+cc
+Red Lightning Hounds
+>Card "Lightning Hounds" created
+cc
+White Circle of Protection: Shadow
+>Card "Circle of Protection: Shadow" created
+cc
+Green Stonefare Crocodile
+>Card "Stonefare Crocodile" created
+cc
+Green Shoe Tree
+>Card "Shoe Tree" created
+cc
+Blue Esperzoa
+>Card "Esperzoa" created
+cc
+White Prismatic Boon
+>Card "Prismatic Boon" created
+cc
+White Indestructibility
+>Card "Indestructibility" created
+cc
+Green Terastodon
+>Card "Terastodon" created
+cc
+Green Elvish Fury
+>Card "Elvish Fury" created
+cc
+Blue Reveka, Wizard Savant
+>Card "Reveka, Wizard Savant" created
+cc
+Green Venom
+>Card "Venom" created
+cc
+Black Noxious Field
+>Card "Noxious Field" already exists
+cc
+Green Stream of Life
+>Card "Stream of Life" created
+cc
+Blue Mistform Shrieker
+>Card "Mistform Shrieker" already exists
+cc
+Green Squirrel Mob
+>Card "Squirrel Mob" created
+cc
+Black Rix Maadi Guildmage
+>Card "Rix Maadi Guildmage" created
+cc
+Blue Musician
+>Card "Musician" created
+cc
+Blue Silvergill Douser
+>Card "Silvergill Douser" created
+cc
+Blue Primoc Escapee
+>Card "Primoc Escapee" created
+cc
+Red Savage Beating
+>Card "Savage Beating" created
+cc
+Red Ignite Memories
+>Card "Ignite Memories" created
+cc
+Red Demolish
+>Card "Demolish" created
+cc
+Blue Snap
+>Card "Snap" created
+cc
+White Angel's Herald
+>Card "Angel's Herald" created
+cc
+Blue Extravagant Spirit
+>Card "Extravagant Spirit" created
+cc
+Blue Mindleech Mass
+>Card "Mindleech Mass" created
+cc
+Green Taste of Paradise
+>Card "Taste of Paradise" created
+cc
+Blue Phantom Whelp
+>Card "Phantom Whelp" created
+cc
+Red Furnace Celebration
+>Card "Furnace Celebration" created
+cc
+Red Daretti, Scrap Savant
+>Card "Daretti, Scrap Savant" created
+cc
+White Absolver Thrull
+>Card "Absolver Thrull" created
+cc
+Black Nightcreep
+>Card "Nightcreep" created
+cc
+Blue Vedalken Dismisser
+>Card "Vedalken Dismisser" created
+cc
+Blue Aven Surveyor
+>Card "Aven Surveyor" created
+cc
+Green Moment's Peace
+>Card "Moment's Peace" created
+cc
+White Knights of Thorn
+>Card "Knights of Thorn" created
+cc
+Black Rabid Rats
+>Card "Rabid Rats" created
+cc
+Red Goblin Freerunner
+>Card "Goblin Freerunner" created
+cc
+Red Guttersnipe
+>Card "Guttersnipe" created
+cc
+White Nacatl Hunt-Pride
+>Card "Nacatl Hunt-Pride" created
+cc
+White Pristine Angel
+>Card "Pristine Angel" created
+cc
+Green Foxfire Oak
+>Card "Foxfire Oak" created
+cc
+Blue Power Artifact
+>Card "Power Artifact" created
+cc
+Black Killing Glare
+>Card "Killing Glare" created
+cc
+Red Goblin Gardener
+>Card "Goblin Gardener" created
+cc
+Green Wild Defiance
+>Card "Wild Defiance" created
+cc
+White Opal Acrolith
+>Card "Opal Acrolith" created
+cc
+Green Experiment One
+>Card "Experiment One" created
+cc
+Black Instigator
+>Card "Instigator" created
+cc
+Black Morsel Theft
+>Card "Morsel Theft" created
+cc
+Red Domri Rade
+>Card "Domri Rade" created
+cc
+White Repentance
+>Card "Repentance" created
+cc
+Red Cinder Cloud
+>Card "Cinder Cloud" created
+cc
+Green Swell of Growth
+>Card "Swell of Growth" created
+cc
+Blue Kiora's Follower
+>Card "Kiora's Follower" created
+cc
+Red Atarka, World Render
+>Card "Atarka, World Render" created
+cc
+White Kami of False Hope
+>Card "Kami of False Hope" created
+cc
+White Mausoleum Guard
+>Card "Mausoleum Guard" created
+cc
+White Hussar Patrol
+>Card "Hussar Patrol" created
+cc
+Blue Nebuchadnezzar
+>Card "Nebuchadnezzar" created
+cc
+Blue Cerulean Sphinx
+>Card "Cerulean Sphinx" created
+cc
+Blue Favorable Winds
+>Card "Favorable Winds" created
+cc
+Blue Delay
+>Card "Delay" created
+cc
+Red Harness by Force
+>Card "Harness by Force" created
+cc
+White Spirit Weaver
+>Card "Spirit Weaver" created
+cc
+Red Desperate Ravings
+>Card "Desperate Ravings" created
+cc
+Green Carapace
+>Card "Carapace" created
+cc
+Black Sarcomancy
+>Card "Sarcomancy" created
+cc
+Blue Devouring Deep
+>Card "Devouring Deep" created
+cc
+Black Plague Beetle
+>Card "Plague Beetle" created
+cc
+White Emancipation Angel
+>Card "Emancipation Angel" created
+cc
+Black Umbra Stalker
+>Card "Umbra Stalker" created
+cc
+Green Rhox Maulers
+>Card "Rhox Maulers" created
+cc
+Blue Cheatyface
+>Card "Cheatyface" created
+cc
+White Guardian Zendikon
+>Card "Guardian Zendikon" created
+cc
+Green Caller of the Hunt
+>Card "Caller of the Hunt" created
+cc
+Black Okiba-Gang Shinobi
+>Card "Okiba-Gang Shinobi" created
+cc
+Green Den Protector
+>Card "Den Protector" already exists
+cc
+Blue Diregraf Captain
+>Card "Diregraf Captain" created
+cc
+Black Grim Tutor
+>Card "Grim Tutor" created
+cc
+White Petra Sphinx
+>Card "Petra Sphinx" created
+cc
+White Rhox War Monk
+>Card "Rhox War Monk" created
+cc
+White Fleecemane Lion
+>Card "Fleecemane Lion" created
+cc
+Red Spined Sliver
+>Card "Spined Sliver" created
+cc
+Blue Paragon of Gathering Mists
+>Card "Paragon of Gathering Mists" created
+cc
+White Stern Judge
+>Card "Stern Judge" created
+cc
+Blue Firemind's Foresight
+>Card "Firemind's Foresight" created
+cc
+Green Entangling Vines
+>Card "Entangling Vines" created
+cc
+Red Hostile Realm
+>Card "Hostile Realm" created
+cc
+Red Ingot Chewer
+>Card "Ingot Chewer" created
+cc
+Blue Hakim, Loreweaver
+>Card "Hakim, Loreweaver" created
+cc
+Black Dreg Mangler
+>Card "Dreg Mangler" created
+cc
+Red Akki Raider
+>Card "Akki Raider" created
+cc
+White Noble Steeds
+>Card "Noble Steeds" created
+cc
+White Seeds of Strength
+>Card "Seeds of Strength" created
+cc
+Green Hidden Predators
+>Card "Hidden Predators" created
+cc
+Green Pale Bears
+>Card "Pale Bears" created
+cc
+Red Marhault Elsdragon
+>Card "Marhault Elsdragon" created
+cc
+Blue Disruptive Student
+>Card "Disruptive Student" created
+cc
+Black Shriekmaw
+>Card "Shriekmaw" created
+cc
+White Arenson's Aura
+>Card "Arenson's Aura" created
+cc
+Blue Zameck Guildmage
+>Card "Zameck Guildmage" created
+cc
+White Paragon of the Amesha
+>Card "Paragon of the Amesha" created
+cc
+Red Impact Tremors
+>Card "Impact Tremors" created
+cc
+Black Plague Stinger
+>Card "Plague Stinger" created
+cc
+Black Withering Hex
+>Card "Withering Hex" created
+cc
+White Angel of Mercy
+>Card "Angel of Mercy" created
+cc
+Red Akki Lavarunner
+>Card "Akki Lavarunner" created
+cc
+Blue Graceful Adept
+>Card "Graceful Adept" created
+cc
+Black Shattered Crypt
+>Card "Shattered Crypt" created
+cc
+Black Gristle Grinner
+>Card "Gristle Grinner" created
+cc
+Blue Dream Fighter
+>Card "Dream Fighter" created
+cc
+Blue Consuming Vortex
+>Card "Consuming Vortex" created
+cc
+White Helionaut
+>Card "Helionaut" created
+cc
+Green Boon Satyr
+>Card "Boon Satyr" created
+cc
+White Hidden Dragonslayer
+>Card "Hidden Dragonslayer" created
+cc
+White Lifelink
+>Card "Lifelink" created
+cc
+White Leap of Faith
+>Card "Leap of Faith" created
+cc
+Green Jaddi Lifestrider
+>Card "Jaddi Lifestrider" created
+cc
+Blue Cephalid Illusionist
+>Card "Cephalid Illusionist" created
+cc
+White Skyhunter Patrol
+>Card "Skyhunter Patrol" created
+cc
+Blue Slow Motion
+>Card "Slow Motion" created
+cc
+Red Portent of Betrayal
+>Card "Portent of Betrayal" created
+cc
+White Scapegoat
+>Card "Scapegoat" created
+cc
+Blue Crackling Triton
+>Card "Crackling Triton" created
+cc
+Green Beast Attack
+>Card "Beast Attack" created
+cc
+Red Raid Bombardment
+>Card "Raid Bombardment" created
+cc
+White Plumeveil
+>Card "Plumeveil" created
+cc
+Green Rhox Maulers
+>Card "Rhox Maulers" already exists
+cc
+Red Greater Gargadon
+>Card "Greater Gargadon" created
+cc
+Red Aggravated Assault
+>Card "Aggravated Assault" created
+cc
+Red Brimstone Dragon
+>Card "Brimstone Dragon" created
+cc
+White Near-Death Experience
+>Card "Near-Death Experience" created
+cc
+Red Stone Spirit
+>Card "Stone Spirit" created
+cc
+Red Weapon Surge
+>Card "Weapon Surge" created
+cc
+Green Argothian Enchantress
+>Card "Argothian Enchantress" created
+cc
+Black Midnight Covenant
+>Card "Midnight Covenant" created
+cc
+White Voracious Hatchling
+>Card "Voracious Hatchling" created
+cc
+White Gustrider Exuberant
+>Card "Gustrider Exuberant" created
+cc
+White Retaliator Griffin
+>Card "Retaliator Griffin" created
+cc
+Black Rag Dealer
+>Card "Rag Dealer" created
+cc
+Blue Walking Dream
+>Card "Walking Dream" created
+cc
+Red Sawtooth Ogre
+>Card "Sawtooth Ogre" created
+cc
+Green An-Havva Inn
+>Card "An-Havva Inn" created
+cc
+Blue Master Biomancer
+>Card "Master Biomancer" created
+cc
+White Nova Cleric
+>Card "Nova Cleric" created
+cc
+White Children of Korlis
+>Card "Children of Korlis" created
+cc
+White Moonlight Geist
+>Card "Moonlight Geist" created
+cc
+Blue Slith Strider
+>Card "Slith Strider" created
+cc
+Green Llanowar Behemoth
+>Card "Llanowar Behemoth" created
+cc
+Black Master of Cruelties
+>Card "Master of Cruelties" created
+cc
+Red Scoria Wurm
+>Card "Scoria Wurm" created
+cc
+White Mayael's Aria
+>Card "Mayael's Aria" created
+cc
+Black Silumgar Butcher
+>Card "Silumgar Butcher" created
+cc
+White Ghost-Lit Redeemer
+>Card "Ghost-Lit Redeemer" created
+cc
+Black Necra Disciple
+>Card "Necra Disciple" created
+cc
+Blue Nameless One
+>Card "Nameless One" created
+cc
+Red Thunderscape Apprentice
+>Card "Thunderscape Apprentice" created
+cc
+White Remember the Fallen
+>Card "Remember the Fallen" created
+cc
+Green Charging Badger
+>Card "Charging Badger" created
+cc
+White First Response
+>Card "First Response" created
+cc
+Green Keeper of the Beasts
+>Card "Keeper of the Beasts" created
+cc
+Red Rift Elemental
+>Card "Rift Elemental" created
+cc
+Green Tangle Mantis
+>Card "Tangle Mantis" created
+cc
+White Akrasan Squire
+>Card "Akrasan Squire" created
+cc
+Red Altac Bloodseeker
+>Card "Altac Bloodseeker" created
+cc
+White Quarry Colossus
+>Card "Quarry Colossus" created
+cc
+Blue Delver of Secrets
+>Card "Delver of Secrets" created
+cc
+White Moonhold
+>Card "Moonhold" created
+cc
+Blue Harbinger of the Tides
+>Card "Harbinger of the Tides" created
+cc
+Red Flowstone Wall
+>Card "Flowstone Wall" created
+cc
+White Pure Intentions
+>Card "Pure Intentions" created
+cc
+Blue Disdainful Stroke
+>Card "Disdainful Stroke" created
+cc
+Blue Mana Breach
+>Card "Mana Breach" created
+cc
+Blue Order of Succession
+>Card "Order of Succession" created
+cc
+Blue Hydrolash
+>Card "Hydrolash" created
+cc
+White Caregiver
+>Card "Caregiver" created
+cc
+Green Phytoburst
+>Card "Phytoburst" created
+cc
+Blue Flight
+>Card "Flight" created
+cc
+White Sterling Grove
+>Card "Sterling Grove" created
+cc
+Green Ondu Giant
+>Card "Ondu Giant" created
+cc
+Black Maralen of the Mornsong
+>Card "Maralen of the Mornsong" created
+cc
+Blue Umara Raptor
+>Card "Umara Raptor" created
+cc
+Black Shambling Attendants
+>Card "Shambling Attendants" already exists
+cc
+Black Death Cultist
+>Card "Death Cultist" created
+cc
+Black Carrier Thrall
+>Card "Carrier Thrall" created
+cc
+Black Vampiric Feast
+>Card "Vampiric Feast" created
+cc
+Blue Drowner Initiate
+>Card "Drowner Initiate" created
+cc
+Black Dead Drop
+>Card "Dead Drop" created
+cc
+White Black Ward
+>Card "Black Ward" already exists
+cc
+Blue Arctic Aven
+>Card "Arctic Aven" created
+cc
+Black Nantuko Shade
+>Card "Nantuko Shade" created
+cc
+White Voice of Resurgence
+>Card "Voice of Resurgence" created
+cc
+Blue Ghostly Touch
+>Card "Ghostly Touch" created
+cc
+Red Viashino Shanktail
+>Card "Viashino Shanktail" created
+cc
+White Wall of Swords
+>Card "Wall of Swords" created
+cc
+White Bronzebeak Moa
+>Card "Bronzebeak Moa" created
+cc
+Green Trail of Mystery
+>Card "Trail of Mystery" created
+cc
+Black Soul Stair Expedition
+>Card "Soul Stair Expedition" created
+cc
+Black Shattered Dreams
+>Card "Shattered Dreams" created
+cc
+Blue Riptide Entrancer
+>Card "Riptide Entrancer" created
+cc
+Blue Faerie Mechanist
+>Card "Faerie Mechanist" created
+cc
+Green Tel-Jilad Defiance
+>Card "Tel-Jilad Defiance" created
+cc
+Black Grisly Salvage
+>Card "Grisly Salvage" created
+cc
+Red Goblin Wardriver
+>Card "Goblin Wardriver" created
+cc
+Green Heavy Fog
+>Card "Heavy Fog" created
+cc
+Black Darkpact
+>Card "Darkpact" already exists
+cc
+Blue Coral Barrier
+>Card "Coral Barrier" created
+cc
+Red Furnace Celebration
+>Card "Furnace Celebration" already exists
+cc
+Blue Stymied Hopes
+>Card "Stymied Hopes" created
+cc
+Blue Soratami Mindsweeper
+>Card "Soratami Mindsweeper" created
+cc
+Blue Wizard Mentor
+>Card "Wizard Mentor" created
+cc
+Blue Fungal Shambler
+>Card "Fungal Shambler" created
+cc
+White Mercenary Informer
+>Card "Mercenary Informer" created
+cc
+Blue Tidespout Tyrant
+>Card "Tidespout Tyrant" created
+cc
+White Cavalry Pegasus
+>Card "Cavalry Pegasus" created
+cc
+Green Fertilid
+>Card "Fertilid" created
+cc
+White Tempest of Light
+>Card "Tempest of Light" created
+cc
+White Chosen by Heliod
+>Card "Chosen by Heliod" created
+cc
+Black Rotting Mastodon
+>Card "Rotting Mastodon" created
+cc
+Red Goblin Marshal
+>Card "Goblin Marshal" created
+cc
+Red Magma Burst
+>Card "Magma Burst" created
+cc
+Black Pharika's Chosen
+>Card "Pharika's Chosen" created
+cc
+Blue Giant Shark
+>Card "Giant Shark" created
+cc
+Green Panglacial Wurm
+>Card "Panglacial Wurm" created
+cc
+White Dust to Dust
+>Card "Dust to Dust" created
+cc
+Red Retromancer
+>Card "Retromancer" created
+cc
+Black Virtue's Ruin
+>Card "Virtue's Ruin" created
+cc
+Red Valakut Predator
+>Card "Valakut Predator" created
+cc
+Black Cavern Lampad
+>Card "Cavern Lampad" created
+cc
+Red Bloodfire Dwarf
+>Card "Bloodfire Dwarf" created
+cc
+Green Moonmist
+>Card "Moonmist" created
+cc
+White Wingbeat Warrior
+>Card "Wingbeat Warrior" created
+cc
+Blue Eye of Nowhere
+>Card "Eye of Nowhere" created
+cc
+Green Rysorian Badger
+>Card "Rysorian Badger" created
+cc
+White Naya Hushblade
+>Card "Naya Hushblade" created
+cc
+White Kor Castigator
+>Card "Kor Castigator" created
+cc
+White Metallurgeon
+>Card "Metallurgeon" created
+cc
+White Chief of the Scale
+>Card "Chief of the Scale" created
+cc
+White Keeper of the Light
+>Card "Keeper of the Light" created
+cc
+Green Dromoka's Gift
+>Card "Dromoka's Gift" created
+cc
+Black Punishment
+>Card "Punishment" created
+cc
+Black Priest of the Blood Rite
+>Card "Priest of the Blood Rite" created
+cc
+White Wall of Glare
+>Card "Wall of Glare" created
+cc
+Black Shinen of Fear's Chill
+>Card "Shinen of Fear's Chill" created
+cc
+Blue Dismiss into Dream
+>Card "Dismiss into Dream" created
+cc
+Red Tundra Kavu
+>Card "Tundra Kavu" created
+cc
+Blue Grasp of Phantoms
+>Card "Grasp of Phantoms" created
+cc
+Black Rampart Crawler
+>Card "Rampart Crawler" created
+cc
+Red Barbarian Bully
+>Card "Barbarian Bully" created
+cc
+Blue Thought Courier
+>Card "Thought Courier" created
+cc
+Green Shamanic Revelation
+>Card "Shamanic Revelation" created
+cc
+Black Necra Sanctuary
+>Card "Necra Sanctuary" created
+cc
+Green Locust Swarm
+>Card "Locust Swarm" created
+cc
+Green Singing Tree
+>Card "Singing Tree" created
+cc
+White Split-Tail Miko
+>Card "Split-Tail Miko" created
+cc
+Blue Reach Through Mists
+>Card "Reach Through Mists" created
+cc
+Green Druid's Familiar
+>Card "Druid's Familiar" created
+cc
+Green Charging Badger
+>Card "Charging Badger" already exists
+cc
+Red Scorching Lava
+>Card "Scorching Lava" created
+cc
+Blue Niblis of the Breath
+>Card "Niblis of the Breath" created
+cc
+White Benevolent Bodyguard
+>Card "Benevolent Bodyguard" created
+cc
+Red Slaughter Cry
+>Card "Slaughter Cry" created
+cc
+Red Enrage
+>Card "Enrage" created
+cc
+Green Genesis Hydra
+>Card "Genesis Hydra" created
+cc
+Black Plague Wind
+>Card "Plague Wind" created
+cc
+Blue Mischievous Quanar
+>Card "Mischievous Quanar" created
+cc
+Green Forbidden Lore
+>Card "Forbidden Lore" created
+cc
+Black Mind Slash
+>Card "Mind Slash" created
+cc
+White Enlightened Ascetic
+>Card "Enlightened Ascetic" created
+cc
+Red Signal the Clans
+>Card "Signal the Clans" created
+cc
+Black Memoricide
+>Card "Memoricide" created
+cc
+Blue Embargo
+>Card "Embargo" created
+cc
+White Makindi Patrol
+>Card "Makindi Patrol" created
+cc
+Red Molten Influence
+>Card "Molten Influence" created
+cc
+Black Cabal Archon
+>Card "Cabal Archon" created
+cc
+White Changeling Hero
+>Card "Changeling Hero" created
+cc
+Blue Miscalculation
+>Card "Miscalculation" created
+cc
+White War Oracle
+>Card "War Oracle" created
+cc
+Red Leyline of Punishment
+>Card "Leyline of Punishment" created
+cc
+Blue Paradox Haze
+>Card "Paradox Haze" created
+cc
+Red Burst Lightning
+>Card "Burst Lightning" created
+cc
+Blue Archaeomancer
+>Card "Archaeomancer" created
+cc
+Green Floral Spuzzem
+>Card "Floral Spuzzem" created
+cc
+Blue Enclave Elite
+>Card "Enclave Elite" created
+cc
+Green Sylvan Might
+>Card "Sylvan Might" created
+cc
+White Kjeldoran Pride
+>Card "Kjeldoran Pride" created
+cc
+Green Fangren Pathcutter
+>Card "Fangren Pathcutter" created
+cc
+White Wheel of Sun and Moon
+>Card "Wheel of Sun and Moon" created
+cc
+Red Fork
+>Card "Fork" created
+cc
+White Disempower
+>Card "Disempower" created
+cc
+Blue Plaxcaster Frogling
+>Card "Plaxcaster Frogling" created
+cc
+Green Savage Thallid
+>Card "Savage Thallid" created
+cc
+Red Ruthless Invasion
+>Card "Ruthless Invasion" created
+cc
+Blue Vodalian Illusionist
+>Card "Vodalian Illusionist" created
+cc
+Black Imperial Seal
+>Card "Imperial Seal" created
+cc
+Black Dauthi Marauder
+>Card "Dauthi Marauder" created
+cc
+White Righteous Blow
+>Card "Righteous Blow" created
+cc
+White Moonwing Moth
+>Card "Moonwing Moth" created
+cc
+Green Krosan Reclamation
+>Card "Krosan Reclamation" created
+cc
+Black Hollow Specter
+>Card "Hollow Specter" created
+cc
+White Fervent Charge
+>Card "Fervent Charge" created
+cc
+Green Ezuri's Brigade
+>Card "Ezuri's Brigade" created
+cc
+White Knight of the Holy Nimbus
+>Card "Knight of the Holy Nimbus" created
+cc
+Black Contamination
+>Card "Contamination" created
+cc
+Green Wall of Blossoms
+>Card "Wall of Blossoms" created
+cc
+Red Thromok the Insatiable
+>Card "Thromok the Insatiable" created
+cc
+Blue Ancestral Recall
+>Card "Ancestral Recall" created
+cc
+White Circle of Protection: Green
+>Card "Circle of Protection: Green" already exists
+cc
+White Ancestral Tribute
+>Card "Ancestral Tribute" already exists
+cc
+Blue Blighted Agent
+>Card "Blighted Agent" created
+cc
+Black Scavenging Scarab
+>Card "Scavenging Scarab" created
+cc
+Black Vampire Warlord
+>Card "Vampire Warlord" created
+cc
+Blue Terraformer
+>Card "Terraformer" created
+cc
+Black Urborg Justice
+>Card "Urborg Justice" created
+cc
+Blue Confiscate
+>Card "Confiscate" created
+cc
+White Azorius Arrester
+>Card "Azorius Arrester" created
+cc
+White Entangler
+>Card "Entangler" created
+cc
+Black Malakir Bloodwitch
+>Card "Malakir Bloodwitch" created
+cc
+White Fusion Elemental
+>Card "Fusion Elemental" created
+cc
+Blue Island Fish Jasconius
+>Card "Island Fish Jasconius" created
+cc
+Black Void Maw
+>Card "Void Maw" created
+cc
+Blue Turtleshell Changeling
+>Card "Turtleshell Changeling" created
+cc
+White Sigiled Paladin
+>Card "Sigiled Paladin" created
+cc
+Green Nessian Wilds Ravager
+>Card "Nessian Wilds Ravager" created
+cc
+Green Reki, the History of Kamigawa
+>Card "Reki, the History of Kamigawa" created
+cc
+White Helionaut
+>Card "Helionaut" already exists
+cc
+Green Harabaz Druid
+>Card "Harabaz Druid" created
+cc
+Black Grim Contest
+>Card "Grim Contest" created
+cc
+White Vitu-Ghazi Guildmage
+>Card "Vitu-Ghazi Guildmage" created
+cc
+Red Goblin Scouts
+>Card "Goblin Scouts" created
+cc
+Black Creakwood Ghoul
+>Card "Creakwood Ghoul" created
+cc
+Blue Rhystic Study
+>Card "Rhystic Study" created
+cc
+Green Amphibious Kavu
+>Card "Amphibious Kavu" created
+cc
+Green Plated Slagwurm
+>Card "Plated Slagwurm" created
+cc
+Red Scarred Puma
+>Card "Scarred Puma" created
+cc
+Blue Mizzium Meddler
+>Card "Mizzium Meddler" created
+cc
+Red Viashino Sandscout
+>Card "Viashino Sandscout" created
+cc
+Blue Fathom Seer
+>Card "Fathom Seer" created
+cc
+White Belfry Spirit
+>Card "Belfry Spirit" created
+cc
+Blue Niv-Mizzet, the Firemind
+>Card "Niv-Mizzet, the Firemind" created
+cc
+Red Aliban's Tower
+>Card "Aliban's Tower" created
+cc
+White Court Homunculus
+>Card "Court Homunculus" created
+cc
+Green Life
+>Card "Life" created
+cc
+White Dramatic Rescue
+>Card "Dramatic Rescue" created
+cc
+White Sigil Captain
+>Card "Sigil Captain" created
+cc
+White Aven Brigadier
+>Card "Aven Brigadier" created
+cc
+Red Glitterfang
+>Card "Glitterfang" created
+cc
+Green Setessan Starbreaker
+>Card "Setessan Starbreaker" created
+cc
+Red Ricochet
+>Card "Ricochet" created
+cc
+Blue Lurking Informant
+>Card "Lurking Informant" created
+cc
+Red Dwarven Scorcher
+>Card "Dwarven Scorcher" created
+cc
+Blue Swirl the Mists
+>Card "Swirl the Mists" created
+cc
+Green Willow Priestess
+>Card "Willow Priestess" created
+cc
+Blue Shipbreaker Kraken
+>Card "Shipbreaker Kraken" created
+cc
+Blue Noggle Bridgebreaker
+>Card "Noggle Bridgebreaker" created
+cc
+Blue Gulf Squid
+>Card "Gulf Squid" created
+cc
+White Guardian Angel
+>Card "Guardian Angel" created
+cc
+Black Sign in Blood
+>Card "Sign in Blood" created
+cc
+Blue Winter's Chill
+>Card "Winter's Chill" created
+cc
+Blue Jokulmorder
+>Card "Jokulmorder" created
+cc
+Red Orcish Squatters
+>Card "Orcish Squatters" created
+cc
+Green Bringer of the Green Dawn
+>Card "Bringer of the Green Dawn" created
+cc
+Black Vampire Lacerator
+>Card "Vampire Lacerator" created
+cc
+Blue Riptide Chimera
+>Card "Riptide Chimera" created
+cc
+Blue Disruptive Pitmage
+>Card "Disruptive Pitmage" created
+cc
+Blue Unified Will
+>Card "Unified Will" created
+cc
+White Shu Grain Caravan
+>Card "Shu Grain Caravan" created
+cc
+Blue Legerdemain
+>Card "Legerdemain" created
+cc
+Green Elvish Scrapper
+>Card "Elvish Scrapper" created
+cc
+White Equal Treatment
+>Card "Equal Treatment" created
+cc
+Green Leaf-Crowned Elder
+>Card "Leaf-Crowned Elder" created
+cc
+Green Verduran Emissary
+>Card "Verduran Emissary" already exists
+cc
+Blue Alluring Siren
+>Card "Alluring Siren" created
+cc
+Black Reach of Shadows
+>Card "Reach of Shadows" created
+cc
+Black Crypt Incursion
+>Card "Crypt Incursion" created
+cc
+Black Night
+>Card "Night" created
+cc
+Black Scent of Nightshade
+>Card "Scent of Nightshade" created
+cc
+Green Agent of Horizons
+>Card "Agent of Horizons" created
+cc
+Blue Dream Salvage
+>Card "Dream Salvage" created
+cc
+Red Viashino Spearhunter
+>Card "Viashino Spearhunter" already exists
+cc
+Blue Rishadan Cutpurse
+>Card "Rishadan Cutpurse" created
+cc
+Green Crabapple Cohort
+>Card "Crabapple Cohort" created
+cc
+Blue Diluvian Primordial
+>Card "Diluvian Primordial" created
+cc
+Green Essence of the Wild
+>Card "Essence of the Wild" created
+cc
+White Celestial Ancient
+>Card "Celestial Ancient" created
+cc
+Green River Bear
+>Card "River Bear" created
+cc
+Blue Halcyon Glaze
+>Card "Halcyon Glaze" created
+cc
+Blue Talas Air Ship
+>Card "Talas Air Ship" created
+cc
+Blue Phantasmal Image
+>Card "Phantasmal Image" created
+cc
+Black Baleful Eidolon
+>Card "Baleful Eidolon" already exists
+cc
+White Drogskol Captain
+>Card "Drogskol Captain" created
+cc
+Black Young Wei Recruits
+>Card "Young Wei Recruits" created
+cc
+Green Changeling Titan
+>Card "Changeling Titan" created
+cc
+Black Screeching Buzzard
+>Card "Screeching Buzzard" created
+cc
+Blue Glint-Eye Nephilim
+>Card "Glint-Eye Nephilim" created
+cc
+Black Hooded Horror
+>Card "Hooded Horror" created
+cc
+Green Gus
+>Card "Gus" created
+cc
+Black Nihilith
+>Card "Nihilith" created
+cc
+Blue Pact of Negation
+>Card "Pact of Negation" created
+cc
+Red Metallic Mastery
+>Card "Metallic Mastery" created
+cc
+White Plow Through Reito
+>Card "Plow Through Reito" created
+cc
+Black Sultai Emissary
+>Card "Sultai Emissary" created
+cc
+White Windborne Charge
+>Card "Windborne Charge" created
+cc
+Black Betrayal of Flesh
+>Card "Betrayal of Flesh" created
+cc
+Red Outmaneuver
+>Card "Outmaneuver" created
+cc
+Red Chandra's Phoenix
+>Card "Chandra's Phoenix" created
+cc
+Green Rot Shambler
+>Card "Rot Shambler" created
+cc
+Green Rib Cage Spider
+>Card "Rib Cage Spider" created
+cc
+Black Wound Reflection
+>Card "Wound Reflection" created
+cc
+Blue Statute of Denial
+>Card "Statute of Denial" created
+cc
+Blue Zephyr Sprite
+>Card "Zephyr Sprite" created
+cc
+White Anafenza, the Foremost
+>Card "Anafenza, the Foremost" created
+cc
+Blue Headless Skaab
+>Card "Headless Skaab" created
+cc
+White Godhead of Awe
+>Card "Godhead of Awe" created
+cc
+Black Murderous Redcap
+>Card "Murderous Redcap" created
+cc
+Black Syphon Flesh
+>Card "Syphon Flesh" created
+cc
+White Celestial Convergence
+>Card "Celestial Convergence" created
+cc
+Green Fyndhorn Pollen
+>Card "Fyndhorn Pollen" created
+cc
+Blue Simic Charm
+>Card "Simic Charm" created
+cc
+Blue Turnabout
+>Card "Turnabout" created
+cc
+White Alabaster Dragon
+>Card "Alabaster Dragon" created
+cc
+Black Parasitic Implant
+>Card "Parasitic Implant" created
+cc
+White Guan Yu, Sainted Warrior
+>Card "Guan Yu, Sainted Warrior" created
+cc
+Blue Wu Longbowman
+>Card "Wu Longbowman" created
+cc
+Red Conquering Manticore
+>Card "Conquering Manticore" created
+cc
+Black Vendetta
+>Card "Vendetta" created
+cc
+Green Gaea's Avenger
+>Card "Gaea's Avenger" created
+cc
+White Scion of Vitu-Ghazi
+>Card "Scion of Vitu-Ghazi" created
+cc
+Green Rootgrapple
+>Card "Rootgrapple" created
+cc
+Red Tectonic Instability
+>Card "Tectonic Instability" created
+cc
+White Griffin Rider
+>Card "Griffin Rider" created
+cc
+Blue Arcanum Wings
+>Card "Arcanum Wings" created
+cc
+Black Death
+>Card "Death" created
+cc
+Black Seal of Doom
+>Card "Seal of Doom" created
+cc
+Green Salvage
+>Card "Salvage" created
+cc
+Red Goblin Hero
+>Card "Goblin Hero" created
+cc
+Black Shrivel
+>Card "Shrivel" created
+cc
+Black Mogis, God of Slaughter
+>Card "Mogis, God of Slaughter" created
+cc
+Red Tahngarth, Talruum Hero
+>Card "Tahngarth, Talruum Hero" created
+cc
+Blue Coral Reef
+>Card "Coral Reef" created
+cc
+Blue Split Decision
+>Card "Split Decision" created
+cc
+Black Feast on the Fallen
+>Card "Feast on the Fallen" created
+cc
+Black Returned Centaur
+>Card "Returned Centaur" created
+cc
+White Animal Boneyard
+>Card "Animal Boneyard" created
+cc
+Blue Rites of Refusal
+>Card "Rites of Refusal" created
+cc
+Red Falling Star
+>Card "Falling Star" created
+cc
+Red Scalding Salamander
+>Card "Scalding Salamander" created
+cc
+Green Pendelhaven Elder
+>Card "Pendelhaven Elder" already exists
+cc
+White Thundersong Trumpeter
+>Card "Thundersong Trumpeter" created
+cc
+Black Evernight Shade
+>Card "Evernight Shade" created
+cc
+White Hanna's Custody
+>Card "Hanna's Custody" created
+cc
+Blue Screeching Sliver
+>Card "Screeching Sliver" created
+cc
+White Kitesail Scout
+>Card "Kitesail Scout" created
+cc
+White Highspire Mantis
+>Card "Highspire Mantis" created
+cc
+Black Ad Nauseam
+>Card "Ad Nauseam" created
+cc
+White Haunted Angel
+>Card "Haunted Angel" created
+cc
+Green Assault Formation
+>Card "Assault Formation" created
+cc
+Red Petradon
+>Card "Petradon" created
+cc
+White Holy Day
+>Card "Holy Day" created
+cc
+Blue Scion of Oona
+>Card "Scion of Oona" already exists
+cc
+White Leyline of Sanctity
+>Card "Leyline of Sanctity" created
+cc
+White Umbra Mystic
+>Card "Umbra Mystic" created
+cc
+Green Cytospawn Shambler
+>Card "Cytospawn Shambler" created
+cc
+White Orim's Chant
+>Card "Orim's Chant" created
+cc
+White Get a Life
+>Card "Get a Life" created
+cc
+Red Battle Sliver
+>Card "Battle Sliver" created
+cc
+White Armored Warhorse
+>Card "Armored Warhorse" created
+cc
+Green Savage Surge
+>Card "Savage Surge" created
+cc
+White Seraph
+>Card "Seraph" created
+cc
+Blue Quicksilver Wall
+>Card "Quicksilver Wall" created
+cc
+White Expedition Envoy
+>Card "Expedition Envoy" created
+cc
+Blue Sage-Eye Avengers
+>Card "Sage-Eye Avengers" created
+cc
+Red Volcanic Offering
+>Card "Volcanic Offering" created
+cc
+Red Burning Earth
+>Card "Burning Earth" created
+cc
+White Kor Line-Slinger
+>Card "Kor Line-Slinger" created
+cc
+Green Ghor-Clan Savage
+>Card "Ghor-Clan Savage" created
+cc
+Red Thunderscape Master
+>Card "Thunderscape Master" created
+cc
+Red Prickleboar
+>Card "Prickleboar" created
+cc
+Green Jaddi Offshoot
+>Card "Jaddi Offshoot" created
+cc
+White Moment of Heroism
+>Card "Moment of Heroism" created
+cc
+Blue Wall of Air
+>Card "Wall of Air" created
+cc
+Red Pyroconvergence
+>Card "Pyroconvergence" created
+cc
+Blue Harmattan Efreet
+>Card "Harmattan Efreet" created
+cc
+Red Flailing Ogre
+>Card "Flailing Ogre" created
+cc
+White Rhys the Redeemed
+>Card "Rhys the Redeemed" created
+cc
+White Dawning Purist
+>Card "Dawning Purist" created
+cc
+Red Lightning Serpent
+>Card "Lightning Serpent" created
+cc
+Blue Glimpse the Unthinkable
+>Card "Glimpse the Unthinkable" created
+cc
+White Soltari Crusader
+>Card "Soltari Crusader" created
+cc
+Red Fomori Nomad
+>Card "Fomori Nomad" created
+cc
+Blue Treasure Mage
+>Card "Treasure Mage" created
+cc
+White Blaze of Glory
+>Card "Blaze of Glory" created
+cc
+Green Increasing Savagery
+>Card "Increasing Savagery" already exists
+cc
+Green Greenside Watcher
+>Card "Greenside Watcher" created
+cc
+Red Daretti, Scrap Savant
+>Card "Daretti, Scrap Savant" already exists
+cc
+Green Shaman of Forgotten Ways
+>Card "Shaman of Forgotten Ways" created
+cc
+Black Shinen of Fear's Chill
+>Card "Shinen of Fear's Chill" already exists
+cc
+Green Avacyn's Pilgrim
+>Card "Avacyn's Pilgrim" created
+cc
+Blue Teferi's Curse
+>Card "Teferi's Curse" created
+cc
+Green Cardboard Carapace
+>Card "Cardboard Carapace" created
+cc
+Green Dungrove Elder
+>Card "Dungrove Elder" created
+cc
+Red Incendiary Command
+>Card "Incendiary Command" created
+cc
+White Akron Legionnaire
+>Card "Akron Legionnaire" created
+cc
+White Shinewend
+>Card "Shinewend" created
+cc
+Black Mind Slash
+>Card "Mind Slash" already exists
+cc
+Green Folk of An-Havva
+>Card "Folk of An-Havva" created
+cc
+Green Dwell on the Past
+>Card "Dwell on the Past" created
+cc
+Red Daretti, Scrap Savant
+>Card "Daretti, Scrap Savant" already exists
+cc
+Blue Soul Manipulation
+>Card "Soul Manipulation" created
+cc
+White Rampant Elephant
+>Card "Rampant Elephant" created
+cc
+White Fountain Watch
+>Card "Fountain Watch" created
+cc
+Green Leeching Bite
+>Card "Leeching Bite" created
+cc
+Black Xathrid Gorgon
+>Card "Xathrid Gorgon" created
+cc
+Black Mind Shatter
+>Card "Mind Shatter" created
+cc
+White Thistledown Duo
+>Card "Thistledown Duo" created
+cc
+Green Carnassid
+>Card "Carnassid" created
+cc
+Blue Lorescale Coatl
+>Card "Lorescale Coatl" created
+cc
+Blue Scion of Glaciers
+>Card "Scion of Glaciers" created
+cc
+White Ephara's Radiance
+>Card "Ephara's Radiance" created
+cc
+Black Bloodchief Ascension
+>Card "Bloodchief Ascension" created
+cc
+Black Vampiric Rites
+>Card "Vampiric Rites" created
+cc
+White Wane
+>Card "Wane" created
+cc
+Red Blockbuster
+>Card "Blockbuster" created
+cc
+Blue War-Wing Siren
+>Card "War-Wing Siren" created
+cc
+Red Chaos Warp
+>Card "Chaos Warp" created
+cc
+Black Dark Heart of the Wood
+>Card "Dark Heart of the Wood" created
+cc
+Red Erdwal Ripper
+>Card "Erdwal Ripper" created
+cc
+Red Devastating Summons
+>Card "Devastating Summons" created
+cc
+Red Glyph of Destruction
+>Card "Glyph of Destruction" created
+cc
+White Surge of Righteousness
+>Card "Surge of Righteousness" created
+cc
+Blue Ribbon Snake
+>Card "Ribbon Snake" created
+cc
+Blue Swirl the Mists
+>Card "Swirl the Mists" already exists
+cc
+Red Ion Storm
+>Card "Ion Storm" created
+cc
+Black Woebringer Demon
+>Card "Woebringer Demon" created
+cc
+Green Wild Hunger
+>Card "Wild Hunger" created
+cc
+Green Alpha Status
+>Card "Alpha Status" created
+cc
+Green Cylian Sunsinger
+>Card "Cylian Sunsinger" created
+cc
+Red Jackal Pup
+>Card "Jackal Pup" created
+cc
+Blue Galerider Sliver
+>Card "Galerider Sliver" created
+cc
+Blue Maelstrom Djinn
+>Card "Maelstrom Djinn" created
+cc
+Red Stromkirk Noble
+>Card "Stromkirk Noble" created
+cc
+White Southern Paladin
+>Card "Southern Paladin" created
+cc
+Green Whisperer of the Wilds
+>Card "Whisperer of the Wilds" created
+cc
+Blue Seer's Vision
+>Card "Seer's Vision" created
+cc
+Blue Ugin's Insight
+>Card "Ugin's Insight" created
+cc
+Green Animist's Awakening
+>Card "Animist's Awakening" created
+cc
+Green Whisperwood Elemental
+>Card "Whisperwood Elemental" created
+cc
+Blue Armored Cancrix
+>Card "Armored Cancrix" created
+cc
+Blue Magical Hacker
+>Card "Magical Hacker" created
+cc
+Green Broodhunter Wurm
+>Card "Broodhunter Wurm" created
+cc
+Black Ashes to Ashes
+>Card "Ashes to Ashes" created
+cc
+Black Undying Beast
+>Card "Undying Beast" created
+cc
+Green Locust Swarm
+>Card "Locust Swarm" already exists
+cc
+White Serra Inquisitors
+>Card "Serra Inquisitors" created
+cc
+Black Catacomb Slug
+>Card "Catacomb Slug" created
+cc
+Red Crucible of Fire
+>Card "Crucible of Fire" created
+cc
+Blue Extinguish
+>Card "Extinguish" created
+cc
+Black Keeper of the Dead
+>Card "Keeper of the Dead" created
+cc
+Green Sakura-Tribe Scout
+>Card "Sakura-Tribe Scout" created
+cc
+White Tempered Steel
+>Card "Tempered Steel" created
+cc
+Green Fat Ass
+>Card "Fat Ass" created
+cc
+Green Hua Tuo, Honored Physician
+>Card "Hua Tuo, Honored Physician" created
+cc
+White Zhao Zilong, Tiger General
+>Card "Zhao Zilong, Tiger General" created
+cc
+Black Spinning Darkness
+>Card "Spinning Darkness" created
+cc
+Blue Ringskipper
+>Card "Ringskipper" created
+cc
+Red Keldon Mantle
+>Card "Keldon Mantle" created
+cc
+White Rune-Tail, Kitsune Ascendant
+>Card "Rune-Tail, Kitsune Ascendant" created
+cc
+Black Cadaverous Bloom
+>Card "Cadaverous Bloom" created
+cc
+Blue Merfolk Traders
+>Card "Merfolk Traders" created
+cc
+White Puresteel Paladin
+>Card "Puresteel Paladin" created
+cc
+Red Goblin Piker
+>Card "Goblin Piker" created
+cc
+Black Breathstealer
+>Card "Breathstealer" created
+cc
+Black Midnight Banshee
+>Card "Midnight Banshee" created
+cc
+Black Coffin Puppets
+>Card "Coffin Puppets" created
+cc
+Blue Disruptive Pitmage
+>Card "Disruptive Pitmage" already exists
+cc
+White Augur il-Vec
+>Card "Augur il-Vec" created
+cc
+White Glaciers
+>Card "Glaciers" created
+cc
+White Pride of the Clouds
+>Card "Pride of the Clouds" created
+cc
+Red Primal Visitation
+>Card "Primal Visitation" created
+cc
+Green Bifurcate
+>Card "Bifurcate" created
+cc
+Red Red Sun's Zenith
+>Card "Red Sun's Zenith" created
+cc
+Green Quick Sliver
+>Card "Quick Sliver" created
+cc
+Blue Hisoka, Minamo Sensei
+>Card "Hisoka, Minamo Sensei" created
+cc
+Red Hivis of the Scale
+>Card "Hivis of the Scale" created
+cc
+Black Dunerider Outlaw
+>Card "Dunerider Outlaw" created
+cc
+Black Gate to Phyrexia
+>Card "Gate to Phyrexia" created
+cc
+Black Earthlink
+>Card "Earthlink" created
+cc
+White Fire and Brimstone
+>Card "Fire and Brimstone" created
+cc
+Red Blitz Hellion
+>Card "Blitz Hellion" created
+cc
+Black Chilling Apparition
+>Card "Chilling Apparition" created
+cc
+Black Necromancer's Assistant
+>Card "Necromancer's Assistant" created
+cc
+Black Liturgy of Blood
+>Card "Liturgy of Blood" created
+cc
+Black Revenant
+>Card "Revenant" created
+cc
+White Safewright Quest
+>Card "Safewright Quest" created
+cc
+Black Salvage Titan
+>Card "Salvage Titan" created
+cc
+Black Dakmor Ghoul
+>Card "Dakmor Ghoul" created
+cc
+White Narrow Escape
+>Card "Narrow Escape" created
+cc
+Blue Baleful Strix
+>Card "Baleful Strix" created
+cc
+Green Storm Seeker
+>Card "Storm Seeker" created
+cc
+White Luminous Angel
+>Card "Luminous Angel" created
+cc
+White Jelenn Sphinx
+>Card "Jelenn Sphinx" created
+cc
+Black Rouse
+>Card "Rouse" created
+cc
+Black Sengir Nosferatu
+>Card "Sengir Nosferatu" created
+cc
+White Crude Rampart
+>Card "Crude Rampart" created
+cc
+Black Whispering Specter
+>Card "Whispering Specter" created
+cc
+White Tonic Peddler
+>Card "Tonic Peddler" created
+cc
+Red Furnace Celebration
+>Card "Furnace Celebration" already exists
+cc
+Green Tanglesap
+>Card "Tanglesap" created
+cc
+Blue Counterintelligence
+>Card "Counterintelligence" created
+cc
+White Glaciers
+>Card "Glaciers" already exists
+cc
+Black Frankenstein's Monster
+>Card "Frankenstein's Monster" created
+cc
+Green Highland Game
+>Card "Highland Game" created
+cc
+Black Corpseweft
+>Card "Corpseweft" created
+cc
+Green Hitchclaw Recluse
+>Card "Hitchclaw Recluse" created
+cc
+Blue Stormchaser Chimera
+>Card "Stormchaser Chimera" created
+cc
+Green False Mourning
+>Card "False Mourning" created
+cc
+Black Keeper of Tresserhorn
+>Card "Keeper of Tresserhorn" created
+cc
+Red Impulsive Maneuvers
+>Card "Impulsive Maneuvers" created
+cc
+Red Chandra's Spitfire
+>Card "Chandra's Spitfire" created
+cc
+Black Prowess of the Fair
+>Card "Prowess of the Fair" created
+cc
+White Herald of Anafenza
+>Card "Herald of Anafenza" created
+cc
+Red Mountain Bandit
+>Card "Mountain Bandit" created
+cc
+Green Life and Limb
+>Card "Life and Limb" created
+cc
+Blue Rush of Knowledge
+>Card "Rush of Knowledge" created
+cc
+White Watcher Sliver
+>Card "Watcher Sliver" created
+cc
+Blue Faerie Swarm
+>Card "Faerie Swarm" created
+cc
+White Crimson Acolyte
+>Card "Crimson Acolyte" created
+cc
+Black Moonglove Changeling
+>Card "Moonglove Changeling" created
+cc
+Red Detritivore
+>Card "Detritivore" created
+cc
+Blue Wu Spy
+>Card "Wu Spy" created
+cc
+Green Whiteout
+>Card "Whiteout" created
+cc
+Green Flash Foliage
+>Card "Flash Foliage" created
+cc
+Blue Havengul Runebinder
+>Card "Havengul Runebinder" created
+cc
+Black Oubliette
+>Card "Oubliette" created
+cc
+Blue Mimeofacture
+>Card "Mimeofacture" created
+cc
+Red Atarka, World Render
+>Card "Atarka, World Render" already exists
+cc
+White Ageless Sentinels
+>Card "Ageless Sentinels" created
+cc
+Green Pinion Feast
+>Card "Pinion Feast" created
+cc
+Black Dark Impostor
+>Card "Dark Impostor" created
+cc
+Black Nether Void
+>Card "Nether Void" created
+cc
+White Beast Walkers
+>Card "Beast Walkers" created
+cc
+Red Desperate Ravings
+>Card "Desperate Ravings" already exists
+cc
+Blue The Unspeakable
+>Card "The Unspeakable" created
+cc
+Black Rotting Giant
+>Card "Rotting Giant" created
+cc
+Red Barbed Field
+>Card "Barbed Field" created
+cc
+Red Burning-Tree Bloodscale
+>Card "Burning-Tree Bloodscale" created
+cc
+Black Crypt Ghast
+>Card "Crypt Ghast" created
+cc
+Red Rummaging Goblin
+>Card "Rummaging Goblin" created
+cc
+Green Overrun
+>Card "Overrun" created
+cc
+Red Sowing Salt
+>Card "Sowing Salt" created
+cc
+White Evershrike
+>Card "Evershrike" created
+cc
+Black Order of Yawgmoth
+>Card "Order of Yawgmoth" created
+cc
+Black Rampart Crawler
+>Card "Rampart Crawler" already exists
+cc
+White Steadfast Guard
+>Card "Steadfast Guard" created
+cc
+White Temple Acolyte
+>Card "Temple Acolyte" created
+cc
+White Brago, King Eternal
+>Card "Brago, King Eternal" created
+cc
+White Pariah
+>Card "Pariah" created
+cc
+Blue Power Sink
+>Card "Power Sink" created
+cc
+Black Dark Offering
+>Card "Dark Offering" created
+cc
+White Sighted-Caste Sorcerer
+>Card "Sighted-Caste Sorcerer" created
+cc
+Green Restock
+>Card "Restock" created
+cc
+Black Gluttonous Zombie
+>Card "Gluttonous Zombie" created
+cc
+White Hope and Glory
+>Card "Hope and Glory" created
+cc
+White Blinding Mage
+>Card "Blinding Mage" created
+cc
+Red Dragon Tyrant
+>Card "Dragon Tyrant" created
+cc
+Green Broken Fall
+>Card "Broken Fall" created
+cc
+Red Fire Tempest
+>Card "Fire Tempest" created
+cc
+White Reviving Vapors
+>Card "Reviving Vapors" created
+cc
+Blue Stubborn Denial
+>Card "Stubborn Denial" created
+cc
+Blue Airborne Aid
+>Card "Airborne Aid" created
+cc
+Blue Spell Pierce
+>Card "Spell Pierce" created
+cc
+Green Primordial Hydra
+>Card "Primordial Hydra" created
+cc
+Blue Archive Trap
+>Card "Archive Trap" created
+cc
+Black Traitor's Clutch
+>Card "Traitor's Clutch" created
+cc
+Green Gloomwidow
+>Card "Gloomwidow" created
+cc
+White Collective Blessing
+>Card "Collective Blessing" created
+cc
+White Sphinx's Revelation
+>Card "Sphinx's Revelation" already exists
+cc
+Red Twin Bolt
+>Card "Twin Bolt" created
+cc
+Black Choking Sands
+>Card "Choking Sands" created
+cc
+Black Helldozer
+>Card "Helldozer" created
+cc
+Black Clot Sliver
+>Card "Clot Sliver" created
+cc
+Red Barbed Field
+>Card "Barbed Field" already exists
+cc
+Green Whisperer of the Wilds
+>Card "Whisperer of the Wilds" already exists
+cc
+Blue Deep Water
+>Card "Deep Water" created
+cc
+Red Blistering Dieflyn
+>Card "Blistering Dieflyn" created
+cc
+Blue Dominate
+>Card "Dominate" created
+cc
+Blue Inertia Bubble
+>Card "Inertia Bubble" created
+cc
+White Voice of Law
+>Card "Voice of Law" created
+cc
+Blue Wormfang Behemoth
+>Card "Wormfang Behemoth" created
+cc
+White Resurrection
+>Card "Resurrection" created
+cc
+Green Atarka Beastbreaker
+>Card "Atarka Beastbreaker" created
+cc
+Black Unliving Psychopath
+>Card "Unliving Psychopath" created
+cc
+Red Scoria Cat
+>Card "Scoria Cat" created
+cc
+White Mass Calcify
+>Card "Mass Calcify" created
+cc
+Black Cursed Ronin
+>Card "Cursed Ronin" created
+cc
+White Guan Yu, Sainted Warrior
+>Card "Guan Yu, Sainted Warrior" already exists
+cc
+Blue Checks and Balances
+>Card "Checks and Balances" created
+cc
+Blue Lost in a Labyrinth
+>Card "Lost in a Labyrinth" created
+cc
+Red Lizard Warrior
+>Card "Lizard Warrior" created
+cc
+Black Decaying Soil
+>Card "Decaying Soil" created
+cc
+Black Mazirek, Kraul Death Priest
+>Card "Mazirek, Kraul Death Priest" created
+cc
+Blue Merfolk Assassin
+>Card "Merfolk Assassin" created
+cc
+Blue View from Above
+>Card "View from Above" already exists
+cc
+White Avatar of Hope
+>Card "Avatar of Hope" created
+cc
+White Angel of Jubilation
+>Card "Angel of Jubilation" created
+cc
+Black Pit Keeper
+>Card "Pit Keeper" created
+cc
+Red Goblin Berserker
+>Card "Goblin Berserker" created
+cc
+Blue Sphinx's Tutelage
+>Card "Sphinx's Tutelage" created
+cc
+Blue Lantern Spirit
+>Card "Lantern Spirit" created
+cc
+Green Elvish Herder
+>Card "Elvish Herder" created
+cc
+White Cage of Hands
+>Card "Cage of Hands" created
+cc
+Blue Merchant Scroll
+>Card "Merchant Scroll" created
+cc
+Red Bludgeon Brawl
+>Card "Bludgeon Brawl" created
+cc
+Black Marshmist Titan
+>Card "Marshmist Titan" created
+cc
+Red Flames of the Firebrand
+>Card "Flames of the Firebrand" created
+cc
+White Sharuum the Hegemon
+>Card "Sharuum the Hegemon" created
+cc
+Green Aggressive Urge
+>Card "Aggressive Urge" created
+cc
+Green Slashing Tiger
+>Card "Slashing Tiger" created
+cc
+Red Laccolith Whelp
+>Card "Laccolith Whelp" created
+cc
+White Skyhunter Patrol
+>Card "Skyhunter Patrol" already exists
+cc
+White Deploy to the Front
+>Card "Deploy to the Front" created
+cc
+Black Minotaur Abomination
+>Card "Minotaur Abomination" created
+cc
+Black Dauthi Marauder
+>Card "Dauthi Marauder" already exists
+cc
+Black Deadly Wanderings
+>Card "Deadly Wanderings" created
+cc
+Red Flamespeaker's Will
+>Card "Flamespeaker's Will" created
+cc
+Red Magus of the Arena
+>Card "Magus of the Arena" created
+cc
+White Invincible Hymn
+>Card "Invincible Hymn" created
+cc
+Black Whip of Erebos
+>Card "Whip of Erebos" already exists
+cc
+White Auriok Transfixer
+>Card "Auriok Transfixer" created
+cc
+White Righteous Blow
+>Card "Righteous Blow" already exists
+cc
+Blue Cytoshape
+>Card "Cytoshape" created
+cc
+Red Fervor
+>Card "Fervor" created
+cc
+Blue Logic Knot
+>Card "Logic Knot" created
+cc
+Green Heal the Scars
+>Card "Heal the Scars" created
+cc
+White Circle of Protection: White
+>Card "Circle of Protection: White" created
+cc
+White Cloudchaser Eagle
+>Card "Cloudchaser Eagle" created
+cc
+Green Sustenance
+>Card "Sustenance" created
+cc
+White Lionheart Maverick
+>Card "Lionheart Maverick" created
+cc
+Black Dark Supplicant
+>Card "Dark Supplicant" created
+cc
+White Lightbringer
+>Card "Lightbringer" created
+cc
+Black Painful Truths
+>Card "Painful Truths" created
+cc
+Red Explosive Revelation
+>Card "Explosive Revelation" created
+cc
+Red Shinen of Fury's Fire
+>Card "Shinen of Fury's Fire" created
+cc
+Blue Dementia Sliver
+>Card "Dementia Sliver" created
+cc
+Black Phyrexian Monitor
+>Card "Phyrexian Monitor" created
+cc
+Green Wolfir Avenger
+>Card "Wolfir Avenger" created
+cc
+Green Zodiac Ox
+>Card "Zodiac Ox" created
+cc
+White Oaken Brawler
+>Card "Oaken Brawler" created
+cc
+Blue Civilized Scholar
+>Card "Civilized Scholar" created
+cc
+Green Mosstodon
+>Card "Mosstodon" created
+cc
+Red Sizzle
+>Card "Sizzle" created
+cc
+Red Trained Orgg
+>Card "Trained Orgg" created
+cc
+Black Decompose
+>Card "Decompose" created
+cc
+Black Quag Vampires
+>Card "Quag Vampires" created
+cc
+White Loxodon Gatekeeper
+>Card "Loxodon Gatekeeper" created
+cc
+White Gerrard's Wisdom
+>Card "Gerrard's Wisdom" created
+cc
+Blue Spined Thopter
+>Card "Spined Thopter" created
+cc
+Blue Embodiment of Spring
+>Card "Embodiment of Spring" created
+cc
+Blue Dungeon Geists
+>Card "Dungeon Geists" created
+cc
+Red Eron the Relentless
+>Card "Eron the Relentless" created
+cc
+Blue Ceta Sanctuary
+>Card "Ceta Sanctuary" created
+cc
+Black Nyx Weaver
+>Card "Nyx Weaver" created
+cc
+Blue Twincast
+>Card "Twincast" created
+cc
+Red Viashino Grappler
+>Card "Viashino Grappler" created
+cc
+Green Krosan Restorer
+>Card "Krosan Restorer" created
+cc
+Green Vorapede
+>Card "Vorapede" created
+cc
+White Steel of the Godhead
+>Card "Steel of the Godhead" created
+cc
+Black Squandered Resources
+>Card "Squandered Resources" created
+cc
+Blue Arcanis the Omnipotent
+>Card "Arcanis the Omnipotent" already exists
+cc
+Blue Damia, Sage of Stone
+>Card "Damia, Sage of Stone" created
+cc
+White Nyx-Fleece Ram
+>Card "Nyx-Fleece Ram" created
+cc
+Red Whims of the Fates
+>Card "Whims of the Fates" created
+cc
+Red Wheel of Fate
+>Card "Wheel of Fate" created
+cc
+White Empyrial Armor
+>Card "Empyrial Armor" created
+cc
+Blue Flash of Insight
+>Card "Flash of Insight" created
+cc
+Red Goblin Brawler
+>Card "Goblin Brawler" created
+cc
+Red Sowing Salt
+>Card "Sowing Salt" already exists
+cc
+Red Wrecking Ogre
+>Card "Wrecking Ogre" created
+cc
+White Bloodied Ghost
+>Card "Bloodied Ghost" created
+cc
+Blue Daze
+>Card "Daze" created
+cc
+White Leering Gargoyle
+>Card "Leering Gargoyle" created
+cc
+Green Green Sun's Zenith
+>Card "Green Sun's Zenith" created
+cc
+Blue Stormscape Familiar
+>Card "Stormscape Familiar" created
+cc
+Green Animal Magnetism
+>Card "Animal Magnetism" created
+cc
+Green Herdchaser Dragon
+>Card "Herdchaser Dragon" created
+cc
+Black Akuta, Born of Ash
+>Card "Akuta, Born of Ash" created
+cc
+Blue Mind Spring
+>Card "Mind Spring" created
+cc
+Green Tornado
+>Card "Tornado" created
+cc
+Blue Word of Undoing
+>Card "Word of Undoing" created
+cc
+Green Instill Energy
+>Card "Instill Energy" created
+cc
+Blue Convolute
+>Card "Convolute" created
+cc
+Red Cunning Sparkmage
+>Card "Cunning Sparkmage" created
+cc
+White Aven Battle Priest
+>Card "Aven Battle Priest" created
+cc
+Black Baleful Eidolon
+>Card "Baleful Eidolon" already exists
+cc
+Red Bloodmark Mentor
+>Card "Bloodmark Mentor" created
+cc
+White Terashi's Cry
+>Card "Terashi's Cry" already exists
+cc
+Black Lord of the Pit
+>Card "Lord of the Pit" created
+cc
+Black Crippling Fatigue
+>Card "Crippling Fatigue" created
+cc
+Green Trumpeting Armodon
+>Card "Trumpeting Armodon" created
+cc
+Green Roughshod Mentor
+>Card "Roughshod Mentor" created
+cc
+White Ramosian Sergeant
+>Card "Ramosian Sergeant" created
+cc
+White Suppression Bonds
+>Card "Suppression Bonds" created
+cc
+Blue Steam Augury
+>Card "Steam Augury" created
+cc
+White Clergy en-Vec
+>Card "Clergy en-Vec" created
+cc
+Blue Coralhelm Commander
+>Card "Coralhelm Commander" created
+cc
+Red Kobold Drill Sergeant
+>Card "Kobold Drill Sergeant" created
+cc
+Blue Counterlash
+>Card "Counterlash" created
+cc
+Red Shivan Wurm
+>Card "Shivan Wurm" created
+cc
+Black Demonic Hordes
+>Card "Demonic Hordes" created
+cc
+Red Forked Bolt
+>Card "Forked Bolt" created
+cc
+White Shield of Duty and Reason
+>Card "Shield of Duty and Reason" created
+cc
+Red Blistering Barrier
+>Card "Blistering Barrier" created
+cc
+Black Festering March
+>Card "Festering March" created
+cc
+Blue Quiet Contemplation
+>Card "Quiet Contemplation" created
+cc
+Red Goblin Bangchuckers
+>Card "Goblin Bangchuckers" created
+cc
+Red Ash Zealot
+>Card "Ash Zealot" created
+cc
+Green Boon Satyr
+>Card "Boon Satyr" already exists
+cc
+White Debt to the Deathless
+>Card "Debt to the Deathless" created
+cc
+Red Sudden Impact
+>Card "Sudden Impact" created
+cc
+Green Thrill of the Hunt
+>Card "Thrill of the Hunt" created
+cc
+Red Giant Trap Door Spider
+>Card "Giant Trap Door Spider" created
+cc
+Blue Thought Reflection
+>Card "Thought Reflection" created
+cc
+White Reclamation
+>Card "Reclamation" created
+cc
+White Loxodon Wayfarer
+>Card "Loxodon Wayfarer" created
+cc
+White Knight of Dawn
+>Card "Knight of Dawn" created
+cc
+Blue Capture of Jingzhou
+>Card "Capture of Jingzhou" created
+cc
+Black Skulking Ghost
+>Card "Skulking Ghost" created
+cc
+Red Bust
+>Card "Bust" created
+cc
+Black Skirsdag Flayer
+>Card "Skirsdag Flayer" created
+cc
+Black Stronghold Assassin
+>Card "Stronghold Assassin" created
+cc
+Blue Choking Tethers
+>Card "Choking Tethers" created
+cc
+Red Reckless Embermage
+>Card "Reckless Embermage" created
+cc
+White Inquisitor Exarch
+>Card "Inquisitor Exarch" created
+cc
+Green Street Savvy
+>Card "Street Savvy" created
+cc
+Blue Owl Familiar
+>Card "Owl Familiar" created
+cc
+Red Convulsing Licid
+>Card "Convulsing Licid" created
+cc
+White Warrior en-Kor
+>Card "Warrior en-Kor" created
+cc
+White Argivian Archaeologist
+>Card "Argivian Archaeologist" created
+cc
+Red Flowstone Mauler
+>Card "Flowstone Mauler" created
+cc
+White Alabaster Leech
+>Card "Alabaster Leech" created
+cc
+Red Fling
+>Card "Fling" created
+cc
+Red Sigiled Skink
+>Card "Sigiled Skink" created
+cc
+Red Scab-Clan Berserker
+>Card "Scab-Clan Berserker" created
+cc
+Blue Mist of Stagnation
+>Card "Mist of Stagnation" created
+cc
+Blue Reach Through Mists
+>Card "Reach Through Mists" already exists
+cc
+Green Lys Alana Bowmaster
+>Card "Lys Alana Bowmaster" created
+cc
+Green Zodiac Monkey
+>Card "Zodiac Monkey" created
+cc
+Black Famished Ghoul
+>Card "Famished Ghoul" created
+cc
+Black Magus of the Abyss
+>Card "Magus of the Abyss" created
+cc
+Red Flowstone Channeler
+>Card "Flowstone Channeler" created
+cc
+Blue Homarid Spawning Bed
+>Card "Homarid Spawning Bed" created
+cc
+Black Sorceress Queen
+>Card "Sorceress Queen" created
+cc
+Blue Talrand, Sky Summoner
+>Card "Talrand, Sky Summoner" created
+cc
+Green Serpent Skin
+>Card "Serpent Skin" created
+cc
+Green Tajuru Archer
+>Card "Tajuru Archer" created
+cc
+White Cavalry Master
+>Card "Cavalry Master" created
+cc
+Green Kavu Predator
+>Card "Kavu Predator" created
+cc
+Green Elder Pine of Jukai
+>Card "Elder Pine of Jukai" created
+cc
+Blue Determined
+>Card "Determined" created
+cc
+Red Avatar of Slaughter
+>Card "Avatar of Slaughter" created
+cc
+Blue Phantasmal Forces
+>Card "Phantasmal Forces" created
+cc
+Green Game-Trail Changeling
+>Card "Game-Trail Changeling" created
+cc
+White Treva, the Renewer
+>Card "Treva, the Renewer" created
+cc
+White Harrier Griffin
+>Card "Harrier Griffin" created
+cc
+Green Rib Cage Spider
+>Card "Rib Cage Spider" already exists
+cc
+White Cardpecker
+>Card "Cardpecker" created
+cc
+Red Rage Extractor
+>Card "Rage Extractor" created
+cc
+Blue Serpent of the Endless Sea
+>Card "Serpent of the Endless Sea" created
+cc
+Blue Riverwheel Aerialists
+>Card "Riverwheel Aerialists" created
+cc
+Black Poison Arrow
+>Card "Poison Arrow" created
+cc
+White Supply
+>Card "Supply" created
+cc
+Black Muck Rats
+>Card "Muck Rats" created
+cc
+Red Krark-Clan Shaman
+>Card "Krark-Clan Shaman" created
+cc
+Black Agonizing Memories
+>Card "Agonizing Memories" created
+cc
+White Great Wall
+>Card "Great Wall" created
+cc
+Blue Mist of Stagnation
+>Card "Mist of Stagnation" already exists
+cc
+Green Centaur Chieftain
+>Card "Centaur Chieftain" created
+cc
+Black Skittering Monstrosity
+>Card "Skittering Monstrosity" created
+cc
+Red Akki Avalanchers
+>Card "Akki Avalanchers" already exists
+cc
+Red Akki Rockspeaker
+>Card "Akki Rockspeaker" created
+cc
+Black Sengir Bats
+>Card "Sengir Bats" already exists
+cc
+White Daily Regimen
+>Card "Daily Regimen" created
+cc
+Green Zendikar Resurgent
+>Card "Zendikar Resurgent" created
+cc
+Red Barrel Down Sokenzan
+>Card "Barrel Down Sokenzan" created
+cc
+Black Brink of Madness
+>Card "Brink of Madness" already exists
+cc
+Green Ivy Seer
+>Card "Ivy Seer" created
+cc
+Black Endemic Plague
+>Card "Endemic Plague" created
+cc
+Green Geist Trappers
+>Card "Geist Trappers" created
+cc
+Blue Cephalid Constable
+>Card "Cephalid Constable" created
+cc
+Black Innocent Blood
+>Card "Innocent Blood" created
+cc
+Red Balduvian Hydra
+>Card "Balduvian Hydra" created
+cc
+Blue Archaeomancer
+>Card "Archaeomancer" already exists
+cc
+Green Baru, Fist of Krosa
+>Card "Baru, Fist of Krosa" created
+cc
+White Martial Law
+>Card "Martial Law" created
+cc
+Red Tok-Tok, Volcano Born
+>Card "Tok-Tok, Volcano Born" created
+cc
+White Vectis Dominator
+>Card "Vectis Dominator" already exists
+cc
+Green Wolfir Avenger
+>Card "Wolfir Avenger" already exists
+cc
+White Sanctuary Cat
+>Card "Sanctuary Cat" created
+cc
+White Aven Mimeomancer
+>Card "Aven Mimeomancer" created
+cc
+Red Terra Ravager
+>Card "Terra Ravager" created
+cc
+Blue Stern Mentor
+>Card "Stern Mentor" created
+cc
+Black Null Caller
+>Card "Null Caller" created
+cc
+Red Flash of Defiance
+>Card "Flash of Defiance" created
+cc
+Green Regenerate
+>Card "Regenerate" created
+cc
+White Serra Bestiary
+>Card "Serra Bestiary" created
+cc
+Blue Jinx
+>Card "Jinx" created
+cc
+White Safehold Sentry
+>Card "Safehold Sentry" created
+cc
+Red Lightning Mauler
+>Card "Lightning Mauler" created
+cc
+Green Raised by Wolves
+>Card "Raised by Wolves" created
+cc
+Red Goblin Patrol
+>Card "Goblin Patrol" created
+cc
+Blue Soramaro, First to Dream
+>Card "Soramaro, First to Dream" created
+cc
+Green Vorinclex, Voice of Hunger
+>Card "Vorinclex, Voice of Hunger" created
+cc
+Black Sick and Tired
+>Card "Sick and Tired" created
+cc
+Blue Siren's Call
+>Card "Siren's Call" created
+cc
+Green Taoist Hermit
+>Card "Taoist Hermit" created
+cc
+Blue Fledgling Osprey
+>Card "Fledgling Osprey" created
+cc
+Blue Ether Well
+>Card "Ether Well" created
+cc
+White Kjeldoran Skyknight
+>Card "Kjeldoran Skyknight" created
+cc
+White Efreet Weaponmaster
+>Card "Efreet Weaponmaster" created
+cc
+White Nomad Mythmaker
+>Card "Nomad Mythmaker" created
+cc
+White Fall of the Gavel
+>Card "Fall of the Gavel" created
+cc
+Blue Seahunter
+>Card "Seahunter" created
+cc
+Black Hit
+>Card "Hit" created
+cc
+Green Viridian Scout
+>Card "Viridian Scout" created
+cc
+White Bargain
+>Card "Bargain" created
+cc
+White Leyline of the Meek
+>Card "Leyline of the Meek" created
+cc
+Green Wren's Run Vanquisher
+>Card "Wren's Run Vanquisher" created
+cc
+Blue Cloud Manta
+>Card "Cloud Manta" created
+cc
+Green Greenhilt Trainee
+>Card "Greenhilt Trainee" created
+cc
+Blue Abomination of Gudul
+>Card "Abomination of Gudul" created
+cc
+Blue Haunter of Nightveil
+>Card "Haunter of Nightveil" already exists
+cc
+White Flowstone Charger
+>Card "Flowstone Charger" created
+cc
+Green Cyclone
+>Card "Cyclone" created
+cc
+White Shield of Duty and Reason
+>Card "Shield of Duty and Reason" already exists
+cc
+White Mangara's Blessing
+>Card "Mangara's Blessing" created
+cc
+Blue Dimir Infiltrator
+>Card "Dimir Infiltrator" created
+cc
+Green Greener Pastures
+>Card "Greener Pastures" created
+cc
+Red Shivan Wumpus
+>Card "Shivan Wumpus" created
+cc
+Green Vorapede
+>Card "Vorapede" already exists
+cc
+Blue Metathran Zombie
+>Card "Metathran Zombie" created
+cc
+Blue Zur's Weirding
+>Card "Zur's Weirding" created
+cc
+Blue Glimpse the Unthinkable
+>Card "Glimpse the Unthinkable" already exists
+cc
+Black Rakshasa's Secret
+>Card "Rakshasa's Secret" created
+cc
+Blue Amphin Pathmage
+>Card "Amphin Pathmage" created
+cc
+Red Surge of Strength
+>Card "Surge of Strength" created
+cc
+Green Wirewood Symbiote
+>Card "Wirewood Symbiote" created
+cc
+White Angelic Blessing
+>Card "Angelic Blessing" created
+cc
+Blue Anthroplasm
+>Card "Anthroplasm" created
+cc
+White Flowstone Charger
+>Card "Flowstone Charger" already exists
+cc
+Black Season of the Witch
+>Card "Season of the Witch" created
+cc
+Red Red-Hot Hottie
+>Card "Red-Hot Hottie" created
+cc
+Blue Favor of the Overbeing
+>Card "Favor of the Overbeing" created
+cc
+Black Bellowing Saddlebrute
+>Card "Bellowing Saddlebrute" created
+cc
+Red Fire Tempest
+>Card "Fire Tempest" already exists
+cc
+Black Martyr of Bones
+>Card "Martyr of Bones" created
+cc
+White Siege Rhino
+>Card "Siege Rhino" created
+cc
+White Convalescent Care
+>Card "Convalescent Care" created
+cc
+Black Death Pit Offering
+>Card "Death Pit Offering" created
+cc
+Red Fit of Rage
+>Card "Fit of Rage" created
+cc
+Blue Tomoya the Revealer
+>Card "Tomoya the Revealer" created
+cc
+White Ancestor's Prophet
+>Card "Ancestor's Prophet" created
+cc
+Black Illness in the Ranks
+>Card "Illness in the Ranks" created
+cc
+White Arctic Foxes
+>Card "Arctic Foxes" created
+cc
+Black Skirsdag High Priest
+>Card "Skirsdag High Priest" created
+cc
+Black Ruinous Path
+>Card "Ruinous Path" created
+cc
+Green Mosstodon
+>Card "Mosstodon" already exists
+cc
+Green Venomous Dragonfly
+>Card "Venomous Dragonfly" created
+cc
+Black Sorceress Queen
+>Card "Sorceress Queen" already exists
+cc
+Green Selvala's Charge
+>Card "Selvala's Charge" created
+cc
+Black Liliana of the Dark Realms
+>Card "Liliana of the Dark Realms" created
+cc
+Red Magma Sliver
+>Card "Magma Sliver" created
+cc
+White Marked by Honor
+>Card "Marked by Honor" created
+cc
+Blue Braingeyser
+>Card "Braingeyser" created
+cc
+Red Incendiary
+>Card "Incendiary" already exists
+cc
+Red Pursuit of Flight
+>Card "Pursuit of Flight" created
+cc
+Green People of the Woods
+>Card "People of the Woods" created
+cc
+White Sacred Ground
+>Card "Sacred Ground" created
+cc
+White Ramosian Sergeant
+>Card "Ramosian Sergeant" already exists
+cc
+Red Shivan Phoenix
+>Card "Shivan Phoenix" created
+cc
+Green Freyalise's Charm
+>Card "Freyalise's Charm" created
+cc
+White Harm's Way
+>Card "Harm's Way" created
+cc
+Green Venomous Dragonfly
+>Card "Venomous Dragonfly" already exists
+cc
+Red Thunder Brute
+>Card "Thunder Brute" created
+cc
+White Bloodied Ghost
+>Card "Bloodied Ghost" already exists
+cc
+Red Embermage Goblin
+>Card "Embermage Goblin" created
+cc
+White Kjeldoran Gargoyle
+>Card "Kjeldoran Gargoyle" already exists
+cc
+Red Gorehorn Minotaurs
+>Card "Gorehorn Minotaurs" created
+cc
+Black Liturgy of Blood
+>Card "Liturgy of Blood" already exists
+cc
+White Centaur Safeguard
+>Card "Centaur Safeguard" created
+cc
+Blue Ezuri, Claw of Progress
+>Card "Ezuri, Claw of Progress" created
+cc
+White Martyr's Cause
+>Card "Martyr's Cause" created
+cc
+Red War Elemental
+>Card "War Elemental" created
+cc
+Red Banners Raised
+>Card "Banners Raised" created
+cc
+Green Frontier Mastodon
+>Card "Frontier Mastodon" created
+cc
+Red Ghitu War Cry
+>Card "Ghitu War Cry" created
+cc
+Green Flock of Rabid Sheep
+>Card "Flock of Rabid Sheep" created
+cc
+Black Cabal Inquisitor
+>Card "Cabal Inquisitor" created
+cc
+Green Heir of the Wilds
+>Card "Heir of the Wilds" created
+cc
+Green Ambush Commander
+>Card "Ambush Commander" created
+cc
+Red Treasonous Ogre
+>Card "Treasonous Ogre" created
+cc
+White Trained Pronghorn
+>Card "Trained Pronghorn" created
+cc
+Black Mindstab
+>Card "Mindstab" created
+cc
+White Pollen Remedy
+>Card "Pollen Remedy" created
+cc
+Black Darkblast
+>Card "Darkblast" created
+cc
+Black Cairn Wanderer
+>Card "Cairn Wanderer" created
+cc
+Black Feebleness
+>Card "Feebleness" created
+cc
+Blue Spiketail Hatchling
+>Card "Spiketail Hatchling" created
+cc
+Black Hex
+>Card "Hex" created
+cc
+Red Unstable Hulk
+>Card "Unstable Hulk" created
+cc
+Red Sandstone Warrior
+>Card "Sandstone Warrior" created
+cc
+White Somnomancer
+>Card "Somnomancer" created
+cc
+White Wings of Hope
+>Card "Wings of Hope" created
+cc
+Black Warren Weirding
+>Card "Warren Weirding" created
+cc
+Red Shatterskull Recruit
+>Card "Shatterskull Recruit" created
+cc
+Black Onyx Goblet
+>Card "Onyx Goblet" created
+cc
+Green Become Immense
+>Card "Become Immense" created
+cc
+White Stormfront Pegasus
+>Card "Stormfront Pegasus" created
+cc
+Black Kuon's Essence
+>Card "Kuon's Essence" created
+cc
+Green Krosan Vorine
+>Card "Krosan Vorine" created
+cc
+Black Plague Wind
+>Card "Plague Wind" already exists
+cc
+Black Sultai Emissary
+>Card "Sultai Emissary" already exists
+cc
+Red Mob Mentality
+>Card "Mob Mentality" created
+cc
+Red Ashen Monstrosity
+>Card "Ashen Monstrosity" created
+cc
+Red Last Chance
+>Card "Last Chance" created
+cc
+White Zhalfirin Commander
+>Card "Zhalfirin Commander" created
+cc
+Blue Gitaxian Probe
+>Card "Gitaxian Probe" already exists
+cc
+Red Torchling
+>Card "Torchling" created
+cc
+Black Western Paladin
+>Card "Western Paladin" created
+cc
+White Kor Outfitter
+>Card "Kor Outfitter" created
+cc
+Red Stone Rain
+>Card "Stone Rain" created
+cc
+Blue Lumengrid Warden
+>Card "Lumengrid Warden" created
+cc
+Black Perish
+>Card "Perish" created
+cc
+White Ranger of Eos
+>Card "Ranger of Eos" created
+cc
+Green Ichneumon Druid
+>Card "Ichneumon Druid" created
+cc
+Blue Hisoka, Minamo Sensei
+>Card "Hisoka, Minamo Sensei" already exists
+cc
+Red Plunder
+>Card "Plunder" created
+cc
+White Archery Training
+>Card "Archery Training" created
+cc
+Blue Dralnu's Pet
+>Card "Dralnu's Pet" created
+cc
+Blue Sultai Charm
+>Card "Sultai Charm" created
+cc
+Green Groundbreaker
+>Card "Groundbreaker" already exists
+cc
+Blue Ribbons of the Reikai
+>Card "Ribbons of the Reikai" created
+cc
+Black Syphon Flesh
+>Card "Syphon Flesh" already exists
+cc
+White Banisher Priest
+>Card "Banisher Priest" created
+cc
+Green Shinen of Life's Roar
+>Card "Shinen of Life's Roar" created
+cc
+Blue Withering Gaze
+>Card "Withering Gaze" created
+cc
+Black Vampiric Touch
+>Card "Vampiric Touch" created
+cc
+White Sunseed Nurturer
+>Card "Sunseed Nurturer" created
+cc
+White Cleanfall
+>Card "Cleanfall" created
+cc
+White Spear of Heliod
+>Card "Spear of Heliod" created
+cc
+White Fiery Justice
+>Card "Fiery Justice" created
+cc
+Red Bloodcrazed Goblin
+>Card "Bloodcrazed Goblin" created
+cc
+White Leonin Armorguard
+>Card "Leonin Armorguard" created
+cc
+Blue Weatherseed Faeries
+>Card "Weatherseed Faeries" created
+cc
+White Offering to Asha
+>Card "Offering to Asha" created
+cc
+Black Terror
+>Card "Terror" created
+cc
+White Skyknight Legionnaire
+>Card "Skyknight Legionnaire" created
+cc
+Red Jeering Instigator
+>Card "Jeering Instigator" created
+cc
+Blue Backfire
+>Card "Backfire" created
+cc
+Black Warped Devotion
+>Card "Warped Devotion" created
+cc
+Blue Keranos, God of Storms
+>Card "Keranos, God of Storms" created
+cc
+Blue Trapmaker's Snare
+>Card "Trapmaker's Snare" created
+cc
+Blue Sage's Dousing
+>Card "Sage's Dousing" created
+cc
+Red Pyrostatic Pillar
+>Card "Pyrostatic Pillar" created
+cc
+Green Descendant of Masumaro
+>Card "Descendant of Masumaro" created
+cc
+White Temporary Truce
+>Card "Temporary Truce" created
+cc
+White Ondu Greathorn
+>Card "Ondu Greathorn" created
+cc
+White Aurification
+>Card "Aurification" created
+cc
+Blue Oppressive Will
+>Card "Oppressive Will" created
+cc
+Red Mons's Goblin Raiders
+>Card "Mons's Goblin Raiders" already exists
+cc
+Red Towering Thunderfist
+>Card "Towering Thunderfist" created
+cc
+Black Curse of Oblivion
+>Card "Curse of Oblivion" created
+cc
+White Angel of Retribution
+>Card "Angel of Retribution" created
+cc
+White Atalya, Samite Master
+>Card "Atalya, Samite Master" created
+cc
+Blue Magnetic Flux
+>Card "Magnetic Flux" created
+cc
+White Ponyback Brigade
+>Card "Ponyback Brigade" created
+cc
+Red Viashino Cutthroat
+>Card "Viashino Cutthroat" already exists
+cc
+Red Fiery Gambit
+>Card "Fiery Gambit" created
+cc
+White Martial Law
+>Card "Martial Law" already exists
+cc
+Black Deepwood Ghoul
+>Card "Deepwood Ghoul" created
+cc
+White Fervent Charge
+>Card "Fervent Charge" already exists
+cc
+Red Sabretooth Tiger
+>Card "Sabretooth Tiger" created
+cc
+White Chronosavant
+>Card "Chronosavant" created
+cc
+Green Primal Cocoon
+>Card "Primal Cocoon" created
+cc
+Blue Index
+>Card "Index" created
+cc
+Green Forcemage Advocate
+>Card "Forcemage Advocate" created
+cc
+Black Cabal Surgeon
+>Card "Cabal Surgeon" created
+cc
+Red Dwarven Catapult
+>Card "Dwarven Catapult" created
+cc
+Green Karplusan Strider
+>Card "Karplusan Strider" created
+cc
+Black Tribute to Hunger
+>Card "Tribute to Hunger" created
+cc
+Blue Homarid Spawning Bed
+>Card "Homarid Spawning Bed" already exists
+cc
+Red Hellkite Tyrant
+>Card "Hellkite Tyrant" created
+cc
+White Stony Silence
+>Card "Stony Silence" created
+cc
+Green Karoo Meerkat
+>Card "Karoo Meerkat" created
+cc
+Black Spawn of Rix Maadi
+>Card "Spawn of Rix Maadi" created
+cc
+Blue Illusionary Wall
+>Card "Illusionary Wall" created
+cc
+Black Emberstrike Duo
+>Card "Emberstrike Duo" created
+cc
+White Messenger Falcons
+>Card "Messenger Falcons" created
+cc
+Green Land Grant
+>Card "Land Grant" created
+cc
+White Scourglass
+>Card "Scourglass" created
+cc
+White Azorius Herald
+>Card "Azorius Herald" created
+cc
+Blue Dralnu, Lich Lord
+>Card "Dralnu, Lich Lord" created
+cc
+Green Rain of Thorns
+>Card "Rain of Thorns" created
+cc
+Red Inferno
+>Card "Inferno" created
+cc
+Green Font of Fertility
+>Card "Font of Fertility" created
+cc
+Green Oran-Rief Hydra
+>Card "Oran-Rief Hydra" already exists
+cc
+Red Boiling Earth
+>Card "Boiling Earth" created
+cc
+Green Scaled Wurm
+>Card "Scaled Wurm" created
+cc
+Red Fury of the Horde
+>Card "Fury of the Horde" created
+cc
+Green Might of the Masses
+>Card "Might of the Masses" created
+cc
+Green Bassara Tower Archer
+>Card "Bassara Tower Archer" created
+cc
+White Spiritual Guardian
+>Card "Spiritual Guardian" already exists
+cc
+Green Savage Punch
+>Card "Savage Punch" created
+cc
+Black Kokusho, the Evening Star
+>Card "Kokusho, the Evening Star" created
+cc
+Red Goblin Glider
+>Card "Goblin Glider" created
+cc
+Black Hasran Ogress
+>Card "Hasran Ogress" created
+cc
+Blue Psychic Trance
+>Card "Psychic Trance" created
+cc
+Green Garruk, Primal Hunter
+>Card "Garruk, Primal Hunter" already exists
+cc
+Blue Balloon Peddler
+>Card "Balloon Peddler" created
+cc
+Green Seedtime
+>Card "Seedtime" created
+cc
+White Assemble the Legion
+>Card "Assemble the Legion" created
+cc
+Red Shard Volley
+>Card "Shard Volley" created
+cc
+White Knight of the Hokey Pokey
+>Card "Knight of the Hokey Pokey" created
+cc
+Red Undying Rage
+>Card "Undying Rage" created
+cc
+Black Din of the Fireherd
+>Card "Din of the Fireherd" created
+cc
+Black Grotesque Hybrid
+>Card "Grotesque Hybrid" created
+cc
+Green Mythic Proportions
+>Card "Mythic Proportions" created
+cc
+Red Clash of Realities
+>Card "Clash of Realities" created
+cc
+Red Heckling Fiends
+>Card "Heckling Fiends" created
+cc
+Blue Halcyon Glaze
+>Card "Halcyon Glaze" already exists
+cc
+White Akron Legionnaire
+>Card "Akron Legionnaire" already exists
+cc
+Green Oath of the Ancient Wood
+>Card "Oath of the Ancient Wood" created
+cc
+Blue Voidwalk
+>Card "Voidwalk" created
+cc
+Red Spiraling Embers
+>Card "Spiraling Embers" created
+cc
+Blue Undertow
+>Card "Undertow" created
+cc
+Black Malevolent Awakening
+>Card "Malevolent Awakening" created
+cc
+Red Skarrgan Skybreaker
+>Card "Skarrgan Skybreaker" created
+cc
+Blue Cunning Strike
+>Card "Cunning Strike" created
+cc
+White Woeleecher
+>Card "Woeleecher" created
+cc
+Green Beastbreaker of Bala Ged
+>Card "Beastbreaker of Bala Ged" created
+cc
+Blue Veiling Oddity
+>Card "Veiling Oddity" created
+cc
+Green Marker Beetles
+>Card "Marker Beetles" created
+cc
+Red Ghitu Slinger
+>Card "Ghitu Slinger" created
+cc
+Blue Trusted Advisor
+>Card "Trusted Advisor" created
+cc
+Black Disciple of Bolas
+>Card "Disciple of Bolas" created
+cc
+Green Vital Splicer
+>Card "Vital Splicer" created
+cc
+Blue Merseine
+>Card "Merseine" created
+cc
+Red Defender of Chaos
+>Card "Defender of Chaos" created
+cc
+Red Regathan Firecat
+>Card "Regathan Firecat" created
+cc
+Black Shambling Ghoul
+>Card "Shambling Ghoul" created
+cc
+Green Elvish Scrapper
+>Card "Elvish Scrapper" already exists
+cc
+Blue Urborg Drake
+>Card "Urborg Drake" created
+cc
+Blue Living Lore
+>Card "Living Lore" created
+cc
+Green Might of the Masses
+>Card "Might of the Masses" already exists
+cc
+White Energy Arc
+>Card "Energy Arc" created
+cc
+Green Bloated Toad
+>Card "Bloated Toad" created
+cc
+Green Turn to Dust
+>Card "Turn to Dust" created
+cc
+Blue Novijen Sages
+>Card "Novijen Sages" created
+cc
+Green Vorapede
+>Card "Vorapede" already exists
+cc
+Black Dragon Shadow
+>Card "Dragon Shadow" already exists
+cc
+Black Grim Roustabout
+>Card "Grim Roustabout" created
+cc
+White Spectral Guardian
+>Card "Spectral Guardian" already exists
+cc
+White Blessed Reversal
+>Card "Blessed Reversal" created
+cc
+Blue Manta Ray
+>Card "Manta Ray" created
+cc
+Red Pact of the Titan
+>Card "Pact of the Titan" created
+cc
+Red Close Quarters
+>Card "Close Quarters" created
+cc
+Red What
+>Card "What" created
+cc
+Green Mine, Mine, Mine!
+>Card "Mine, Mine, Mine!" created
+cc
+White Icatian Scout
+>Card "Icatian Scout" created
+cc
+White Horned Cheetah
+>Card "Horned Cheetah" created
+cc
+Blue Overwhelming Denial
+>Card "Overwhelming Denial" created
+cc
+Green Aluren
+>Card "Aluren" created
+cc
+Blue Defensive Stance
+>Card "Defensive Stance" created
+cc
+Green Revealing Wind
+>Card "Revealing Wind" created
+cc
+Green Llanowar Cavalry
+>Card "Llanowar Cavalry" created
+cc
+Red Akroan Sergeant
+>Card "Akroan Sergeant" created
+cc
+Red Thorncaster Sliver
+>Card "Thorncaster Sliver" created
+cc
+Blue Calcite Snapper
+>Card "Calcite Snapper" created
+cc
+White Wordmail
+>Card "Wordmail" created
+cc
+White Degavolver
+>Card "Degavolver" already exists
+cc
+White Nobilis of War
+>Card "Nobilis of War" created
+cc
+Red Viashino Racketeer
+>Card "Viashino Racketeer" created
+cc
+Red Orcish Librarian
+>Card "Orcish Librarian" created
+cc
+Green Natural Selection
+>Card "Natural Selection" created
+cc
+White Seraph of Dawn
+>Card "Seraph of Dawn" created
+cc
+Red Brute Force
+>Card "Brute Force" created
+cc
+Black Sisters of Stone Death
+>Card "Sisters of Stone Death" created
+cc
+Black Midnight Recovery
+>Card "Midnight Recovery" created
+cc
+Green Nantuko Vigilante
+>Card "Nantuko Vigilante" created
+cc
+Blue Outwit
+>Card "Outwit" created
+cc
+White Vizkopa Confessor
+>Card "Vizkopa Confessor" created
+cc
+Green Mantle of Webs
+>Card "Mantle of Webs" created
+cc
+Green Tarpan
+>Card "Tarpan" created
+cc
+Blue Windrider Eel
+>Card "Windrider Eel" created
+cc
+Black Macabre Waltz
+>Card "Macabre Waltz" created
+cc
+White Trial
+>Card "Trial" created
+cc
+Black Stone Catapult
+>Card "Stone Catapult" created
+cc
+Black Frenzy Sliver
+>Card "Frenzy Sliver" created
+cc
+White Lost Leonin
+>Card "Lost Leonin" created
+cc
+White Force Bubble
+>Card "Force Bubble" created
+cc
+Red Frostwielder
+>Card "Frostwielder" created
+cc
+Blue Arcane Melee
+>Card "Arcane Melee" created
+cc
+Red Burn the Impure
+>Card "Burn the Impure" created
+cc
+White Avenging Angel
+>Card "Avenging Angel" created
+cc
+Red Paragon of Fierce Defiance
+>Card "Paragon of Fierce Defiance" created
+cc
+White Safeguard
+>Card "Safeguard" created
+cc
+Red Swirling Sandstorm
+>Card "Swirling Sandstorm" created
+cc
+Black Shadowborn Apostle
+>Card "Shadowborn Apostle" created
+cc
+Red Flowstone Slide
+>Card "Flowstone Slide" already exists
+cc
+White Circle of Protection: Artifacts
+>Card "Circle of Protection: Artifacts" already exists
+cc
+Green Unstoppable Ash
+>Card "Unstoppable Ash" created
+cc
+White Rhox Bodyguard
+>Card "Rhox Bodyguard" created
+cc
+Green Dense Foliage
+>Card "Dense Foliage" created
+cc
+Blue Wind Zendikon
+>Card "Wind Zendikon" created
+cc
+White Suture Priest
+>Card "Suture Priest" created
+cc
+Red Stoneshaker Shaman
+>Card "Stoneshaker Shaman" created
+cc
+White Purify
+>Card "Purify" created
+cc
+Green Rampaging Baloths
+>Card "Rampaging Baloths" created
+cc
+White Manacles of Decay
+>Card "Manacles of Decay" created
+cc
+Blue Tolarian Serpent
+>Card "Tolarian Serpent" created
+cc
+Blue Shaper Parasite
+>Card "Shaper Parasite" created
+cc
+Black Pit Scorpion
+>Card "Pit Scorpion" created
+cc
+Blue Skeleton Ship
+>Card "Skeleton Ship" created
+cc
+Green Grave Sifter
+>Card "Grave Sifter" created
+cc
+Blue Ethereal Usher
+>Card "Ethereal Usher" created
+cc
+Black Afflict
+>Card "Afflict" created
+cc
+Green Strength in Numbers
+>Card "Strength in Numbers" created
+cc
+Green Heroes' Bane
+>Card "Heroes' Bane" created
+cc
+Black Dread Slaver
+>Card "Dread Slaver" created
+cc
+Green Mirri, Cat Warrior
+>Card "Mirri, Cat Warrior" created
+cc
+Blue Fledgling Osprey
+>Card "Fledgling Osprey" already exists
+cc
+Red Mardu Runemark
+>Card "Mardu Runemark" already exists
+cc
+Black Haakon, Stromgald Scourge
+>Card "Haakon, Stromgald Scourge" created
+cc
+Blue Omnibian
+>Card "Omnibian" created
+cc
+Blue Unifying Theory
+>Card "Unifying Theory" created
+cc
+Red Kavu Recluse
+>Card "Kavu Recluse" created
+cc
+Red Warrior's Oath
+>Card "Warrior's Oath" created
+cc
+Green Storm Seeker
+>Card "Storm Seeker" already exists
+cc
+Green Flowering Lumberknot
+>Card "Flowering Lumberknot" created
+cc
+White Martyrs' Tomb
+>Card "Martyrs' Tomb" already exists
+cc
+Black Royal Assassin
+>Card "Royal Assassin" created
+cc
+Green Double Play
+>Card "Double Play" created
+cc
+Blue Doorkeeper
+>Card "Doorkeeper" created
+cc
+Black Nighthaze
+>Card "Nighthaze" already exists
+cc
+Black Servant of Volrath
+>Card "Servant of Volrath" created
+cc
+Black Nyxborn Eidolon
+>Card "Nyxborn Eidolon" created
+cc
+White Reliquary Monk
+>Card "Reliquary Monk" created
+cc
+White Suleiman's Legacy
+>Card "Suleiman's Legacy" created
+cc
+Black Psychotic Episode
+>Card "Psychotic Episode" created
+cc
+Red The Lady of the Mountain
+>Card "The Lady of the Mountain" created
+cc
+Black Last Kiss
+>Card "Last Kiss" created
+cc
+Red Akki Lavarunner
+>Card "Akki Lavarunner" already exists
+cc
+White Leyline of Sanctity
+>Card "Leyline of Sanctity" already exists
+cc
+Blue Hammerhead Shark
+>Card "Hammerhead Shark" created
+cc
+Green Natural Affinity
+>Card "Natural Affinity" created
+cc
+Green Kithkin Daggerdare
+>Card "Kithkin Daggerdare" created
+cc
+Green Martyr of Spores
+>Card "Martyr of Spores" created
+cc
+White Titanic Ultimatum
+>Card "Titanic Ultimatum" created
+cc
+Red Robber Fly
+>Card "Robber Fly" already exists
+cc
+Black Dark Petition
+>Card "Dark Petition" created
+cc
+Black Sootwalkers
+>Card "Sootwalkers" created
+cc
+Blue Sivitri Scarzam
+>Card "Sivitri Scarzam" created
+cc
+Red Dwarven Armorer
+>Card "Dwarven Armorer" created
+cc
+White Aven Farseer
+>Card "Aven Farseer" created
+cc
+White Catastrophe
+>Card "Catastrophe" created
+cc
+Blue Runeboggle
+>Card "Runeboggle" created
+cc
+Green Pulse of the Tangle
+>Card "Pulse of the Tangle" created
+cc
+White Auramancer
+>Card "Auramancer" created
+cc
+Green Grounded
+>Card "Grounded" created
+cc
+Blue Fallowsage
+>Card "Fallowsage" created
+cc
+Blue Psychic Membrane
+>Card "Psychic Membrane" created
+cc
+Blue Sunder
+>Card "Sunder" created
+cc
+Green Burr Grafter
+>Card "Burr Grafter" created
+cc
+Blue Mnemonic Wall
+>Card "Mnemonic Wall" created
+cc
+Green Thelon's Curse
+>Card "Thelon's Curse" created
+cc
+Red Yellow Scarves Cavalry
+>Card "Yellow Scarves Cavalry" created
+cc
+Green Brontotherium
+>Card "Brontotherium" created
+cc
+White Defiant Vanguard
+>Card "Defiant Vanguard" created
+cc
+Red Exuberant Firestoker
+>Card "Exuberant Firestoker" created
+cc
+White Knight Exemplar
+>Card "Knight Exemplar" created
+cc
+Red Kolaghan Stormsinger
+>Card "Kolaghan Stormsinger" created
+cc
+Blue Cerulean Wyvern
+>Card "Cerulean Wyvern" created
+cc
+Green Ley Line
+>Card "Ley Line" created
+cc
+White Derevi, Empyrial Tactician
+>Card "Derevi, Empyrial Tactician" created
+cc
+Blue Compulsive Research
+>Card "Compulsive Research" created
+cc
+Green Glowering Rogon
+>Card "Glowering Rogon" created
+cc
+Black Simulacrum
+>Card "Simulacrum" created
+cc
+Black Gaze of the Gorgon
+>Card "Gaze of the Gorgon" created
+cc
+Red Fire Tempest
+>Card "Fire Tempest" already exists
+cc
+Black Howl from Beyond
+>Card "Howl from Beyond" created
+cc
+Green Tribal Forcemage
+>Card "Tribal Forcemage" created
+cc
+Black Basal Sliver
+>Card "Basal Sliver" created
+cc
+Green Sylvan Offering
+>Card "Sylvan Offering" created
+cc
+Black Murderous Cut
+>Card "Murderous Cut" created
+cc
+Red Tyrant of Valakut
+>Card "Tyrant of Valakut" created
+cc
+Blue Flash of Insight
+>Card "Flash of Insight" already exists
+cc
+White Brago, King Eternal
+>Card "Brago, King Eternal" already exists
+cc
+Red Ancient Hellkite
+>Card "Ancient Hellkite" already exists
+cc
+Black Shoreline Salvager
+>Card "Shoreline Salvager" created
+cc
+Green Serene Heart
+>Card "Serene Heart" created
+cc
+Black Forbidden Ritual
+>Card "Forbidden Ritual" created
+cc
+Blue Benthic Behemoth
+>Card "Benthic Behemoth" created
+cc
+Black Bog Rats
+>Card "Bog Rats" created
+cc
+Red Flamespeaker Adept
+>Card "Flamespeaker Adept" created
+cc
+Blue Tidebinder Mage
+>Card "Tidebinder Mage" created
+cc
+Black Self-Inflicted Wound
+>Card "Self-Inflicted Wound" created
+cc
+Red Flowstone Salamander
+>Card "Flowstone Salamander" created
+cc
+Green Calming Verse
+>Card "Calming Verse" created
+cc
+Green Scout the Borders
+>Card "Scout the Borders" created
+cc
+Blue Tricks of the Trade
+>Card "Tricks of the Trade" created
+cc
+Red Stalking Vengeance
+>Card "Stalking Vengeance" created
+cc
+Green Magnigoth Treefolk
+>Card "Magnigoth Treefolk" created
+cc
+Black Disciple of the Vault
+>Card "Disciple of the Vault" created
+cc
+Blue Merfolk Sovereign
+>Card "Merfolk Sovereign" created
+cc
+Black Demonic Taskmaster
+>Card "Demonic Taskmaster" created
+cc
+Red Rock Hydra
+>Card "Rock Hydra" created
+cc
+Red Sokenzan Spellblade
+>Card "Sokenzan Spellblade" created
+cc
+Black Erg Raiders
+>Card "Erg Raiders" created
+cc
+Blue Welkin Tern
+>Card "Welkin Tern" created
+cc
+Blue Red Cliffs Armada
+>Card "Red Cliffs Armada" already exists
+cc
+Red Vent Sentinel
+>Card "Vent Sentinel" created
+cc
+White Citadel Siege
+>Card "Citadel Siege" created
+cc
+Blue Kederekt Creeper
+>Card "Kederekt Creeper" created
+cc
+Red Thunder of Hooves
+>Card "Thunder of Hooves" created
+cc
+Red Balthor the Stout
+>Card "Balthor the Stout" created
+cc
+Black Ghostflame Sliver
+>Card "Ghostflame Sliver" created
+cc
+Green Mul Daya Channelers
+>Card "Mul Daya Channelers" created
+cc
+Black Skulltap
+>Card "Skulltap" created
+cc
+Blue Sea Eagle
+>Card "Sea Eagle" created
+cc
+Blue Repulse
+>Card "Repulse" created
+cc
+White Midvast Protector
+>Card "Midvast Protector" created
+cc
+Red Wall of Torches
+>Card "Wall of Torches" created
+cc
+Green Hunt Down
+>Card "Hunt Down" created
+cc
+Red Crag Saurian
+>Card "Crag Saurian" created
+cc
+Black Blanket of Night
+>Card "Blanket of Night" created
+cc
+Black Consumptive Goo
+>Card "Consumptive Goo" created
+cc
+White Storm Spirit
+>Card "Storm Spirit" created
+cc
+Red Mogg Toady
+>Card "Mogg Toady" created
+cc
+White Triad of Fates
+>Card "Triad of Fates" created
+cc
+Black Necrogen Scudder
+>Card "Necrogen Scudder" created
+cc
+Red Foundry Street Denizen
+>Card "Foundry Street Denizen" created
+cc
+White Marble Titan
+>Card "Marble Titan" created
+cc
+Black Decompose
+>Card "Decompose" already exists
+cc
+Blue Sultai Soothsayer
+>Card "Sultai Soothsayer" created
+cc
+Black Corpse Connoisseur
+>Card "Corpse Connoisseur" created
+cc
+White Death Ward
+>Card "Death Ward" created
+cc
+Red Genju of the Spires
+>Card "Genju of the Spires" created
+cc
+Blue Master the Way
+>Card "Master the Way" created
+cc
+Green Mine, Mine, Mine!
+>Card "Mine, Mine, Mine!" already exists
+cc
+Red Lavaball Trap
+>Card "Lavaball Trap" created
+cc
+Red Evaporate
+>Card "Evaporate" created
+cc
+Black Village Cannibals
+>Card "Village Cannibals" created
+cc
+Blue Amphin Pathmage
+>Card "Amphin Pathmage" already exists
+cc
+Green Nest Invader
+>Card "Nest Invader" created
+cc
+Black Nezumi Shadow-Watcher
+>Card "Nezumi Shadow-Watcher" created
+cc
+Blue Eye Spy
+>Card "Eye Spy" created
+cc
+White Calciderm
+>Card "Calciderm" created
+cc
+White Feeling of Dread
+>Card "Feeling of Dread" created
+cc
+Black Dawn of the Dead
+>Card "Dawn of the Dead" created
+cc
+Black Binding Agony
+>Card "Binding Agony" created
+cc
+White Leeches
+>Card "Leeches" created
+cc
+White Immolating Glare
+>Card "Immolating Glare" created
+cc
+Black Underworld Dreams
+>Card "Underworld Dreams" created
+cc
+Green Quest for the Gemblades
+>Card "Quest for the Gemblades" created
+cc
+Black Gutless Ghoul
+>Card "Gutless Ghoul" created
+cc
+Blue Talrand's Invocation
+>Card "Talrand's Invocation" created
+cc
+Blue False Summoning
+>Card "False Summoning" created
+cc
+Blue Downpour
+>Card "Downpour" already exists
+cc
+Green Unstoppable Ash
+>Card "Unstoppable Ash" already exists
+cc
+Blue Tideforce Elemental
+>Card "Tideforce Elemental" created
+cc
+Red Firefly
+>Card "Firefly" created
+cc
+Blue Psychic Strike
+>Card "Psychic Strike" created
+cc
+Red Fallen Ferromancer
+>Card "Fallen Ferromancer" created
+cc
+Green Ravenous Leucrocota
+>Card "Ravenous Leucrocota" created
+cc
+White Bant Sojourners
+>Card "Bant Sojourners" already exists
+cc
+White Double Dip
+>Card "Double Dip" created
+cc
+Red Spitting Earth
+>Card "Spitting Earth" created
+cc
+Green Festerhide Boar
+>Card "Festerhide Boar" created
+cc
+White Trace of Abundance
+>Card "Trace of Abundance" created
+cc
+White Glimmerpoint Stag
+>Card "Glimmerpoint Stag" created
+cc
+Green Revenge of the Hunted
+>Card "Revenge of the Hunted" created
+cc
+Black Warped Devotion
+>Card "Warped Devotion" already exists
+cc
+Blue Torrent Elemental
+>Card "Torrent Elemental" created
+cc
+Black Oath of Ghouls
+>Card "Oath of Ghouls" created
+cc
+Red Mad Dog
+>Card "Mad Dog" created
+cc
+Blue Azami, Lady of Scrolls
+>Card "Azami, Lady of Scrolls" created
+cc
+Green Loam Larva
+>Card "Loam Larva" created
+cc
+Red Orcish Paratroopers
+>Card "Orcish Paratroopers" created
+cc
+Black Lotleth Troll
+>Card "Lotleth Troll" created
+cc
+White The Cheese Stands Alone
+>Card "The Cheese Stands Alone" created
+cc
+Black Shambling Swarm
+>Card "Shambling Swarm" created
+cc
+Green Cavern Thoctar
+>Card "Cavern Thoctar" created
+cc
+Green Snake of the Golden Grove
+>Card "Snake of the Golden Grove" created
+cc
+Black Kezzerdrix
+>Card "Kezzerdrix" created
+cc
+Black Lifebane Zombie
+>Card "Lifebane Zombie" created
+cc
+Blue Sorry
+>Card "Sorry" created
+cc
+White Priests of Norn
+>Card "Priests of Norn" created
+cc
+Green Predatory Focus
+>Card "Predatory Focus" created
+cc
+Blue Laquatus's Disdain
+>Card "Laquatus's Disdain" created
+cc
+White Hundred-Talon Strike
+>Card "Hundred-Talon Strike" created
+cc
+Green Howling Gale
+>Card "Howling Gale" created
+cc
+Blue Dizzy Spell
+>Card "Dizzy Spell" created
+cc
+Black Pit Scorpion
+>Card "Pit Scorpion" already exists
+cc
+Black Dark Prophecy
+>Card "Dark Prophecy" created
+cc
+Red Sensation Gorger
+>Card "Sensation Gorger" created
+cc
+Black Deathspore Thallid
+>Card "Deathspore Thallid" created
+cc
+Blue Spell Syphon
+>Card "Spell Syphon" created
+cc
+White Oriss, Samite Guardian
+>Card "Oriss, Samite Guardian" created
+cc
+Black Maelstrom Pulse
+>Card "Maelstrom Pulse" created
+cc
+Red Tempt with Vengeance
+>Card "Tempt with Vengeance" created
+cc
+Green Rattleclaw Mystic
+>Card "Rattleclaw Mystic" created
+cc
+Red Vithian Stinger
+>Card "Vithian Stinger" created
+cc
+Red Spikeshot Elder
+>Card "Spikeshot Elder" created
+cc
+Blue Hermetic Study
+>Card "Hermetic Study" created
+cc
+Green Deepwood Elder
+>Card "Deepwood Elder" created
+cc
+Black Bog Glider
+>Card "Bog Glider" created
+cc
+Blue Mystical Tutor
+>Card "Mystical Tutor" created
+cc
+Red Belligerent Whiptail
+>Card "Belligerent Whiptail" created
+cc
+White Sphinx's Revelation
+>Card "Sphinx's Revelation" already exists
+cc
+Red Goatnapper
+>Card "Goatnapper" created
+cc
+Black Murderous Betrayal
+>Card "Murderous Betrayal" created
+cc
+White Ghost-Lit Redeemer
+>Card "Ghost-Lit Redeemer" already exists
+cc
+White Kiss of the Amesha
+>Card "Kiss of the Amesha" created
+cc
+White Iroas, God of Victory
+>Card "Iroas, God of Victory" created
+cc
+Green Rude Awakening
+>Card "Rude Awakening" created
+cc
+Red Yellow Scarves General
+>Card "Yellow Scarves General" created
+cc
+White Keen-Eyed Archers
+>Card "Keen-Eyed Archers" created
+cc
+Green Carven Caryatid
+>Card "Carven Caryatid" created
+cc
+Black Deathgazer
+>Card "Deathgazer" created
+cc
+Red Armorer Guildmage
+>Card "Armorer Guildmage" created
+cc
+Green Elvish Branchbender
+>Card "Elvish Branchbender" created
+cc
+Blue Cloud Pirates
+>Card "Cloud Pirates" created
+cc
+White Tithe Drinker
+>Card "Tithe Drinker" created
+cc
+Black Thief of Blood
+>Card "Thief of Blood" created
+cc
+Blue Kiora, Master of the Depths
+>Card "Kiora, Master of the Depths" created
+cc
+Red Charmbreaker Devils
+>Card "Charmbreaker Devils" created
+cc
+Green Juniper Order Druid
+>Card "Juniper Order Druid" created
+cc
+Black Entering
+>Card "Entering" created
+cc
+White Ardent Recruit
+>Card "Ardent Recruit" created
+cc
+Blue Distant Memories
+>Card "Distant Memories" created
+cc
+Red Homura, Human Ascendant
+>Card "Homura, Human Ascendant" created
+cc
+Green Rabid Elephant
+>Card "Rabid Elephant" created
+cc
+Black Perish the Thought
+>Card "Perish the Thought" created
+cc
+Green Forked-Branch Garami
+>Card "Forked-Branch Garami" created
+cc
+Black Dawn of the Dead
+>Card "Dawn of the Dead" already exists
+cc
+Black Squelching Leeches
+>Card "Squelching Leeches" created
+cc
+Blue Triton Fortune Hunter
+>Card "Triton Fortune Hunter" created
+cc
+Red Scorching Missile
+>Card "Scorching Missile" created
+cc
+Green Crossbow Ambush
+>Card "Crossbow Ambush" created
+cc
+White Unruly Mob
+>Card "Unruly Mob" created
+cc
+Blue Stratus Walk
+>Card "Stratus Walk" created
+cc
+Red Basalt Gargoyle
+>Card "Basalt Gargoyle" created
+cc
+Blue Nephalia Seakite
+>Card "Nephalia Seakite" created
+cc
+Blue Palinchron
+>Card "Palinchron" created
+cc
+Black Dauthi Jackal
+>Card "Dauthi Jackal" created
+cc
+Green Vine Dryad
+>Card "Vine Dryad" created
+cc
+Blue Jhessian Thief
+>Card "Jhessian Thief" created
+cc
+Blue Turtleshell Changeling
+>Card "Turtleshell Changeling" already exists
+cc
+Green Fangren Marauder
+>Card "Fangren Marauder" created
+cc
+Blue Delusions of Mediocrity
+>Card "Delusions of Mediocrity" created
+cc
+Blue Nyxborn Triton
+>Card "Nyxborn Triton" created
+cc
+Green Prismatic Omen
+>Card "Prismatic Omen" created
+cc
+Blue Somnophore
+>Card "Somnophore" created
+cc
+Black Ancient Craving
+>Card "Ancient Craving" created
+cc
+White Archangel's Light
+>Card "Archangel's Light" created
+cc
+Blue Think Tank
+>Card "Think Tank" created
+cc
+Green Broodhunter Wurm
+>Card "Broodhunter Wurm" already exists
+cc
+Black Darkpact
+>Card "Darkpact" already exists
+cc
+White Angel of Despair
+>Card "Angel of Despair" created
+cc
+White Blue Ward
+>Card "Blue Ward" created
+cc
+Black Deathcurse Ogre
+>Card "Deathcurse Ogre" created
+cc
+Red Blades of Velis Vel
+>Card "Blades of Velis Vel" created
+cc
+White Thunder Spirit
+>Card "Thunder Spirit" created
+cc
+Blue Surgespanner
+>Card "Surgespanner" created
+cc
+Blue Chronatog
+>Card "Chronatog" created
+cc
+Red Shocker
+>Card "Shocker" created
+cc
+Red Hurly-Burly
+>Card "Hurly-Burly" created
+cc
+Black Lord of the Undead
+>Card "Lord of the Undead" created
+cc
+Green Roar of Challenge
+>Card "Roar of Challenge" created
+cc
+Red Zo-Zu the Punisher
+>Card "Zo-Zu the Punisher" created
+cc
+Red Kruin Outlaw
+>Card "Kruin Outlaw" created
+cc
+White Opal Titan
+>Card "Opal Titan" created
+cc
+Red Flowstone Giant
+>Card "Flowstone Giant" created
+cc
+Black Tyrannize
+>Card "Tyrannize" created
+cc
+Blue Countermand
+>Card "Countermand" created
+cc
+Black Desolation
+>Card "Desolation" created
+cc
+Red Miner's Bane
+>Card "Miner's Bane" created
+cc
+White Malach of the Dawn
+>Card "Malach of the Dawn" created
+cc
+Red Implode
+>Card "Implode" created
+cc
+Black Bladewing's Thrall
+>Card "Bladewing's Thrall" created
+cc
+Black Andradite Leech
+>Card "Andradite Leech" created
+cc
+White Knights of Thorn
+>Card "Knights of Thorn" already exists
+cc
+Red Orgg
+>Card "Orgg" created
+cc
+Blue Vesuvan Doppelganger
+>Card "Vesuvan Doppelganger" created
+cc
+Blue Thassa's Devourer
+>Card "Thassa's Devourer" created
+cc
+Red Sparkmage's Gambit
+>Card "Sparkmage's Gambit" created
+cc
+White Basandra, Battle Seraph
+>Card "Basandra, Battle Seraph" created
+cc
+Green Reki, the History of Kamigawa
+>Card "Reki, the History of Kamigawa" already exists
+cc
+White Moonlit Wake
+>Card "Moonlit Wake" created
+cc
+Black Corrupted Zendikon
+>Card "Corrupted Zendikon" created
+cc
+Black Baleful Force
+>Card "Baleful Force" created
+cc
+Green Overwhelm
+>Card "Overwhelm" created
+cc
+Black Boon of Erebos
+>Card "Boon of Erebos" created
+cc
+Black Molting Harpy
+>Card "Molting Harpy" created
+cc
+Black Deathmark
+>Card "Deathmark" created
+cc
+Blue Cruel Fate
+>Card "Cruel Fate" created
+cc
+Green Sachi, Daughter of Seshiro
+>Card "Sachi, Daughter of Seshiro" created
+cc
+White Marisi's Twinclaws
+>Card "Marisi's Twinclaws" created
+cc
+Black Death Wish
+>Card "Death Wish" created
+cc
+Green Hunting Pack
+>Card "Hunting Pack" created
+cc
+Black Mind Extraction
+>Card "Mind Extraction" created
+cc
+Blue Copy Artifact
+>Card "Copy Artifact" created
+cc
+Green Humbler of Mortals
+>Card "Humbler of Mortals" created
+cc
+Red Pit Fight
+>Card "Pit Fight" created
+cc
+Blue Escape Routes
+>Card "Escape Routes" created
+cc
+Red Orcish Squatters
+>Card "Orcish Squatters" already exists
+cp
+Player #38
+>Player "Player #38" created
+cp
+Player #176
+>Player "Player #176" created
+cp
+Player #123
+>Player "Player #123" created
+cp
+Player #113
+>Player "Player #113" created
+cp
+Player #62
+>Player "Player #62" created
+cp
+Player #69
+>Player "Player #69" created
+cp
+Player #16
+>Player "Player #16" created
+cp
+Player #26
+>Player "Player #26" created
+cp
+Player #88
+>Player "Player #88" created
+cp
+Player #32
+>Player "Player #32" created
+cp
+Player #107
+>Player "Player #107" created
+cp
+Player #25
+>Player "Player #25" created
+cp
+Player #82
+>Player "Player #82" created
+cp
+Player #100
+>Player "Player #100" created
+cp
+Player #84
+>Player "Player #84" created
+cp
+Player #102
+>Player "Player #102" created
+cp
+Player #192
+>Player "Player #192" created
+cp
+Player #167
+>Player "Player #167" created
+cp
+Player #171
+>Player "Player #171" created
+cp
+Player #103
+>Player "Player #103" created
+cd
+Player #84
+Warrior's Oath
+Serra Inquisitors
+Furnace Celebration
+Skulltap
+Skull Fracture
+Metathran Zombie
+Barbarian Bully
+Reach of Shadows
+Spined Sliver
+Primal Growth
+Macabre Waltz
+Young Wei Recruits
+Game-Trail Changeling
+Moonlight Geist
+Empyrial Armor
+Split Decision
+Feeling of Dread
+Obsidian Giant
+Auspicious Ancestor
+Fell Shepherd
+Scourglass
+Tidebinder Mage
+Armored Warhorse
+Frostwielder
+Fevered Convulsions
+Devouring Deep
+Jinx
+Laccolith Whelp
+Hushwing Gryff
+Quest for the Gemblades
+Cerulean Wyvern
+Sensation Gorger
+Oath of Ghouls
+Charging Troll
+Kor Castigator
+Nomad Mythmaker
+Underworld Dreams
+Wild Cantor
+Soul Stair Expedition
+Demolish
+Scout the Borders
+Bust
+Akroan Hoplite
+Hunting Pack
+Tribute to Hunger
+Moniker Mage
+Sootwalkers
+Magus of the Arena
+Dawning Purist
+Alabaster Leech
+Vampiric Feast
+Coral Barrier
+Fangren Marauder
+Glade Watcher
+Word of Undoing
+Ondu Greathorn
+Master of Cruelties
+Glowering Rogon
+Zo-Zu the Punisher
+Predatory Focus
+>Deck created for player "Player #84"
+cd
+Player #100
+Balloon Peddler
+Balduvian Conjurer
+Esperzoa
+Emancipation Angel
+Shinen of Fury's Fire
+Gustrider Exuberant
+Sunspire Griffin
+Kobold Drill Sergeant
+Wall of Air
+Duh
+Lightbringer
+Skeleton Ship
+Kabira Vindicator
+Shinen of Fury's Fire
+Sigiled Skink
+Bargain
+Calciderm
+Ancient Hellkite
+Cavalry Master
+Vigilant Drake
+Carapace
+Dungeon Geists
+Wheel of Fate
+Fertilid
+Furnace Celebration
+Sylvan Might
+Highspire Mantis
+Ashes to Ashes
+Shinen of Fury's Fire
+Kezzerdrix
+Karoo Meerkat
+False Demise
+Sokenzan Spellblade
+Cloud Pirates
+Rakshasa's Secret
+Herald of Anafenza
+Pale Bears
+Miner's Bane
+Dromoka's Gift
+Flowstone Salamander
+Corpse Connoisseur
+Hidden Predators
+Rabid Elephant
+Leonin Armorguard
+Agent of Erebos
+Slaughter Games
+Lionheart Maverick
+Immolating Glare
+Animist's Awakening
+Rhystic Study
+Corpse Hauler
+Aerie Mystics
+Sandstone Warrior
+Cadaverous Bloom
+Island Fish Jasconius
+Firefly
+Squelching Leeches
+Alabaster Leech
+Tel-Jilad Defiance
+Wild Hunger
+>Deck created for player "Player #100"
+cd
+Player #171
+Plow Through Reito
+Slaughter Cry
+Flowstone Charger
+Fling
+Shimmering Efreet
+Ancient Craving
+Artful Dodge
+Sharuum the Hegemon
+Aggressive Urge
+Advice from the Fae
+Shambling Ghoul
+Hammerhead Shark
+Hellkite Tyrant
+Psychotic Episode
+Immolating Glare
+Pride of the Clouds
+Prismatic Omen
+Clash of Realities
+Aurification
+Ceaseless Searblades
+Sunspire Griffin
+Bloodchief Ascension
+Surge of Strength
+Assquatch
+Militia's Pride
+Mayael's Aria
+Beast Attack
+Dreampod Druid
+Iizuka the Ruthless
+Circle of Flame
+Loxodon Gatekeeper
+Goblin Scouts
+Zhalfirin Commander
+Double Dip
+Atalya, Samite Master
+Ageless Sentinels
+Downpour
+Frozen Solid
+Kinsbaile Balloonist
+Flamespeaker Adept
+Angel of Retribution
+Groundbreaker
+Basal Sliver
+Vanguard of Brimaz
+Darkpact
+Norwood Riders
+Hurly-Burly
+Auspicious Ancestor
+Whiteout
+Vital Splicer
+Phyrexian Slayer
+Siege Rhino
+Tangle Mantis
+Agent of Horizons
+Citadel Siege
+Trapmaker's Snare
+Prickleboar
+Frenzy Sliver
+Wordmail
+Infernal Spawn of Evil
+>Deck created for player "Player #171"
+cd
+Player #25
+Oaken Brawler
+Lantern Spirit
+Hanna's Custody
+Hitchclaw Recluse
+Carven Caryatid
+Diluvian Primordial
+Sensation Gorger
+Distant Memories
+Shatterskull Recruit
+Night
+Curse of Oblivion
+Moonglove Changeling
+Tyrannize
+Teferi's Veil
+Fit of Rage
+Ugin's Insight
+Torrent of Fire
+Flowstone Mauler
+Magnetic Flux
+Contamination
+Rage Thrower
+Sibsig Host
+Fathom Seer
+Orcish Squatters
+Sandstone Warrior
+Noble Steeds
+Kezzerdrix
+Martyr of Spores
+Liturgy of Blood
+Feast on the Fallen
+Shipbreaker Kraken
+Purify
+Zameck Guildmage
+Erg Raiders
+Weatherseed Faeries
+Archangel
+Death's Duet
+Dragonstalker
+Icatian Scout
+Wall of Torches
+Alluring Siren
+Devastating Summons
+Nourishing Shoal
+Trace of Abundance
+Hada Spy Patrol
+Phyrexian Arena
+Druid's Familiar
+Paroxysm
+Hydroform
+Unruly Mob
+Decaying Soil
+Flowstone Giant
+Reach of Shadows
+Looming Hoverguard
+Nihilith
+Isamaru, Hound of Konda
+Jovial Evil
+Reki, the History of Kamigawa
+Angelic Page
+Swirling Sandstorm
+>Deck created for player "Player #25"
+cd
+Player #176
+Overwhelming Denial
+Noble Steeds
+Undying Rage
+Index
+Scavenging Scarab
+The Cheese Stands Alone
+Gitaxian Probe
+Thought Reflection
+Mind Extraction
+Instigator
+Kolaghan Stormsinger
+Glowering Rogon
+Snap
+Verdant Succession
+Gift of Granite
+Red-Hot Hottie
+Plague Beetle
+Last Kiss
+First Response
+Cairn Wanderer
+Collective Blessing
+Rootgrapple
+Repentant Vampire
+Hateflayer
+Cromat
+Stream of Life
+Crypt Ghast
+Mindleech Mass
+Mnemonic Wall
+Homura, Human Ascendant
+Salvage
+Ashes to Ashes
+Rally the Horde
+Calciderm
+Giant Shark
+Opal Titan
+Voracious Hatchling
+Shelkin Brownie
+Incendiary
+Daze
+Withering Hex
+Frantic Salvage
+Tel-Jilad Fallen
+Ghost-Lit Redeemer
+Killing Glare
+Thromok the Insatiable
+Hunt Down
+Sunspire Griffin
+Haze Frog
+Advice from the Fae
+Viashino Spearhunter
+Rain of Thorns
+Shattered Crypt
+Argivian Archaeologist
+Shinen of Life's Roar
+Keldon Mantle
+Descendant of Masumaro
+Angel of Despair
+Highspire Mantis
+Sootwalkers
+>Deck created for player "Player #176"
+cd
+Player #167
+Hooded Horror
+Spectral Bears
+Benthic Behemoth
+Mistbind Clique
+Bronzebeak Moa
+Ghost-Lit Redeemer
+Tok-Tok, Volcano Born
+Orzhov Guildmage
+Thunderblade Charge
+Rabid Elephant
+Spined Sliver
+Azami, Lady of Scrolls
+Caller of the Hunt
+Veiling Oddity
+Shamanic Revelation
+Torchling
+Cephalid Illusionist
+Sylvan Might
+Rhystic Study
+Sage's Dousing
+Faerie Mechanist
+Roughshod Mentor
+Fury of the Horde
+Midnight Banshee
+Steel of the Godhead
+Zo-Zu the Punisher
+Death Ward
+Lingering Death
+Merchant Scroll
+Dralnu, Lich Lord
+Balduvian Hydra
+What
+Lavaball Trap
+Mischievous Quanar
+Simulacrum
+Enrage
+Agent of Horizons
+Plagiarize
+Warped Devotion
+Favor of the Overbeing
+Kaervek's Hex
+Cloud Manta
+Animist's Awakening
+Mogg Toady
+Stymied Hopes
+Thief of Blood
+Humbler of Mortals
+Painful Truths
+Airborne Aid
+Ancient Craving
+Surgespanner
+Seeds of Strength
+Supply
+Blades of Velis Vel
+Scab-Clan Berserker
+Ramosian Sergeant
+Disciple of the Ring
+Rabid Elephant
+Faerie Swarm
+Rattleclaw Mystic
+>Deck created for player "Player #167"
+cd
+Player #26
+Moonglove Changeling
+Spitting Hydra
+Cloud Manta
+Voidwalk
+Siege Rhino
+Damia, Sage of Stone
+Morsel Theft
+Mtenda Herder
+Dragon Shadow
+Mighty Emergence
+Teferi's Honor Guard
+Zameck Guildmage
+Circle of Protection: White
+Rot Farm Skeleton
+Riverwheel Aerialists
+Magma Burst
+Mirri, Cat Warrior
+Dark Impostor
+Returned Centaur
+Akroan Hoplite
+Ancestor's Prophet
+Bassara Tower Archer
+Turn to Dust
+Waiting in the Weeds
+Tidal Visionary
+Desperate Ravings
+Invincible Hymn
+Consuming Vortex
+Flowering Lumberknot
+Seahunter
+Avenging Angel
+Viashino Sandscout
+Serene Heart
+Helionaut
+Rift Elemental
+Red Cliffs Armada
+Blistering Barrier
+Consumptive Goo
+Tundra Kavu
+Miscalculation
+Braingeyser
+Wilderness Hypnotist
+Spell Syphon
+Cabal Archon
+Nezumi Bone-Reader
+Tidespout Tyrant
+Jeering Instigator
+Seascape Aerialist
+Swirl the Mists
+Deepwood Elder
+Darkpact
+Whisperer of the Wilds
+Aerie Mystics
+Knight of the Hokey Pokey
+Skirsdag High Priest
+Graceful Adept
+Sorceress Queen
+Galerider Sliver
+Auriok Transfixer
+Treacherous Pit-Dweller
+>Deck created for player "Player #26"
+cd
+Player #192
+Walking Dream
+Dementia Sliver
+Sphinx's Revelation
+Spectral Guardian
+Helionaut
+Loxodon Wayfarer
+Luminous Angel
+Fertilid
+Sage's Dousing
+Benevolent Bodyguard
+Serra Bestiary
+Horned Cheetah
+Weapon Surge
+Tolarian Drake
+Howl from Beyond
+Energy Arc
+Brimstone Dragon
+Delver of Secrets
+Lord of the Undead
+Elvish Herder
+Spinning Darkness
+Clergy of the Holy Nimbus
+Lingering Death
+Rock Basilisk
+Recumbent Bliss
+Wrath of God
+Caregiver
+Mind Slash
+Lord of the Undead
+Cremate
+Soulblast
+Nomad Mythmaker
+Cardboard Carapace
+Skyhunter Patrol
+Mosstodon
+Pride of the Clouds
+Unified Will
+Rotting Mastodon
+Sacred Ground
+Pact of Negation
+Tempest of Light
+Leeching Bite
+Steam Vines
+Power Sink
+Fissure Vent
+Leeching Bite
+Spring of Eternal Peace
+Energy Storm
+Jwari Shapeshifter
+Nacatl Hunt-Pride
+Folk of An-Havva
+Bloodfire Dwarf
+Leeching Bite
+Get a Life
+Allosaurus Rider
+Withering Hex
+Rampart Crawler
+Dauthi Jackal
+Copy Artifact
+Veiling Oddity
+>Deck created for player "Player #192"
+cd
+Player #100
+Aggravate
+Painful Truths
+Moment of Heroism
+Last Chance
+Unsummon
+Painful Truths
+Dwarven Catapult
+Ruinous Path
+Purphoros, God of the Forge
+Hikari, Twilight Guardian
+Gudul Lurker
+Sunspire Griffin
+Wild Cantor
+Natural Affinity
+Meng Huo's Horde
+Akuta, Born of Ash
+Mana Breach
+Safewright Quest
+Fastbond
+Prismatic Omen
+Turtleshell Changeling
+Burn Trail
+Axegrinder Giant
+Calcite Snapper
+Bog Rats
+Toxin Sliver
+Paradox Haze
+Circle of Protection: Green
+Govern the Guildless
+Auspicious Ancestor
+Siege Rhino
+Entangler
+Krark-Clan Shaman
+Agonizing Memories
+Sparkmage's Gambit
+Basandra, Battle Seraph
+Blistering Barrier
+Karoo Meerkat
+Treasonous Ogre
+Shelkin Brownie
+Nacatl Hunt-Pride
+Commune with the Gods
+Restock
+Pyrostatic Pillar
+Beast Attack
+Somnophore
+Hope and Glory
+Soratami Seer
+Dawning Purist
+Debt to the Deathless
+Counterintelligence
+Kabira Vindicator
+Naya Hushblade
+Lorescale Coatl
+Hussar Patrol
+Pendelhaven Elder
+Treasure Mage
+Ether Well
+Surgespanner
+Rebirth
+>Deck created for player "Player #100"
+cd
+Player #26
+Sootwalkers
+Calming Verse
+Kobold Drill Sergeant
+Howling Gale
+Serpent of the Endless Sea
+Soulblast
+Hollow Specter
+Torchling
+War Oracle
+Repulse
+Cephalid Illusionist
+Isamaru, Hound of Konda
+Emancipation Angel
+Dreampod Druid
+Shivan Wurm
+Angel of Mercy
+Deicide
+Sighted-Caste Sorcerer
+Convalescent Care
+Wu Spy
+Urborg Skeleton
+Banisher Priest
+Marchesa's Smuggler
+Hornet Cobra
+Trail of Mystery
+Earthlink
+Krumar Bond-Kin
+Chosen of Markov
+Firefly
+Self-Inflicted Wound
+Embodiment of Spring
+Stony Silence
+Belfry Spirit
+Lord of the Pit
+Emancipation Angel
+Temporary Truce
+Trace of Abundance
+Armored Warhorse
+Impact Tremors
+Pincher Beetles
+Crimson Roc
+Gloomwidow
+Obsidian Giant
+Viashino Spearhunter
+Cavern Lampad
+Looming Hoverguard
+Bubbling Beebles
+Domri Rade
+Howl from Beyond
+Blitz Hellion
+Venomous Dragonfly
+Mizzium Meddler
+Skulking Ghost
+Scavenged Weaponry
+Shinen of Fear's Chill
+Shivan Raptor
+Plague Rats
+Vorinclex, Voice of Hunger
+Blistering Barrier
+Sunder
+>Deck created for player "Player #26"
+cd
+Player #100
+Safewright Quest
+Deathgazer
+Setessan Starbreaker
+Unbreathing Horde
+Restless Dead
+Fervor
+Captured Sunlight
+Wall of Air
+Catacomb Slug
+Harabaz Druid
+Blinding Angel
+Body Snatcher
+Wu Spy
+Wall of Glare
+Wilderness Hypnotist
+Godhead of Awe
+Vanguard of Brimaz
+Hunt Down
+Ancient Craving
+Plague Beetle
+Fungal Shambler
+Spear of Heliod
+Restless Dead
+Scalding Salamander
+Elderscale Wurm
+Spiritual Guardian
+Voidwalk
+Statute of Denial
+Balduvian Conjurer
+Avatar of Hope
+Nomad Mythmaker
+Heroes' Bane
+Ash Zealot
+Greener Pastures
+Forest Bear
+Vanquish the Foul
+Sandstone Warrior
+Catastrophe
+Dark Supplicant
+Absolver Thrull
+Dead Drop
+Cloud Spirit
+Mutant's Prey
+Lizard Warrior
+Blinding Angel
+Greenhilt Trainee
+Savage Beating
+Leeches
+Chronosavant
+Wane
+Roil Elemental
+Cytospawn Shambler
+Binding Agony
+Steel of the Godhead
+Akroan Sergeant
+Nighthaze
+Demolish
+Rage Extractor
+Charging Troll
+Circling Vultures
+>Deck created for player "Player #100"
+cd
+Player #32
+Celestial Ancient
+Hundred-Talon Strike
+Entangling Vines
+Wild Leotau
+Akuta, Born of Ash
+Govern the Guildless
+Spear of Heliod
+Vital Surge
+Novijen Sages
+Pyrohemia
+Whisperer of the Wilds
+Wane
+Balduvian Hydra
+Marshmist Titan
+Xathrid Gorgon
+Martial Law
+Karplusan Strider
+Agent of Erebos
+Amphibious Kavu
+Trained Pronghorn
+Wildfire
+Jackal Pup
+Reckless Embermage
+Dark Offering
+Planar Cleansing
+Scent of Nightshade
+Tempest of Light
+Pit Fight
+Corrupted Zendikon
+Word of Undoing
+Baleful Strix
+Banewasp Affliction
+Distant Melody
+Flames of the Firebrand
+Puresteel Paladin
+Hivis of the Scale
+Land Grant
+Taste of Paradise
+Pollen Remedy
+Determined
+Marked by Honor
+Ghostly Touch
+Stormfront Pegasus
+Deploy to the Front
+Marisi's Twinclaws
+Broodhunter Wurm
+Innocent Blood
+Flamespeaker Adept
+Feebleness
+Harness by Force
+Signal the Clans
+Miscalculation
+Zodiac Ox
+Vectis Agents
+Telepathy
+Jalum Grifter
+Viashino Racketeer
+Kaervek's Hex
+Frontier Mastodon
+Crookshank Kobolds
+>Deck created for player "Player #32"
+cd
+Player #176
+Parasitic Implant
+Boon Satyr
+Entering
+Fat Ass
+Belfry Spirit
+Krosan Restorer
+Ghostly Touch
+Hooded Horror
+Seraph
+Tempest of Light
+Thistledown Duo
+Steam Vines
+Knight of the Hokey Pokey
+Sarkhan, the Dragonspeaker
+Lifebane Zombie
+Baleful Force
+Dawning Purist
+Archangel
+Banewasp Affliction
+Fangren Marauder
+Double Dip
+Crimson Acolyte
+Boggart Shenanigans
+Detritivore
+Firefly
+Glittering Wish
+Robber Fly
+Bludgeon Brawl
+Iroas's Champion
+Mystical Tutor
+Circle of Protection: Shadow
+Conquering Manticore
+Llanowar Cavalry
+Setessan Starbreaker
+Dizzy Spell
+Swirling Sandstorm
+Herald of War
+People of the Woods
+Stymied Hopes
+Obzedat's Aid
+Vithian Stinger
+Rhystic Shield
+Cheatyface
+Miner's Bane
+Mind Shatter
+Noxious Field
+Life
+Gathan Raiders
+Rabid Rats
+Squirrel Mob
+Griffin Rider
+Krosan Restorer
+Mistbind Clique
+Plague Stinger
+Dromoka's Gift
+Slow Motion
+Erg Raiders
+Cerulean Wyvern
+Squirrel Mob
+Locust Swarm
+>Deck created for player "Player #176"
+cd
+Player #103
+Pure Intentions
+Karplusan Strider
+Glade Watcher
+Dead Drop
+Marked by Honor
+Dark Prophecy
+Incendiary
+Harrier Griffin
+Disciple of Bolas
+Order of Succession
+Ageless Sentinels
+Betrayal of Flesh
+Runeboggle
+Circle of Protection: Green
+Slashing Tiger
+Festering March
+Pyrohemia
+Self-Inflicted Wound
+Khalni Heart Expedition
+Aluren
+Mons's Goblin Raiders
+Desolation
+Furnace Dragon
+Rampart Crawler
+Krosan Reclamation
+Blitz Hellion
+Basal Sliver
+Runeboggle
+Advice from the Fae
+False Demise
+Vampire Lacerator
+Turtleshell Changeling
+First Response
+Riptide Entrancer
+Watcher Sliver
+Index
+Wayward Soul
+Coffin Puppets
+Pendelhaven Elder
+Aura Flux
+Lotleth Troll
+Kjeldoran Pride
+Relearn
+Sharuum the Hegemon
+Last Kiss
+Cinder Wall
+Balduvian Warlord
+Western Paladin
+Paralyze
+Scoria Cat
+Efreet Weaponmaster
+Firefist Striker
+Stymied Hopes
+Nightscape Apprentice
+Thelon's Curse
+Lorescale Coatl
+Plague Wind
+Plague Rats
+Isleback Spawn
+Angel of Jubilation
+>Deck created for player "Player #103"
+cd
+Player #123
+Glyph of Destruction
+Dawning Purist
+Grasp of Phantoms
+Leatherback Baloth
+Esperzoa
+Scoria Wurm
+Index
+Savage Punch
+Wu Spy
+Iroas's Champion
+Darkblast
+Pinion Feast
+Ancient Carp
+Soratami Seer
+Lorescale Coatl
+Torchling
+Grim Tutor
+Siege Rhino
+Keranos, God of Storms
+Two-Headed Giant of Foriys
+Snow Hound
+Pyroconvergence
+Witch Hunt
+Priests of Norn
+Gutless Ghoul
+Thelon's Curse
+Roar of Challenge
+Scapegoat
+Dreg Mangler
+Void Maw
+Glint-Eye Nephilim
+Bloodied Ghost
+Thought Reflection
+Commune with the Gods
+Amphibious Kavu
+Retether
+Natural Selection
+Cytoshape
+Blinding Angel
+Bifurcate
+Festering March
+Planar Cleansing
+Frontier Mastodon
+Loxodon Wayfarer
+Archive Trap
+Endemic Plague
+Western Paladin
+Singing Tree
+Shield of Duty and Reason
+Void Maw
+Baru, Fist of Krosa
+Traitor's Clutch
+Thunder Spirit
+Goblin Marshal
+Turtleshell Changeling
+Barbarian Bully
+Chosen by Heliod
+Ramirez DePietro
+Supply
+Lost in a Labyrinth
+>Deck created for player "Player #123"
+cd
+Player #107
+Spell Rupture
+Spitting Earth
+Plagiarize
+Gloomwidow
+Dominate
+Offering to Asha
+Panther Warriors
+Ephara's Radiance
+Gloomwidow
+Goblin Hero
+Belbe's Percher
+Consumptive Goo
+Spider Spawning
+Hindering Touch
+Season of the Witch
+Vithian Stinger
+Stalking Vengeance
+Stern Mentor
+Helionaut
+Pariah
+Dawn of the Dead
+Vent Sentinel
+Flowstone Charger
+Dakmor Ghoul
+Leyline of the Meek
+Tidal Flats
+Ash Zealot
+Shu Cavalry
+Degavolver
+Amphibious Kavu
+Tooth and Nail
+Daring Leap
+Welkin Tern
+Robber Fly
+Glimmerpoint Stag
+Decree of Justice
+Lurking Informant
+Stern Judge
+Skillful Lunge
+Cephalid Illusionist
+Gorehorn Minotaurs
+Phyrexian Arena
+Miscalculation
+Merfolk Traders
+Punish Ignorance
+Hex
+Maralen of the Mornsong
+Cheatyface
+Turtleshell Changeling
+Tarpan
+Leonin Armorguard
+Kor Line-Slinger
+Ezuri, Claw of Progress
+Plague Wind
+Lingering Death
+Elvish Branchbender
+Entering
+Sterling Grove
+Merfolk Sovereign
+Earthlink
+>Deck created for player "Player #107"
+cd
+Player #192
+Trusted Advisor
+Phytoburst
+Zur's Weirding
+Voice of Truth
+Dralnu's Pet
+Belbe's Percher
+Pact of the Titan
+Silvergill Douser
+Goblin Wardriver
+Pincher Beetles
+Mogg Bombers
+Nebuchadnezzar
+Tolarian Serpent
+Enlightened Ascetic
+Dark Prophecy
+Become Immense
+Shelkin Brownie
+Icatian Scout
+Morsel Theft
+Headless Skaab
+Phyrexian Obliterator
+Hoarding Dragon
+Defensive Stance
+Flash of Defiance
+Reveka, Wizard Savant
+War Oracle
+Disenchant
+Game-Trail Changeling
+Echo Mage
+Howl from Beyond
+Krumar Bond-Kin
+Ponyback Brigade
+Dauthi Marauder
+Tar Pit Warrior
+Shelkin Brownie
+Skeletal Snake
+Tomoya the Revealer
+Energy Storm
+Living Totem
+Kaervek's Hex
+Spider Spawning
+Dazzling Ramparts
+Mountain Bandit
+Nameless One
+Vizkopa Confessor
+Sanctuary Cat
+Maralen of the Mornsong
+Meng Huo's Horde
+Rhox Bodyguard
+Gloomwidow
+Cytoshape
+Sunseed Nurturer
+Vectis Dominator
+Turnabout
+Imp's Mischief
+Clash of Realities
+Dunerider Outlaw
+Woebringer Demon
+Nihilith
+Sterling Grove
+>Deck created for player "Player #192"
+cd
+Player #171
+Sultai Charm
+Malevolent Awakening
+Distant Melody
+Punish Ignorance
+Merfolk Assassin
+Shaman of Forgotten Ways
+Wall of Air
+Rebirth
+Crimson Acolyte
+Mulldrifter
+Rag Dealer
+Split-Tail Miko
+Deadly Wanderings
+Natural Affinity
+Dawning Purist
+Kami of Empty Graves
+Whisperer of the Wilds
+Thunderscape Master
+Rift Elemental
+Nantuko Vigilante
+Goblin Marshal
+Dauthi Marauder
+Metathran Zombie
+Blessed Reversal
+Steward of Valeron
+Collective Blessing
+Chandra's Phoenix
+Regeneration
+Shivan Wurm
+Grasp of Phantoms
+Decaying Soil
+Sustenance
+Skillful Lunge
+Sultai Emissary
+Heal the Scars
+Weatherseed Faeries
+Trapmaker's Snare
+Shivan Wurm
+Moonhold
+Orcish Squatters
+Outmaneuver
+Viridian Emissary
+Glitterfang
+Sterling Grove
+Boggart Shenanigans
+Stream of Life
+Drogskol Captain
+Haunter of Nightveil
+Cytoshape
+Krark-Clan Shaman
+Desolation
+Viridian Zealot
+Atarka, World Render
+Welkin Tern
+Sokenzan Spellblade
+Delver of Secrets
+Faerie Mechanist
+Sprinting Warbrute
+Turnabout
+Skeletal Snake
+>Deck created for player "Player #171"
+cd
+Player #25
+Rift Elemental
+Cloud Spirit
+What
+Gutwrencher Oni
+Chronosavant
+Baleful Force
+Ribbons of the Reikai
+Vendetta
+Swirling Sandstorm
+Disempower
+Sootwalkers
+Argothian Enchantress
+Primal Cocoon
+Stone Spirit
+Scorching Lava
+Squirrel Mob
+Instill Energy
+Treasure Mage
+Murderous Cut
+Fire and Brimstone
+Instill Energy
+Restless Dead
+Goblin Marshal
+Aggressive Urge
+Killing Glare
+Coral Reef
+Soul Snare
+Greed
+Moment's Peace
+Laquatus's Disdain
+Agent of Horizons
+Aven Farseer
+Serene Heart
+Kuon's Essence
+Grim Contest
+Kinsbaile Balloonist
+Homura, Human Ascendant
+Midvast Protector
+Pale Bears
+Annul
+Mischievous Quanar
+Furnace Celebration
+Thrill of the Hunt
+Jelenn Sphinx
+Midvast Protector
+Scab-Clan Berserker
+Ichneumon Druid
+Fledgling Dragon
+Brine Hag
+Collective Blessing
+Cloudchaser Eagle
+Grizzled Leotau
+Final Punishment
+Shu Grain Caravan
+Orcish Captain
+Miscalculation
+Shivan Raptor
+Scourglass
+Goblin Glider
+Mindstab
+>Deck created for player "Player #25"
+cd
+Player #62
+Honor of the Pure
+Gristle Grinner
+Homarid
+Progenitus
+Great Wall
+Energy Arc
+Holy Day
+Dragon Shadow
+Magnetic Flux
+Spitting Earth
+Twincast
+Dwarven Thaumaturgist
+Tribute to Hunger
+Rakshasa's Secret
+Sigiled Paladin
+Ether Well
+Beastbreaker of Bala Ged
+Nezumi Bone-Reader
+Goblin Bangchuckers
+Trumpeting Armodon
+Downpour
+Phantasmal Image
+Metathran Zombie
+Tricks of the Trade
+Void Maw
+Filthy Cur
+Auriok Transfixer
+Gutwrencher Oni
+Necrogen Scudder
+Flock of Rabid Sheep
+Mutant's Prey
+Sorry
+Morsel Theft
+Swell of Growth
+Rhox Maulers
+Pure Intentions
+Wild Hunger
+Aggressive Urge
+Indestructibility
+Cavern Thoctar
+Screeching Sliver
+Two-Headed Sliver
+Mimeofacture
+Govern the Guildless
+Squelching Leeches
+Spiraling Embers
+Vendetta
+Impact Tremors
+Meddling Mage
+Domri Rade
+Viashino Spearhunter
+Rotting Giant
+Rishadan Cutpurse
+Dawning Purist
+Setessan Starbreaker
+Angel's Herald
+Phyrexian Unlife
+Rune-Tail, Kitsune Ascendant
+Wolfir Avenger
+Mardu Hordechief
+>Deck created for player "Player #62"
+cd
+Player #192
+Vital Splicer
+Flash of Defiance
+Scoria Cat
+Panglacial Wurm
+Molting Harpy
+Zephyr Sprite
+Flowstone Giant
+Glimpse the Future
+Servant of Volrath
+Auriok Transfixer
+Coffin Puppets
+Wordmail
+Deep Water
+Tracker
+Grizzled Leotau
+Citadel Siege
+Skirsdag Flayer
+Beast Walkers
+Thunderfoot Baloth
+Goblin Sky Raider
+Dauthi Marauder
+Noxious Vapors
+Checks and Balances
+Spell Rupture
+Stormfront Pegasus
+Godhead of Awe
+Sarkhan, the Dragonspeaker
+Den Protector
+Stormfront Pegasus
+Annul
+Life and Limb
+Auspicious Ancestor
+Indestructibility
+Nightscape Apprentice
+Dazzling Ramparts
+Corrupted Zendikon
+Rhystic Shield
+Lord of the Pit
+Laccolith Whelp
+Decree of Justice
+Vendetta
+Thistledown Duo
+Lightwalker
+Rix Maadi Guildmage
+First Response
+Ringskipper
+Thorncaster Sliver
+Singing Tree
+Kami of Empty Graves
+Voracious Hatchling
+Thunder Brute
+Sagu Mauler
+Ancient Carp
+Lifelink
+Cyclone
+Bower Passage
+Glitterfang
+Lightning Hounds
+Mogg Bombers
+Belligerent Whiptail
+>Deck created for player "Player #192"
+cd
+Player #192
+Sowing Salt
+Forbidden Lore
+Kjeldoran Gargoyle
+Surge of Righteousness
+Miscalculation
+Goblin Sky Raider
+Primal Cocoon
+Corpseweft
+Slaughter Cry
+Viridian Zealot
+Fork
+Moniker Mage
+Phantasmal Image
+Howling Gale
+Akki Avalanchers
+Kami of False Hope
+Dauthi Warlord
+Debt to the Deathless
+Relearn
+Bloated Toad
+Falling Star
+Imp's Mischief
+Carnassid
+Kavu Recluse
+Shinewend
+Kavu Monarch
+Repulse
+Kinsbaile Balloonist
+Planar Cleansing
+Urborg Drake
+Fastbond
+Lightwalker
+Krosan Reclamation
+Evaporate
+Sick and Tired
+Distant Melody
+Woeleecher
+Phyrexian Unlife
+Burning Earth
+Shrivel
+Fangren Marauder
+Serpent of the Endless Sea
+Leyline of Punishment
+Embermage Goblin
+Nightscape Apprentice
+Dauthi Horror
+Warren Weirding
+Thunderblade Charge
+Hands of Binding
+Genju of the Realm
+Genju of the Spires
+Mistbind Clique
+Haakon, Stromgald Scourge
+Pinion Feast
+Western Paladin
+Harness by Force
+Stoneshaker Shaman
+Calming Verse
+Warrior's Oath
+Sage's Dousing
+>Deck created for player "Player #192"
+cd
+Player #107
+Dramatic Rescue
+Wreath of Geists
+Aven Battle Priest
+Spiketail Hatchling
+Goblin Gardener
+Moment of Heroism
+Agent of Erebos
+Thelon's Curse
+Greed
+Thunderscape Apprentice
+Circle of Protection: Green
+Street Savvy
+Shu Cavalry
+Armored Warhorse
+Scion of Darkness
+Dwarven Armorer
+Calciderm
+Rock Basilisk
+False Summoning
+Unsummon
+Makindi Patrol
+Shield of Duty and Reason
+Murderous Betrayal
+Circling Vultures
+Wildfire
+Essence of the Wild
+Aliban's Tower
+Gristle Grinner
+Vampiric Rites
+Order of Yawgmoth
+Unstable Hulk
+Calciderm
+Taoist Hermit
+Dauthi Warlord
+Atalya, Samite Master
+Greener Pastures
+Essence of the Wild
+Scaled Wurm
+Phyrexian Arena
+Pristine Angel
+Moonglove Changeling
+Mogis, God of Slaughter
+Inertia Bubble
+Mons's Goblin Raiders
+Midnight Banshee
+Disruptive Pitmage
+Flowstone Mauler
+Brink of Madness
+Ancestor's Prophet
+Hoarding Dragon
+Corpse Hauler
+Feeling of Dread
+Duh
+Trained Orgg
+Soul's Majesty
+Sparkmage's Gambit
+Angel of Jubilation
+Goblin Piker
+Sizzle
+Midvast Protector
+>Deck created for player "Player #107"
+cd
+Player #25
+Season of the Witch
+Unbreathing Horde
+Rattleclaw Mystic
+Plow Through Reito
+Psychotic Episode
+Sachi, Daughter of Seshiro
+Kytheon's Tactics
+Spell Syphon
+Tyrannize
+Bubbling Beebles
+Grim Contest
+Soramaro, First to Dream
+Kor Line-Slinger
+Murderous Betrayal
+Sylvan Safekeeper
+Akuta, Born of Ash
+Nether Shadow
+Might of the Masses
+Spitting Earth
+Scapegoat
+Gaea's Avenger
+Beast Walkers
+Cloudchaser Eagle
+Retromancer
+Slow Motion
+Lifelink
+Nyxborn Triton
+Second Chance
+Damia, Sage of Stone
+Goblin Sky Raider
+Telepathy
+Spined Sliver
+Goblin Sky Raider
+Return of the Nightstalkers
+Sorceress Queen
+Sign in Blood
+Bloated Toad
+Orcish Librarian
+Glacial Ray
+Impulsive Maneuvers
+Axegrinder Giant
+Gruul War Chant
+Deepwood Ghoul
+Roil Elemental
+Wild Leotau
+Perish the Thought
+Gloomwidow
+Moonlit Wake
+Font of Fertility
+Pyrohemia
+Suleiman's Legacy
+Keeper of the Dead
+Knights of Thorn
+Windrider Eel
+Surgespanner
+Last Kiss
+Crusade
+Dramatic Rescue
+Collective Blessing
+Blessed Reversal
+>Deck created for player "Player #25"
+cd
+Player #16
+Balancing Act
+Aura Flux
+Lavacore Elemental
+Betrayal of Flesh
+Braingeyser
+Hunting Pack
+Treva, the Renewer
+Animal Magnetism
+Culling Mark
+Haakon, Stromgald Scourge
+Magus of the Arena
+Thunderfoot Baloth
+Crude Rampart
+Gurzigost
+Aura Flux
+Circle of Protection: Shadow
+Lava Burst
+Steam Augury
+Mountain Bandit
+Mazirek, Kraul Death Priest
+Frozen Solid
+Plaxcaster Frogling
+Keeper of Tresserhorn
+Miner's Bane
+Trinket Mage
+Iroas's Champion
+Liliana of the Dark Realms
+Roil Elemental
+Greener Pastures
+Keen-Eyed Archers
+Spell Rupture
+Faerie Swarm
+Coffin Puppets
+Delver of Secrets
+Viashino Cutthroat
+Commune with the Gods
+Salvage
+Skyknight Legionnaire
+Kruin Outlaw
+Goblin Patrol
+Vectis Dominator
+Glimpse the Future
+Enrage
+Leonin Armorguard
+Spiritual Guardian
+Spirit Mirror
+Dark Offering
+Atarka, World Render
+Riptide Entrancer
+Innocent Blood
+Marked by Honor
+Shaman of Forgotten Ways
+Flowstone Salamander
+Entangler
+Korlash, Heir to Blackblade
+Tel-Jilad Defiance
+Blue Ward
+Nihilith
+Palinchron
+Turtleshell Changeling
+>Deck created for player "Player #16"
+cd
+Player #62
+Magical Hacker
+Handcuffs
+Kuon's Essence
+Overrun
+Balancing Act
+Shinen of Fear's Chill
+Isamaru, Hound of Konda
+Heavy Fog
+Firemantle Mage
+Augur il-Vec
+Archive Trap
+Iizuka the Ruthless
+Allosaurus Rider
+Nihilith
+Safewright Quest
+Tomoya the Revealer
+Reki, the History of Kamigawa
+Soratami Seer
+Returned Centaur
+Rotting Mastodon
+Weapon Surge
+Orcish Paratroopers
+Choking Sands
+Shamanic Revelation
+Tundra Kavu
+Nyxborn Eidolon
+Windrider Eel
+Return of the Nightstalkers
+Locust Swarm
+Terashi's Cry
+Zhalfirin Commander
+Vine Dryad
+Dark Supplicant
+Cremate
+Goblin Scouts
+Rot Farm Skeleton
+Fallen Ferromancer
+Storm Spirit
+Pit Fight
+Death Cultist
+Defiant Vanguard
+Walking Dream
+Beast Attack
+Kolaghan Stormsinger
+Opal Acrolith
+Umbra Stalker
+Vitu-Ghazi Guildmage
+Groundbreaker
+Demolish
+Vorinclex, Voice of Hunger
+Reckless Embermage
+Rot Farm Skeleton
+Ghitu War Cry
+Fight to the Death
+Shambling Attendants
+Petra Sphinx
+Deepwood Ghoul
+Alluring Siren
+Cyclone
+Dauthi Jackal
+>Deck created for player "Player #62"
+cd
+Player #171
+Hythonia the Cruel
+Farewell to Arms
+Cadaverous Bloom
+Deploy to the Front
+Hanna's Custody
+Steam Augury
+Fell Shepherd
+Haunted Angel
+Checks and Balances
+Hydroform
+Flash of Insight
+Deathbringer Liege
+Returned Centaur
+Death
+Farhaven Elf
+Instigator
+Siren's Call
+Pit Keeper
+Mantle of Webs
+Changeling Hero
+Pact of Negation
+Talon Sliver
+Armorer Guildmage
+Viashino Spearhunter
+Lifelink
+Withering Hex
+Instigator
+Boon Satyr
+Avatar of Slaughter
+Tajuru Archer
+Wall of Swords
+Lightning Mauler
+Basalt Gargoyle
+Mine, Mine, Mine!
+Dark Petition
+Genju of the Realm
+Display of Dominance
+Kor Line-Slinger
+Enlightened Ascetic
+Pale Bears
+Animal Boneyard
+Rally the Horde
+Imperial Seal
+Tidespout Tyrant
+Embermage Goblin
+Coral Reef
+Ondu Giant
+Broodhunter Wurm
+Woebringer Demon
+Blinding Spray
+Fathom Seer
+Laccolith Whelp
+Arenson's Aura
+Kjeldoran Gargoyle
+Hakim, Loreweaver
+Chaos Warp
+Devastating Summons
+Quicksilver Elemental
+Consumptive Goo
+Wall of Swords
+>Deck created for player "Player #171"
+cd
+Player #167
+Karoo Meerkat
+Scalding Salamander
+Brute Force
+Indestructibility
+Index
+Rock Basilisk
+Sorry
+Burning-Tree Bloodscale
+Burrenton Forge-Tender
+Forked Bolt
+Tyrant of Valakut
+Kami of Empty Graves
+Loam Larva
+Slith Strider
+Derevi, Empyrial Tactician
+Overrun
+Phytoburst
+Emancipation Angel
+Become Immense
+Ardent Recruit
+Pristine Angel
+Skirsdag High Priest
+Bloodied Ghost
+Assault Formation
+Wall of Swords
+Fit of Rage
+Lightwalker
+Bladewing's Thrall
+Nephalia Seakite
+Kor Castigator
+Glittering Wish
+Dread Slaver
+Dragon Shadow
+Vendetta
+Pyrohemia
+Looming Hoverguard
+Final Punishment
+Omnibian
+Pale Bears
+Corpse Hauler
+Ancient Hellkite
+Loxodon Gatekeeper
+Disdainful Stroke
+Horned Cheetah
+Verdant Succession
+Memoricide
+Magical Hacker
+Servant of Volrath
+Glaciers
+Xathrid Gorgon
+Jinx
+Slow Motion
+Arctic Foxes
+Orim's Chant
+Gilder Bairn
+Kobold Drill Sergeant
+Twincast
+Dauthi Horror
+Temporary Truce
+Tracker
+>Deck created for player "Player #167"
+cd
+Player #102
+Niblis of the Breath
+Treasure Mage
+Siren's Call
+Priest of the Blood Rite
+Unbreathing Horde
+Darigaaz, the Igniter
+Thought Courier
+Bargain
+Shattered Dreams
+Crimson Acolyte
+Belligerent Whiptail
+Withering Hex
+Herald of War
+Thunder of Hooves
+Nyxborn Triton
+Assquatch
+Confiscate
+Ivy Seer
+Fledgling Dragon
+Sign in Blood
+Oubliette
+Pongify
+View from Above
+Abeyance
+Rage Extractor
+Emberstrike Duo
+Pristine Angel
+Village Cannibals
+Soratami Mindsweeper
+Grizzled Leotau
+Primoc Escapee
+Krumar Bond-Kin
+Noxious Field
+Nihilith
+Flowstone Wall
+Shoe Tree
+Sunspire Griffin
+Life and Limb
+Whip Sergeant
+Fight to the Death
+Energy Storm
+Roar of Challenge
+Deploy to the Front
+Spectral Force
+Deadly Wanderings
+Daring Leap
+Fat Ass
+Flowstone Charger
+Bond Beetle
+Backslide
+Zhao Zilong, Tiger General
+Slashing Tiger
+Mutant's Prey
+Tempest of Light
+Thromok the Insatiable
+Skyknight Legionnaire
+Jaddi Lifestrider
+Mantle of Webs
+Atarka, World Render
+Chandra's Phoenix
+>Deck created for player "Player #102"
+cd
+Player #100
+Kytheon's Tactics
+Heckling Fiends
+Culling Mark
+Unruly Mob
+Korlash, Heir to Blackblade
+Phyrexian Monitor
+Benevolent Bodyguard
+Rude Awakening
+Unbreathing Horde
+Grim Feast
+Wrath of God
+Debt to the Deathless
+Rhystic Shield
+Mirri, Cat Warrior
+Darkpact
+Argivian Archaeologist
+Merchant Scroll
+Kytheon's Tactics
+Creakwood Ghoul
+Galerider Sliver
+Moonglove Changeling
+Disempower
+Kor Outfitter
+Linessa, Zephyr Mage
+Lumengrid Warden
+Slaughter Cry
+Tithe Drinker
+Tahngarth, Talruum Hero
+Bloodied Ghost
+Spectral Guardian
+Scoria Wurm
+Crypt Ghast
+Lightning Serpent
+Messenger Falcons
+Guan Yu, Sainted Warrior
+Goblin Hero
+Laquatus's Disdain
+Vizkopa Confessor
+Thunderfoot Baloth
+Meddling Mage
+Slaughter Games
+Ribbon Snake
+Shimmering Efreet
+Thistledown Duo
+Onyx Goblet
+Dauthi Jackal
+Downpour
+Flailing Ogre
+Perish the Thought
+Countermand
+Dream Salvage
+Sultai Charm
+Disenchant
+Lurking Informant
+Essence of the Wild
+Phyrexian Slayer
+The Unspeakable
+Drogskol Captain
+Silvergill Douser
+Hidden Predators
+>Deck created for player "Player #100"
+cd
+Player #25
+Creakwood Ghoul
+Burn Trail
+Rain of Thorns
+Strength in Numbers
+Cinder Cloud
+Nightcreep
+Sabretooth Tiger
+Hollow Specter
+Leeches
+Sandstone Warrior
+Nightscape Apprentice
+Second Chance
+Nacatl Hunt-Pride
+Capture of Jingzhou
+Animal Boneyard
+Hisoka, Minamo Sensei
+Hanweir Watchkeep
+Seascape Aerialist
+Cyclone
+Three Wishes
+Necra Disciple
+Equal Treatment
+Indestructibility
+Unruly Mob
+Bant Sojourners
+Lord of the Undead
+Revive the Fallen
+False Summoning
+Deathbringer Liege
+Voice of Law
+Thornbow Archer
+Crypt Incursion
+Arbiter of Knollridge
+Flowstone Salamander
+Auriok Transfixer
+Pyroconvergence
+Martyr's Cause
+Three Wishes
+Blistering Dieflyn
+Dwell on the Past
+Keeper of the Dead
+Silumgar Butcher
+Culling Mark
+Boggart Shenanigans
+Rune-Tail, Kitsune Ascendant
+Sustenance
+Snow Hound
+Great Wall
+Advice from the Fae
+Baru, Fist of Krosa
+Retether
+Macabre Waltz
+Plague Stinger
+Earthlink
+Harmattan Efreet
+Burst Lightning
+Festering March
+Roughshod Mentor
+Okiba-Gang Shinobi
+Orim's Chant
+>Deck created for player "Player #25"
+cd
+Player #113
+Teferi's Honor Guard
+Dead Drop
+Spell Pierce
+Midnight Recovery
+Quest for the Gemblades
+Tajuru Archer
+Unsummon
+Deathcurse Ogre
+Ondu Giant
+Martyr of Bones
+Ghost-Lit Redeemer
+Whims of the Fates
+Pteron Ghost
+Fledgling Osprey
+Undercity Shade
+Forest Bear
+Plague Wind
+Floral Spuzzem
+Hunt Down
+Enclave Elite
+Triad of Fates
+Shivan Wumpus
+Bloodstoke Howler
+Pit Fight
+Sultai Emissary
+Tajuru Archer
+Circle of Protection: White
+Dazzling Ramparts
+Ancient Hellkite
+Mine, Mine, Mine!
+Windrider Eel
+Plague Rats
+Thundersong Trumpeter
+Warrior's Oath
+Mystical Tutor
+Entangler
+Terraformer
+Dromoka's Command
+Pyrostatic Pillar
+Progenitus
+Burning-Tree Bloodscale
+Avacyn, Guardian Angel
+Knight of Dawn
+Spirit Weaver
+Reveka, Wizard Savant
+Fiery Gambit
+Wild Cantor
+Summit Prowler
+Runeboggle
+Life and Limb
+Haze Frog
+Skirsdag Flayer
+Gurzigost
+Scorching Lava
+Distant Melody
+Trumpeting Armodon
+Aven Battle Priest
+Logic Knot
+Blades of Velis Vel
+Farewell to Arms
+>Deck created for player "Player #113"
+cd
+Player #192
+Seer's Vision
+Firefist Striker
+Rag Dealer
+Syphon Flesh
+Burrenton Forge-Tender
+Raised by Wolves
+Elvish Fury
+Metallurgeon
+Rock Hydra
+Betrayal of Flesh
+Withering Gaze
+Terraformer
+Sizzle
+Serpent of the Endless Sea
+Jackal Pup
+Undercity Shade
+Highland Game
+Sigiled Paladin
+Grim Feast
+Skirsdag Flayer
+Patagia Viper
+Akki Avalanchers
+Waiting in the Weeds
+Talon Sliver
+Western Paladin
+Scaled Wurm
+Energy Arc
+Dromoka's Command
+Beastbreaker of Bala Ged
+Bloodmark Mentor
+Nomad Mythmaker
+Glacial Ray
+Orcish Librarian
+Spined Thopter
+Moniker Mage
+Tooth and Nail
+Mangara's Blessing
+Civilized Scholar
+Nameless One
+Agent of Horizons
+Dizzy Spell
+Ezuri's Brigade
+Scion of Glaciers
+Bubbling Beebles
+Charging Badger
+Goblin Wardriver
+Glade Watcher
+Jelenn Sphinx
+Conquering Manticore
+Sibsig Host
+Void Maw
+Jelenn Sphinx
+Herdchaser Dragon
+Ashes to Ashes
+Rhystic Study
+Carrier Thrall
+Dauthi Marauder
+Mistform Shrieker
+Pariah
+Zameck Guildmage
+>Deck created for player "Player #192"
+cd
+Player #38
+Tundra Kavu
+Wild Defiance
+Sigiled Skink
+Fledgling Dragon
+Bronzebeak Moa
+Ancient Hellkite
+Bronzebeak Moa
+Bog Glider
+Hushwing Gryff
+Nessian Wilds Ravager
+Deepwood Ghoul
+Hythonia the Cruel
+Burning-Tree Bloodscale
+Bladewing's Thrall
+Festerhide Boar
+Godhead of Awe
+Gitaxian Probe
+Tundra Kavu
+Cloud Spirit
+Bladewing's Thrall
+Bladewing's Thrall
+Firemantle Mage
+Circle of Protection: White
+Singing Tree
+Hex
+Venerated Teacher
+Ingot Chewer
+Crackling Triton
+Diregraf Captain
+Bellowing Saddlebrute
+Amphin Pathmage
+Arctic Aven
+Indestructibility
+Vectis Dominator
+Seedtime
+Kiss of the Amesha
+Atarka Beastbreaker
+Sokenzan Spellblade
+Archery Training
+Avatar of Hope
+Twin Bolt
+Dark Impostor
+Cursed Ronin
+Floral Spuzzem
+Cromat
+Oppressive Will
+Mistbind Clique
+Kaervek's Hex
+Rabid Rats
+Steam Vines
+Mind Shatter
+Aurification
+Rotting Giant
+Animal Magnetism
+Pyrostatic Pillar
+Near-Death Experience
+Ignite Memories
+Rude Awakening
+Illusionary Wall
+Blaze of Glory
+>Deck created for player "Player #38"
+cd
+Player #107
+Viashino Grappler
+Sharuum the Hegemon
+False Mourning
+Slavering Nulls
+Power Artifact
+Shadowcloak Vampire
+Tempt with Vengeance
+Shrapnel Blast
+Thought Reflection
+Seedtime
+Tok-Tok, Volcano Born
+Flailing Ogre
+Ringskipper
+Akki Avalanchers
+Stormchaser Chimera
+Llanowar Cavalry
+Unruly Mob
+Rebirth
+Ardent Recruit
+Mistfire Weaver
+Convalescent Care
+Sparkmage's Gambit
+Murderous Betrayal
+Goblin Gardener
+Crimson Acolyte
+Nether Shadow
+Greater Gargadon
+Aggravate
+Flash Foliage
+Tithe Drinker
+Summit Prowler
+Xathrid Gorgon
+Voidwalk
+Heavy Fog
+Gathan Raiders
+Leeches
+Dwarven Scorcher
+Hoarding Dragon
+Whisperwood Elemental
+Fervent Charge
+Reviving Vapors
+Mystical Tutor
+Elusive Spellfist
+Obsidian Giant
+Heroes' Bane
+Enrage
+Mountain Bandit
+Dementia Sliver
+Inertia Bubble
+Kami of Empty Graves
+Spring of Eternal Peace
+Firefist Striker
+Pyrostatic Pillar
+Forbidden Ritual
+Hythonia the Cruel
+Angel of Mercy
+Soratami Seer
+Vodalian Illusionist
+Season of the Witch
+Shinen of Life's Roar
+>Deck created for player "Player #107"
+cd
+Player #103
+Dream Fighter
+Wall of Air
+Arcanis the Omnipotent
+Punish Ignorance
+Tribal Forcemage
+Mazirek, Kraul Death Priest
+Herald of Anafenza
+Silumgar Butcher
+Llanowar Cavalry
+Loxodon Gatekeeper
+Death's Duet
+Pit Keeper
+Swell of Growth
+Ghor-Clan Savage
+Volcanic Wind
+Kiora, Master of the Depths
+Circle of Protection: Shadow
+Rune-Tail, Kitsune Ascendant
+Tribal Forcemage
+Gus
+Volunteer Reserves
+Merfolk Assassin
+Rage Thrower
+Graceful Adept
+Aura Flux
+Serene Heart
+Tempt with Vengeance
+Messenger Falcons
+Vine Dryad
+Roil Elemental
+Beastcaller Savant
+Flowstone Salamander
+Mul Daya Channelers
+Sphinx's Revelation
+Hindering Touch
+Spineless Thug
+Akki Raider
+Tidespout Tyrant
+Game-Trail Changeling
+Stalking Vengeance
+Goblin Scouts
+Rabid Rats
+Death Cultist
+Burst Lightning
+Stratus Walk
+Vow of Flight
+Dizzy Spell
+Repentance
+Volcanic Offering
+Sigiled Skink
+Snap
+Unifying Theory
+Archangel
+Deicide
+Jaddi Lifestrider
+Merfolk Traders
+Phyrexian Bloodstock
+Corpse Connoisseur
+Miscalculation
+Rummaging Goblin
+>Deck created for player "Player #103"
+cd
+Player #69
+Midnight Ritual
+Homarid
+Incendiary
+Skyhunter Patrol
+Chandra's Spitfire
+Tempest of Light
+Fire and Brimstone
+Voice of Truth
+Voice of Truth
+Nulltread Gargantuan
+Bargain
+Balduvian Dead
+Perish
+Famished Ghoul
+Scion of Glaciers
+Beast Walkers
+Urborg Skeleton
+Tempest of Light
+Bloodchief Ascension
+Oriss, Samite Guardian
+Shelkin Brownie
+Ruinous Path
+Darkblast
+Cephalid Illusionist
+Basandra, Battle Seraph
+Flash Foliage
+Outmaneuver
+Emancipation Angel
+Wild Defiance
+Sacred Ground
+Ingot Chewer
+Spectral Bears
+Counterintelligence
+Embalmed Brawler
+Torrent of Fire
+Turtleshell Changeling
+Damia, Sage of Stone
+Metallurgeon
+Kami of False Hope
+Skillful Lunge
+Skulking Ghost
+Suffocation
+Erg Raiders
+Bargain
+Grounded
+Firehoof Cavalry
+Vorinclex, Voice of Hunger
+Savage Beating
+Simulacrum
+Leeching Bite
+Mob Mentality
+Essence of the Wild
+Steadfast Guard
+Breathstealer
+Laquatus's Disdain
+Vedalken Dismisser
+Wreath of Geists
+Darkpact
+Scion of Glaciers
+Quag Vampires
+>Deck created for player "Player #69"
+cd
+Player #167
+Seraph of Dawn
+Confiscate
+Temporary Truce
+Orim's Chant
+Pact of the Titan
+Logic Knot
+Flowstone Wall
+Urborg Skeleton
+First Response
+Shrapnel Blast
+Centaur Glade
+Jackal Pup
+Ingot Chewer
+Nova Cleric
+Archangel
+Lost Leonin
+Exuberant Firestoker
+Loam Larva
+Metallic Mastery
+Deepwater Hypnotist
+Thought Courier
+Viashino Sandscout
+Carrier Thrall
+Amphin Pathmage
+Two-Headed Giant of Foriys
+Bloodied Ghost
+Kiss of the Amesha
+Akuta, Born of Ash
+Twin Bolt
+Bust
+Mind Spring
+Talrand's Invocation
+Gustrider Exuberant
+Bloodstoke Howler
+Favorable Winds
+Sanctuary Cat
+Gerrard's Wisdom
+Soul Stair Expedition
+Nyxborn Triton
+Index
+Shinen of Life's Roar
+Whisperer of the Wilds
+Rhox War Monk
+Kjeldoran Gargoyle
+Skirsdag Flayer
+Psychic Membrane
+Doorkeeper
+Counterlash
+Deathbringer Liege
+Children of Korlis
+Overrun
+Stalking Vengeance
+Ethereal Usher
+Degavolver
+Vorapede
+Safehold Sentry
+Rib Cage Spider
+Humbler of Mortals
+Fissure Vent
+Spinning Darkness
+>Deck created for player "Player #167"
+cd
+Player #82
+Innocent Blood
+Stalking Vengeance
+Spinning Darkness
+Balloon Peddler
+Ondu Giant
+Faerie Swarm
+Dreg Mangler
+Damia, Sage of Stone
+Forcemage Advocate
+Nightwind Glider
+Bronzebeak Moa
+Wild Cantor
+Expedition Envoy
+Surgespanner
+Pulse of the Tangle
+Pyrostatic Pillar
+Triton Fortune Hunter
+Shatterskull Recruit
+Mighty Emergence
+Ondu Greathorn
+Scourglass
+Suleiman's Legacy
+Hivis of the Scale
+Guardian Zendikon
+Descendant of Masumaro
+Aven Battle Priest
+Brontotherium
+Deathgazer
+Priest of the Blood Rite
+Western Paladin
+Supply
+Viashino Spearhunter
+Lingering Death
+Goblin Marshal
+Halcyon Glaze
+Glade Watcher
+Essence Drain
+Steel of the Godhead
+Hidden Dragonslayer
+Squelching Leeches
+Grim Contest
+Merseine
+Rishadan Cutpurse
+Blue Ward
+Master the Way
+Relearn
+Baleful Strix
+Dromoka's Command
+Incendiary
+Skarrgan Skybreaker
+Ondu Greathorn
+Jaded Response
+Seer's Vision
+Decree of Justice
+Game-Trail Changeling
+Gorilla Berserkers
+Thrill of the Hunt
+Dreg Mangler
+Genesis Hydra
+Willow Priestess
+>Deck created for player "Player #82"
+cd
+Player #25
+Sigiled Paladin
+Trained Orgg
+Cabal Surgeon
+Gorilla Berserkers
+Humbler of Mortals
+Bower Passage
+Hanweir Watchkeep
+Dark Prophecy
+Implode
+Collective Blessing
+Dismiss into Dream
+Wu Longbowman
+Zealous Persecution
+Moniker Mage
+Pursuit of Flight
+Venomous Dragonfly
+Overwhelm
+Lizard Warrior
+Deadly Wanderings
+Creakwood Ghoul
+Keeper of the Beasts
+Blades of Velis Vel
+Firemind's Foresight
+Kiora's Follower
+Meng Huo's Horde
+Cunning Strike
+Red-Hot Hottie
+Balduvian Warlord
+Steadfast Guard
+Disciple of Bolas
+Cytospawn Shambler
+Nantuko Vigilante
+Vanguard of Brimaz
+Essence Drain
+Fleecemane Lion
+Ghitu Slinger
+Howlpack of Estwald
+Second Chance
+Oppressive Will
+Pollen Remedy
+Steward of Valeron
+Obzedat's Aid
+Jackal Pup
+Disciple of the Vault
+Aysen Highway
+Warped Devotion
+Paragon of Fierce Defiance
+Sylvan Might
+Viashino Grappler
+Karoo Meerkat
+Turn to Dust
+Howl from Beyond
+Ghitu War Cry
+Part the Veil
+Hikari, Twilight Guardian
+Countermand
+Highland Game
+Angel's Herald
+Sudden Impact
+Changeling Hero
+>Deck created for player "Player #25"
+report
+>report generated
+quit
+>command "quit" not recognized - exiting

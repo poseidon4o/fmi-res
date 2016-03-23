@@ -1,0 +1,806 @@
+Red
+	Owner: Player #64 Card: Neck Snap Color: White
+	Owner: Player #0 Card: Demonic Taskmaster Color: Black
+	Owner: Player #2 Card: Goldenhide Ox Color: Green
+	Owner: Player #3 Card: Starfield of Nyx Color: White
+	Owner: Player #3 Card: Hedge Troll Color: Green
+	Owner: Player #4 Card: Tormentor Exarch Color: Red
+	Owner: Player #10 Card: Gnarlroot Trapper Color: Black
+	Owner: Player #14 Card: Golden Bear Color: Green
+	Owner: Player #15 Card: Plague Stinger Color: Black
+	Owner: Player #16 Card: Havoc Demon Color: Black
+	Owner: Player #17 Card: Hurloon Minotaur Color: Red
+	Owner: Player #17 Card: Pardic Swordsmith Color: Red
+	Owner: Player #20 Card: Sacred Nectar Color: White
+	Owner: Player #22 Card: Flooded Woodlands Color: Blue
+	Owner: Player #22 Card: Dwarven Bloodboiler Color: Red
+	Owner: Player #24 Card: Zombie Infestation Color: Black
+	Owner: Player #24 Card: Scourge of Valkas Color: Red
+	Owner: Player #178 Card: Slice in Twain Color: Green
+	Owner: Player #26 Card: Prescient Chimera Color: Blue
+	Owner: Player #27 Card: Thromok the Insatiable Color: Red
+	Owner: Player #27 Card: Yamabushi's Flame Color: Red
+	Owner: Player #182 Card: Fledgling Osprey Color: Blue
+	Owner: Player #182 Card: Liliana of the Veil Color: Black
+	Owner: Player #30 Card: Demonic Tutor Color: Black
+	Owner: Player #176 Card: Court Hussar Color: Blue
+	Owner: Player #176 Card: Malicious Affliction Color: Black
+	Owner: Player #186 Card: Cao Ren, Wei Commander Color: Black
+	Owner: Player #33 Card: Viashino Spearhunter Color: Red
+	Owner: Player #34 Card: Omenspeaker Color: Blue
+	Owner: Player #34 Card: Vent Sentinel Color: Red
+	Owner: Player #196 Card: Worldheart Phoenix Color: Red
+	Owner: Player #36 Card: Shrink Color: Green
+	Owner: Player #36 Card: Coralhelm Commander Color: Blue
+	Owner: Player #42 Card: Atinlay Igpay Color: White
+	Owner: Player #42 Card: Hundred-Handed One Color: White
+	Owner: Player #44 Card: Chaos Lord Color: Red
+	Owner: Player #44 Card: Skittish Valesk Color: Red
+	Owner: Player #198 Card: Relentless Skaabs Color: Blue
+	Owner: Player #46 Card: Aura Flux Color: Blue
+	Owner: Player #46 Card: Grizzled Wolverine Color: Red
+	Owner: Player #48 Card: Double Cleave Color: White
+	Owner: Player #49 Card: Bloodhall Ooze Color: Red
+	Owner: Player #50 Card: Vaporkin Color: Blue
+	Owner: Player #50 Card: Spike Soldier Color: Green
+	Owner: Player #52 Card: Druid of the Anima Color: Green
+	Owner: Player #58 Card: Barbarian Horde Color: Red
+	Owner: Player #59 Card: Freewind Equenaut Color: White
+	Owner: Player #60 Card: Savage Surge Color: Green
+	Owner: Player #61 Card: Stingerfling Spider Color: Green
+	Owner: Player #90 Card: Ekundu Cyclops Color: Red
+	Owner: Player #90 Card: Upheaval Color: Blue
+	Owner: Player #65 Card: Noble Purpose Color: White
+	Owner: Player #67 Card: Angel of Renewal Color: White
+	Owner: Player #68 Card: Invoke the Firemind Color: Blue
+	Owner: Player #68 Card: Fists of the Demigod Color: Black
+	Owner: Player #88 Card: Rats of Rath Color: Black
+	Owner: Player #88 Card: Soul Snuffers Color: Black
+	Owner: Player #98 Card: Wonder Color: Blue
+	Owner: Player #73 Card: Thunder Wall Color: Blue
+	Owner: Player #74 Card: Ratcatcher Color: Black
+	Owner: Player #74 Card: Flash of Defiance Color: Red
+	Owner: Player #108 Card: Duskmantle Prowler Color: Black
+	Owner: Player #108 Card: Shichifukujin Dragon Color: Red
+	Owner: Player #76 Card: Roiling Horror Color: Black
+	Owner: Player #102 Card: Alaborn Cavalier Color: White
+	Owner: Player #96 Card: Humble Budoka Color: Green
+	Owner: Player #79 Card: Ordered Migration Color: White
+	Owner: Player #80 Card: Shrieking Affliction Color: Black
+	Owner: Player #106 Card: Munda's Vanguard Color: White
+	Owner: Player #106 Card: Tethered Skirge Color: Black
+	Owner: Player #84 Card: Giant Solifuge Color: Red
+	Owner: Player #84 Card: Lady Sun Color: Blue
+	Owner: Player #86 Card: Sphinx of Lost Truths Color: Blue
+	Owner: Player #104 Card: Pyromancer's Assault Color: Red
+	Owner: Player #87 Card: Krenko's Command Color: Red
+	Owner: Player #87 Card: Derevi, Empyrial Tactician Color: White
+	Owner: Player #91 Card: Marsh Crocodile Color: Blue
+	Owner: Player #91 Card: Sunflare Shaman Color: Red
+	Owner: Player #93 Card: Heir of the Wilds Color: Green
+	Owner: Player #97 Card: Desolation Giant Color: Red
+	Owner: Player #101 Card: Rhystic Deluge Color: Blue
+	Owner: Player #101 Card: Skillful Lunge Color: White
+	Owner: Player #103 Card: Verdant Succession Color: Green
+	Owner: Player #103 Card: Leonin Skyhunter Color: White
+	Owner: Player #105 Card: Overgrown Estate Color: White
+	Owner: Player #107 Card: Thorn Elemental Color: Green
+	Owner: Player #107 Card: Glaring Aegis Color: White
+	Owner: Player #109 Card: Dismember Color: Black
+	Owner: Player #112 Card: Kathari Bomber Color: Black
+	Owner: Player #114 Card: Serene Offering Color: White
+	Owner: Player #117 Card: Goliath Beetle Color: Green
+	Owner: Player #117 Card: Godo's Irregulars Color: Red
+	Owner: Player #119 Card: Silumgar Spell-Eater Color: Blue
+	Owner: Player #120 Card: Goblin Spelunkers Color: Red
+	Owner: Player #120 Card: Keeper of Progenitus Color: Green
+	Owner: Player #123 Card: Rootwater Thief Color: Blue
+	Owner: Player #124 Card: Nafs Asp Color: Green
+	Owner: Player #124 Card: Shu Elite Companions Color: White
+	Owner: Player #130 Card: Servant of Volrath Color: Black
+	Owner: Player #131 Card: Pardic Swordsmith Color: Red
+	Owner: Player #132 Card: Kaseto, Orochi Archmage Color: Blue
+	Owner: Player #133 Card: Sanity Gnawers Color: Black
+	Owner: Player #135 Card: Fencer Clique Color: Blue
+	Owner: Player #136 Card: Fumiko the Lowblood Color: Red
+	Owner: Player #136 Card: Oni of Wild Places Color: Red
+	Owner: Player #138 Card: Zephyr Spirit Color: Blue
+	Owner: Player #140 Card: Anax and Cymede Color: White
+	Owner: Player #142 Card: Exert Influence Color: Blue
+	Owner: Player #146 Card: Expendable Troops Color: White
+	Owner: Player #146 Card: Hunger of the Nim Color: Black
+	Owner: Player #153 Card: Mischievous Poltergeist Color: Black
+	Owner: Player #159 Card: Ichorid Color: Black
+	Owner: Player #165 Card: Llanowar Mentor Color: Green
+	Owner: Player #166 Card: Zanikev Locust Color: Black
+	Owner: Player #166 Card: Patriarch's Desire Color: Black
+	Owner: Player #166 Card: Uthden Troll Color: Red
+	Owner: Player #167 Card: Blinding Mage Color: White
+	Owner: Player #168 Card: Predatory Urge Color: Green
+	Owner: Player #169 Card: Fraction Jackson Color: Green
+	Owner: Player #171 Card: Hidetsugu's Second Rite Color: Red
+	Owner: Player #173 Card: Prescient Chimera Color: Blue
+	Owner: Player #174 Card: Treacherous Vampire Color: Black
+	Owner: Player #174 Card: Fumarole Color: Black
+	Owner: Player #175 Card: Spatial Binding Color: Blue
+	Owner: Player #175 Card: Ethereal Ambush Color: Blue
+	Owner: Player #177 Card: Pyrokinesis Color: Red
+	Owner: Player #179 Card: Unstable Mutation Color: Blue
+	Owner: Player #179 Card: Volley of Boulders Color: Red
+	Owner: Player #180 Card: Sadistic Augermage Color: Black
+	Owner: Player #181 Card: Stone Haven Medic Color: White
+	Owner: Player #183 Card: Atarka Beastbreaker Color: Green
+	Owner: Player #185 Card: Maggot Therapy Color: Black
+	Owner: Player #187 Card: Dakmor Lancer Color: Black
+	Owner: Player #191 Card: Barrage of Boulders Color: Red
+	Owner: Player #193 Card: Wolfbitten Captive Color: Green
+	Owner: Player #195 Card: Grim Roustabout Color: Black
+	Owner: Player #197 Card: Putrefaction Color: Black
+	Owner: Player #199 Card: Growth Spurt Color: Green
+Black
+	Owner: Player #8 Card: Feed the Pack Color: Green
+	Owner: Player #8 Card: Obsidian Giant Color: Red
+	Owner: Player #8 Card: Erebos's Emissary Color: Black
+	Owner: Player #1 Card: Spectral Guardian Color: White
+	Owner: Player #5 Card: Savage Firecat Color: Red
+	Owner: Player #7 Card: Malakir Soothsayer Color: Black
+	Owner: Player #7 Card: Anurid Scavenger Color: Green
+	Owner: Player #9 Card: Stream of Unconsciousness Color: Blue
+	Owner: Player #10 Card: Brainspoil Color: Black
+	Owner: Player #13 Card: Infested Roothold Color: Green
+	Owner: Player #14 Card: Mistform Warchief Color: Blue
+	Owner: Player #14 Card: Severed Legion Color: Black
+	Owner: Player #15 Card: Harmonic Convergence Color: Green
+	Owner: Player #16 Card: Tenement Crasher Color: Red
+	Owner: Player #16 Card: Infinite Obliteration Color: Black
+	Owner: Player #18 Card: Angel of Finality Color: White
+	Owner: Player #18 Card: Dragon Whisperer Color: Red
+	Owner: Player #19 Card: Devout Witness Color: White
+	Owner: Player #20 Card: Shared Triumph Color: White
+	Owner: Player #21 Card: Ramosian Revivalist Color: White
+	Owner: Player #22 Card: Defense of the Heart Color: Green
+	Owner: Player #24 Card: Aegis of the Gods Color: White
+	Owner: Player #26 Card: Alpha Kavu Color: Green
+	Owner: Player #188 Card: Deathmark Prelate Color: Black
+	Owner: Player #30 Card: Earwig Squad Color: Black
+	Owner: Player #32 Card: Burrenton Shield-Bearers Color: White
+	Owner: Player #186 Card: Corpse Harvester Color: Black
+	Owner: Player #33 Card: Dystopia Color: Black
+	Owner: Player #34 Card: Silkwing Scout Color: Blue
+	Owner: Player #35 Card: Elemental Bond Color: Green
+	Owner: Player #36 Card: Death Pulse Color: Black
+	Owner: Player #36 Card: Faith Healer Color: White
+	Owner: Player #190 Card: Burr Grafter Color: Green
+	Owner: Player #190 Card: Strands of Night Color: Black
+	Owner: Player #37 Card: Corrosion Color: Black
+	Owner: Player #38 Card: Final-Sting Faerie Color: Black
+	Owner: Player #38 Card: Ainok Bond-Kin Color: White
+	Owner: Player #184 Card: Spitebellows Color: Red
+	Owner: Player #39 Card: Sonic Seizure Color: Red
+	Owner: Player #40 Card: Aven Trailblazer Color: White
+	Owner: Player #42 Card: Cunning Giant Color: Red
+	Owner: Player #45 Card: Kjeldoran Escort Color: White
+	Owner: Player #46 Card: Noxious Vapors Color: Black
+	Owner: Player #192 Card: Marrow-Gnawer Color: Black
+	Owner: Player #47 Card: Keeper of Tresserhorn Color: Black
+	Owner: Player #48 Card: Rolling Temblor Color: Red
+	Owner: Player #50 Card: Meteor Storm Color: Red
+	Owner: Player #51 Card: Geralf's Messenger Color: Black
+	Owner: Player #52 Card: Aven Fisher Color: Blue
+	Owner: Player #54 Card: Silent Assassin Color: Black
+	Owner: Player #55 Card: Chain of Acid Color: Green
+	Owner: Player #56 Card: Jaraku the Interloper Color: Blue
+	Owner: Player #58 Card: Ashmouth Hound Color: Red
+	Owner: Player #92 Card: Chaos Lord Color: Red
+	Owner: Player #59 Card: Boulder Salvo Color: Red
+	Owner: Player #60 Card: About Face Color: Red
+	Owner: Player #61 Card: Utopia Tree Color: Green
+	Owner: Player #62 Card: Woodwraith Corrupter Color: Black
+	Owner: Player #62 Card: Hour of Reckoning Color: White
+	Owner: Player #63 Card: Pyretic Ritual Color: Red
+	Owner: Player #65 Card: Nature's Resurgence Color: Green
+	Owner: Player #66 Card: Budoka Gardener Color: Green
+	Owner: Player #67 Card: Malakir Soothsayer Color: Black
+	Owner: Player #68 Card: Silvercoat Lion Color: White
+	Owner: Player #68 Card: Catastrophe Color: White
+	Owner: Player #94 Card: Vault Skirge Color: Black
+	Owner: Player #69 Card: Primordial Ooze Color: Red
+	Owner: Player #88 Card: Feral Contest Color: Green
+	Owner: Player #74 Card: Ironclaw Curse Color: Red
+	Owner: Player #102 Card: Collective Blessing Color: White
+	Owner: Player #77 Card: Pardic Collaborator Color: Red
+	Owner: Player #78 Card: Kami of the Waning Moon Color: Black
+	Owner: Player #96 Card: Soulscour Color: White
+	Owner: Player #80 Card: Searing Touch Color: Red
+	Owner: Player #106 Card: Blaze of Glory Color: White
+	Owner: Player #81 Card: Quag Vampires Color: Black
+	Owner: Player #116 Card: Soul Reap Color: Black
+	Owner: Player #83 Card: Shifty Doppelganger Color: Blue
+	Owner: Player #110 Card: Fling Color: Red
+	Owner: Player #85 Card: Jump Color: Blue
+	Owner: Player #85 Card: Pharika, God of Affliction Color: Black
+	Owner: Player #86 Card: Verduran Enchantress Color: Green
+	Owner: Player #86 Card: Necrogen Scudder Color: Black
+	Owner: Player #91 Card: Wretched Banquet Color: Black
+	Owner: Player #95 Card: Dissolve Color: Blue
+	Owner: Player #97 Card: Silver Drake Color: White
+	Owner: Player #99 Card: Russet Wolves Color: Red
+	Owner: Player #99 Card: Sundering Vitae Color: Green
+	Owner: Player #99 Card: Jaraku the Interloper Color: Blue
+	Owner: Player #101 Card: Stronghold Machinist Color: Blue
+	Owner: Player #105 Card: Serendib Efreet Color: Blue
+	Owner: Player #109 Card: Turnabout Color: Blue
+	Owner: Player #109 Card: Simic Fluxmage Color: Blue
+	Owner: Player #111 Card: Mortivore Color: Black
+	Owner: Player #113 Card: Crown of Suspicion Color: Black
+	Owner: Player #113 Card: Mine, Mine, Mine! Color: Green
+	Owner: Player #114 Card: Razorjaw Oni Color: Black
+	Owner: Player #115 Card: Dash Hopes Color: Black
+	Owner: Player #119 Card: Marang River Skeleton Color: Black
+	Owner: Player #119 Card: Insolence Color: Red
+	Owner: Player #121 Card: Grisly Salvage Color: Black
+	Owner: Player #121 Card: Cruel Deceiver Color: Black
+	Owner: Player #122 Card: Shattering Blow Color: White
+	Owner: Player #127 Card: Primal Cocoon Color: Green
+	Owner: Player #128 Card: Orbweaver Kumo Color: Green
+	Owner: Player #129 Card: Joven Color: Red
+	Owner: Player #133 Card: Spike Cannibal Color: Black
+	Owner: Player #135 Card: Arbiter of Knollridge Color: White
+	Owner: Player #136 Card: Deepwood Elder Color: Green
+	Owner: Player #139 Card: Conjured Currency Color: Blue
+	Owner: Player #139 Card: Sindbad Color: Blue
+	Owner: Player #139 Card: Oppressive Will Color: Blue
+	Owner: Player #140 Card: Chained Throatseeker Color: Blue
+	Owner: Player #140 Card: Future Sight Color: Blue
+	Owner: Player #142 Card: Dreg Mangler Color: Black
+	Owner: Player #142 Card: Breath of Malfegor Color: Black
+	Owner: Player #143 Card: Organ Harvest Color: Black
+	Owner: Player #144 Card: Working Stiff Color: Black
+	Owner: Player #144 Card: Discombobulate Color: Blue
+	Owner: Player #146 Card: Imperial Edict Color: Black
+	Owner: Player #148 Card: Slaughter Games Color: Black
+	Owner: Player #148 Card: Bringer of the Red Dawn Color: Red
+	Owner: Player #149 Card: Grim Haruspex Color: Black
+	Owner: Player #149 Card: Dissipation Field Color: Blue
+	Owner: Player #149 Card: Enchantment Alteration Color: Blue
+	Owner: Player #150 Card: Blightning Color: Black
+	Owner: Player #151 Card: Shiv's Embrace Color: Red
+	Owner: Player #152 Card: Merfolk Looter Color: Blue
+	Owner: Player #153 Card: Bond Beetle Color: Green
+	Owner: Player #155 Card: Somnophore Color: Blue
+	Owner: Player #155 Card: Death Charmer Color: Black
+	Owner: Player #158 Card: Magus of the Jar Color: Blue
+	Owner: Player #160 Card: Last Rites Color: Black
+	Owner: Player #160 Card: Demonic Hordes Color: Black
+	Owner: Player #161 Card: Moonglove Winnower Color: Black
+	Owner: Player #163 Card: Sanguine Guard Color: Black
+	Owner: Player #163 Card: Lightning Volley Color: Red
+	Owner: Player #164 Card: Stronghold Assassin Color: Black
+	Owner: Player #165 Card: Withstand Color: White
+	Owner: Player #165 Card: Thundering Tanadon Color: Green
+	Owner: Player #167 Card: Spontaneous Combustion Color: Black
+	Owner: Player #167 Card: Bloodshed Fever Color: Red
+	Owner: Player #167 Card: Goblin Tinkerer Color: Red
+	Owner: Player #168 Card: Kor Castigator Color: White
+	Owner: Player #169 Card: Goblin Rock Sled Color: Red
+	Owner: Player #169 Card: Crypt Ghast Color: Black
+	Owner: Player #171 Card: Kitsune Riftwalker Color: White
+	Owner: Player #174 Card: Drowned Color: Blue
+	Owner: Player #183 Card: Karn's Touch Color: Blue
+	Owner: Player #185 Card: Kjeldoran Javelineer Color: White
+	Owner: Player #189 Card: Silverglade Elemental Color: Green
+	Owner: Player #191 Card: Gobhobbler Rats Color: Black
+	Owner: Player #195 Card: Holy Strength Color: White
+Blue
+	Owner: Player #8 Card: Transguild Courier Color: White
+	Owner: Player #64 Card: Custody Battle Color: Red
+	Owner: Player #0 Card: Mycoid Shepherd Color: White
+	Owner: Player #2 Card: Rampart Crawler Color: Black
+	Owner: Player #3 Card: Ferrovore Color: Red
+	Owner: Player #4 Card: Visions of Beyond Color: Blue
+	Owner: Player #5 Card: Ego Erasure Color: Blue
+	Owner: Player #5 Card: Hunter of Eyeblights Color: Black
+	Owner: Player #7 Card: Abyssal Specter Color: Black
+	Owner: Player #9 Card: Wormfang Crab Color: Blue
+	Owner: Player #10 Card: Blind Hunter Color: White
+	Owner: Player #11 Card: Carrion Call Color: Green
+	Owner: Player #12 Card: Knight of Valor Color: White
+	Owner: Player #13 Card: Kor Line-Slinger Color: White
+	Owner: Player #15 Card: Liliana's Reaver Color: Black
+	Owner: Player #15 Card: Paradox Haze Color: Blue
+	Owner: Player #17 Card: Skittering Monstrosity Color: Black
+	Owner: Player #19 Card: Ebon Dragon Color: Black
+	Owner: Player #19 Card: Hunt Down Color: Green
+	Owner: Player #20 Card: Seacoast Drake Color: Blue
+	Owner: Player #23 Card: Repel the Darkness Color: White
+	Owner: Player #178 Card: Tempt with Discovery Color: Green
+	Owner: Player #25 Card: Fyndhorn Brownie Color: Green
+	Owner: Player #26 Card: Healing Salve Color: White
+	Owner: Player #26 Card: Strands of Undeath Color: Black
+	Owner: Player #188 Card: Shinen of Stars' Light Color: White
+	Owner: Player #27 Card: Diabolic Intent Color: Black
+	Owner: Player #27 Card: Rakeclaw Gargantuan Color: White
+	Owner: Player #182 Card: Pangosaur Color: Green
+	Owner: Player #29 Card: Dragon Egg Color: Red
+	Owner: Player #29 Card: Firefiend Elemental Color: Red
+	Owner: Player #176 Card: Spike Colony Color: Green
+	Owner: Player #176 Card: Marsh Flitter Color: Black
+	Owner: Player #31 Card: Emberwilde Caliph Color: Blue
+	Owner: Player #31 Card: Soul of Shandalar Color: Red
+	Owner: Player #32 Card: Night Soil Color: Green
+	Owner: Player #32 Card: Cancel Color: Blue
+	Owner: Player #186 Card: Crackling Perimeter Color: Red
+	Owner: Player #33 Card: Charisma Color: Blue
+	Owner: Player #33 Card: Sawback Manticore Color: Red
+	Owner: Player #34 Card: Cyclonic Rift Color: Blue
+	Owner: Player #35 Card: Punish Ignorance Color: White
+	Owner: Player #190 Card: Spiketail Drake Color: Blue
+	Owner: Player #37 Card: Time to Feed Color: Green
+	Owner: Player #37 Card: Krovikan Horror Color: Black
+	Owner: Player #38 Card: Icy Blast Color: Blue
+	Owner: Player #39 Card: Ruination Color: Red
+	Owner: Player #40 Card: Stinkdrinker Daredevil Color: Red
+	Owner: Player #40 Card: Samite Blessing Color: White
+	Owner: Player #194 Card: Aerial Maneuver Color: White
+	Owner: Player #41 Card: Tidespout Tyrant Color: Blue
+	Owner: Player #41 Card: Liberated Dwarf Color: Red
+	Owner: Player #43 Card: Skarrgan Pit-Skulk Color: Green
+	Owner: Player #43 Card: Sinkhole Color: Black
+	Owner: Player #44 Card: Greater Stone Spirit Color: Red
+	Owner: Player #45 Card: Hunting Drake Color: Blue
+	Owner: Player #192 Card: Cunning Bandit Color: Red
+	Owner: Player #47 Card: Yavimaya Dryad Color: Green
+	Owner: Player #47 Card: Northern Paladin Color: White
+	Owner: Player #50 Card: Broken Fall Color: Green
+	Owner: Player #51 Card: Tajuru Archer Color: Green
+	Owner: Player #52 Card: Ghoultree Color: Green
+	Owner: Player #53 Card: Flamekin Spitfire Color: Red
+	Owner: Player #53 Card: Awe for the Guilds Color: Red
+	Owner: Player #53 Card: Utopia Vow Color: Green
+	Owner: Player #53 Card: Nameless One Color: Blue
+	Owner: Player #55 Card: Braid of Fire Color: Red
+	Owner: Player #56 Card: Wreath of Geists Color: Green
+	Owner: Player #57 Card: Forked Bolt Color: Red
+	Owner: Player #57 Card: Power Surge Color: Red
+	Owner: Player #57 Card: Norwood Archers Color: Green
+	Owner: Player #59 Card: Keldon Halberdier Color: Red
+	Owner: Player #61 Card: Mercy Killing Color: White
+	Owner: Player #62 Card: Pretender's Claim Color: Black
+	Owner: Player #63 Card: Ezuri, Renegade Leader Color: Green
+	Owner: Player #90 Card: Disciple of Phenax Color: Black
+	Owner: Player #65 Card: Saprazzan Heir Color: Blue
+	Owner: Player #65 Card: Extinction Color: Black
+	Owner: Player #66 Card: Withered Wretch Color: Black
+	Owner: Player #66 Card: Warmind Infantry Color: Red
+	Owner: Player #100 Card: Rite of Replication Color: Blue
+	Owner: Player #100 Card: Demonic Taskmaster Color: Black
+	Owner: Player #100 Card: Cryoclasm Color: Red
+	Owner: Player #94 Card: Shimmering Glasskite Color: Blue
+	Owner: Player #69 Card: Valakut Invoker Color: Red
+	Owner: Player #70 Card: Frontline Strategist Color: White
+	Owner: Player #70 Card: Opal Champion Color: White
+	Owner: Player #72 Card: War Tax Color: Blue
+	Owner: Player #72 Card: Manaweft Sliver Color: Green
+	Owner: Player #98 Card: Stinging Barrier Color: Blue
+	Owner: Player #73 Card: Kemuri-Onna Color: Black
+	Owner: Player #74 Card: Sunflare Shaman Color: Red
+	Owner: Player #108 Card: Peach Garden Oath Color: White
+	Owner: Player #75 Card: Haunting Misery Color: Black
+	Owner: Player #75 Card: Corpse Lunge Color: Black
+	Owner: Player #102 Card: Glitterfang Color: Red
+	Owner: Player #78 Card: Viridian Revel Color: Green
+	Owner: Player #79 Card: Heart of Light Color: White
+	Owner: Player #80 Card: Exorcist Color: White
+	Owner: Player #80 Card: Shyft Color: Blue
+	Owner: Player #81 Card: Fastbond Color: Green
+	Owner: Player #116 Card: Seer's Vision Color: Blue
+	Owner: Player #84 Card: Silent Sentinel Color: White
+	Owner: Player #110 Card: Seek Color: White
+	Owner: Player #110 Card: Corrupted Conscience Color: Blue
+	Owner: Player #85 Card: Ordeal of Thassa Color: Blue
+	Owner: Player #104 Card: Essence Flare Color: Blue
+	Owner: Player #104 Card: Kira, Great Glass-Spinner Color: Blue
+	Owner: Player #87 Card: Accursed Spirit Color: Black
+	Owner: Player #89 Card: Polukranos, World Eater Color: Green
+	Owner: Player #91 Card: Mana Echoes Color: Red
+	Owner: Player #95 Card: Mold Adder Color: Green
+	Owner: Player #95 Card: Sadistic Hypnotist Color: Black
+	Owner: Player #95 Card: Prized Unicorn Color: Green
+	Owner: Player #97 Card: Flamespeaker Adept Color: Red
+	Owner: Player #101 Card: Contagion Color: Black
+	Owner: Player #103 Card: Kytheon's Irregulars Color: White
+	Owner: Player #105 Card: Soul Sculptor Color: White
+	Owner: Player #111 Card: Desecration Plague Color: Green
+	Owner: Player #112 Card: Searing Blaze Color: Red
+	Owner: Player #115 Card: Simic Guildmage Color: Blue
+	Owner: Player #118 Card: Annex Color: Blue
+	Owner: Player #120 Card: Circle of Protection: Blue Color: White
+	Owner: Player #123 Card: Circle of Protection: Red Color: White
+	Owner: Player #124 Card: Sphinx of the Steel Wind Color: White
+	Owner: Player #125 Card: Security Blockade Color: White
+	Owner: Player #126 Card: Ruham Djinn Color: White
+	Owner: Player #126 Card: Wavecrash Triton Color: Blue
+	Owner: Player #127 Card: Distant Memories Color: Blue
+	Owner: Player #128 Card: Drain Power Color: Blue
+	Owner: Player #129 Card: Greenhilt Trainee Color: Green
+	Owner: Player #130 Card: Phyrexian Librarian Color: Black
+	Owner: Player #130 Card: Scour Color: White
+	Owner: Player #132 Card: Repeal Color: Blue
+	Owner: Player #134 Card: Kyscu Drake Color: Green
+	Owner: Player #137 Card: Purraj of Urborg Color: Black
+	Owner: Player #137 Card: Amok Color: Red
+	Owner: Player #139 Card: Zulaport Cutthroat Color: Black
+	Owner: Player #140 Card: Thieving Sprite Color: Black
+	Owner: Player #141 Card: Leap Color: Blue
+	Owner: Player #142 Card: Rise from the Grave Color: Black
+	Owner: Player #143 Card: Minion of the Wastes Color: Black
+	Owner: Player #145 Card: Haazda Exonerator Color: White
+	Owner: Player #147 Card: Leap of Flame Color: Blue
+	Owner: Player #149 Card: Silent Sentinel Color: White
+	Owner: Player #151 Card: Rofellos, Llanowar Emissary Color: Green
+	Owner: Player #152 Card: Valley Dasher Color: Red
+	Owner: Player #153 Card: Rimewind Cryomancer Color: Blue
+	Owner: Player #153 Card: Brood of Cockroaches Color: Black
+	Owner: Player #155 Card: Tukatongue Thallid Color: Green
+	Owner: Player #156 Card: Ephara's Enlightenment Color: White
+	Owner: Player #156 Card: Angelic Destiny Color: White
+	Owner: Player #157 Card: Face to Face Color: Red
+	Owner: Player #157 Card: Lumithread Field Color: White
+	Owner: Player #157 Card: Ashenmoor Liege Color: Black
+	Owner: Player #158 Card: Fumarole Color: Black
+	Owner: Player #159 Card: Death Denied Color: Black
+	Owner: Player #160 Card: Brand Color: Red
+	Owner: Player #161 Card: Princess Lucrezia Color: Blue
+	Owner: Player #162 Card: Flowstone Surge Color: Red
+	Owner: Player #162 Card: Wall of Hope Color: White
+	Owner: Player #162 Card: Nightmarish End Color: Black
+	Owner: Player #164 Card: Snow Devil Color: Blue
+	Owner: Player #164 Card: Traitor's Roar Color: Black
+	Owner: Player #165 Card: Talas Merchant Color: Blue
+	Owner: Player #168 Card: Wirewood Pride Color: Green
+	Owner: Player #168 Card: Ghostly Flicker Color: Blue
+	Owner: Player #170 Card: Abrupt Decay Color: Black
+	Owner: Player #172 Card: Herald of Anafenza Color: White
+	Owner: Player #172 Card: Clinging Darkness Color: Black
+	Owner: Player #173 Card: Ember Beast Color: Red
+	Owner: Player #174 Card: Tangle Color: Green
+	Owner: Player #175 Card: Vedalken Ghoul Color: Blue
+	Owner: Player #175 Card: Belbe's Percher Color: Black
+	Owner: Player #177 Card: Azimaet Drake Color: Blue
+	Owner: Player #179 Card: Knights of Thorn Color: White
+	Owner: Player #180 Card: Escaped Shapeshifter Color: Blue
+	Owner: Player #181 Card: Volcanic Offering Color: Red
+	Owner: Player #183 Card: Remembrance Color: White
+	Owner: Player #183 Card: Needle Specter Color: Black
+	Owner: Player #185 Card: Willow Priestess Color: Green
+	Owner: Player #187 Card: Tivadar's Crusade Color: White
+	Owner: Player #195 Card: Bitter Feud Color: Red
+	Owner: Player #197 Card: Soul Feast Color: Black
+	Owner: Player #197 Card: Summoner's Pact Color: Green
+White
+	Owner: Player #64 Card: Rancor Color: Green
+	Owner: Player #64 Card: Wei Scout Color: Black
+	Owner: Player #0 Card: Mordant Dragon Color: Red
+	Owner: Player #0 Card: Grapeshot Color: Red
+	Owner: Player #1 Card: Zhang Fei, Fierce Warrior Color: White
+	Owner: Player #1 Card: Vaporkin Color: Blue
+	Owner: Player #2 Card: Zhur-Taa Druid Color: Red
+	Owner: Player #2 Card: Rashka the Slayer Color: White
+	Owner: Player #3 Card: Zealous Strike Color: White
+	Owner: Player #4 Card: Infernal Caretaker Color: Black
+	Owner: Player #4 Card: Hidden Gibbons Color: Green
+	Owner: Player #5 Card: Off Balance Color: White
+	Owner: Player #6 Card: Woolly Thoctar Color: White
+	Owner: Player #6 Card: Stroke of Genius Color: Blue
+	Owner: Player #6 Card: Write into Being Color: Blue
+	Owner: Player #6 Card: Borderland Ranger Color: Green
+	Owner: Player #7 Card: Steadfastness Color: White
+	Owner: Player #9 Card: Brine Shaman Color: Black
+	Owner: Player #11 Card: Dermoplasm Color: Blue
+	Owner: Player #11 Card: Ashling the Pilgrim Color: Red
+	Owner: Player #11 Card: Manta Ray Color: Blue
+	Owner: Player #12 Card: Volcanic Submersion Color: Red
+	Owner: Player #12 Card: Tectonic Fiend Color: Red
+	Owner: Player #13 Card: Freyalise's Charm Color: Green
+	Owner: Player #13 Card: Grim Affliction Color: Black
+	Owner: Player #14 Card: Miner's Bane Color: Red
+	Owner: Player #16 Card: Mending Touch Color: Green
+	Owner: Player #18 Card: Vectis Agents Color: Blue
+	Owner: Player #20 Card: War Behemoth Color: White
+	Owner: Player #21 Card: Mosquito Guard Color: White
+	Owner: Player #21 Card: Supply-Line Cranes Color: White
+	Owner: Player #22 Card: Gravespawn Sovereign Color: Black
+	Owner: Player #23 Card: Bloodletter Color: Black
+	Owner: Player #23 Card: Goblin Cohort Color: Red
+	Owner: Player #23 Card: Hideous Laughter Color: Black
+	Owner: Player #24 Card: Psychic Theft Color: Blue
+	Owner: Player #178 Card: Knight of Meadowgrain Color: White
+	Owner: Player #25 Card: Tromokratis Color: Blue
+	Owner: Player #25 Card: Praetor's Counsel Color: Green
+	Owner: Player #25 Card: Eagle of the Watch Color: White
+	Owner: Player #188 Card: Reality Color: Green
+	Owner: Player #188 Card: Balustrade Spy Color: Black
+	Owner: Player #28 Card: Woebearer Color: Black
+	Owner: Player #28 Card: Anoint Color: White
+	Owner: Player #28 Card: Rite of Replication Color: Blue
+	Owner: Player #28 Card: Nomad Decoy Color: White
+	Owner: Player #182 Card: Formless Nurturing Color: Green
+	Owner: Player #29 Card: Glacial Wall Color: Blue
+	Owner: Player #29 Card: Guma Color: Red
+	Owner: Player #30 Card: Callous Giant Color: Red
+	Owner: Player #31 Card: Cadaver Imp Color: Black
+	Owner: Player #32 Card: Infiltrator's Magemark Color: Blue
+	Owner: Player #186 Card: Wall of Razors Color: Red
+	Owner: Player #196 Card: Bringer of the White Dawn Color: White
+	Owner: Player #196 Card: Crystal Seer Color: Blue
+	Owner: Player #196 Card: Psychotrope Thallid Color: Green
+	Owner: Player #35 Card: Kitesail Apprentice Color: White
+	Owner: Player #35 Card: Murder Color: Black
+	Owner: Player #37 Card: Iname as One Color: Black
+	Owner: Player #38 Card: Emerald Dragonfly Color: Green
+	Owner: Player #184 Card: Coral Trickster Color: Blue
+	Owner: Player #184 Card: Winged Coatl Color: Blue
+	Owner: Player #184 Card: Flowstone Channeler Color: Red
+	Owner: Player #39 Card: Electropotence Color: Red
+	Owner: Player #39 Card: Kalonian Behemoth Color: Green
+	Owner: Player #40 Card: Instill Furor Color: Red
+	Owner: Player #194 Card: Endless Obedience Color: Black
+	Owner: Player #194 Card: Serra's Blessing Color: White
+	Owner: Player #41 Card: Distorting Wake Color: Blue
+	Owner: Player #42 Card: Equipoise Color: White
+	Owner: Player #43 Card: Fangren Marauder Color: Green
+	Owner: Player #43 Card: Barrin's Unmaking Color: Blue
+	Owner: Player #44 Card: Stromgald Cabal Color: Black
+	Owner: Player #198 Card: Norwood Warrior Color: Green
+	Owner: Player #198 Card: Gideon, Ally of Zendikar Color: White
+	Owner: Player #198 Card: Roar of the Wurm Color: Green
+	Owner: Player #45 Card: Scrapskin Drake Color: Blue
+	Owner: Player #45 Card: Wu Elite Cavalry Color: Blue
+	Owner: Player #46 Card: Fury Charm Color: Red
+	Owner: Player #192 Card: Repercussion Color: Red
+	Owner: Player #192 Card: Through the Breach Color: Red
+	Owner: Player #47 Card: Cunning Giant Color: Red
+	Owner: Player #48 Card: Auriok Windwalker Color: White
+	Owner: Player #48 Card: Mizzix of the Izmagnus Color: Blue
+	Owner: Player #49 Card: Fyndhorn Elves Color: Green
+	Owner: Player #49 Card: Civic Guildmage Color: White
+	Owner: Player #49 Card: Goblin Rock Sled Color: Red
+	Owner: Player #51 Card: Welkin Guide Color: White
+	Owner: Player #51 Card: Nivix Guildmage Color: Blue
+	Owner: Player #54 Card: Tremor Color: Red
+	Owner: Player #55 Card: Lu Bu, Master-at-Arms Color: Red
+	Owner: Player #55 Card: Spikeshot Goblin Color: Red
+	Owner: Player #56 Card: Vulshok Battlemaster Color: Red
+	Owner: Player #56 Card: Withstand Color: White
+	Owner: Player #57 Card: Crossbow Ambush Color: Green
+	Owner: Player #58 Card: Boiling Seas Color: Red
+	Owner: Player #58 Card: Brown Ouphe Color: Green
+	Owner: Player #92 Card: Fearsome Temper Color: Red
+	Owner: Player #92 Card: Rogue Elephant Color: Green
+	Owner: Player #92 Card: Consul's Lieutenant Color: White
+	Owner: Player #59 Card: Beacon Hawk Color: White
+	Owner: Player #60 Card: Valeron Outlander Color: White
+	Owner: Player #60 Card: Flooded Shoreline Color: Blue
+	Owner: Player #61 Card: Razorfoot Griffin Color: White
+	Owner: Player #63 Card: Kor Spiritdancer Color: White
+	Owner: Player #90 Card: Krosan Wayfarer Color: Green
+	Owner: Player #66 Card: Lightning Strike Color: Red
+	Owner: Player #67 Card: Get a Life Color: White
+	Owner: Player #94 Card: Constant Mists Color: Green
+	Owner: Player #69 Card: Emeria Shepherd Color: White
+	Owner: Player #71 Card: Awaken the Ancient Color: Red
+	Owner: Player #71 Card: Kashi-Tribe Elite Color: Green
+	Owner: Player #71 Card: Rustmouth Ogre Color: Red
+	Owner: Player #71 Card: Geyser Glider Color: Red
+	Owner: Player #72 Card: Unified Will Color: Blue
+	Owner: Player #72 Card: Cryptic Command Color: Blue
+	Owner: Player #98 Card: Spellgorger Barbarian Color: Red
+	Owner: Player #98 Card: Telepathy Color: Blue
+	Owner: Player #73 Card: Chaos Warp Color: Red
+	Owner: Player #73 Card: Power Artifact Color: Blue
+	Owner: Player #108 Card: Idyllic Tutor Color: White
+	Owner: Player #75 Card: Human Frailty Color: Black
+	Owner: Player #75 Card: Crush Underfoot Color: Red
+	Owner: Player #76 Card: Vein Drinker Color: Black
+	Owner: Player #76 Card: Jungle Barrier Color: Blue
+	Owner: Player #102 Card: Toils of Night and Day Color: Blue
+	Owner: Player #77 Card: Thunder Wall Color: Blue
+	Owner: Player #77 Card: Mesa Falcon Color: White
+	Owner: Player #96 Card: Forgotten Harvest Color: Green
+	Owner: Player #79 Card: Banishing Light Color: White
+	Owner: Player #79 Card: Humble Defector Color: Red
+	Owner: Player #106 Card: False Defeat Color: White
+	Owner: Player #81 Card: Tezzeret the Seeker Color: Blue
+	Owner: Player #81 Card: Epicenter Color: Red
+	Owner: Player #82 Card: Zendikar Incarnate Color: Red
+	Owner: Player #82 Card: Gaze of Adamaro Color: Red
+	Owner: Player #82 Card: Dirge of Dread Color: Black
+	Owner: Player #116 Card: Xenograft Color: Blue
+	Owner: Player #116 Card: Hotheaded Giant Color: Red
+	Owner: Player #83 Card: Anaconda Color: Green
+	Owner: Player #83 Card: Spidery Grasp Color: Green
+	Owner: Player #84 Card: Root Greevil Color: Green
+	Owner: Player #110 Card: Dwarven Strike Force Color: Red
+	Owner: Player #85 Card: Exorcist Color: White
+	Owner: Player #86 Card: Tivadar's Crusade Color: White
+	Owner: Player #104 Card: Regeneration Color: Green
+	Owner: Player #89 Card: Leave No Trace Color: White
+	Owner: Player #89 Card: Font of Fortunes Color: Blue
+	Owner: Player #89 Card: Mind Games Color: Blue
+	Owner: Player #93 Card: Vodalian Merchant Color: Blue
+	Owner: Player #93 Card: Ebonblade Reaper Color: Black
+	Owner: Player #93 Card: Cateran Summons Color: Black
+	Owner: Player #97 Card: Frankie Peanuts Color: White
+	Owner: Player #99 Card: Mirri's Guile Color: Green
+	Owner: Player #103 Card: Groundswell Color: Green
+	Owner: Player #105 Card: Humility Color: White
+	Owner: Player #107 Card: Spoils of Evil Color: Black
+	Owner: Player #109 Card: Setessan Oathsworn Color: Green
+	Owner: Player #111 Card: Crude Rampart Color: White
+	Owner: Player #112 Card: Samite Alchemist Color: White
+	Owner: Player #113 Card: Press the Advantage Color: Green
+	Owner: Player #114 Card: Stonewright Color: Red
+	Owner: Player #114 Card: Deadhead Color: Black
+	Owner: Player #115 Card: Skyline Predator Color: Blue
+	Owner: Player #115 Card: Incremental Growth Color: Green
+	Owner: Player #117 Card: Dark Banishing Color: Black
+	Owner: Player #118 Card: Dream Thrush Color: Blue
+	Owner: Player #118 Card: Dread Slag Color: Black
+	Owner: Player #118 Card: Quickling Color: Blue
+	Owner: Player #119 Card: Gaea's Anthem Color: Green
+	Owner: Player #121 Card: Alaborn Musketeer Color: White
+	Owner: Player #121 Card: Bash to Bits Color: Red
+	Owner: Player #122 Card: Rank and File Color: Black
+	Owner: Player #122 Card: Inner-Flame Acolyte Color: Red
+	Owner: Player #123 Card: Frontier Guide Color: Green
+	Owner: Player #123 Card: Avalanche Color: Red
+	Owner: Player #124 Card: Awe Strike Color: White
+	Owner: Player #125 Card: Ore Gorger Color: Red
+	Owner: Player #125 Card: Molten Psyche Color: Red
+	Owner: Player #126 Card: Arbiter of the Ideal Color: Blue
+	Owner: Player #126 Card: Ember Beast Color: Red
+	Owner: Player #127 Card: Aura Barbs Color: Red
+	Owner: Player #127 Card: Lantern Kami Color: White
+	Owner: Player #128 Card: Tel-Jilad Lifebreather Color: Green
+	Owner: Player #128 Card: Magnetic Theft Color: Red
+	Owner: Player #129 Card: Radiant, Archangel Color: White
+	Owner: Player #130 Card: Coils of the Medusa Color: Black
+	Owner: Player #131 Card: Vitalize Color: Green
+	Owner: Player #132 Card: Last Chance Color: Red
+	Owner: Player #132 Card: Order Color: White
+	Owner: Player #133 Card: Reflect Damage Color: White
+	Owner: Player #134 Card: Pale Moon Color: Blue
+	Owner: Player #134 Card: Eternal Dominion Color: Blue
+	Owner: Player #135 Card: Edge of Autumn Color: Green
+	Owner: Player #136 Card: Pursuit of Knowledge Color: White
+	Owner: Player #137 Card: Shauku's Minion Color: Black
+	Owner: Player #137 Card: Kothophed, Soul Hoarder Color: Black
+	Owner: Player #138 Card: Hollowhenge Beast Color: Green
+	Owner: Player #138 Card: Lu Su, Wu Advisor Color: Blue
+	Owner: Player #141 Card: Numot, the Devastator Color: White
+	Owner: Player #141 Card: Contradict Color: Blue
+	Owner: Player #141 Card: Druid's Familiar Color: Green
+	Owner: Player #143 Card: Purelace Color: White
+	Owner: Player #143 Card: Aggressive Urge Color: Green
+	Owner: Player #144 Card: Daraja Griffin Color: White
+	Owner: Player #144 Card: Commandeer Color: Blue
+	Owner: Player #145 Card: Pain Color: Black
+	Owner: Player #146 Card: Wall of Caltrops Color: White
+	Owner: Player #147 Card: Kjeldoran Elite Guard Color: White
+	Owner: Player #147 Card: Poison Arrow Color: Black
+	Owner: Player #147 Card: Silver Seraph Color: White
+	Owner: Player #150 Card: Make a Stand Color: White
+	Owner: Player #150 Card: Ire Shaman Color: Red
+	Owner: Player #151 Card: Venomous Breath Color: Green
+	Owner: Player #151 Card: Cho-Manno's Blessing Color: White
+	Owner: Player #152 Card: Barrin's Unmaking Color: Blue
+	Owner: Player #154 Card: Rakshasa Deathdealer Color: Black
+	Owner: Player #154 Card: Krovikan Scoundrel Color: Black
+	Owner: Player #154 Card: Breaking Wave Color: Blue
+	Owner: Player #154 Card: Soltari Emissary Color: White
+	Owner: Player #155 Card: Glint Hawk Color: White
+	Owner: Player #156 Card: Lurking Evil Color: Black
+	Owner: Player #156 Card: Zephyr Sprite Color: Blue
+	Owner: Player #157 Card: Stalwart Aven Color: White
+	Owner: Player #158 Card: Total War Color: Red
+	Owner: Player #158 Card: Shadowfeed Color: Black
+	Owner: Player #159 Card: Vedalken Certarch Color: Blue
+	Owner: Player #159 Card: Heavy Fog Color: Green
+	Owner: Player #161 Card: Goblin Battle Jester Color: Red
+	Owner: Player #161 Card: Searing Blood Color: Red
+	Owner: Player #162 Card: Welkin Hawk Color: White
+	Owner: Player #163 Card: Illusionist's Gambit Color: Blue
+	Owner: Player #164 Card: Errand of Duty Color: White
+	Owner: Player #166 Card: Punctuate Color: Red
+	Owner: Player #169 Card: Soulsworn Spirit Color: Blue
+	Owner: Player #170 Card: Foresight Color: Blue
+	Owner: Player #170 Card: Nether Horror Color: Black
+	Owner: Player #170 Card: Galina's Knight Color: White
+	Owner: Player #171 Card: Curse of Misfortunes Color: Black
+	Owner: Player #172 Card: Zur's Weirding Color: Blue
+	Owner: Player #172 Card: Infernal Scarring Color: Black
+	Owner: Player #173 Card: Aspect of Gorgon Color: Black
+	Owner: Player #173 Card: Shared Trauma Color: Black
+	Owner: Player #179 Card: Corrupted Resolve Color: Blue
+	Owner: Player #180 Card: Enslaved Dwarf Color: Red
+	Owner: Player #180 Card: Gisela, Blade of Goldnight Color: White
+	Owner: Player #181 Card: Cryptborn Horror Color: Black
+	Owner: Player #181 Card: Witch Hunter Color: White
+	Owner: Player #185 Card: Flinthoof Boar Color: Green
+	Owner: Player #187 Card: Gerrard's Wisdom Color: White
+	Owner: Player #187 Card: Shambling Strider Color: Green
+	Owner: Player #189 Card: Skillful Lunge Color: White
+	Owner: Player #189 Card: Statute of Denial Color: Blue
+	Owner: Player #191 Card: Conquering Manticore Color: Red
+	Owner: Player #191 Card: Wardscale Dragon Color: White
+	Owner: Player #193 Card: Somberwald Dryad Color: Green
+	Owner: Player #193 Card: Gift of Estates Color: White
+	Owner: Player #193 Card: Weatherseed Treefolk Color: Green
+	Owner: Player #195 Card: Aven Battle Priest Color: White
+	Owner: Player #197 Card: Essence Sliver Color: White
+	Owner: Player #199 Card: Headlong Rush Color: Red
+	Owner: Player #199 Card: Form of the Squirrel Color: Green
+Green
+	Owner: Player #1 Card: Tropical Storm Color: Green
+	Owner: Player #9 Card: Champion Lancer Color: White
+	Owner: Player #10 Card: Akki Underminer Color: Red
+	Owner: Player #12 Card: Nourish Color: Green
+	Owner: Player #17 Card: Uktabi Drake Color: Green
+	Owner: Player #18 Card: Krovikan Fetish Color: Black
+	Owner: Player #19 Card: Peak Eruption Color: Red
+	Owner: Player #21 Card: Curse Artifact Color: Black
+	Owner: Player #178 Card: Returned Phalanx Color: Black
+	Owner: Player #30 Card: Bulwark Color: Red
+	Owner: Player #31 Card: Etherium Sculptor Color: Blue
+	Owner: Player #190 Card: Great Sable Stag Color: Green
+	Owner: Player #194 Card: Heartwood Giant Color: Green
+	Owner: Player #41 Card: Red Cliffs Armada Color: Blue
+	Owner: Player #52 Card: Primal Boost Color: Green
+	Owner: Player #54 Card: Shrieking Grotesque Color: White
+	Owner: Player #54 Card: Angelic Curator Color: White
+	Owner: Player #62 Card: Matca Rioters Color: Green
+	Owner: Player #63 Card: Ancestral Mask Color: Green
+	Owner: Player #100 Card: Spirespine Color: Green
+	Owner: Player #67 Card: Deepwood Elder Color: Green
+	Owner: Player #94 Card: Vertigo Spawn Color: Blue
+	Owner: Player #69 Card: Hunting Triad Color: Green
+	Owner: Player #70 Card: Orcish Bloodpainter Color: Red
+	Owner: Player #70 Card: Clickslither Color: Red
+	Owner: Player #88 Card: Scavenging Ghoul Color: Black
+	Owner: Player #76 Card: Ghost Tactician Color: White
+	Owner: Player #77 Card: Where Ancients Tread Color: Red
+	Owner: Player #78 Card: Wall of Granite Color: Red
+	Owner: Player #78 Card: Phantom Beast Color: Blue
+	Owner: Player #96 Card: Exclude Color: Blue
+	Owner: Player #82 Card: Phyrexian Vatmother Color: Black
+	Owner: Player #83 Card: Pedantic Learning Color: Blue
+	Owner: Player #87 Card: Resupply Color: White
+	Owner: Player #107 Card: Phantasmal Dragon Color: Blue
+	Owner: Player #111 Card: Skyshroud Ridgeback Color: Green
+	Owner: Player #112 Card: Battle Frenzy Color: Red
+	Owner: Player #113 Card: Baloth Cage Trap Color: Green
+	Owner: Player #117 Card: Sabertooth Outrider Color: Red
+	Owner: Player #120 Card: Surging Flame Color: Red
+	Owner: Player #122 Card: Wings of Aesthir Color: White
+	Owner: Player #125 Card: Restless Apparition Color: White
+	Owner: Player #129 Card: Necromancer's Magemark Color: Black
+	Owner: Player #131 Card: Distorting Wake Color: Blue
+	Owner: Player #131 Card: Trickery Charm Color: Blue
+	Owner: Player #133 Card: Breach Color: Black
+	Owner: Player #134 Card: Skittish Kavu Color: Red
+	Owner: Player #135 Card: Omniscience Color: Blue
+	Owner: Player #138 Card: Llanowar Augur Color: Green
+	Owner: Player #145 Card: Malice Color: Black
+	Owner: Player #145 Card: Selvala's Enforcer Color: Green
+	Owner: Player #148 Card: Leonin Arbiter Color: White
+	Owner: Player #148 Card: Glint Color: Blue
+	Owner: Player #150 Card: Mana Cache Color: Red
+	Owner: Player #152 Card: Fire Drake Color: Red
+	Owner: Player #160 Card: Rootwater Commando Color: Blue
+	Owner: Player #163 Card: Prismatic Lace Color: Blue
+	Owner: Player #171 Card: Ghitu Fire Color: Red
+	Owner: Player #177 Card: Primal Order Color: Green
+	Owner: Player #177 Card: Heed the Mists Color: Blue
+	Owner: Player #189 Card: Viridian Scout Color: Green
+	Owner: Player #199 Card: Moss Monster Color: Green
+Most common card: Thraben Sentry Color: White

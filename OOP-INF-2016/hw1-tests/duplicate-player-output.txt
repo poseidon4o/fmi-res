@@ -1,0 +1,4 @@
+>Player "Player #30" created
+>Player "Player #30" already exists
+>report generated
+>command "quit" not recognized - exiting

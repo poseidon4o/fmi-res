@@ -1,0 +1,124 @@
+cc
+Red Molten Sentry
+cc
+Blue Fowl Play
+cc
+White Kithkin Harbinger
+cc
+White Auriok Windwalker
+cc
+Blue Hada Spy Patrol
+cc
+Blue Serra Sphinx
+cc
+Red Massive Raid
+cc
+Blue Raven Familiar
+cc
+Green Dauntless Dourbark
+cc
+Red Twin Bolt
+cc
+White Bathe in Light
+cc
+Blue Grimgrin, Corpse-Born
+cc
+Green Greenseeker
+cc
+Green Revelation
+cc
+Green Mold Shambler
+cc
+Red Deadshot
+cc
+White Planar Outburst
+cc
+Blue Elder Mastery
+cc
+Green Dramatic Entrance
+cc
+Green Cytoplast Root-Kin
+cc
+Red Bloodrock Cyclops
+cc
+Blue Inside Out
+cc
+Red Steam Blast
+cc
+Black Bitterheart Witch
+cc
+Black Maalfeld Twins
+cc
+Blue Amphin Pathmage
+cc
+Blue Dralnu, Lich Lord
+cc
+Blue Kingfisher
+cc
+Blue Esper Battlemage
+cc
+White Replenish
+cc
+Blue Living Tsunami
+cc
+Blue Riptide Chimera
+cc
+Blue Ponder
+cc
+White Truce
+cc
+White Tandem Tactics
+cc
+White Brion Stoutarm
+cc
+Black Corpse Harvester
+cc
+Green Rabid Elephant
+cc
+Blue Spire Owl
+cc
+Blue Vodalian War Machine
+cc
+Black Twisted Experiment
+cc
+Green Soul's Majesty
+cc
+Red Inferno Trap
+cc
+Red Curse of Marit Lage
+cc
+Black Adun Oakenshield
+cc
+Green Krosan Vorine
+cc
+Black Magus of the Abyss
+cc
+Red Pit Fight
+cc
+Blue Tome Scour
+cc
+Green Fungal Bloom
+cc
+Black Wight of Precinct Six
+cc
+Blue Mistfolk
+cc
+Black Gloomlance
+cc
+White Syndic of Tithes
+cc
+Black Grisly Transformation
+cc
+Red Breath of Darigaaz
+cc
+White Peace and Quiet
+cc
+White Gustrider Exuberant
+cc
+Red Ember Beast
+cc
+White Expedition Envoy
+cp
+Player #66
+report
+quit

@@ -1,0 +1,63 @@
+>Card "Molten Sentry" created
+>Card "Fowl Play" created
+>Card "Kithkin Harbinger" created
+>Card "Auriok Windwalker" created
+>Card "Hada Spy Patrol" created
+>Card "Serra Sphinx" created
+>Card "Massive Raid" created
+>Card "Raven Familiar" created
+>Card "Dauntless Dourbark" created
+>Card "Twin Bolt" created
+>Card "Bathe in Light" created
+>Card "Grimgrin, Corpse-Born" created
+>Card "Greenseeker" created
+>Card "Revelation" created
+>Card "Mold Shambler" created
+>Card "Deadshot" created
+>Card "Planar Outburst" created
+>Card "Elder Mastery" created
+>Card "Dramatic Entrance" created
+>Card "Cytoplast Root-Kin" created
+>Card "Bloodrock Cyclops" created
+>Card "Inside Out" created
+>Card "Steam Blast" created
+>Card "Bitterheart Witch" created
+>Card "Maalfeld Twins" created
+>Card "Amphin Pathmage" created
+>Card "Dralnu, Lich Lord" created
+>Card "Kingfisher" created
+>Card "Esper Battlemage" created
+>Card "Replenish" created
+>Card "Living Tsunami" created
+>Card "Riptide Chimera" created
+>Card "Ponder" created
+>Card "Truce" created
+>Card "Tandem Tactics" created
+>Card "Brion Stoutarm" created
+>Card "Corpse Harvester" created
+>Card "Rabid Elephant" created
+>Card "Spire Owl" created
+>Card "Vodalian War Machine" created
+>Card "Twisted Experiment" created
+>Card "Soul's Majesty" created
+>Card "Inferno Trap" created
+>Card "Curse of Marit Lage" created
+>Card "Adun Oakenshield" created
+>Card "Krosan Vorine" created
+>Card "Magus of the Abyss" created
+>Card "Pit Fight" created
+>Card "Tome Scour" created
+>Card "Fungal Bloom" created
+>Card "Wight of Precinct Six" created
+>Card "Mistfolk" created
+>Card "Gloomlance" created
+>Card "Syndic of Tithes" created
+>Card "Grisly Transformation" created
+>Card "Breath of Darigaaz" created
+>Card "Peace and Quiet" created
+>Card "Gustrider Exuberant" created
+>Card "Ember Beast" created
+>Card "Expedition Envoy" created
+>Player "Player #66" created
+>report generated
+>command "quit" not recognized - exiting

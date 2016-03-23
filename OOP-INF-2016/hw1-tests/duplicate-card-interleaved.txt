@@ -1,0 +1,10 @@
+cc
+Green Tangle
+>Card "Tangle" created
+cc
+Green Tangle
+>Card "Tangle" already exists
+report
+>report generated
+quit
+>command "quit" not recognized - exiting
