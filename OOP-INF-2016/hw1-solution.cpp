@@ -68,7 +68,9 @@ bool load_cards();
 bool save(const char * file_name, const char * data, int size);
 
 int main() {
-	load();
+	if (load()) {
+		cerr << "Failed while loading players & cards" << endl;
+	}
 
 	char cmd[8];
 	while (cin >> cmd) {
@@ -81,10 +83,10 @@ int main() {
 		} else if (!strcmp(cmd, "report")) {
 			report();
 		} else {
+			cerr << "Command " << cmd << " not recognised - quitting" << endl;
 			break;
 		}
 	}
-	cerr.flush();
 
 	if (!save()) {
 		cerr << "Failed to save files" << endl;
@@ -371,12 +373,16 @@ bool load_players() {
 	player_count = player_file.tellg() / sizeof(Player);
 	players = new (nothrow) Player[player_count];
 	if (!players) {
+		delete[] players;
+		player_count = 0;
 		return false;
 	}
 
 	// read
 	player_file.seekg(0, ios::beg);
 	if (!player_file.read((char*)players, player_count * sizeof(Player))) {
+		delete[] players;
+		player_count = 0;
 		return false;
 	}
 	
@@ -385,6 +391,8 @@ bool load_players() {
 		NEXT_PLAYER_ID = max(NEXT_PLAYER_ID, cards[c].id);
 	}
 	++NEXT_PLAYER_ID;
+
+	return true;
 }
 
 bool load_cards() {
@@ -398,12 +406,16 @@ bool load_cards() {
 	card_count = cards_file.tellg() / sizeof(Player);
 	cards = new (nothrow) Card[card_count];
 	if (!cards) {
+		delete[] cards;
+		card_count = 0;
 		return false;
 	}
 
 	// read
 	cards_file.seekg(0, ios::beg);
 	if (!cards_file.read((char*)cards, card_count * sizeof(Player))) {
+		delete[] cards;
+		card_count = 0;
 		return false;
 	}
 
@@ -412,6 +424,8 @@ bool load_cards() {
 		NEXT_CARD_ID = max(NEXT_CARD_ID, cards[c].id);
 	}
 	++NEXT_CARD_ID;
+
+	return true;
 }
 
 bool save(const char * file_name, const char * data, int size) {
