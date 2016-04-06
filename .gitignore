@@ -1,1 +1,6 @@
 *sublime-*
+bin/
+obj/
+*.dat
+*.depend
+*.layout
