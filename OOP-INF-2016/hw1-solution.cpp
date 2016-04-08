@@ -99,7 +99,7 @@ int main() {
 ////////////////////////
 
 bool load() {
-	return load_players() && load_cards();	
+	return load_players() && load_cards();
 }
 
 bool save() {
@@ -150,6 +150,7 @@ void create_deck() {
 		for (int r = 0; r < card_count; ++r) {
 			if (!strcmp(input_cards[c].name, cards[r].name)) {
 				input_cards[c] = cards[r]; // get color & id
+				break;
 			}
 		}
 		if (input_cards[c].id == INVALID_ID) {
@@ -248,7 +249,7 @@ void create_player() {
 	// add new player
 	player.id = NEXT_PLAYER_ID++;
 	new_players[player_count++] = player;
-	
+
 	delete[] players;
 	players = new_players;
 }
@@ -385,7 +386,7 @@ bool load_players() {
 		player_count = 0;
 		return false;
 	}
-	
+
 	// init next id
 	for (int c = 0; c < card_count; ++c) {
 		NEXT_PLAYER_ID = max(NEXT_PLAYER_ID, cards[c].id);
