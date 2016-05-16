@@ -1,0 +1,176 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <script>
+        var ctx = null, canvas = null;
+        var mouse = {x: 0, y: 0};
+        var LINE = 1, RECT = 2, CIRCLE = 3;
+        var current_points = [];
+        var w = 500, h = 300;
+
+        var shapes = [];
+        var drawers = {}
+
+        var shape_names = ['', 'line', 'rectangle', 'circle'];
+
+        var colors = {
+            'black': '#000000',
+            'red': '#ff0000',
+            'green': '#00ff00',
+            'blue': '#0000ff',
+            'indigo': '#4b0082',
+            'yellow': '#ffff00',
+        };
+        drawers[LINE] = function(A, B) {
+            ctx.moveTo(A.x, A.y);
+            ctx.lineTo(B.x, B.y);
+        };
+        drawers[RECT] = function(A, B) {
+            var rw = B.x - A.x;
+            var rh = B.y - A.y;
+            ctx.rect(A.x, A.y, rw, rh);
+        };
+        drawers[CIRCLE] = function(A, B) {
+            var r = Math.sqrt(
+                (A.x - B.x)*(A.x - B.x) + (A.y - B.y)*(A.y - B.y)
+            );
+            ctx.arc(A.x, A.y, r, 0, 2 * Math.PI);
+        };
+
+        var current_type = LINE;
+        var current_color = colors.black;
+
+
+        function draw() {
+            setTimeout(draw, 1000 / 30);
+            ctx.clearRect(0, 0, w, h);
+
+            ctx.lineWidth = 2;
+
+            for (var c = 0; c < shapes.length; ++c) {
+                ctx.beginPath();
+                ctx.strokeStyle = shapes[c].color;
+                drawers[shapes[c].type](shapes[c].A, shapes[c].B);
+                ctx.stroke();
+            }
+
+            if (current_points.length == 1) {
+                ctx.strokeStyle = current_color;
+                ctx.beginPath();
+                drawers[current_type](current_points[0], mouse);
+                ctx.stroke();
+            }
+        }
+
+        function init() {
+            canvas = document.getElementById('canvas');
+            var bbox = canvas.getBoundingClientRect();
+            canvas.addEventListener('mousemove', function(event) {
+                mouse.x = event.clientX - bbox.left;
+                mouse.y = event.clientY - bbox.top;
+            });
+
+            var select = document.getElementById('shape-select');
+            for (var type in drawers) {
+                var opt = document.createElement('option');
+                opt.value = type;
+                opt.innerHTML = shape_names[parseInt(type)];
+                select.appendChild(opt);
+            }
+
+            select = document.getElementById('color-select');
+            for (var col in colors) {
+                var opt = document.createElement('option');
+                opt.value = colors[col];
+                var name = col;
+                opt.innerHTML = name[0].toUpperCase() + name.slice(1);
+                select.appendChild(opt);
+            }
+
+            ctx = canvas.getContext('2d');
+            draw();
+        }
+
+        function mup() {
+            var m = {x: mouse.x, y: mouse.y};
+            if (current_points.length == 1) {
+                shapes.push({
+                    type: current_type,
+                    color: current_color,
+                    'A': current_points[0],
+                    'B': m,
+                });
+                current_points = [];
+                gen_cmd_out();
+            } else {
+                current_points.push(m);
+            }
+        }
+
+        function change_type (el) {
+            current_type = el.value;
+            current_points = [];
+        }
+
+        function change_color (el) {
+            current_color = el.value;
+        }
+
+        function gen_cmd_out () {
+            var ptxt = function(A) {
+                return A.x + ' ' + A.y;
+            };
+            var cname = function(color) {
+                for (var cname in colors) {
+                    if (colors[cname] == color) {
+                        return cname;
+                    }
+                }
+                return 'black';
+            };
+            var lines = [];
+            for (var c = 0; c < shapes.length; ++c) {
+                var s = shapes[c];
+                if (s.type == CIRCLE) {
+                    var r = Math.sqrt(
+                        (s.A.x - s.B.x)*(s.A.x - s.B.x) + (s.A.y - s.B.y)*(s.A.y - s.B.y)
+                    );
+
+                    lines.push(
+                        'create circle '
+                         + ptxt(s.A) + ' '
+                         + r + ' '
+                         + cname(s.color)
+                    );
+                } else {
+                    lines.push(
+                        'create ' + shape_names[s.type] + ' '
+                         + ptxt(s.A) + ' '
+                         + ptxt(s.B) + ' '
+                         + cname(s.color)
+                    );
+                }
+            }
+
+            document.getElementById('cmd-out').value = lines.join('\n');
+        }
+
+    </script>
+    <style type="text/css">
+    select, canvas {
+        display: block;
+        float: left;
+    }
+    </style>
+</head>
+<body onload="javascript:init()">
+<div>
+    <canvas id="canvas" widh="500" height="300" onmouseup="javascript:mup()" style="border: 1px solid black;"></canvas>
+    <select id="shape-select" onchange='javascript:change_type(this)'></select>
+    <select id="color-select" onchange='javascript:change_color(this)'></select>
+</div>
+<div>
+    <textarea id="cmd-out" cols='50' rows='20'></textarea>
+</div>
+</body>
+</html>
