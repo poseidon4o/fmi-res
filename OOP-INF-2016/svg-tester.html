@@ -4,14 +4,16 @@
     <script>
         var ctx = null, canvas = null;
         var mouse = {x: 0, y: 0};
-        var LINE = 1, RECT = 2, CIRCLE = 3;
+        var LINE = 1, RECT = 2, CIRCLE = 3, TRANSLATE = 4;
+        var draw_translates = true;
         var current_points = [];
         var w = 500, h = 300;
 
         var shapes = [];
-        var drawers = {}
+        var drawers = {};
+        var erased_shapes = []; // indecies of "erased" shapes
 
-        var shape_names = ['', 'line', 'rectangle', 'circle'];
+        var shape_names = ['', 'line', 'rectangle', 'circle', 'translate'];
 
         var colors = {
             'black': '#000000',
@@ -36,6 +38,16 @@
             );
             ctx.arc(A.x, A.y, r, 0, 2 * Math.PI);
         };
+        drawers[TRANSLATE] = function(A, B) {
+            if (!draw_translates) {
+                return;
+            }
+            ctx.beginPath();
+            ctx.strokeStyle = "rgba(255, 0, 0, 0.5)";
+            ctx.lineWidth = 10;
+
+            drawers[LINE](A, B);
+        }
 
         var current_type = LINE;
         var current_color = colors.black;
@@ -45,19 +57,53 @@
             setTimeout(draw, 1000 / 30);
             ctx.clearRect(0, 0, w, h);
 
-            ctx.lineWidth = 2;
+            var tr = {x:0, y:0};
+            for (var c = 0; c < shapes.length; ++c) {
+                var s = shapes[c]
+                if (s.type == TRANSLATE) {
+                    tr.x += s.B.x - s.A.x;
+                    tr.y += s.B.y - s.A.y;
+                }
+            }
+            if (current_type == TRANSLATE && current_points.length == 1) {
+                tr.x += mouse.x - current_points[0].x;
+                tr.y += mouse.y - current_points[0].y;
+            }
 
             for (var c = 0; c < shapes.length; ++c) {
-                ctx.beginPath();
-                ctx.strokeStyle = shapes[c].color;
-                drawers[shapes[c].type](shapes[c].A, shapes[c].B);
+                var s = shapes[c];
+                var A, B;
+                if (s.type == TRANSLATE) {
+                    A = s.A;
+                    B = s.B;
+                } else {
+                    ctx.beginPath();
+                    ctx.strokeStyle = s.color;
+                    ctx.lineWidth = 2;
+                    A = {x: s.A.x + tr.x, y: s.A.y + tr.y};
+                    B = {x: s.B.x + tr.x, y: s.B.y + tr.y};
+                }
+
+                drawers[s.type](A, B);
                 ctx.stroke();
             }
 
             if (current_points.length == 1) {
-                ctx.strokeStyle = current_color;
-                ctx.beginPath();
-                drawers[current_type](current_points[0], mouse);
+
+                var A, B;
+                if (current_type == TRANSLATE) {
+                    A = current_points[0];
+                    B = mouse;
+                } else {
+                    ctx.beginPath();
+                    ctx.strokeStyle = current_color;
+                    ctx.lineWidth = 2;
+                    A = {x: current_points[0].x + tr.x, y: current_points[0].y + tr.y};
+                    B = {x: mouse.x + tr.x, y: mouse.y + tr.y};
+                }
+
+
+                drawers[current_type](A, B);
                 ctx.stroke();
             }
         }
@@ -142,6 +188,12 @@
                          + r + ' '
                          + cname(s.color)
                     );
+                } else if (s.type == TRANSLATE) {
+                    var pt = {
+                        x: s.B.x - s.A.x,
+                        y: s.B.y - s.A.y,
+                    };
+                    lines.push('translate vertical=' + pt.y + ' horizontal=' + pt.x);
                 } else {
                     lines.push(
                         'create ' + shape_names[s.type] + ' '
@@ -164,13 +216,22 @@
     </style>
 </head>
 <body onload="javascript:init()">
-<div>
-    <canvas id="canvas" widh="500" height="300" onmouseup="javascript:mup()" style="border: 1px solid black;"></canvas>
-    <select id="shape-select" onchange='javascript:change_type(this)'></select>
-    <select id="color-select" onchange='javascript:change_color(this)'></select>
+
+<canvas id="canvas" width="500" height="300" onmouseup="javascript:mup()" style="border: 1px solid black;"></canvas>
+<div style="float: left;">
+    <select id="color-select" onchange="javascript:change_color(this)"></select>
+    <select id="shape-select" onchange="javascript:change_type(this)"></select>
+    <div style="clear:both;"></div>
+    <button onclick="shapes.pop(); gen_cmd_out();">Remove last</button>
+    <div style="clear:both;"></div>
+    <label>
+        Draw translates:
+        <input type="checkbox" onchange="draw_translates = !draw_translates;" checked="checked">
+    </label>
 </div>
-<div>
-    <textarea id="cmd-out" cols='50' rows='20'></textarea>
+
+<div style="float: left;">
+    <textarea id="cmd-out" cols="50" rows="20" readonly="readonly"></textarea>
 </div>
 </body>
 </html>
