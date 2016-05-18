@@ -207,31 +207,63 @@
             document.getElementById('cmd-out').value = lines.join('\n');
         }
 
+        function render_svg() {
+            document.getElementById('svg-render').innerHTML = document.getElementById('svg-code').value;
+        }
+
     </script>
-    <style type="text/css">
-    select, canvas {
-        display: block;
-        float: left;
-    }
-    </style>
 </head>
 <body onload="javascript:init()">
 
-<canvas id="canvas" width="500" height="300" onmouseup="javascript:mup()" style="border: 1px solid black;"></canvas>
-<div style="float: left;">
-    <select id="color-select" onchange="javascript:change_color(this)"></select>
-    <select id="shape-select" onchange="javascript:change_type(this)"></select>
-    <div style="clear:both;"></div>
-    <button onclick="shapes.pop(); gen_cmd_out();">Remove last</button>
-    <div style="clear:both;"></div>
-    <label>
-        Draw translates:
-        <input type="checkbox" onchange="draw_translates = !draw_translates;" checked="checked">
-    </label>
-</div>
+    <div>
+        <canvas id="canvas" width="500" height="300" onmouseup="javascript:mup()" style="float:left; border: 1px solid black;"></canvas>
 
-<div style="float: left;">
-    <textarea id="cmd-out" cols="50" rows="20" readonly="readonly"></textarea>
-</div>
+        <div style="float:left;">
+            <select id="color-select" onchange="javascript:change_color(this)"></select>
+            <select id="shape-select" onchange="javascript:change_type(this)"></select>
+            <div style="clear: both"></div>
+            <button onclick="shapes.pop(); gen_cmd_out();">Remove last</button>
+            <div style="clear: both"></div>
+            <label>
+                Draw translates:
+                <input type="checkbox" onchange="draw_translates = !draw_translates;" checked="checked">
+            </label>
+        </div>
+
+        <div style="float: left;">
+            <textarea id="cmd-out" cols="50" rows="20" readonly="readonly"></textarea>
+        </div>
+    </div>
+
+    <div style="clear: both"></div>
+    <div>
+        <div style="float:left;">
+            SVG RENDER:
+            <div id="svg-render" style="width:500px; height: 300px; border: 1px solid red; overflow: hidden;"></div>
+        </div>
+        <button style="float:left;"onclick="render_svg()">Render</button>
+        <div style="float:left;">
+            SVG CODE:
+            <div>
+                <textarea id="svg-code" cols="100" rows="20">
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="-60 -60 500 300" stroke-width="2">
+    <g fill="none">
+        <ellipse stroke="#66899a" rx="6" ry="44"/>
+        <ellipse stroke="#e1d85d" rx="6" ry="44" transform="rotate(-66)"/>
+        <ellipse stroke="#80a3cf" rx="6" ry="44" transform="rotate(66)"/>
+        <circle  stroke="#4b541f" r="44"/>
+    </g>
+    <g fill="#66899a" stroke="white">
+        <circle fill="#80a3cf" r="13"/>
+        <circle cy="-44" r="9"/>
+        <circle cx="-40" cy="18" r="9"/>
+        <circle cx="40" cy="18" r="9"/>
+    </g>
+</svg>
+                </textarea>
+            </div>
+        </div>
+        <div style="clear: both"></div>
+    </div>
 </body>
 </html>
