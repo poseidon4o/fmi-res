@@ -285,6 +285,8 @@ private:
     void drawGame(HDC hdc) const {
         auto original = SelectObject(hdc, GetStockObject(DC_PEN));
         gassert(original != nullptr && original != HGDI_ERROR && "Failed to select DC_PEN object");
+        auto originalBrush = SelectObject(hdc, GetStockObject(DC_BRUSH));
+        gassert(originalBrush != nullptr && originalBrush != HGDI_ERROR && "Failed to select DC_BRUSH object");
         
         auto prevColor = SetDCPenColor(hdc, RGB(0, 0, 0));
         gassert(CLR_INVALID != prevColor && "SetDCPenColor failed to set black color");
@@ -296,7 +298,17 @@ private:
             gassert(apiR && "Failed to LineTo for mirror");
         }
 
-        // TODO: draw target
+        // target as green filled circle
+        prevColor = SetDCPenColor(hdc, RGB(0, 255, 0));
+        gassert(CLR_INVALID != prevColor && "SetDCPenColor failed to set red color");
+        prevColor = SetDCBrushColor(hdc, RGB(0, 255, 0));
+        gassert(CLR_INVALID != prevColor && "SetDCBrushColor failed to set red color");
+        apiR = Pie(hdc,
+            m_config.target.x - m_config.targetRadius, m_config.target.y - m_config.targetRadius,
+            m_config.target.x + m_config.targetRadius, m_config.target.y + m_config.targetRadius,
+            m_config.target.x - m_config.targetRadius, m_config.target.y - m_config.targetRadius,
+            m_config.target.x - m_config.targetRadius, m_config.target.y - m_config.targetRadius);
+        gassert(apiR && "Failed Pie for target");
 
         prevColor = SetDCPenColor(hdc, RGB(255, 0, 0));
         gassert(CLR_INVALID != prevColor && "SetDCPenColor failed to set red color");
@@ -311,6 +323,7 @@ private:
         }
 
         SelectObject(hdc, original);
+        SelectObject(hdc, originalBrush);
     }
 
     // THE ui loop, will signal when set up, so init can return
@@ -404,6 +417,7 @@ private:
     HINSTANCE m_instance; // the instance of the program
 };
 
+// holds pointer to the window created by the main function, used in bare functions API
 static GWindow * _window;
 
 inline LRESULT CALLBACK WindowProc(HWND hwnd, UINT uMsg, WPARAM wParam, LPARAM lParam) {
@@ -412,9 +426,11 @@ inline LRESULT CALLBACK WindowProc(HWND hwnd, UINT uMsg, WPARAM wParam, LPARAM l
 
 } // namespace __gameInternal
 
+// TODO: figure out how to handle main(void) and main(int, char **)
+// prototype for the user function
 int _user_main();
 
-int WINAPI wWinMain(HINSTANCE hInstance, HINSTANCE, PWSTR pCmdLine, int nCmdShow) {
+inline int WINAPI wWinMain(HINSTANCE hInstance, HINSTANCE, PWSTR pCmdLine, int nCmdShow) {
     const char * CONFIG_FILE = "game.cfg";
     __gameInternal::GameConfig config;
 
@@ -434,7 +450,7 @@ int WINAPI wWinMain(HINSTANCE hInstance, HINSTANCE, PWSTR pCmdLine, int nCmdShow
     return userResult;
 }
 
-
+// do this so we avoid entry point linking issues
 #define main _user_main    
 
 
@@ -446,5 +462,6 @@ inline void SetRaySegment(double fromX, double fromY, double toX, double toY) {
     __gameInternal::_window->writeLine(__gameInternal::Line(fromX, fromY, toX, toY));
 }
 
+// dont pollute user's code
 #undef gassert
 #undef _CRT_SECURE_NO_WARNINGS
