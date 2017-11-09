@@ -58,7 +58,9 @@ struct GameConfig {
                 fclose(file);
             }
         });
+        gassert(confFile.get() && "Missing config file!");
         if (!confFile) {
+            puts("Config file is not found, it must be in working directory!");
             return false;
         }
 
