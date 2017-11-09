@@ -25,6 +25,7 @@ namespace __gameInternal {
     #define gassert(test)
 #endif
 
+/// Represents point with real coordinates
 struct Point {
     double x;
     double y;
@@ -32,6 +33,7 @@ struct Point {
     Point() {}
 };
 
+/// Represnts line withr eal coordinates
 struct Line {
     Point from;
     Point to;
@@ -40,6 +42,7 @@ struct Line {
     Line() {}
 };
 
+/// Game settings grouped in struct
 struct GameConfig {
     int width;
     int height;
@@ -99,8 +102,11 @@ struct GameConfig {
     }
 };
 
+/// Prototype for UI callbacks from windows
 LRESULT CALLBACK WindowProc(HWND hwnd, UINT uMsg, WPARAM wParam, LPARAM lParam);
 
+/// Main application window, holds game state, game config, and UI thread
+/// *MUST* call waitClose before dtor!
 class GWindow {
     enum UiThreadState {
         UNINITIALIZED, FAILED, RUNNING, STOPPED
@@ -115,6 +121,13 @@ public:
         , m_instance(instance) 
     {}
 
+    ~GWindow() {
+        // we can't abandon threads!
+        gassert(!m_uiThread.joinable() && "Must call .waitClose() before exit");
+    }
+
+    // init the the UI (thread and window)
+    // return - true on success, false otherwise
     bool init() {
         m_uiState = UiThreadState::UNINITIALIZED;
 
@@ -136,38 +149,10 @@ public:
         return result == UiThreadState::RUNNING;
     }
 
-    bool getUserClick(Point &p) const {
-        // don't read input if active window is not ours
-        if (GetActiveWindow() != m_handle) {
-            return false;
-        }
-        // figure if usser usses left or right-handed mouse
-        const bool swap = GetSystemMetrics(SM_SWAPBUTTON);
-        const int mbutton = swap ? VK_RBUTTON : VK_LBUTTON;
-
-        if (!GetAsyncKeyState(mbutton)) {
-            return false;
-        }
-        POINT mouse;
-        GetCursorPos(&mouse);
-        ScreenToClient(m_handle, &mouse);
-
-        RECT winRect;
-        GetWindowRect(m_handle, &winRect);
-
-        if (mouse.x >= 0
-            && mouse.y >= 0
-            && mouse.x < winRect.right - winRect.left
-            && mouse.y < winRect.bottom - winRect.top) {
-
-            p.x = mouse.x;
-            p.y = mouse.y;
-            return true;
-        }
-
-        return false;
-    }
-
+    // Call to fill the array with game config and user input
+    // Blocks until user clicks 2 times on the screen
+    // If user has closed the window before providing input, this will just return
+    // without filling the provided buffer
     void readGameData(double * data) const {
         {
             std::unique_lock<std::mutex> readyLock(m_readyMtx);
@@ -211,6 +196,7 @@ public:
         }
     }
 
+    // Add user created line (part of the ray)
     void writeLine(Line line) {
         {
             std::lock_guard<std::mutex> lock(m_userLinesMtx);
@@ -226,6 +212,7 @@ public:
         }
     }
 
+    // Handles message for UI (paint, quit and left click)
     LRESULT handleMessage(HWND hwnd, UINT uMsg, WPARAM wParam, LPARAM lParam) {
         switch (uMsg) {
             case WM_DESTROY: {
@@ -265,7 +252,8 @@ public:
         }
         return DefWindowProc(hwnd, uMsg, wParam, lParam);
     }
-    
+
+    // waits until the window is cloes and joins the UI thread
     void waitClose() {
         {
             std::unique_lock<std::mutex> uiLock(m_uiRunningMtx);
@@ -280,6 +268,7 @@ public:
     }
 
 private:
+    // register user click (ignores calls after the second one - only 2 click required)
     void addUserInput(int x, int y) {
         if (m_userInputIdx >= 2) {
             return;
@@ -292,6 +281,7 @@ private:
         }
     }
 
+    // draw all object in the window (mirrors, target, user lines)
     void drawGame(HDC hdc) const {
         auto original = SelectObject(hdc, GetStockObject(DC_PEN));
         gassert(original != nullptr && original != HGDI_ERROR && "Failed to select DC_PEN object");
@@ -305,6 +295,8 @@ private:
             apiR = LineTo(hdc, line.to.x, line.to.y);
             gassert(apiR && "Failed to LineTo for mirror");
         }
+
+        // TODO: draw target
 
         prevColor = SetDCPenColor(hdc, RGB(255, 0, 0));
         gassert(CLR_INVALID != prevColor && "SetDCPenColor failed to set red color");
@@ -321,6 +313,8 @@ private:
         SelectObject(hdc, original);
     }
 
+    // THE ui loop, will signal when set up, so init can return
+    // before returning will signal UI cond var, and input cond var
     void uiLoop() {
         using namespace std::chrono;
         bool success = true;
@@ -407,7 +401,7 @@ private:
 
     HWND m_handle; // the draw window handle
     std::thread m_uiThread; // the thread running the UI calls
-    HINSTANCE m_instance;
+    HINSTANCE m_instance; // the instance of the program
 };
 
 static GWindow * _window;
