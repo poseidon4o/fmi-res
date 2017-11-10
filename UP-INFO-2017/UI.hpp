@@ -286,6 +286,7 @@ public:
     }
 
 private:
+    // Posts a repaint message to the window
     void triggerRepaint() const {
         std::lock_guard<std::mutex> uiLock(m_uiRunningMtx);
         if (m_uiState == UiThreadState::RUNNING) {
