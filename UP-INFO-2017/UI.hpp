@@ -241,11 +241,10 @@ public:
                 return 0;
             }
             case WM_PRINTCLIENT: {
-                HDC hdc = (HDC)wParam;
-                DWORD flags = (DWORD)lParam;
+                HDC hdc = reinterpret_cast<HDC>(wParam);
                 RECT clRect;
                 GetClientRect(m_handle, &clRect);
-                FillRect(hdc, &clRect, (HBRUSH)(COLOR_WINDOW + 1));
+                FillRect(hdc, &clRect, reinterpret_cast<HBRUSH>(COLOR_WINDOW + 1));
                 drawGame(hdc);
                 return 0;
             }
@@ -253,7 +252,7 @@ public:
                 PAINTSTRUCT ps;
                 HDC hdc = BeginPaint(hwnd, &ps);
 
-                FillRect(hdc, &ps.rcPaint, (HBRUSH)(COLOR_WINDOW + 1));
+                FillRect(hdc, &ps.rcPaint, reinterpret_cast<HBRUSH>(COLOR_WINDOW + 1));
                 drawGame(hdc);
 
                 EndPaint(hwnd, &ps);
@@ -332,12 +331,14 @@ private:
         prevColor = SetDCPenColor(hdc, RGB(255, 0, 0));
         gassert(CLR_INVALID != prevColor && "SetDCPenColor failed to set red color");
 
-        // ray start
-        const IPoint from(m_userInput[0]), to(m_userInput[1]);
-        apiR = MoveToEx(hdc, from.x, from.y, nullptr);
-        gassert(apiR && "Failed MoveToEx for user line");
-        apiR = LineTo(hdc, to.x, to.y);
-        gassert(apiR && "Failed to LineTo for user line");
+        {
+            // ray start
+            const IPoint from(m_userInput[0]), to(m_userInput[1]);
+            apiR = MoveToEx(hdc, from.x, from.y, nullptr);
+            gassert(apiR && "Failed MoveToEx for user line");
+            apiR = LineTo(hdc, to.x, to.y);
+            gassert(apiR && "Failed to LineTo for user line");
+        }
 
         // user-created ray parts
         {
@@ -405,7 +406,8 @@ private:
             if (getMsg == -1) {
                 printf("GetMessage returned -1, error: %d\n", GetLastError());
             } else {
-                auto res = TranslateMessage(&msg);
+                /*auto res = */
+                TranslateMessage(&msg);
                 // TODO: should this return 0 most of the time!?
                 // gassert(res && "Failed to TranslateMessage");
                 // return value of DispatchMessage is "generally ignored"
