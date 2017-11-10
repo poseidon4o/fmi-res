@@ -402,7 +402,7 @@ private:
 
         MSG msg = {};
         BOOL getMsg;
-        while ((getMsg = GetMessage(&msg, NULL, 0, 0)) != 0) {
+        while ((getMsg = GetMessage(&msg, nullptr, 0, 0)) != 0) {
             if (getMsg == -1) {
                 printf("GetMessage returned -1, error: %d\n", GetLastError());
             } else {
