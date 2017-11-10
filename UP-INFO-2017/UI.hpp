@@ -307,6 +307,7 @@ private:
         auto prevColor = SetDCPenColor(hdc, RGB(0, 0, 0));
         gassert(CLR_INVALID != prevColor && "SetDCPenColor failed to set black color");
         BOOL apiR;
+        // mirrors
         for (const auto & line : m_config.mirrors) {
             const IPoint from(line.from), to(line.to);
             apiR = MoveToEx(hdc, from.x, from.y, nullptr);
@@ -327,8 +328,18 @@ private:
             topLeft.x, topLeft.x, topLeft.x, topLeft.x);
         gassert(apiR && "Failed Pie for target");
 
+
         prevColor = SetDCPenColor(hdc, RGB(255, 0, 0));
         gassert(CLR_INVALID != prevColor && "SetDCPenColor failed to set red color");
+
+        // ray start
+        const IPoint from(m_userInput[0]), to(m_userInput[1]);
+        apiR = MoveToEx(hdc, from.x, from.y, nullptr);
+        gassert(apiR && "Failed MoveToEx for user line");
+        apiR = LineTo(hdc, to.x, to.y);
+        gassert(apiR && "Failed to LineTo for user line");
+
+        // user-created ray parts
         {
             std::lock_guard<std::mutex> lineLock(m_userLinesMtx);
             for (const auto & line : m_userLines) {
