@@ -48,7 +48,7 @@ struct IPoint {
     explicit IPoint(const Point & p): x(static_cast<int>(p.x)), y(static_cast<int>(p.y)) {}
 };
 
-/// Represnts line withr eal coordinates
+/// Represnts line with real coordinates
 struct Line {
     Point from;
     Point to;
