@@ -14,7 +14,8 @@
 #include <chrono>
 #include <thread>
 #include <mutex>
-
+#include <memory>
+#include <condition_variable>
 
 // TODO: move all cond var notifies out of locks
 
