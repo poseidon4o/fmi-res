@@ -1,6 +1,12 @@
 #pragma once
 
 #define _CRT_SECURE_NO_WARNINGS
+
+// for g++/codeblocks
+#ifndef _WIN32_WINNT
+#define _WIN32_WINNT 0x0500
+#endif
+
 #include <Windows.h>
 #include <Windowsx.h>
 #include <tchar.h>
