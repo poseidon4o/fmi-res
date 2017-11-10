@@ -105,7 +105,7 @@ struct GameConfig {
 
         for (int c = 0; c < cfg.mirrorCount; c++) {
             auto & mirror = cfg.mirrors[c];
-            
+
             readFromCofig(&mirror.from.x, "%lf");
             readFromCofig(&mirror.from.y, "%lf");
 
@@ -134,8 +134,8 @@ public:
         , m_userInputIdx(0)
         , m_config(conf)
         , m_uiState(UNINITIALIZED)
-        , m_handle(nullptr) 
-        , m_instance(instance) 
+        , m_handle(nullptr)
+        , m_instance(instance)
     {}
 
     ~GWindow() {
@@ -186,7 +186,7 @@ public:
             return;
         }
 
-        // since we will 
+        // since we will
         const auto & mirrors = m_config.mirrors;
         int outIdx = 0;
         auto push = [data, &outIdx](double value) {
@@ -309,7 +309,7 @@ private:
         gassert(original != nullptr && original != HGDI_ERROR && "Failed to select DC_PEN object");
         auto originalBrush = SelectObject(hdc, GetStockObject(DC_BRUSH));
         gassert(originalBrush != nullptr && originalBrush != HGDI_ERROR && "Failed to select DC_BRUSH object");
-        
+
         auto prevColor = SetDCPenColor(hdc, RGB(0, 0, 0));
         gassert(CLR_INVALID != prevColor && "SetDCPenColor failed to set black color");
         BOOL apiR;
@@ -471,10 +471,8 @@ inline LRESULT CALLBACK WindowProc(HWND hwnd, UINT uMsg, WPARAM wParam, LPARAM l
 // prototype for the user function
 int _user_main();
 
-#pragma warning( push )
-#pragma warning( disable : 4008) // 'wWinMain': 'inline' attribute ignored
-
-inline int WINAPI _tWinMain(HINSTANCE hInstance, HINSTANCE, _TCHAR *, int) {
+// g++ will not link this if it is inline
+int WINAPI _tWinMain(HINSTANCE hInstance, HINSTANCE, _TCHAR *, int) {
     const char * CONFIG_FILE = "game.cfg";
     __gameInternal::GameConfig config;
 
@@ -493,10 +491,9 @@ inline int WINAPI _tWinMain(HINSTANCE hInstance, HINSTANCE, _TCHAR *, int) {
 
     return userResult;
 }
-#pragma warning( push )
 
 // do this so we avoid entry point linking issues
-#define main _user_main    
+#define main _user_main
 
 
 inline void GetInput(double * data) {
