@@ -128,10 +128,13 @@ class GWindow {
     enum UiThreadState {
         UNINITIALIZED, FAILED, RUNNING, STOPPED
     };
+
+    GWindow(const GWindow&);
+    void operator=(const GWindow&);
 public:
     GWindow(const GameConfig & conf, HINSTANCE instance)
-        : m_inputReady(false)
-        , m_userInputIdx(0)
+        : m_userInputIdx(0)
+        , m_inputReady(false)
         , m_config(conf)
         , m_uiState(UNINITIALIZED)
         , m_handle(nullptr)
@@ -391,12 +394,12 @@ private:
         const int offsetY = clientH / 2 - h / 2;
 
         m_handle = CreateWindowEx(0, CLASS_NAME, TEXT("Mirrors"),
-            WS_VISIBLE | WS_OVERLAPPEDWINDOW ^ WS_THICKFRAME ^ WS_MAXIMIZEBOX,
+            (WS_VISIBLE | WS_OVERLAPPEDWINDOW) ^ WS_THICKFRAME ^ WS_MAXIMIZEBOX,
             offsetX, offsetY, w, h, nullptr, nullptr, m_instance, nullptr
         );
 
         if (!m_handle) {
-            printf("Failed to create main window %d", GetLastError());
+            printf("Failed to create main window %u", static_cast<unsigned>(GetLastError()));
             success = false;
         }
 
@@ -414,7 +417,7 @@ private:
         BOOL getMsg;
         while ((getMsg = GetMessage(&msg, nullptr, 0, 0)) != 0) {
             if (getMsg == -1) {
-                printf("GetMessage returned -1, error: %d\n", GetLastError());
+                printf("GetMessage returned -1, error: %u\n", static_cast<unsigned>(GetLastError()));
             } else {
                 /*auto res = */
                 TranslateMessage(&msg);
