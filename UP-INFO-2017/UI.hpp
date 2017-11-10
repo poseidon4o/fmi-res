@@ -495,6 +495,10 @@ int WINAPI _tWinMain(HINSTANCE hInstance, HINSTANCE, _TCHAR *, int) {
     return userResult;
 }
 
+int _tmain() {
+    return _tWinMain(GetInstanceModule(nullptr), nullptr, nullptr, 0);
+}
+
 // do this so we avoid entry point linking issues
 #define main _user_main
 
