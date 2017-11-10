@@ -339,12 +339,15 @@ private:
         gassert(CLR_INVALID != prevColor && "SetDCPenColor failed to set red color");
 
         {
-            // ray start
-            const IPoint from(m_userInput[0]), to(m_userInput[1]);
-            apiR = MoveToEx(hdc, from.x, from.y, nullptr);
-            gassert(apiR && "Failed MoveToEx for user line");
-            apiR = LineTo(hdc, to.x, to.y);
-            gassert(apiR && "Failed to LineTo for user line");
+            std::lock_guard<std::mutex> inputLock(m_readyMtx);
+            if (m_inputReady) {
+                // ray start
+                const IPoint from(m_userInput[0]), to(m_userInput[1]);
+                apiR = MoveToEx(hdc, from.x, from.y, nullptr);
+                gassert(apiR && "Failed MoveToEx for user line");
+                apiR = LineTo(hdc, to.x, to.y);
+                gassert(apiR && "Failed to LineTo for user line");
+            }
         }
 
         // user-created ray parts
