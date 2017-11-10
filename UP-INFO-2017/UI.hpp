@@ -228,14 +228,7 @@ public:
             std::lock_guard<std::mutex> lock(m_userLinesMtx);
             m_userLines.push_back(line);
         }
-
-        {
-            std::lock_guard<std::mutex> uiLock(m_uiRunningMtx);
-            if (m_uiState == UiThreadState::RUNNING) {
-                const auto postRes = PostMessage(m_handle, WM_PRINTCLIENT, (WPARAM)GetDC(m_handle), 0);
-                gassert(postRes != 0 && "Failde to PostMessage on writeLine");
-            }
-        }
+        triggerRepaint();
     }
 
     // Handles message for UI (paint, quit and left click)
@@ -293,6 +286,14 @@ public:
     }
 
 private:
+    void triggerRepaint() const {
+        std::lock_guard<std::mutex> uiLock(m_uiRunningMtx);
+        if (m_uiState == UiThreadState::RUNNING) {
+            const auto postRes = PostMessage(m_handle, WM_PRINTCLIENT, (WPARAM)GetDC(m_handle), 0);
+            gassert(postRes != 0 && "Failde to PostMessage on writeLine");
+        }
+    }
+
     // register user click (ignores calls after the second one - only 2 click required)
     void addUserInput(int x, int y) {
         if (m_userInputIdx >= 2) {
@@ -304,6 +305,7 @@ private:
             m_inputReady = true;
             m_readyCondVar.notify_all();
         }
+        triggerRepaint();
     }
 
     // draw all object in the window (mirrors, target, user lines)
