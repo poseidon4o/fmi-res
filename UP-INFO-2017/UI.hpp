@@ -3,6 +3,7 @@
 #define _CRT_SECURE_NO_WARNINGS
 #include <Windows.h>
 #include <Windowsx.h>
+#include <tchar.h>
 
 #include <cstdio>
 
@@ -31,6 +32,13 @@ struct Point {
     double y;
     Point(double x, double y): x(x), y(y) {}
     Point() {}
+};
+
+/// Used to avoid casts everywhere Point needs to be passed to WIN API
+struct IPoint {
+    int x;
+    int y;
+    explicit IPoint(const Point & p): x(static_cast<int>(p.x)), y(static_cast<int>(p.y)) {}
 };
 
 /// Represnts line withr eal coordinates
@@ -300,9 +308,10 @@ private:
         gassert(CLR_INVALID != prevColor && "SetDCPenColor failed to set black color");
         BOOL apiR;
         for (const auto & line : m_config.mirrors) {
-            apiR = MoveToEx(hdc, line.from.x, line.from.y, nullptr);
+            const IPoint from(line.from), to(line.to);
+            apiR = MoveToEx(hdc, from.x, from.y, nullptr);
             gassert(apiR && "Failed MoveToEx for mirror");
-            apiR = LineTo(hdc, line.to.x, line.to.y);
+            apiR = LineTo(hdc, to.x, to.y);
             gassert(apiR && "Failed to LineTo for mirror");
         }
 
@@ -311,11 +320,11 @@ private:
         gassert(CLR_INVALID != prevColor && "SetDCPenColor failed to set red color");
         prevColor = SetDCBrushColor(hdc, RGB(0, 255, 0));
         gassert(CLR_INVALID != prevColor && "SetDCBrushColor failed to set red color");
+        const IPoint topLeft(Point(m_config.target.x - m_config.targetRadius, m_config.target.y - m_config.targetRadius));
+        const IPoint rightBot(Point(m_config.target.x + m_config.targetRadius, m_config.target.y + m_config.targetRadius));
         apiR = Pie(hdc,
-            m_config.target.x - m_config.targetRadius, m_config.target.y - m_config.targetRadius,
-            m_config.target.x + m_config.targetRadius, m_config.target.y + m_config.targetRadius,
-            m_config.target.x - m_config.targetRadius, m_config.target.y - m_config.targetRadius,
-            m_config.target.x - m_config.targetRadius, m_config.target.y - m_config.targetRadius);
+            topLeft.x, topLeft.x, rightBot.x, rightBot.y,
+            topLeft.x, topLeft.x, topLeft.x, topLeft.x);
         gassert(apiR && "Failed Pie for target");
 
         prevColor = SetDCPenColor(hdc, RGB(255, 0, 0));
@@ -323,9 +332,10 @@ private:
         {
             std::lock_guard<std::mutex> lineLock(m_userLinesMtx);
             for (const auto & line : m_userLines) {
-                apiR = MoveToEx(hdc, line.from.x, line.from.y, nullptr);
+                const IPoint from(line.from), to(line.to);
+                apiR = MoveToEx(hdc, from.x, from.y, nullptr);
                 gassert(apiR && "Failed MoveToEx for user line");
-                apiR = LineTo(hdc, line.to.x, line.to.y);
+                apiR = LineTo(hdc, to.x, to.y);
                 gassert(apiR && "Failed to LineTo for user line");
             }
         }
@@ -339,7 +349,7 @@ private:
     void uiLoop() {
         using namespace std::chrono;
         bool success = true;
-        const char CLASS_NAME[] = "Sample Window Class";
+        const _TCHAR CLASS_NAME[] = TEXT("Dummy Window Class");
 
         WNDCLASS wc = {};
 
@@ -358,7 +368,7 @@ private:
         const int offsetX = clientW / 2 - w / 2;
         const int offsetY = clientH / 2 - h / 2;
 
-        m_handle = CreateWindowEx(0, CLASS_NAME, "Mirrors",
+        m_handle = CreateWindowEx(0, CLASS_NAME, TEXT("Mirrors"),
             WS_VISIBLE | WS_OVERLAPPEDWINDOW ^ WS_THICKFRAME ^ WS_MAXIMIZEBOX,
             offsetX, offsetY, w, h, nullptr, nullptr, m_instance, nullptr
         );
@@ -438,7 +448,10 @@ inline LRESULT CALLBACK WindowProc(HWND hwnd, UINT uMsg, WPARAM wParam, LPARAM l
 // prototype for the user function
 int _user_main();
 
-inline int WINAPI wWinMain(HINSTANCE hInstance, HINSTANCE, PWSTR pCmdLine, int nCmdShow) {
+#pragma warning( push )
+#pragma warning( disable : 4008) // 'wWinMain': 'inline' attribute ignored
+
+inline int WINAPI _tWinMain(HINSTANCE hInstance, HINSTANCE, _TCHAR *, int) {
     const char * CONFIG_FILE = "game.cfg";
     __gameInternal::GameConfig config;
 
@@ -457,6 +470,7 @@ inline int WINAPI wWinMain(HINSTANCE hInstance, HINSTANCE, PWSTR pCmdLine, int n
 
     return userResult;
 }
+#pragma warning( push )
 
 // do this so we avoid entry point linking issues
 #define main _user_main    
