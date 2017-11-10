@@ -180,14 +180,20 @@ public:
 
         push(m_config.width);
         push(m_config.height);
-        push(m_config.mirrorCount);
-        push(m_config.maxReflect);
+
+        push(m_config.target.x);
+        push(m_config.target.y);
+        push(m_config.targetRadius);
+
         // ray start
         push(m_userInput[0].x);
         push(m_userInput[0].y);
         // ray end
         push(m_userInput[1].x);
         push(m_userInput[1].y);
+
+        push(m_config.maxReflect);
+        push(m_config.mirrorCount);
 
         for (const auto & mirror : mirrors) {
             push(mirror.from.x);
