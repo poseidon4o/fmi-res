@@ -387,6 +387,7 @@ private:
 
         auto atom = RegisterClass(&wc);
         gassert(atom && "Failed to RegisterClass UI class");
+        const DWORD windowStyle = (WS_VISIBLE | WS_OVERLAPPEDWINDOW) ^ WS_THICKFRAME ^ WS_MAXIMIZEBOX;
 
         const int w = m_config.width;
         const int h = m_config.height;
@@ -396,9 +397,17 @@ private:
         const int offsetX = clientW / 2 - w / 2;
         const int offsetY = clientH / 2 - h / 2;
 
-        m_handle = CreateWindowEx(0, CLASS_NAME, TEXT("Mirrors"),
-            (WS_VISIBLE | WS_OVERLAPPEDWINDOW) ^ WS_THICKFRAME ^ WS_MAXIMIZEBOX,
-            offsetX, offsetY, w, h, nullptr, nullptr, m_instance, nullptr
+        // Knowing our client area, calculate the window area
+        RECT clientArea;
+		clientArea.top = offsetY;
+        clientArea.left = offsetX;
+        clientArea.right = w + offsetX;
+        clientArea.bottom = h + offsetY;
+        AdjustWindowRect(&clientArea, windowStyle, false);
+
+        m_handle = CreateWindowEx(0, CLASS_NAME, TEXT("Mirrors"), windowStyle,
+            clientArea.left, clientArea.top, clientArea.right - clientArea.left, clientArea.bottom - clientArea.top,
+            nullptr, nullptr, m_instance, nullptr
         );
 
         if (!m_handle) {
