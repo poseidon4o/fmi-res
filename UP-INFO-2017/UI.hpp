@@ -336,8 +336,8 @@ private:
         const IPoint topLeft(Point(m_config.target.x - m_config.targetRadius, m_config.target.y - m_config.targetRadius));
         const IPoint rightBot(Point(m_config.target.x + m_config.targetRadius, m_config.target.y + m_config.targetRadius));
         apiR = Pie(hdc,
-            topLeft.x, topLeft.x, rightBot.x, rightBot.y,
-            topLeft.x, topLeft.x, topLeft.x, topLeft.x);
+            topLeft.x, topLeft.y, rightBot.x, rightBot.y,
+            topLeft.x, topLeft.y, topLeft.x, topLeft.y);
         gassert(apiR && "Failed Pie for target");
 
 
