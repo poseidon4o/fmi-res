@@ -13,6 +13,7 @@ bool addWallet(Market & market) {
     double money = 0;
     char owner[OWNER_SIZE] = {0,};
     std::cin >> money;
+    std::cin.ignore(); // skip spaces
     std::cin.getline(owner, OWNER_SIZE);
 
     Wallet wallet;
@@ -57,24 +58,28 @@ bool makeOrder(Market & market) {
     bool executed = false;
     char logName[ORDER_LOG_NAME_SIZE];
 
-    if (orderType == Order::Type::SELL) {
+    if (orderType == Order::SELL) {
         const double ballance = getCoinTotal(market, walletId);
         if (ballance < coins) {
             std::cerr << "Wallet with owner \"" << wallet.owner << "\" has only " << ballance << " coins, can't sell " << coins << " coins" << std::endl;
             return false;
         }
-        executed = executeOrder(market, wallet, Order::Type::SELL, coins, logName);
+        executed = executeOrder(market, wallet, Order::SELL, coins, logName);
     } else {
         const double required = toFiat(coins);
         if (wallet.fiatMoney < required) {
-            std::cerr << "Wallet with owner \"" << wallet.owner << "\" has only " << wallet.fiatMoney << " money but needs" << required << " to buy " << coins << " coins" << std::endl;
+            std::cerr << "Wallet with owner \"" << wallet.owner << "\" has only " << wallet.fiatMoney << " money but needs " << required << " to buy " << coins << " coins" << std::endl;
             return false;
         }
-        executed = executeOrder(market, wallet, Order::Type::BUY, coins, logName);
+        executed = executeOrder(market, wallet, Order::BUY, coins, logName);
     }
 
     if (executed) {
-        std::cout << "Order executed, log file: " << logName << std::endl;
+        if (!strcmp(logName, "")) {
+            std::cerr << "Order executed, failed to create log file" << std::endl;
+        } else {
+            std::cout << "Order executed, log file: " << logName << std::endl;
+        }
     }
 
     return executed;
@@ -155,7 +160,7 @@ bool attractInvestors(Market & market) {
     for (int c = 0; c < rankCount; c++) {
         const int walletIdx = ranking[c];
         const WalletInfo & info = totalsInfo[walletIdx];
-        std::cout << "Investor \"" << market.data.wallets[walletIdx].owner << "\" has " << info.coins << "coins" << std::endl
+        std::cout << "Investor \"" << market.data.wallets[walletIdx].owner << "\" has " << info.coins << " coins" << std::endl
                   << "\tmade with " << info.transactCount << " transactions" << std::endl
                   << "\tfirst transaction " << info.firstTransact << std::endl
                   << "\tlast transaction " << info.lastTransact << std::endl;
@@ -176,7 +181,7 @@ void printCoins(double coins) {
 /// @param coins - amount of money in coins
 void printFiat(double fiat) {
     const double coins = toCoins(fiat);
-    std::cout << "{" << std::setprecision(6) << fiat << " BGN}=(" << std::setprecision(6) << fiat << " FMIC)";
+    std::cout << "{" << std::setprecision(6) << fiat << " BGN}=(" << std::setprecision(6) << coins << " FMIC)";
 }
 
 /// Pretty-print all of the market data (wallets, transactions, orders)
@@ -222,13 +227,13 @@ void printMarket(Market & market) {
 }
 
 enum Command {
-    Invalid,
-    AddWallet,
-    MakeOrder,
-    WalletInfo,
-    AttractInvestors,
-    PrintMarket,
-    Quit,
+    CommandInvalid,
+    CommandAddWallet,
+    CommandMakeOrder,
+    CommandWalletInfo,
+    CommandAttractInvestors,
+    CommandPrintMarket,
+    CommandQuit,
 };
 
 /// Read and parse next command
@@ -238,25 +243,25 @@ Command getCommand() {
     char cmdString[64] = {0, };
     std::cin >> cmdString;
     if (!strcmp(cmdString, "add-wallet")) {
-        return Command::AddWallet;
+        return CommandAddWallet;
     } else if (!strcmp(cmdString, "make-order")) {
-        return Command::MakeOrder;
+        return CommandMakeOrder;
     } else if (!strcmp(cmdString, "wallet-info")) {
-        return Command::WalletInfo;
+        return CommandWalletInfo;
     } else if (!strcmp(cmdString, "attract-investors")) {
-        return Command::AttractInvestors;
+        return CommandAttractInvestors;
     } else if (!strcmp(cmdString, "quit")) {
-        return Command::Quit;
+        return CommandQuit;
     } else if (!strcmp(cmdString, "print-market")) {
-        return Command::PrintMarket;
+        return CommandPrintMarket;
     }
-    return Command::Invalid;
+    return CommandInvalid;
 }
 
 /// Read Eval Print Loop for commands, stops on quit command
 /// @param market - ref to market context
 void mainLoop(Market & market) {
-    Command cmd = Command::Invalid;
+    Command cmd = CommandInvalid;
 
     do {
         std::cout << "Commad> ";
@@ -264,25 +269,25 @@ void mainLoop(Market & market) {
         bool success = false;
 
         switch (cmd) {
-        case Command::Invalid:
+        case CommandInvalid:
             std::cout << "Unknown command, try again" << std::endl;
             break;
-        case Command::Quit:
+        case CommandQuit:
             std::cout << "Quitting and saving data..." << std::endl;
             break;
-        case Command::AddWallet:
+        case CommandAddWallet:
             success = addWallet(market);
             break;
-        case Command::MakeOrder:
+        case CommandMakeOrder:
             success = makeOrder(market);
             break;
-        case Command::WalletInfo:
+        case CommandWalletInfo:
             success = walletInfo(market);
             break;
-        case Command::AttractInvestors:
+        case CommandAttractInvestors:
             success = attractInvestors(market);
             break;
-        case Command::PrintMarket:
+        case CommandPrintMarket:
             printMarket(market);
             success = true;
             break;
@@ -294,7 +299,7 @@ void mainLoop(Market & market) {
             std::cerr << "Critical error, shutting down" << std::endl;
             return;
         }
-    } while (cmd != Command::Quit);
+    } while (cmd != CommandQuit);
 }
 
 int main() {

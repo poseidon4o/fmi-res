@@ -22,6 +22,19 @@ static unsigned NEXT_WALLET_ID = 0;
 /// Static convertion rate between FMICoins and fiat money
 static const double CONVERTION_RATE = 365.0;
 
+/// Assume the acceptable epsilon for fiat money is 1% of 1 cent
+static const double FIAT_EPS = (0.01 / 100.0) / CONVERTION_RATE;
+
+/// Keep the acceptable epsilon at the same absolute value
+static const double COIN_EPS = FIAT_EPS * CONVERTION_RATE;
+
+/// Check if value of coins is acceptably zero
+/// @param coins - the amount of coins
+/// @return - true if the amount is "zero"
+static bool isCoinsZero(double coins) {
+    return coins >= -COIN_EPS && coins <= COIN_EPS;
+}
+
 /// Double capacity or init it to some constant
 /// @param current - the current capacity
 /// @return - new capacity
@@ -193,6 +206,123 @@ static bool ensureOrderSpace(Market & market, int count) {
     return true;
 }
 
+/// Create log file and log data for order
+/// @param market - ref to market context
+/// @param walletId - the id of the wallet creating the order
+/// @param firstTransactionIdx - the index of the first transaction created for this order
+/// @param logFileName [out] - destination to write the name of the log file
+/// @return - true on success, false otherwise
+static bool logOrderTransactions(Market & market, unsigned walletId, int firstTransactionIdx, char logFileName[ORDER_LOG_NAME_SIZE]) {
+    const int totalTranctions = market.data.transactionCount - firstTransactionIdx;
+
+    char logName[ORDER_LOG_NAME_SIZE] = { 0, };
+    snprintf(logName, sizeof(logName), "transaction-%u-%lld.log", walletId, currentTime());
+    std::ofstream logFile(logName, std::ios::out | std::ios::trunc);
+
+    if (!logFile) {
+        return false;
+    }
+
+    double coins = 0;
+    for (int c = firstTransactionIdx; c < market.data.transactionCount; c++) {
+        Transaction & transact = market.data.transactions[c];
+        coins += transact.fmiCoins;
+
+        const int senderIndex = getWalletIndex(market, transact.senderId);
+        assert(senderIndex != -1 && "Could not find sender for order");
+        const int recieverIndex = getWalletIndex(market, transact.receiverId);
+        assert(recieverIndex != -1 && "Could not find reciever for order");
+
+        logFile << "Sender: " << market.data.wallets[senderIndex].owner
+            << "\tReciever: " << market.data.wallets[recieverIndex].owner
+            << "\tcoins: " << transact.fmiCoins << std::endl;
+    }
+
+    logFile << "Transactoion count: " << totalTranctions << std::endl
+        << "Oders total cost: " << coins << std::endl;
+
+    strncpy(logFileName, logName, ORDER_LOG_NAME_SIZE);
+    logFile.close();
+    return true;
+}
+
+/// Execute all transaction caused by new order
+/// @param market - ref to market context
+/// @param newOrder [in|out] - ref to new order, it's fmiCoins will be modified if needed
+/// @return - true on success, false otherwise
+static bool executeOrderTransactions(Market & market, Order & newOrder) {
+    double coinsRemaining = newOrder.fmiCoins;
+    int transactCount = 0;
+
+    // find how many transaction we must make
+    for (int c = 0; c < market.data.orderCount; c++) {
+        Order & currentOrder = market.data.orders[c];
+        transactCount++;
+        coinsRemaining = std::max(0.0, coinsRemaining - currentOrder.fmiCoins);
+        if (isCoinsZero(coinsRemaining)) {
+            break;
+        }
+    }
+
+    // make space for transactions
+    if (!ensureTransactionSpace(market, transactCount)) {
+        return false;
+    }
+
+    // make space for order
+    if (!isCoinsZero(coinsRemaining) && !ensureOrderSpace(market, 1)) {
+        return false;
+    }
+
+    // make transactions
+    const int firstTransaction = market.data.transactionCount;
+    int removedOrders = 0;
+    for (int c = 0; c < market.data.orderCount; c++) {
+        Order & currentOrder = market.data.orders[c];
+
+        unsigned senderId = -1, recieverId = -1;
+        const double transactCoins = std::min(newOrder.fmiCoins, currentOrder.fmiCoins);
+
+        if (newOrder.type == Order::Type::SELL) {
+            // newOrder.id -> currentOrder.id
+            senderId = newOrder.walletId;
+            recieverId = currentOrder.walletId;
+        } else {
+            // currentOrder.id -> newOrder.id
+            senderId = currentOrder.walletId;
+            recieverId = newOrder.walletId;
+        }
+
+        bool done = false;
+        if (newOrder.fmiCoins >= currentOrder.fmiCoins) {
+            removedOrders++;
+            newOrder.fmiCoins -= currentOrder.fmiCoins;
+        } else {
+            currentOrder.fmiCoins -= newOrder.fmiCoins;
+            newOrder.fmiCoins = 0;
+            done = true;
+        }
+
+        market.data.wallets[senderId].fiatMoney += toFiat(transactCoins);
+        market.data.wallets[recieverId].fiatMoney -= toFiat(transactCoins);
+
+        const bool madeTransaction = makeTransaction(market, recieverId, senderId, transactCoins);
+        assert(madeTransaction && "Failed to make transaction after ensureTransactionSpace returned true");
+        if (done) {
+            break;
+        }
+    }
+
+    if (removedOrders > 0) {
+        // we removed some orders, but we want to keep them in order, so move remaining forward
+        const int newOrderCount = market.data.orderCount - removedOrders;
+        memcpy(market.data.orders, market.data.orders + removedOrders, newOrderCount * sizeof(Order));
+        market.data.orderCount = newOrderCount;
+    }
+
+    return true;
+}
+
 // PUBLIC FUNCTIONS BELOW
 
 double toFiat(double coins) {
@@ -307,113 +437,33 @@ int getWalletIndex(Market & market, unsigned walletId) {
 }
 
 bool executeOrder(Market & market, Wallet & wallet, Order::Type type, double coins, char logName[ORDER_LOG_NAME_SIZE]) {
+    logName[0] = '\0'; // asume logging failed
+
     Order newOrder = {type, wallet.id, coins};
+    const int firstTransactionIdx = market.data.transactionCount;
 
-    char logFileName[ORDER_LOG_NAME_SIZE] = {0,};
-    snprintf(logFileName, sizeof(logFileName), "transaction-%u-%lld.log", newOrder.walletId, currentTime());
-    std::ofstream orderLogFile(logFileName, std::ios::out | std::ios::trunc);
-
-    if (!orderLogFile) {
-        return false;
-    }
-
-    // do we have orders to fulfill
-    int transactCount = 0;
+    // the types of all order in the market will be all SELL or either all BUY, because any order of different type will
+    // be either "consumed" whole by existing orders of the opposite type
+    //        or consume all existing orders and be added in the market
     if (market.data.orderCount > 0 && market.data.orders[0].type != type) {
-        double coinsRemaining = newOrder.fmiCoins;
-        
-        // find how many transaction we must make
-        for (int c = 0; c < market.data.orderCount; c++) {
-            Order & currentOrder = market.data.orders[c];
-            transactCount++;
-            coinsRemaining = std::max(0.0, coinsRemaining - currentOrder.fmiCoins);
-            if (coinsRemaining == 0.0) {
-                break;
-            }
-        }
-
-        // make space for transactions
-        if (!ensureTransactionSpace(market, transactCount)) {
-            orderLogFile.close();
-            std::remove(logFileName);
+        // fulfil any orders we can
+        if (!executeOrderTransactions(market, newOrder)) {
             return false;
-        }
-
-        // make space for order
-        if (coinsRemaining > 0.0 && !ensureOrderSpace(market, 1)) {
-            orderLogFile.close();
-            std::remove(logFileName);
-           return false;
-        }
-
-        // make transactions
-        const int firstTransaction = market.data.transactionCount;
-        int removedOrders = 0;
-        for (int c = 0; c < market.data.orderCount; c++) {
-            Order & currentOrder = market.data.orders[c];
-            
-            unsigned senderId = -1, recieverId = -1;
-            const double transactCoins = std::min(newOrder.fmiCoins, currentOrder.fmiCoins);
-
-            if (newOrder.type == Order::Type::SELL) {
-                // newOrder.id -> currentOrder.id 
-                senderId = newOrder.walletId;
-                recieverId = currentOrder.walletId;
-            } else {
-                // currentOrder.id -> newOrder.id
-                senderId = currentOrder.walletId;
-                recieverId = newOrder.walletId;
-            }
-
-            if (newOrder.fmiCoins >= currentOrder.fmiCoins) {
-                removedOrders++;
-                newOrder.fmiCoins -= currentOrder.fmiCoins;
-            } else {
-                currentOrder.fmiCoins -= newOrder.fmiCoins;
-                newOrder.fmiCoins = 0;
-            }
-
-            const int senderIndex = getWalletIndex(market, senderId);
-            assert(senderIndex != -1 && "Could not find sender for order");
-            const int recieverIndex = getWalletIndex(market, recieverId);
-            assert(recieverIndex != -1 && "Could not find reciever for order");
-
-            orderLogFile << "Sender: " << market.data.wallets[senderIndex].owner
-                         << "\tReciever: " << market.data.wallets[recieverIndex].owner
-                         << "\tcoins: " << transactCoins << std::endl;
-
-            market.data.wallets[senderId].fiatMoney += toFiat(transactCoins);
-            market.data.wallets[recieverId].fiatMoney -= toFiat(transactCoins);
-
-            const bool madeTransaction = makeTransaction(market, recieverId, senderId, transactCoins);
-            assert(madeTransaction && "Failed to make transaction after ensureTransactionSpace returned true");
-            if (newOrder.fmiCoins == 0.0) {
-                break;
-            }
-        }
-
-        if (removedOrders > 0) {
-            // we removed some orders, but we want to keep them in order, so move remaining forward
-            const int newOrderCount = market.data.orderCount - removedOrders;
-            memcpy(market.data.orders, market.data.orders + removedOrders, newOrderCount * sizeof(Order));
-            market.data.orderCount = newOrderCount;
         }
     } else {
         // we have orders of the same type, so we just need to add the order
         if (!ensureOrderSpace(market, 1)) {
-            orderLogFile.close();
-            std::remove(logFileName);
             return false;
         }
     }
 
-    orderLogFile << "Transactoion count: " << transactCount << std::endl
-                 << "Oders total cost: " << fabs(toFiat(newOrder.fmiCoins - coins)) << std::endl;
-    orderLogFile.close();
-    strncpy(logName, logFileName, ORDER_LOG_NAME_SIZE);
+    // regardless of the value of logged, return true and caller will deduce if loggin was cuccessful
+    // by inspecting logName, if it is empty string - logging failed
+    const bool logged = logOrderTransactions(market, wallet.id, firstTransactionIdx, logName);
+    assert(logged && "Failed to write log file but successed in executing order");
 
     // dont need to add it
-    if (newOrder.fmiCoins == 0.) {
+    if (isCoinsZero(newOrder.fmiCoins)) {
         return true;
     }
 
@@ -449,7 +499,6 @@ bool calculateAllWalletInfo(Market & market, WalletInfo *& info) {
         recvInfo.transactCount += 1;
         recvInfo.firstTransact = std::min(recvInfo.firstTransact, transact.time);
         recvInfo.lastTransact = std::max(recvInfo.lastTransact, transact.time);
-
 
         if (transact.senderId != SYSTEM_WALLET_ID) {
             const int senderIdx = getWalletIndex(market, transact.senderId);

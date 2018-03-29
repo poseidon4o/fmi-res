@@ -94,7 +94,7 @@ bool createWallet(Market & market, char owner[OWNER_SIZE], double fiatMoney, Wal
 /// @param senderId - id of wallet sending the coins
 /// @param coins - amount of coins to send
 /// @return - true if transaction was successful, false otherwise
-bool makeTransaction(Market & market, unsigned recieverId, unsigned senderId, double coins, char logName[]);
+bool makeTransaction(Market & market, unsigned recieverId, unsigned senderId, double coins);
 
 /// Calculate total amount of coins for given walletId
 /// @param market - ref to market context
@@ -107,7 +107,7 @@ double getCoinTotal(Market & market, unsigned walletId);
 /// @param wallet - ref to wallet creating the order
 /// @param type - the type of the order (SELL or BUY)
 /// @param coins - amount of coins in the order
-/// @param logName [out] - the name of the log file for this order
+/// @param logName [out] - the name of the log file if logging was succesful, empty string otherwise
 /// @return - true on success, false otherwise
 bool executeOrder(Market & market, Wallet & wallet, Order::Type type, double coins, char logName[ORDER_LOG_NAME_SIZE]);
 
