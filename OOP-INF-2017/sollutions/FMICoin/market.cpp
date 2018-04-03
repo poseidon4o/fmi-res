@@ -20,7 +20,7 @@ static const unsigned SYSTEM_WALLET_ID = -1;
 static unsigned NEXT_WALLET_ID = 0;
 
 /// Static convertion rate between FMICoins and fiat money
-static const double CONVERTION_RATE = 365.0;
+static const double CONVERTION_RATE = 375.0;
 
 /// Assume the acceptable epsilon for fiat money is 1% of 1 cent
 static const double FIAT_EPS = (0.01 / 100.0) / CONVERTION_RATE;
