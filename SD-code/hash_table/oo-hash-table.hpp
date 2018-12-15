@@ -3,8 +3,6 @@
 #include <vector>
 #include <unordered_map>
 #include <cassert>
-#include <ctime>
-
 
 struct LinearProber {
 	int operator() (int index, int size) const {
@@ -14,16 +12,21 @@ struct LinearProber {
 
 
 /// Open addressing hash table, templated by key, value, hash functor and function for probing on collision
+/// Also the IndexProbe must not have fixed point
 template <typename K, typename T, typename Hash = std::hash<K>, typename IndexProbe = LinearProber>
 class OOHashTable
 {
 public:
+	typedef std::pair<K, T> pair_type;
+
 	typedef K key_type;
 	typedef T value_type;
+
+	typedef value_type & reference;
 private:
 	
 	struct Bucket {
-		std::pair<K, T> data; ///< Key value pair
+		pair_type data; ///< Key value pair
 		bool empty = true; ///< true for empty or deleted buckets
 		bool deleted = false; ///< true when element was removed - can be re-used in insert
 	};
@@ -119,15 +122,18 @@ public:
 			}
 		}
 	public:
+		/// Pair with const first element so key can be immutable to the user of the iterator
+		typedef std::pair<const K, T> const_pair;
+
 		/// Get reference to the key value pair
-		std::pair<const K, T> & operator*() {
+		const_pair & operator*() {
 			// must return const key pair because caller could change they key and this will
 			// invalidate the HashTable invariants, it is safe to reinterpret cast it to const key since both share same binary layout
-			return reinterpret_cast<std::pair<const K, T> &>(*element);
+			return reinterpret_cast<const_pair &>(*element);
 		}
 
 		/// Pointer to the key-value pair
-		std::pair<const K, T> * operator->() {
+		const_pair * operator->() {
 			// re-use the operator* to avoid reinterpret_cast here
 			return &(operator*());
 		}
@@ -174,6 +180,7 @@ public:
 		}
 
 		bucket_iterator bucket = findBucket(key, false); // ignore deleted flag when inserting
+		assert(!bucket->empty || bucket->empty ^ bucket->deleted);
 		if (bucket->empty) {
 			++count;
 		}
@@ -190,7 +197,7 @@ public:
 		if (it == end()) {
 			return it;
 		}
-
+		assert(!it.element->empty || it.element->empty ^ it.element->deleted);
 		if (!it.element->empty) {
 			--count;
 			it.element->deleted = it.element->empty = true;
@@ -208,6 +215,7 @@ public:
 	/// Get iterator for a given key or end() if key is not inserted
 	iterator find(const K &key) {
 		bucket_iterator bucket = findBucket(key, true); // must not be deleted
+		assert(!bucket->empty || bucket->empty ^ bucket->deleted);
 		if (bucket->empty) {
 			return end();
 		}
@@ -222,6 +230,7 @@ public:
 
 		iterator element = find(key);
 		if (element != end()) {
+			assert(!element.element->empty || element.element->empty ^ element.element->deleted);
 			return element->second;
 		}
 		

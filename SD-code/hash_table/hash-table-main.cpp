@@ -2,6 +2,9 @@
 #include "oo-hash-table.hpp"
 #include "co-hash-table.hpp"
 
+#include <cassert>
+#include <ctime>
+
 /// accept any container with typename templates
 /// function will work correctly only if HashTable is actually a key-value associative container
 template <template <typename ...> class HashTable>
@@ -13,6 +16,8 @@ void testTable() {
 	
 	typedef HashTable<std::string, std::string> StringHashT;
 	typedef typename StringHashT::iterator ht_string_iterator;
+
+	typedef std::pair<const std::string, std::string> KeyValuePair;
 	
 	// some basic test
 	const int mapSize = 10000;
@@ -66,7 +71,7 @@ void testTable() {
 		puts("checking string maps");
 		assert(ht.size() == stdMap.size());
 
-		for (const auto & stdItem : stdMap) {
+		for (const KeyValuePair & stdItem : stdMap) {
 			ht_string_iterator item = ht.find(stdItem.first);
 			assert(item != ht.end());
 			assert(item->second == stdItem.second);
@@ -74,7 +79,7 @@ void testTable() {
 		}
 		puts("All items are accounted for");
 
-		for (const auto & htItem : ht) {
+		for (const KeyValuePair & htItem : ht) {
 			std::unordered_map<std::string, std::string>::iterator item = stdMap.find(htItem.first);
 			assert(item != stdMap.end());
 			assert(item->second == htItem.second);
@@ -109,7 +114,7 @@ void testTable() {
 		puts("checking string maps");
 		assert(ht.size() == stdMap.size());
 
-		for (const auto & stdItem : stdMap) {
+		for (const KeyValuePair & stdItem : stdMap) {
 			ht_string_iterator item = ht.find(stdItem.first);
 			assert(item != ht.end());
 			assert(item->second == stdItem.second);
@@ -117,12 +122,13 @@ void testTable() {
 		}
 		puts("All items are accounted for");
 
-		for (const auto & htItem : ht) {
+		for (const KeyValuePair & htItem : ht) {
 			std::unordered_map<std::string, std::string>::iterator item = stdMap.find(htItem.first);
 			assert(item != stdMap.end());
 			assert(item->second == htItem.second);
 			assert(item->first == htItem.first);
 		}
+
 		puts("There are no extra items");
 
 		ht_string_iterator it = ht.begin();

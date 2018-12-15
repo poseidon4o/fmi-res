@@ -1,9 +1,7 @@
 #pragma once
 
 #include <vector>
-#include <cassert>
 #include <unordered_map>
-#include <ctime>
 
 
 /// Closed addressing hash table, templated by key, value and hash of key
@@ -11,19 +9,17 @@ template <typename K, typename T, typename Hash = std::hash<K>>
 class COHashTable {
 public:
 	typedef std::pair<K, T> pair_type;
+
 	typedef T value_type;
+	typedef K key_type;
 
 	typedef value_type & reference;
-	typedef const value_type & const_reference;
-	typedef value_type * pointer;
-
-	typedef pair_type & pair_reference;
-	typedef pair_type * pair_pointer;
-	typedef const pair_type & pair_const_reference;
-
 private:
 	typedef std::vector<pair_type> bucket_type;
 	typedef std::vector<bucket_type> table_type;
+
+	typedef typename bucket_type::iterator element_iterator;
+	typedef typename table_type::iterator bucket_iterator;
 
 	table_type table; /// The table data
 	int count; ///< Number of elements inserted in the table
@@ -35,7 +31,7 @@ private:
 	}
 
 	/// Get iterator to the bucket for a given key, always valid iterator
-	typename table_type::iterator getBucket(const K &key) {
+	bucket_iterator getBucket(const K &key) {
 		return table.begin() + index(key);
 	}
 
@@ -51,8 +47,8 @@ private:
 		// swap the tables now so we can use the private utility methods (index, getBucket)
 		table.swap(newTable);
 
-		for (auto & bucket : newTable) {
-			for (auto & el : bucket) {
+		for (bucket_type & bucket : newTable) {
+			for (pair_type & el : bucket) {
 				// directly insert to avoid checking for duplicating keys
 				// since this is called only on valid elements, duplicate keys will not be present
 				getBucket(el.first)->push_back(std::make_pair(el.first, el.second));
@@ -80,8 +76,8 @@ public:
 		friend class COHashTable;
 		
 		table_type *table; ///< Pointer so the iterators can be easily copy-able
-		typename table_type::iterator bucket; ///< Iterator to the current bucket
-		typename bucket_type::iterator element; ///< Iterator to the current element
+		bucket_iterator bucket; ///< Iterator to the current bucket
+		element_iterator element; ///< Iterator to the current element
 
 		/// Creates the begin iterator for the given table
 		iterator(table_type &tableRef): table(&tableRef) {
@@ -92,21 +88,24 @@ public:
 		}
 
 		/// Creates iterator to a specific element
-		iterator(table_type &table, typename table_type::iterator bucket, typename  bucket_type::iterator element)
+		iterator(table_type &table, bucket_iterator bucket, element_iterator element)
 			: table(&table)
 			, bucket(bucket)
 			, element(element)
 		{}
 
 	public:
+		/// Pair with const first element so key can be immutable to the user of the iterator
+		typedef std::pair<const K, T> const_pair;
+
 		/// Get pair, but cast it to const key, so caller can't edit the key
-		std::pair<const K, T> & operator*() const {
+		const_pair & operator*() const {
 			// cast from pair_type -> to const_key_pair_type
 			// we can safely reinterpret this as they are binary the same 
-			return reinterpret_cast<std::pair<const K, T> &>(*element);
+			return reinterpret_cast<const_pair &>(*element);
 		}
 
-		std::pair<const K, T> * operator->() const {
+		const_pair * operator->() const {
 			// re-use the operator* to avoid writing the cast
 			return &(operator*());
 		}
@@ -173,8 +172,8 @@ public:
 
 	/// Find an element by its key, returns iterator to the element or end() if not found
 	iterator find(const K &key) {
-		auto bucket = getBucket(key);
-		for (auto elIter = bucket->begin(); elIter != bucket->end(); ++elIter) {
+		bucket_iterator bucket = getBucket(key);
+		for (element_iterator elIter = bucket->begin(); elIter != bucket->end(); ++elIter) {
 			if (elIter->first == key) {
 				return iterator(table, bucket, elIter);
 			}
@@ -189,8 +188,8 @@ public:
 			resize();
 		}
 
-		auto bucket = getBucket(key);
-		for (auto elIter = bucket->begin(); elIter != bucket->end(); ++elIter) {
+		bucket_iterator bucket = getBucket(key);
+		for (element_iterator elIter = bucket->begin(); elIter != bucket->end(); ++elIter) {
 			// if key matches, return iterator to it
 			if (elIter->first == key) {
 				// overwrite the value
@@ -200,14 +199,14 @@ public:
 		}
 
 		++count;
-		typename bucket_type::iterator element = bucket->insert(bucket->end(), std::make_pair(key, value));
+		element_iterator element = bucket->insert(bucket->end(), std::make_pair(key, value));
 		return iterator(table, bucket, element);
 	}
 
 	/// Get value reference to an element with given key,
 	/// if key is not in the table, default construct the value and insert it
 	reference operator[](const K &key) {
-		auto it = find(key);
+		iterator it = find(key);
 		if (it == end()) {
 			return insert(key, T())->second;
 		} else {
