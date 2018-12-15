@@ -4,16 +4,18 @@
 #include <unordered_map>
 #include <cassert>
 
-struct LinearProber {
-	int operator() (int index, int size) const {
-		return (index + 1) % size;
+template <typename K, typename Hash = std::hash<K>>
+struct OOHashProbeLinear {
+	Hash hasher;
+	size_t operator() (const K &key, int iteration, int size) const {
+		return hasher(key) + iteration;
 	}
 };
 
 
 /// Open addressing hash table, templated by key, value, hash functor and function for probing on collision
 /// Also the IndexProbe must not have fixed point
-template <typename K, typename T, typename Hash = std::hash<K>, typename IndexProbe = LinearProber>
+template <typename K, typename T, typename Hash = OOHashProbeLinear<K>>
 class OOHashTable
 {
 public:
@@ -37,12 +39,6 @@ private:
 	table_t table; ///< The table data
 	int count; ///< Actual number of elements
 	Hash hasher; ///< The hash functor
-	IndexProbe nextIndex; ///< Functor to access next index
-
-	/// Get the initial bucket index for a given key
-	int getIndex(const K& key) const {
-		return hasher(key) % table.size();
-	}
 
 	/// Check if the table needs to be resized
 	bool needsResize() const {
@@ -67,16 +63,12 @@ private:
 		}
 	}
 
-	/// Convenience wrapper over the nextIndex template
-	int getNextIndex(int index) {
-		return nextIndex(index, table.size());
-	}
-
 	/// Find the correct bucket for a given key
 	/// If checkDeleted is set, then finds non deleted buckets
 	/// If nextIndex is guaranteed to walk every index then this will always terminate eventually
 	bucket_iterator findBucket(const K &key, bool checkDeleted) {
-		int idx = getIndex(key);
+		int iter = 0;
+		int idx = hasher(key, iter++, table.size()) % table.size();
 
 		// do endless loop and move checks inside to improve readability
 		while (true) {
@@ -88,18 +80,19 @@ private:
 			if (table[idx].data.first == key && (!checkDeleted || checkDeleted && !table[idx].deleted)) {
 				break;
 			}
-			idx = getNextIndex(idx);
+			const int before = idx;
+			idx = hasher(key, iter++, table.size()) % table.size();
+			assert(before != idx);
 		}
 
 		return table.begin() + idx;
 	}
 	
 public:
-	OOHashTable(Hash hash = Hash(), IndexProbe probe = IndexProbe())
+	OOHashTable(Hash hash = Hash())
 		: table(41)
 		, count(0)
-		, hasher(hash)
-		, nextIndex(probe) {}
+		, hasher(hash) {}
 
 	/// Iterator over the key-value pairs in the table
 	class iterator {
