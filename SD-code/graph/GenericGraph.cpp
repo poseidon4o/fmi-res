@@ -24,7 +24,7 @@
 /// Class implementing directed weighted graph
 /// @tparam NodeType - the type held in each node
 /// @tparam EdgeType - the type of the weight (usually numeric)
-template <typename NodeType, typename EdgeType=float>
+template <typename NodeType, typename EdgeType = float>
 class WeightedDirectedGraph
 {
 public:
@@ -37,7 +37,10 @@ public:
 	typedef typename NodeMap::iterator node_iter;
 	typedef typename EdgesMap::iterator edge_iter;
 
-	/// Visity callback used for DFS/BFS, if it returns false, walk will stop, otherwise it will continue
+	typedef typename NodeMap::const_iterator const_node_iter;
+	typedef typename EdgesMap::const_iterator const_edge_iter;
+
+	/// Visit callback used for DFS/BFS, if it returns false, walk will stop, otherwise it will continue
 	/// Will be called with nullptr @from and @edge when calling for the start node
 	/// @param from - pointer to origin node or nullptr if visiting first node
 	/// @param edge - edge connecting @from and @to, nullptr if @from is nullptr
@@ -117,7 +120,8 @@ public:
 		}
 		--nodeCount;
 		int removedEdges = nIt->second.size();
-		assert(graphNodes.erase(n) != 0 && "Should erase atleast one node");
+		const int erasedCount = graphNodes.erase(n);
+		assert(erasedCount != 0 && "Should erase atleast one node");
 
 		// check all nodes
 		for (node_iter nIt = graphNodes.begin(); nIt != graphNodes.end(); ++nIt) {
@@ -156,7 +160,7 @@ public:
 
 		std::queue<VisitData> front;
 		visited[start] = true;
-		front.push(VisitData{nullptr, &start, nullptr});
+		front.push(VisitData{ nullptr, &start, nullptr });
 
 		while (!front.empty()) {
 			VisitData current = front.front();
@@ -173,7 +177,7 @@ public:
 				const node &to = eIt->first;
 				if (!visited[to]) {
 					visited[to] = true;
-					front.push(VisitData{&from, &to, &(eIt->second)});
+					front.push(VisitData{ &from, &to, &(eIt->second) });
 				}
 			}
 		}
@@ -204,7 +208,7 @@ public:
 
 		std::stack<VisitData> front;
 		visited[start] = true;
-		front.push(VisitData{nullptr, &start, nullptr});
+		front.push(VisitData{ nullptr, &start, nullptr });
 
 		while (!front.empty()) {
 			VisitData current = front.top();
@@ -221,7 +225,7 @@ public:
 				const node &to = eIt->first;
 				if (!visited[to]) {
 					visited[to] = true;
-					front.push(VisitData{&from, &to, &(eIt->second)});
+					front.push(VisitData{ &from, &to, &(eIt->second) });
 				}
 			}
 		}
@@ -257,6 +261,72 @@ public:
 		return true;
 	}
 
+	typedef std::unordered_map<node, edge> DistanceMap;
+
+	/// Run Dijkstra's algorithm on the graph and return a table
+	///   mapping all nodes to their distance based on the given starting node
+	/// This Algorithm will not work if the graph contains "negative" edges, such that edge(0) + negativeEdge < edge(0)
+	/// Unreachable nodes will have their distance set to std::numeric_limits<edge>::max()
+	/// NOTE: This algorithm needs "infinity" and "zero" value for the edge type
+	///   - for "infinity" it will use std::numeric_limits<edge>::max()
+	///   - for "zero" value it will use edge(0)
+	///   - edge type needs to have operator+(edge) and operator<(edge) and operator==
+	/// NOTE: This is basic implementation of the algorithm which can be optimized in several ways
+	/// @param start - the node that will be used to calculate the distance
+	/// @return - map of all nodes to their distance, empty if start is not in the graph
+	DistanceMap Dijkstra(const node &start) const {
+		if (graphNodes.find(start) == graphNodes.end()) {
+			return DistanceMap{};
+		}
+
+		struct QuePair {
+			node node; ///< Current node
+			edge distance; ///< Actual distance to reach this node from the start
+
+			/// This will actually compute operator> for the distance
+			/// Since std::priority_queue<T> will put the highest priority on top
+			/// It computes !< and !== since STL will commonly require only operator< and operator== for items in it's containers
+			bool operator<(const QuePair &other) const {
+				return !(distance < other.distance) && !(distance == other.distance);
+			}
+		};
+
+		DistanceMap distances;
+		for (const_node_iter it = graphNodes.begin(); it != graphNodes.end(); ++it) {
+			distances[it->first] = std::numeric_limits<edge>::max();
+		}
+
+		std::priority_queue<QuePair> que;
+		// add the start to the que of nodes
+		que.push(QuePair{ start, edge(0) });
+		// update the distance from start ot itself to 0
+		distances[start] = edge(0);
+
+		while (!que.empty()) {
+			QuePair current = que.top();
+			que.pop();
+
+			const_node_iter nodeEdges = graphNodes.find(current.node);
+			assert(nodeEdges != graphNodes.end() && "Edge pointing to invalid node in the graph");
+
+			// go trough each adjacent node and try to relax the distance
+			for (const_edge_iter it = nodeEdges->second.begin(); it != nodeEdges->second.end(); ++it) {
+				const node &to = it->first;
+				const edge &edgeDist = it->second;
+				const edge &newTotalDistance = current.distance + edgeDist;
+
+				assert(!(newTotalDistance < current.distance) && "Negative edge in the graph!");
+
+				// check if the new computed distance optimizes the saved in @distances
+				if (newTotalDistance < distances[to]) {
+					distances[to] = newTotalDistance;
+					que.push(QuePair{ to, newTotalDistance });
+				}
+			}
+		}
+
+		return distances;
+	}
 
 private:
 	bool DFSRecursiveWalk(const node &current, VisitCallback visit, std::unordered_map<node, bool> &visited) {
@@ -277,15 +347,66 @@ private:
 	}
 };
 
+void testGraph1() {
+	// source https://www.geeksforgeeks.org/dijkstras-shortest-path-algorithm-greedy-algo-7/
+	const int V = 9;
+	int graph[V][V] = { {0, 4, 0, 0, 0, 0, 0, 8, 0},
+	   {4, 0, 8, 0, 0, 0, 0, 11, 0},
+	   {0, 8, 0, 7, 0, 4, 0, 0, 2},
+	   {0, 0, 7, 0, 9, 14, 0, 0, 0},
+	   {0, 0, 0, 9, 0, 10, 0, 0, 0},
+	   {0, 0, 4, 14, 10, 0, 2, 0, 0},
+	   {0, 0, 0, 0, 0, 2, 0, 1, 6},
+	   {8, 11, 0, 0, 0, 0, 1, 0, 7},
+	   {0, 0, 2, 0, 0, 0, 6, 7, 0}
+	};
 
-typedef WeightedDirectedGraph<std::string, int> CityMap;
+	WeightedDirectedGraph<int, int> testG;
+	for (int c = 0; c < V; c++) {
+		testG.addNode(c);
+	}
 
-void addUDEdge(CityMap &map, const std::string &from, const std::string &to, int edge) {
-	map.addEdge(from, to, edge);
-	map.addEdge(to, from, edge);
+	for (int c = 0; c < V; ++c) {
+		for (int r = 0; r < V; ++r) {
+			if (graph[c][r]) {
+				testG.addEdge(c, r, graph[c][r]);
+				testG.addEdge(r, c, graph[c][r]);
+			}
+		}
+	}
+
+	const int start = 0;
+	auto printWalk = [](int from, int edge, int to) {
+		printf("%d -> %d (%d)\n", from, to, edge);
+		return true;
+	};
+
+	puts("------------------------------ BFS:");
+	testG.BFS(start, printWalk);
+
+	auto map = testG.Dijkstra(start);
+	printf("------------------------------ Dijkstra from %d\n", start);
+	for (auto &p : map) {
+		printf("%d -> %d : %d\n", start, p.first, p.second);
+	}
 }
 
-int main() {
+
+/// Add edge to the graph as if was undirected - actually adds two edges for each call
+/// @param graph - the graph
+/// @param from - one of the nodes
+/// @param to - the other node
+/// @param edge - the edge to add
+template <typename node, typename edge>
+void addUDEdge(WeightedDirectedGraph<node, edge> &graph, const node &from, const node &to, const edge &edge) {
+	graph.addEdge(from, to, edge);
+	graph.addEdge(to, from, edge);
+}
+
+
+void testMapGraph() {
+	typedef WeightedDirectedGraph<std::string, int> CityMap;
+
 	CityMap bg;
 
 	bg.addNode("sofia");
@@ -296,31 +417,65 @@ int main() {
 	bg.addNode("smolian");
 	bg.addNode("vidin");
 
-	addUDEdge(bg, "sofia", "vidin", 196);
-	addUDEdge(bg, "ruse", "vidin", 357);
-	addUDEdge(bg, "sofia", "plovdiv", 138);
-	addUDEdge(bg, "sofia", "smolian", 170);
-	addUDEdge(bg, "plvodiv", "varna", 280);
-	addUDEdge(bg, "plovdiv", "burgas", 223);
-	addUDEdge(bg, "varna", "ruse", 171);
-	addUDEdge(bg, "varna", "burgas", 87);
+	// need to specify first template argument, since argument 2 and 3 are char[N] but for graph node = std::string and it is ambiguous
+	addUDEdge<std::string>(bg, "sofia", "vidin", 196);
+	addUDEdge<std::string>(bg, "ruse", "vidin", 357);
+	addUDEdge<std::string>(bg, "sofia", "plovdiv", 138);
+	addUDEdge<std::string>(bg, "sofia", "smolian", 170);
+	addUDEdge<std::string>(bg, "plvodiv", "varna", 280);
+	addUDEdge<std::string>(bg, "plovdiv", "burgas", 223);
+	addUDEdge<std::string>(bg, "varna", "ruse", 171);
+	addUDEdge<std::string>(bg, "varna", "burgas", 87);
 
 	auto printWalk = [](const std::string &from, int edge, const std::string &to) {
 		printf("%s -> %s (%d)\n", from.c_str(), to.c_str(), edge);
 		return true;
 	};
+	const std::string start = "sofia";
 
-	bg.BFS("sofia", printWalk);
+	puts("------------------------------ BFS:");
+	bg.BFS(start, printWalk);
 
-	puts("------------------------------");
+	puts("------------------------------ DFS:");
+	bg.DFS(start, printWalk);
 
-	bg.DFS("sofia", printWalk);
+	puts("------------------------------ DFS recursive:");
+	bg.DFSRecursive(start, printWalk);
 
-	puts("------------------------------");
+	{
+		printf("------------------------------ Dijkstra from %s\n", start.c_str());
+		CityMap::DistanceMap distances = bg.Dijkstra(start);
 
-	bg.DFSRecursive("sofia", printWalk);
+		for (CityMap::DistanceMap::iterator it = distances.begin(); it != distances.end(); ++it) {
+			printf("%s -> %s : %d\n", start.c_str(), it->first.c_str(), it->second);
+		}
+	}
 
-	puts("------------------------------");
-	getchar();
+	{
+		puts("Adding some fake nodes to create shortcut sofia -> varna");
+		bg.addNode("d1");
+		bg.addNode("d2");
+		bg.addNode("d3");
+		addUDEdge<std::string>(bg, "sofia", "d1", 0);
+		addUDEdge<std::string>(bg, "d1", "d2", 0);
+		addUDEdge<std::string>(bg, "d2", "d3", 0);
+		addUDEdge<std::string>(bg, "d3", "varna", 0);
+
+		puts("------------------------------ BFS:");
+		bg.BFS(start, printWalk);
+		printf("------------------------------ Dijkstra from %s\n", start.c_str());
+		CityMap::DistanceMap distances = bg.Dijkstra(start);
+
+		for (CityMap::DistanceMap::iterator it = distances.begin(); it != distances.end(); ++it) {
+			printf("%s -> %s : %d\n", start.c_str(), it->first.c_str(), it->second);
+		}
+	}
 }
 
+int main() {
+	testMapGraph();
+
+	testGraph1();
+
+	getchar();
+}
