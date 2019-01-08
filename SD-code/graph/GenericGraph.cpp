@@ -125,12 +125,12 @@ public:
 
 		// check all nodes
 		for (node_iter nIt = graphNodes.begin(); nIt != graphNodes.end(); ++nIt) {
-			EdgesMap &adjecent = nIt->second;
-			edge_iter edgeIt = adjecent.find(n);
+			EdgesMap &adjacent = nIt->second;
+			edge_iter edgeIt = adjacent.find(n);
 			// if this node points to the delete node, remove the edge
-			if (edgeIt != adjecent.end()) {
+			if (edgeIt != adjacent.end()) {
 				++removedEdges;
-				adjecent.erase(edgeIt);
+				adjacent.erase(edgeIt);
 			}
 		}
 		edgeCount -= removedEdges;
@@ -141,8 +141,8 @@ public:
 	/// @param start - the node that BFS will start from
 	/// @param visit - callback executed on each node, if it returns false, BFS will stop
 	/// @return - false if can't walk graph, true otherwise
-	bool BFS(const node &start, VisitCallback visit) {
-		node_iter startIter = graphNodes.find(start);
+	bool BFS(const node &start, VisitCallback visit) const {
+		const_node_iter startIter = graphNodes.find(start);
 		if (startIter == graphNodes.end()) {
 			return false;
 		}
@@ -153,7 +153,7 @@ public:
 		};
 
 		std::unordered_map<node, bool> visited;
-		for (node_iter nIt = graphNodes.begin(); nIt != graphNodes.end(); ++nIt) {
+		for (const_node_iter nIt = graphNodes.begin(); nIt != graphNodes.end(); ++nIt) {
 			const node &n = nIt->first;
 			visited[n] = false;
 		}
@@ -172,8 +172,8 @@ public:
 			const node &from = *current.to;
 			visited[from] = true;
 
-			EdgesMap &adjecent = graphNodes[*current.to];
-			for (edge_iter eIt = adjecent.begin(); eIt != adjecent.end(); ++eIt) {
+			EdgesMap &adjacent = graphNodes[*current.to];
+			for (edge_iter eIt = adjacent.begin(); eIt != adjacent.end(); ++eIt) {
 				const node &to = eIt->first;
 				if (!visited[to]) {
 					visited[to] = true;
@@ -189,8 +189,8 @@ public:
 	/// @param start - the node that DFS will start from
 	/// @param visit - callback executed on each node, if it returns false, DFS will stop
 	/// @return - false if can't walk graph, true otherwise
-	bool DFS(const node &start, VisitCallback visit) {
-		node_iter startIter = graphNodes.find(start);
+	bool DFS(const node &start, VisitCallback visit) const {
+		const_node_iter startIter = graphNodes.find(start);
 		if (startIter == graphNodes.end()) {
 			return false;
 		}
@@ -201,7 +201,7 @@ public:
 		};
 
 		std::unordered_map<node, bool> visited;
-		for (node_iter nIt = graphNodes.begin(); nIt != graphNodes.end(); ++nIt) {
+		for (const_node_iter nIt = graphNodes.begin(); nIt != graphNodes.end(); ++nIt) {
 			const node &n = nIt->first;
 			visited[n] = false;
 		}
@@ -220,8 +220,8 @@ public:
 			const node &from = *current.to;
 			visited[from] = true;
 
-			EdgesMap &adjecent = graphNodes[*current.to];
-			for (edge_iter eIt = adjecent.begin(); eIt != adjecent.end(); ++eIt) {
+			EdgesMap &adjacent = graphNodes[*current.to];
+			for (edge_iter eIt = adjacent.begin(); eIt != adjacent.end(); ++eIt) {
 				const node &to = eIt->first;
 				if (!visited[to]) {
 					visited[to] = true;
@@ -237,8 +237,8 @@ public:
 	/// @param start - the node that DFS will start from
 	/// @param visit - callback executed on each node, if it returns false, DFS will stop
 	/// @return - false if can't walk graph, true otherwise
-	bool DFSRecursive(const node &start, VisitCallback visit) {
-		node_iter startIter = graphNodes.find(start);
+	bool DFSRecursive(const node &start, VisitCallback visit) const {
+		const_node_iter startIter = graphNodes.find(start);
 		if (startIter == graphNodes.end()) {
 			return false;
 		}
@@ -249,18 +249,20 @@ public:
 		};
 
 		std::unordered_map<node, bool> visited;
-		for (node_iter nIt = graphNodes.begin(); nIt != graphNodes.end(); ++nIt) {
+		for (const_node_iter nIt = graphNodes.begin(); nIt != graphNodes.end(); ++nIt) {
 			const node &n = nIt->first;
 			visited[n] = false;
 		}
 
 		visited[start] = true;
 
-		DFSRecursiveWalk(start, visit, visited);
+		// result of DFSRecursiveWalk is used only inside when callback returns false to stop iteration
+		(void)DFSRecursiveWalk(start, visit, visited);
 
 		return true;
 	}
 
+	/// Map of node to distance, used when finding closest distance from some starting node to some set of other nodes
 	typedef std::unordered_map<node, edge> DistanceMap;
 
 	/// Run Dijkstra's algorithm on the graph and return a table
@@ -329,9 +331,9 @@ public:
 	}
 
 private:
-	bool DFSRecursiveWalk(const node &current, VisitCallback visit, std::unordered_map<node, bool> &visited) {
-		EdgesMap &adjecent = graphNodes[current];
-		for (edge_iter eIt = adjecent.begin(); eIt != adjecent.end(); ++eIt) {
+	bool DFSRecursiveWalk(const node &current, VisitCallback visit, std::unordered_map<node, bool> &visited) const {
+		const EdgesMap &adjacent = graphNodes[current];
+		for (const_edge_iter eIt = adjacent.begin(); eIt != adjacent.end(); ++eIt) {
 			const node &to = eIt->first;
 			if (!visited[to]) {
 				if (!visit(current, eIt->second, to)) {
@@ -474,6 +476,7 @@ void testMapGraph() {
 		}
 	}
 }
+
 
 int main() {
 	testMapGraph();
