@@ -94,7 +94,7 @@ private:
 		first = 0;
 		last = capacity - 1;
 		capacity *= 2;
-		delete data;
+		delete[] data;
 		data = newData;
 	}
 
