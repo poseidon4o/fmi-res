@@ -4,12 +4,17 @@
 #include <cassert>
 
 /// Join two heaps with the element that is parent for both
+/// NOTE: also called siftDown/heapifyDown to push the element at the top to the appropriate place
 /// @param data - the array holding the heaps
 /// @param size - the size of the array
 /// @param parentIndex - the index of the element such that both it's left and right child are heaps
 ///                      the two heaps will be joined and will form new heap
 void joinHeaps(int *data, int size, int parentIndex) {
 	int current = parentIndex;
+
+	// take the element in variable and only move elements in the array
+	const int value = data[current];
+
 	while (current < size) {
 		const int left = current * 2 + 1;
 		const int right = current * 2 + 2;
@@ -19,29 +24,33 @@ void joinHeaps(int *data, int size, int parentIndex) {
 		}
 
 		if (right == size) {
-			if (data[current] < data[left]) {
-				std::swap(data[current], data[left]);
+			if (value < data[left]) {
+				data[current] = data[left];
+				current = left;
 			}
 			break;
 		}
 		// else right < size -> left < size
 
 		if (data[left] > data[right]) {
-			if (data[left] > data[current]) {
-				std::swap(data[current], data[left]);
+			if (data[left] > value) {
+				data[current] = data[left];
 				current = left;
 			} else {
 				break;
 			}
-		} else { // data[right] > data[current]
-			if (data[right] > data[current]) {
-				std::swap(data[current], data[right]);
+		} else { // data[left] <= data[right]
+			if (data[right] > value) {
+				data[current] = data[right];
 				current = right;
 			} else {
 				break;
 			}
 		}
 	}
+
+	// put the saved element in its spot
+	data[current] = value;
 }
 
 /// Pop the top item in the heap, overwrites the top value
@@ -67,20 +76,27 @@ void makeHeapBottomUp(int *data, int size) {
 }
 
 /// Push the last item in the heap, items in range [0, last) must already be heap
+/// NOTE: Also called siftUp/heapifyUp to buble up the last element to it's appropriate place
 /// @param data - the data
 /// @param last - the index of the element to push into the heap
 void pushHeap(int *data, int last) {
 	int current = last;
 
+	// take the element that needs to go up in a variable and only move elements in the array
+	const int value = data[current];
+
 	while (current > 0) {
 		const int parent = (current - 1) / 2;
-		if (data[current] > data[parent]) {
-			std::swap(data[current], data[parent]);
+		if (value > data[parent]) {
+			data[current] = data[parent];
 			current = parent;
 		} else {
 			break;
 		}
 	}
+
+	// put the element in its spot
+	data[current] = value;
 }
 
 /// Make a heap in-place using top-down strategy
